@@ -1,0 +1,225 @@
+#!/bin/bash
+
+# Reusable vLLM model launcher — reads config from models.json
+# Usage: ./model-runner up qwen | down | status | health | logs
+
+set -euo pipefail
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+CONFIG_FILE="$SCRIPT_DIR/models.json"
+
+if [ ! -f "$CONFIG_FILE" ]; then
+    echo "Error: $CONFIG_FILE not found"
+    exit 1
+fi
+
+# Extract config for a model using jq
+get_config() {
+    local model=$1
+    local key=$2
+    jq -r ".models.\"$model\".$key" "$CONFIG_FILE" 2>/dev/null
+}
+
+# Parse special flags from JSON array
+get_special_flags() {
+    local model=$1
+    jq -r ".models.\"$model\".special_flags[]" "$CONFIG_FILE" 2>/dev/null || echo ""
+}
+
+# Build vLLM command from config
+build_vllm_cmd() {
+    local model=$1
+    local model_path=$(get_config "$model" "model_path")
+    local served_name=$(get_config "$model" "served_name")
+    local quantization=$(get_config "$model" "quantization")
+    local dtype=$(get_config "$model" "dtype")
+    local kv_cache_dtype=$(get_config "$model" "kv_cache_dtype")
+    local max_model_len=$(get_config "$model" "max_model_len")
+    local gpu_util=$(get_config "$model" "gpu_memory_util")
+    local max_num_seqs=$(get_config "$model" "max_num_seqs")
+    local port=$(get_config "$model" "port")
+
+    local cmd="$model_path"
+    cmd="$cmd --served-model-name $served_name"
+    cmd="$cmd --quantization $quantization"
+    cmd="$cmd --dtype $dtype"
+
+    if [ "$kv_cache_dtype" != "null" ]; then
+        cmd="$cmd --kv-cache-dtype $kv_cache_dtype"
+    fi
+
+    cmd="$cmd --max-model-len $max_model_len"
+    cmd="$cmd --gpu-memory-utilization $gpu_util"
+    cmd="$cmd --max-num-seqs $max_num_seqs"
+    cmd="$cmd --host 0.0.0.0 --port $port"
+
+    # Append special flags
+    while IFS= read -r flag; do
+        if [ -n "$flag" ]; then
+            cmd="$cmd $flag"
+        fi
+    done < <(get_special_flags "$model")
+
+    echo "$cmd"
+}
+
+# Main commands
+cmd_up() {
+    local model=$1
+    local served_name=$(get_config "$model" "served_name")
+    local port=$(get_config "$model" "port")
+    local model_path=$(get_config "$model" "model_path")
+
+    if [ "$served_name" = "null" ]; then
+        echo "Error: Model '$model' not found in $CONFIG_FILE"
+        exit 1
+    fi
+
+    if [ ! -d "$model_path" ]; then
+        echo "Error: Model path not found: $model_path"
+        exit 1
+    fi
+
+    if docker ps -a --format '{{.Names}}' | grep -q "^vllm-$model$"; then
+        echo "Starting existing container vllm-$model..."
+        docker start "vllm-$model"
+    else
+        echo "Creating new container for $model..."
+        local vllm_cmd=$(build_vllm_cmd "$model")
+
+        docker run -d --name "vllm-$model" --restart unless-stopped --gpus all --ipc=host \
+            -v ~/.cache/huggingface:/root/.cache/huggingface \
+            -v /mnt/data/models:/models \
+            -p "$port:$port" \
+            vllm/vllm-openai:cu130-nightly \
+            $vllm_cmd
+    fi
+
+    echo "Container vllm-$model started on port $port"
+}
+
+cmd_down() {
+    local model=$1
+    docker stop "vllm-$model" 2>/dev/null || echo "Container vllm-$model not running"
+}
+
+cmd_restart() {
+    local model=$1
+    docker restart "vllm-$model"
+}
+
+cmd_logs() {
+    local model=$1
+    docker logs -f "vllm-$model"
+}
+
+cmd_status() {
+    local model=$1
+    if [ "$model" = "all" ]; then
+        docker ps -a --filter "name=vllm-"
+    else
+        docker ps -a --filter "name=vllm-$model"
+    fi
+}
+
+cmd_health() {
+    local model=$1
+    local port=$(get_config "$model" "port")
+
+    if [ "$port" = "null" ]; then
+        echo "Error: Model '$model' not found"
+        exit 1
+    fi
+
+    if curl -s "http://localhost:$port/v1/models" >/dev/null 2>&1; then
+        echo "✓ vllm-$model (port $port): OK"
+        return 0
+    else
+        echo "✗ vllm-$model (port $port): FAIL"
+        return 1
+    fi
+}
+
+cmd_health_all() {
+    echo "Health check for all models:"
+    local models=$(jq -r '.models | keys[]' "$CONFIG_FILE")
+    local any_failed=0
+
+    for model in $models; do
+        if ! cmd_health "$model"; then
+            any_failed=1
+        fi
+    done
+
+    return $any_failed
+}
+
+cmd_list() {
+    echo "Available models:"
+    jq -r '.models | keys[]' "$CONFIG_FILE" | nl
+}
+
+# Parse arguments
+if [ $# -lt 1 ]; then
+    echo "Usage: $(basename "$0") {up|down|restart|logs|status|health|list} [model|all]"
+    echo ""
+    echo "Examples:"
+    echo "  $(basename "$0") list"
+    echo "  $(basename "$0") up qwen"
+    echo "  $(basename "$0") down qwen"
+    echo "  $(basename "$0") health qwen"
+    echo "  $(basename "$0") health all"
+    echo "  $(basename "$0") status all"
+    exit 1
+fi
+
+COMMAND=$1
+MODEL=${2:-}
+
+case "$COMMAND" in
+    up)
+        if [ -z "$MODEL" ]; then
+            echo "Error: specify model or 'all'"
+            exit 1
+        fi
+        if [ "$MODEL" = "all" ]; then
+            jq -r '.models | keys[]' "$CONFIG_FILE" | while read -r m; do
+                cmd_up "$m"
+            done
+        else
+            cmd_up "$MODEL"
+        fi
+        ;;
+    down)
+        if [ "$MODEL" = "all" ]; then
+            jq -r '.models | keys[]' "$CONFIG_FILE" | while read -r m; do
+                cmd_down "$m"
+            done
+        else
+            cmd_down "$MODEL"
+        fi
+        ;;
+    restart)
+        cmd_restart "$MODEL"
+        ;;
+    logs)
+        cmd_logs "$MODEL"
+        ;;
+    status)
+        cmd_status "${MODEL:-all}"
+        ;;
+    health)
+        if [ "$MODEL" = "all" ]; then
+            cmd_health_all
+        else
+            cmd_health "$MODEL"
+        fi
+        ;;
+    list)
+        cmd_list
+        ;;
+    *)
+        echo "Unknown command: $COMMAND"
+        exit 1
+        ;;
+esac

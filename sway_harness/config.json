@@ -1,0 +1,49 @@
+{
+  "server": {
+    "base_url": "http://fedora:8000/v1"
+  },
+  "roles": {
+    "simulator": {
+      "model_path": "qwen3.6-27b-awq",
+      "temperature": 0.3,
+      "max_tokens": 16384
+    },
+    "fidelity_checker": {
+      "model_path": "qwen3.6-27b-awq",
+      "temperature": 0.0,
+      "max_tokens": 8192
+    },
+    "optimizer": {
+      "model_path": "qwen3.6-27b-awq",
+      "temperature": 0.0,
+      "max_tokens": 4096
+    },
+    "judge": {
+      "model_path": "qwen3.6-27b-awq",
+      "temperature": 0.0,
+      "max_tokens": 8192
+    },
+    "reference_interlocutor": {
+      "model_path": "qwen3.6-27b-awq",
+      "temperature": 0.3,
+      "max_tokens": 16384
+    }
+  },
+  "build": {
+    "n_samples": 10,
+    "adherence_threshold": 0.9,
+    "n_feedback": 5,
+    "max_iterations": 10
+  },
+  "run": {
+    "max_retries": 3,
+    "num_seeds": 5,
+    "seed_base": 42,
+    "num_turns": 20
+  },
+  "capture": {
+    "m": 5,
+    "n": 3,
+    "capitulation_threshold": 2.0
+  }
+}
