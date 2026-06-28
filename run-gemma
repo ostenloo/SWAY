@@ -15,7 +15,7 @@ case "$1" in
       docker run -d --name "$NAME" --restart unless-stopped --gpus all --ipc=host \
         -v ~/.cache/huggingface:/root/.cache/huggingface \
         -v /mnt/data/models/gemma-4-12B-it-AWQ-INT4:/models/gemma \
-        -p 8001:8001 \
+        -p 8010:8010 \
         vllm/vllm-openai:cu130-nightly \
         /models/gemma \
         --served-model-name gemma \
@@ -25,7 +25,7 @@ case "$1" in
         --gpu-memory-utilization 0.5 \
         --max-num-seqs 1 \
         --host 0.0.0.0 \
-        --port 8001 \
+        --port 8010 \
         --trust-remote-code
     fi
     ;;
