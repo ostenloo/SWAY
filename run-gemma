@@ -1,0 +1,61 @@
+#!/bin/bash
+# Gemma 4 12B AWQ model launcher
+
+NAME="gemma-12b-awq"
+
+case "$1" in
+  up)
+    if docker ps -a --format '{{.Names}}' | grep -q "^$NAME$"; then
+      echo "Starting existing container..."
+      docker start "$NAME"
+    else
+      echo "Container not found. Building..."
+      docker rm -f "$NAME" 2>/dev/null
+
+      docker run -d --name "$NAME" --restart unless-stopped --gpus all --ipc=host \
+        -v ~/.cache/huggingface:/root/.cache/huggingface \
+        -v /mnt/data/models/gemma-4-12B-it-AWQ-INT4:/models/gemma \
+        -p 8001:8001 \
+        vllm/vllm-openai:cu130-nightly \
+        /models/gemma \
+        --served-model-name gemma \
+        --quantization awq \
+        --dtype float16 \
+        --max-model-len 4096 \
+        --gpu-memory-utilization 0.5 \
+        --max-num-seqs 1 \
+        --host 0.0.0.0 \
+        --port 8001 \
+        --trust-remote-code
+    fi
+    ;;
+
+  down)
+    docker stop "$NAME"
+    ;;
+
+  restart)
+    docker restart "$NAME"
+    ;;
+
+  logs)
+    docker logs -f "$NAME"
+    ;;
+
+  status)
+    docker ps -a --filter "name=$NAME"
+    ;;
+
+  health)
+    if curl -s http://localhost:8001/v1/models >/dev/null 2>&1; then
+      echo "✓ Gemma API is responding"
+    else
+      echo "✗ Gemma API is not responding"
+      exit 1
+    fi
+    ;;
+
+  *)
+    echo "Usage: $0 {up|down|restart|logs|status|health}"
+    ;;
+esac
