@@ -16,7 +16,7 @@ case "$1" in
         -v ~/.cache/huggingface:/root/.cache/huggingface \
         -v /mnt/data/models/gemma-4-12B-it-AWQ-INT4:/models/gemma \
         -p 8010:8010 \
-        vllm/vllm-openai:cu130-nightly \
+        vllm/vllm-openai:latest \
         /models/gemma \
         --served-model-name gemma \
         --quantization awq \
