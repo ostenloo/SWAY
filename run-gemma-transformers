@@ -1,0 +1,58 @@
+#!/bin/bash
+# Gemma 4 12B server using Transformers library in Docker
+
+NAME="gemma-transformers"
+IMAGE_NAME="gemma-transformers"
+
+case "$1" in
+  build)
+    echo "Building Docker image..."
+    docker build -f Dockerfile.gemma -t "$IMAGE_NAME" .
+    ;;
+
+  up)
+    if docker ps -a --format '{{.Names}}' | grep -q "^$NAME$"; then
+      echo "Starting existing container..."
+      docker start "$NAME"
+    else
+      echo "Container not found. Building and starting..."
+      docker rm -f "$NAME" 2>/dev/null
+
+      docker run -d --name "$NAME" --restart unless-stopped --gpus all --ipc=host \
+        -v /mnt/data/models/gemma-4-12B-it-AWQ-INT4:/root/.cache/huggingface/hub/google--gemma-4-12B-it \
+        -p 8010:8010 \
+        "$IMAGE_NAME"
+    fi
+
+    echo "Container $NAME started on port 8010"
+    ;;
+
+  down)
+    docker stop "$NAME"
+    ;;
+
+  restart)
+    docker restart "$NAME"
+    ;;
+
+  logs)
+    docker logs -f "$NAME"
+    ;;
+
+  status)
+    docker ps -a --filter "name=$NAME"
+    ;;
+
+  health)
+    if curl -s http://localhost:8010/v1/models >/dev/null 2>&1; then
+      echo "✓ Gemma API is responding"
+    else
+      echo "✗ Gemma API is not responding"
+      exit 1
+    fi
+    ;;
+
+  *)
+    echo "Usage: $0 {build|up|down|restart|logs|status|health}"
+    ;;
+esac
