@@ -83,7 +83,7 @@ wait_for_model() {
 # Start model containers
 start_models() {
     local models=$1
-    local startup_timeout=${2:-180}
+    local startup_timeout=${2:-600}
     log "Starting models: $models (timeout: ${startup_timeout}s per model)"
 
     for model in $models; do

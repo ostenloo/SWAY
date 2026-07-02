@@ -4,31 +4,30 @@ CONTAINER_NAME="mistral-7b"
 IMAGE_NAME="phi4-transformers"
 PORT="8120"
 DOCKERFILE="Dockerfile.phi4"
-REMOTE_HOST="fedora"
 
 case "${1:-help}" in
   build)
-    echo "Building Docker image on $REMOTE_HOST..."
-    ssh $REMOTE_HOST "cd ~/sway-runner && DOCKER_BUILDKIT=0 docker build -f $DOCKERFILE -t $IMAGE_NAME ."
+    echo "Building Docker image..."
+    DOCKER_BUILDKIT=0 docker build -f $DOCKERFILE -t $IMAGE_NAME .
     ;;
   up)
-    ssh $REMOTE_HOST "docker ps -a --format '{{.Names}}' | grep -q '^${CONTAINER_NAME}$'" && {
+    if docker ps -a --format '{{.Names}}' | grep -q "^${CONTAINER_NAME}$"; then
       echo "Starting existing container..."
-      ssh $REMOTE_HOST "docker start $CONTAINER_NAME"
+      docker start $CONTAINER_NAME
       echo "Container $CONTAINER_NAME started on port $PORT"
-    } || {
+    else
       echo "Creating and starting new container..."
-      ssh $REMOTE_HOST "docker run -d --name $CONTAINER_NAME --gpus all -p $PORT:$PORT -v /mnt/data:/mnt/data $IMAGE_NAME"
+      docker run -d --name $CONTAINER_NAME --gpus all -p $PORT:$PORT -v /mnt/data:/mnt/data $IMAGE_NAME
       echo "Container $CONTAINER_NAME created and started on port $PORT"
-    }
+    fi
     ;;
   down)
-    ssh $REMOTE_HOST "docker ps -a --format '{{.Names}}' | grep -q '^${CONTAINER_NAME}$'" && {
-      ssh $REMOTE_HOST "docker stop $CONTAINER_NAME"
+    if docker ps -a --format '{{.Names}}' | grep -q "^${CONTAINER_NAME}$"; then
+      docker stop $CONTAINER_NAME
       echo "$CONTAINER_NAME stopped"
-    } || {
+    else
       echo "Container $CONTAINER_NAME is not running"
-    }
+    fi
     ;;
   restart)
     $0 down
@@ -36,10 +35,10 @@ case "${1:-help}" in
     $0 up
     ;;
   logs)
-    ssh $REMOTE_HOST "docker logs $CONTAINER_NAME"
+    docker logs $CONTAINER_NAME
     ;;
   status)
-    ssh $REMOTE_HOST "docker ps -a --filter \"name=$CONTAINER_NAME\""
+    docker ps -a --filter "name=$CONTAINER_NAME"
     ;;
   health)
     response=$(curl -s http://localhost:$PORT/health 2>&1)
