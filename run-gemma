@@ -1,7 +1,7 @@
 #!/bin/bash
 
 CONTAINER_NAME="gemma-12b-awq"
-IMAGE_NAME="gemma"
+IMAGE_NAME="gemma-transformers"
 PORT="8010"
 DOCKERFILE="Dockerfile.gemma"
 
