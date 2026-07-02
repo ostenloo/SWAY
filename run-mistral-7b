@@ -1,9 +1,9 @@
 #!/bin/bash
 
 CONTAINER_NAME="mistral-7b"
-IMAGE_NAME="phi4-transformers"
+IMAGE_NAME="mistral-7b"
 PORT="8120"
-DOCKERFILE="Dockerfile.phi4"
+DOCKERFILE="Dockerfile.mistral-7b"
 
 case "${1:-help}" in
   build)
