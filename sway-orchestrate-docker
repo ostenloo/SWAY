@@ -167,11 +167,10 @@ cmd_build_all() {
     local cells=("b1" "b2" "b3" "b4" "b5" "b6" "p1" "p2" "p3")
 
     log "=== BUILD ALL CELLS ==="
-    log "Roles: Simulator (Ornith-9B) + Checker (Mistral-7B)"
+    log "Roles: Checker (Mistral-7B)"
 
     # Build Docker images if needed
     log "Building Docker images..."
-    ./run-ornith-9b build || true
     ./run-mistral-7b build || true
 
     local models=$(get_phase_models "build")
@@ -198,7 +197,6 @@ cmd_run() {
     local keep_servers=${3:-false}
 
     log "=== RUN PHASE: Cell $cell, MUTs: $muts ==="
-    log "Simulator: Ornith-9B"
 
     local simulator_models=$(get_phase_models "certify" | awk '{print $1}')
 

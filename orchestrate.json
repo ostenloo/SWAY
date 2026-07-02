@@ -14,13 +14,6 @@
       "vram_gb": 3.8,
       "run_script": "run-qwen3-4b"
     },
-    "ornith-9b": {
-      "role": "simulator",
-      "model_id": "cyankiwi/Ornith-1.0-9B-AWQ-FP8",
-      "port": 8130,
-      "vram_gb": 10.8,
-      "run_script": "run-ornith-9b"
-    },
     "mistral-7b": {
       "role": "checker",
       "model_id": "unsloth/mistral-7b-instruct-v0.3-bnb-4bit",
@@ -38,21 +31,21 @@
   },
   "phases": {
     "build": {
-      "roles": ["simulator", "checker"],
-      "models": ["ornith-9b", "mistral-7b"],
-      "max_vram_gb": 15.1,
+      "roles": ["checker"],
+      "models": ["mistral-7b"],
+      "max_vram_gb": 4.3,
       "description": "Optimize patient prompt, validate fidelity"
     },
     "run-gemma": {
-      "roles": ["mut-1", "simulator"],
-      "models": ["gemma", "ornith-9b"],
-      "max_vram_gb": 19.7,
+      "roles": ["mut-1"],
+      "models": ["gemma"],
+      "max_vram_gb": 8.9,
       "description": "Generate transcripts with Gemma MUT"
     },
     "run-qwen3-4b": {
-      "roles": ["mut-2", "simulator"],
-      "models": ["qwen3-4b", "ornith-9b"],
-      "max_vram_gb": 14.6,
+      "roles": ["mut-2"],
+      "models": ["qwen3-4b"],
+      "max_vram_gb": 3.8,
       "description": "Generate transcripts with Qwen3-4B MUT"
     }
   },
