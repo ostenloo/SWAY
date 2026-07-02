@@ -1,0 +1,13 @@
+FROM python:3.10-slim
+
+WORKDIR /app
+
+RUN pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cu121
+
+RUN pip install --no-cache-dir transformers fastapi uvicorn pillow accelerate bitsandbytes safetensors compressed-tensors
+
+COPY phi4_server.py .
+
+EXPOSE 8120
+
+CMD ["python", "phi4_server.py"]

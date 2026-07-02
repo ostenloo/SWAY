@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Gemma 4 12B server using Transformers library"""
+"""Llama 3.1 8B server using Transformers library"""
 
 import torch
-from transformers import AutoProcessor, AutoModelForMultimodalLM
+from transformers import AutoTokenizer, AutoModelForCausalLM
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 import uvicorn
@@ -14,15 +14,15 @@ logger = logging.getLogger(__name__)
 app = FastAPI()
 
 # Model configuration
-MODEL_ID = "/mnt/data/models/gemma-4-12B-it-AWQ-INT4"
+MODEL_ID = "unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 logger.info(f"Loading model {MODEL_ID} on {DEVICE}...")
-processor = AutoProcessor.from_pretrained(MODEL_ID)
-model = AutoModelForMultimodalLM.from_pretrained(
+tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
+model = AutoModelForCausalLM.from_pretrained(
     MODEL_ID,
-    dtype=torch.float16 if DEVICE == "cuda" else torch.float32,
-    device_map="auto"
+    device_map="auto",
+    torch_dtype=torch.float16
 )
 logger.info("Model loaded successfully!")
 
@@ -41,9 +41,9 @@ async def health():
         return {"status": "error", "reason": "model not loaded"}, 503
     try:
         # Quick inference to verify model is ready
-        test_input = processor("test", return_tensors="pt").to(DEVICE)
+        inputs = tokenizer("test", return_tensors="pt").to(model.device)
         with torch.no_grad():
-            _ = model(**test_input)
+            _ = model(**inputs, max_new_tokens=1)
         return {"status": "ok", "model_loaded": True}
     except Exception as e:
         return {"status": "error", "reason": str(e)}, 503
@@ -55,9 +55,9 @@ async def list_models():
         "object": "list",
         "data": [
             {
-                "id": "gemma-4-12b",
+                "id": "llama-3.1-8b",
                 "object": "model",
-                "owned_by": "google",
+                "owned_by": "meta",
                 "permission": []
             }
         ]
@@ -67,17 +67,7 @@ async def list_models():
 @app.post("/v1/completions")
 async def completions(request: GenerateRequest):
     try:
-        messages = [
-            {"role": "user", "content": request.prompt},
-        ]
-
-        inputs = processor.apply_chat_template(
-            messages,
-            tokenize=True,
-            return_dict=True,
-            return_tensors="pt",
-            add_generation_prompt=True,
-        ).to(model.device)
+        inputs = tokenizer(request.prompt, return_tensors="pt").to(model.device)
 
         with torch.no_grad():
             outputs = model.generate(
@@ -87,12 +77,11 @@ async def completions(request: GenerateRequest):
                 top_p=request.top_p,
             )
 
-        input_len = inputs["input_ids"].shape[-1]
-        response = processor.decode(outputs[0][input_len:], skip_special_tokens=True)
+        response = tokenizer.decode(outputs[0], skip_special_tokens=True)
 
         return {
             "object": "text_completion",
-            "model": "gemma-4-12b",
+            "model": "llama-3.1-8b",
             "choices": [
                 {
                     "text": response,
@@ -107,4 +96,4 @@ async def completions(request: GenerateRequest):
 
 
 if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=8010)
+    uvicorn.run(app, host="0.0.0.0", port=8020)

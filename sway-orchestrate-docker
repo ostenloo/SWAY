@@ -1,0 +1,371 @@
+#!/bin/bash
+
+# SWAY Orchestrator — Docker-based workflow management
+# Manages Build/Certify/Run/Score phases with individual model containers
+#
+# Usage:
+#   ./sway-orchestrate-docker build --cell b4
+#   ./sway-orchestrate-docker certify --cell b4
+#   ./sway-orchestrate-docker run --cell b4 --muts gemma,qwen3-4b
+#   ./sway-orchestrate-docker score
+#   ./sway-orchestrate-docker full --cell b4 --muts gemma,qwen3-4b
+#   ./sway-orchestrate-docker status
+#   ./sway-orchestrate-docker cleanup
+
+set -euo pipefail
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+HARNESS_DIR="$SCRIPT_DIR/sway_harness"
+CONFIG_FILE="$SCRIPT_DIR/orchestrate.json"
+
+# Logging
+log() { echo "[$(date +'%Y-%m-%d %H:%M:%S')] $*"; }
+err() { echo "[ERROR] $*" >&2; }
+
+# Check prerequisites
+check_prereqs() {
+    if [ ! -f "$CONFIG_FILE" ]; then
+        err "orchestrate.json not found in $SCRIPT_DIR"
+        exit 1
+    fi
+
+    if [ ! -d "$HARNESS_DIR" ]; then
+        err "sway_harness directory not found"
+        exit 1
+    fi
+
+    if ! command -v jq &> /dev/null; then
+        err "jq is required but not installed"
+        exit 1
+    fi
+
+    log "Prerequisites check: OK"
+}
+
+# Get run script for a model
+get_run_script() {
+    local model=$1
+    jq -r ".models.\"$model\".run_script" "$CONFIG_FILE"
+}
+
+# Get port for a model
+get_port() {
+    local model=$1
+    jq -r ".models.\"$model\".port" "$CONFIG_FILE"
+}
+
+# Wait for a model server to be healthy
+wait_for_model() {
+    local model=$1
+    local timeout=${2:-180}
+    local interval=5
+    local elapsed=0
+    local port=$(get_port "$model")
+
+    log "  Waiting for $model (port $port) to load in VRAM (timeout: ${timeout}s)..."
+
+    while [ $elapsed -lt $timeout ]; do
+        local response=$(curl -s "http://localhost:$port/health" 2>&1)
+        if echo "$response" | grep -q '"model_loaded": true'; then
+            log "  ✓ $model is fully loaded and ready"
+            return 0
+        fi
+        log "    Still loading... ($elapsed/$timeout)s"
+        sleep $interval
+        elapsed=$((elapsed + interval))
+    done
+
+    err "$model failed to load within ${timeout}s"
+    err "Last response: $response"
+    return 1
+}
+
+# Start model containers
+start_models() {
+    local models=$1
+    local startup_timeout=${2:-180}
+    log "Starting models: $models (timeout: ${startup_timeout}s per model)"
+
+    for model in $models; do
+        local run_script=$(get_run_script "$model")
+        local port=$(get_port "$model")
+
+        # Check if already running
+        if curl -s "http://localhost:$port/health" >/dev/null 2>&1; then
+            log "  $model already running"
+            continue
+        fi
+
+        log "  Starting $model..."
+        if [ ! -f "$SCRIPT_DIR/$run_script" ]; then
+            err "Run script not found: $run_script"
+            exit 1
+        fi
+
+        cd "$SCRIPT_DIR"
+        "./$run_script" up || {
+            err "Failed to start $model"
+            exit 1
+        }
+
+        # Wait for the server to be healthy
+        if ! wait_for_model "$model" "$startup_timeout"; then
+            err "Server startup failed for $model"
+            stop_models "$models"
+            exit 1
+        fi
+    done
+
+    log "All models ready"
+}
+
+# Stop model containers
+stop_models() {
+    local models=$1
+    log "Stopping models: $models"
+
+    for model in $models; do
+        local run_script=$(get_run_script "$model")
+        if [ -f "$SCRIPT_DIR/$run_script" ]; then
+            cd "$SCRIPT_DIR"
+            "./$run_script" down 2>/dev/null || true
+        fi
+    done
+}
+
+# Get models for a phase
+get_phase_models() {
+    local phase=$1
+    jq -r ".phases.\"$phase\".models[]" "$CONFIG_FILE" | tr '\n' ' '
+}
+
+# Run build phase
+cmd_build() {
+    local cell=$1
+    local keep_servers=${2:-false}
+
+    log "=== BUILD PHASE: Cell $cell ==="
+    log "Roles: Simulator (Ornith-9B) + Checker (Mistral-7B)"
+
+    local models=$(get_phase_models "build")
+    start_models "$models"
+
+    log "Running build for cell $cell..."
+    cd "$HARNESS_DIR"
+    python main.py build --cell "$cell" || {
+        err "Build failed for cell $cell"
+        [ "$keep_servers" = "true" ] || stop_models "$models"
+        exit 1
+    }
+
+    [ "$keep_servers" = "true" ] || stop_models "$models"
+    log "Build complete for cell $cell"
+}
+
+# Build all cells
+cmd_build_all() {
+    local cells=("b1" "b2" "b3" "b4" "b5" "b6" "p1" "p2" "p3")
+
+    log "=== BUILD ALL CELLS ==="
+    log "Roles: Simulator (Ornith-9B) + Checker (Mistral-7B)"
+
+    local models=$(get_phase_models "build")
+    start_models "$models"
+
+    for cell in "${cells[@]}"; do
+        log "Building prompt for cell: $cell"
+        cd "$HARNESS_DIR"
+        python main.py build --cell "$cell" || {
+            err "Build failed for cell $cell"
+            stop_models "$models"
+            exit 1
+        }
+    done
+
+    stop_models "$models"
+    log "All cells built successfully"
+}
+
+# Run evaluation phase
+cmd_run() {
+    local cell=$1
+    local muts=$2
+    local keep_servers=${3:-false}
+
+    log "=== RUN PHASE: Cell $cell, MUTs: $muts ==="
+    log "Simulator: Ornith-9B"
+
+    local simulator_models=$(get_phase_models "certify" | awk '{print $1}')
+
+    # Run for each MUT
+    IFS=',' read -ra MUT_ARRAY <<< "$muts"
+    for mut in "${MUT_ARRAY[@]}"; do
+        mut=$(echo "$mut" | xargs)
+        local phase="run-$mut"
+        local run_models=$(get_phase_models "$phase")
+
+        log "Running evaluation for MUT: $mut"
+        start_models "$run_models"
+
+        cd "$HARNESS_DIR"
+        python main.py run --cell "$cell" --mut-model "$mut" || {
+            err "Run failed for cell $cell, MUT $mut"
+            [ "$keep_servers" = "true" ] || stop_models "$run_models"
+            exit 1
+        }
+
+        [ "$keep_servers" = "true" ] || stop_models "$run_models"
+    done
+
+    log "Run phase complete for cell $cell"
+}
+
+# Full pipeline
+cmd_full() {
+    local cell=$1
+    local muts=$2
+
+    log "=== FULL PIPELINE: Cell $cell, MUTs: $muts ==="
+
+    cmd_build "$cell" "true"
+    cmd_run "$cell" "$muts" "false"
+
+    log "=== PIPELINE COMPLETE ==="
+}
+
+# Show server status
+cmd_status() {
+    log "=== MODEL STATUS ==="
+    docker ps -a --filter "name=phi-4-mini|name=qwen3-4b|name=gemma|name=llama" || true
+}
+
+# Cleanup: stop all servers
+cmd_cleanup() {
+    log "=== CLEANUP ==="
+    local all_models=$(jq -r '.models | keys[]' "$CONFIG_FILE" | tr '\n' ' ')
+    stop_models "$all_models"
+    log "Cleanup complete"
+}
+
+# Show help
+show_help() {
+    cat <<EOF
+SWAY Orchestrator — Docker-Based Workflow Management
+
+Usage: $(basename "$0") COMMAND [OPTIONS]
+
+Commands:
+
+  build --cell CELL
+    Run build phase for a single cell (prompt optimization)
+    Roles: Simulator (Ornith-9B) + Checker (Mistral-7B)
+    Example: ./sway-orchestrate-docker build --cell b4
+
+  build-all
+    Build frozen prompts for all 9 patient profiles (b1-b6, p1-p3)
+    Keeps servers running across all cells for efficiency
+    Example: ./sway-orchestrate-docker build-all
+
+  run --cell CELL --muts MUTS
+    Run evaluation phase for MUT(s)
+    MUTS: comma-separated list (gemma, qwen3-4b)
+    Example: ./sway-orchestrate-docker run --cell b4 --muts gemma,qwen3-4b
+
+  full --cell CELL --muts MUTS
+    Run complete pipeline: build → run
+    Keeps servers alive between phases for efficiency
+    Example: ./sway-orchestrate-docker full --cell b4 --muts gemma,qwen3-4b
+
+  status
+    Show all model container status
+    Example: ./sway-orchestrate-docker status
+
+  cleanup
+    Stop all model containers
+    Example: ./sway-orchestrate-docker cleanup
+
+Configuration:
+  - Uses orchestrate.json for model definitions and phase sequencing
+  - Manages Docker containers via individual run-<model> scripts
+  - Respects VRAM constraints per phase
+
+Notes:
+  - Servers are started/stopped automatically per phase
+  - Use 'full' to run multiple phases efficiently
+  - Use 'status' to check which models are running
+  - Use 'cleanup' if containers don't stop properly
+
+EOF
+}
+
+# Main
+main() {
+    check_prereqs
+
+    if [ $# -lt 1 ]; then
+        show_help
+        exit 1
+    fi
+
+    local command=$1
+    shift
+
+    case "$command" in
+        build)
+            local cell=""
+            while [ $# -gt 0 ]; do
+                case "$1" in
+                    --cell) cell=$2; shift 2 ;;
+                    *) shift ;;
+                esac
+            done
+            [ -z "$cell" ] && { err "Missing --cell"; exit 1; }
+            cmd_build "$cell"
+            ;;
+        build-all)
+            cmd_build_all
+            ;;
+        run|eval)
+            local cell="" muts=""
+            while [ $# -gt 0 ]; do
+                case "$1" in
+                    --cell) cell=$2; shift 2 ;;
+                    --muts) muts=$2; shift 2 ;;
+                    *) shift ;;
+                esac
+            done
+            [ -z "$cell" ] && { err "Missing --cell"; exit 1; }
+            [ -z "$muts" ] && { err "Missing --muts"; exit 1; }
+            cmd_run "$cell" "$muts"
+            ;;
+        full)
+            local cell="" muts=""
+            while [ $# -gt 0 ]; do
+                case "$1" in
+                    --cell) cell=$2; shift 2 ;;
+                    --muts) muts=$2; shift 2 ;;
+                    *) shift ;;
+                esac
+            done
+            [ -z "$cell" ] && { err "Missing --cell"; exit 1; }
+            [ -z "$muts" ] && { err "Missing --muts"; exit 1; }
+            cmd_full "$cell" "$muts"
+            ;;
+        status)
+            cmd_status
+            ;;
+        cleanup)
+            cmd_cleanup
+            ;;
+        help|-h|--help)
+            show_help
+            ;;
+        *)
+            err "Unknown command: $command"
+            show_help
+            exit 1
+            ;;
+    esac
+}
+
+main "$@"

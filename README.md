@@ -1,4 +1,3 @@
 # SWAY 
 
-is a benchmark that measures the performance of an LLM as a therapist. 
-
+An LLM benchmark for multi-turn affective conversations measuring an LLMs performance in terms of single session therapist drift. 

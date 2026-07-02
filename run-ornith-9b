@@ -1,0 +1,58 @@
+#!/bin/bash
+
+CONTAINER_NAME="ornith-9b"
+IMAGE_NAME="phi4-transformers"
+PORT="8130"
+DOCKERFILE="Dockerfile.phi4"
+REMOTE_HOST="fedora"
+
+case "${1:-help}" in
+  build)
+    echo "Building Docker image on $REMOTE_HOST..."
+    ssh $REMOTE_HOST "cd ~/sway-runner && DOCKER_BUILDKIT=0 docker build -f $DOCKERFILE -t $IMAGE_NAME ."
+    ;;
+  up)
+    ssh $REMOTE_HOST "docker ps -a --format '{{.Names}}' | grep -q '^${CONTAINER_NAME}$'" && {
+      echo "Starting existing container..."
+      ssh $REMOTE_HOST "docker start $CONTAINER_NAME"
+      echo "Container $CONTAINER_NAME started on port $PORT"
+    } || {
+      echo "Creating and starting new container..."
+      ssh $REMOTE_HOST "docker run -d --name $CONTAINER_NAME --gpus all -p $PORT:$PORT -v /mnt/data:/mnt/data $IMAGE_NAME"
+      echo "Container $CONTAINER_NAME created and started on port $PORT"
+    }
+    ;;
+  down)
+    ssh $REMOTE_HOST "docker ps -a --format '{{.Names}}' | grep -q '^${CONTAINER_NAME}$'" && {
+      ssh $REMOTE_HOST "docker stop $CONTAINER_NAME"
+      echo "$CONTAINER_NAME stopped"
+    } || {
+      echo "Container $CONTAINER_NAME is not running"
+    }
+    ;;
+  restart)
+    $0 down
+    sleep 2
+    $0 up
+    ;;
+  logs)
+    ssh $REMOTE_HOST "docker logs $CONTAINER_NAME"
+    ;;
+  status)
+    ssh $REMOTE_HOST "docker ps -a --filter \"name=$CONTAINER_NAME\""
+    ;;
+  health)
+    response=$(curl -s http://localhost:$PORT/health 2>&1)
+    if echo "$response" | grep -q '"model_loaded": true'; then
+      echo "✓ Ornith-9B is responding"
+      exit 0
+    else
+      echo "✗ Ornith-9B is not responding"
+      exit 1
+    fi
+    ;;
+  *)
+    echo "Usage: $0 {build|up|down|restart|logs|status|health}"
+    exit 1
+    ;;
+esac

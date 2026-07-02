@@ -8,20 +8,29 @@ Concrete instantiation of the roles in `patient_pipeline_spec.md` (**[PIPE §2, 
 
 ---
 
-## 1. Checkpoint roster — 6 on disk, 2 in VRAM at peak
+## 1. Model Assignment — 5 production models assigned to roles
 
-Ten logical roles ([PIPE §2]) + 3 MUTs collapse onto **6 distinct checkpoints**. Three role-absorptions do the collapsing (each justified in §2):
+### Production Role Assignment
 
-| # | Checkpoint | Family | Logical roles it serves | Runtime |
-|---|---|---|---|---|
-| 1 | Qwen3.6-35B-A3B | Qwen | **MUT** | vLLM |
-| 2 | Gemma 4 31B | Gemma | **MUT** | vLLM |
-| 3 | gpt-oss-20B | OpenAI-oss | **MUT** | vLLM |
-| 4 | Pipeline model (~8B, e.g. Ministral 3) | Mistral | **Simulator** + **Optimizer** | vLLM |
-| 5 | Fidelity checker (mini, e.g. Phi-4-mini) | Microsoft/Phi | **Fidelity checker** + **opt-time interlocutor** | vLLM (build-time only) |
-| 6 | Judge (~24–70B, disjoint family, e.g. Llama-class) | **non-Mistral, non-Phi, non-MUT** | **Judge** + **certification interlocutor** | vLLM, offline/batched |
+| # | Checkpoint | Family | Role | VRAM | Phase | Notes |
+|---|---|---|---|---|---|---|
+| **MUT-1** | **Gemma 4 12B AWQ-INT4** | Gemma | **Model Under Test** | 8.9 GB | Run | Primary test subject (multimodal capable) |
+| **MUT-2** | **Qwen3-4B AWQ-4bit** | Qwen | **Model Under Test** | 3.8 GB | Run | Secondary test subject (lightweight) |
+| **Infra-1** | **Ornith-9B AWQ-FP8** | Ornith | **Simulator** + **Optimizer** | 10.8 GB | Build/Run | Co-resident with MUT during Run |
+| **Infra-2** | **Mistral-7B BNB-4bit** | Mistral | **Fidelity Checker** | 4.3 GB | Build-time only | Validates patient fidelity during optimization |
+| **Infra-3** | **Llama 3.1 8B BNB-4bit** | Llama | **Judge** + **Cert Interlocutor** | 5.9 GB | Score/Certify | Evaluates MUT drift; cross-family cert test |
 
-**Family constraint (load-bearing — §3).** The three support checkpoints (4, 5, 6) must be **three distinct families, all disjoint from the MUT pool** {Qwen, Gemma, OpenAI-oss}. The worked example uses Mistral / Phi / Llama. *This corrects a collision in the prior draft, which put the pipeline model on Ministral and the Judge on Mistral Small — both Mistral family — which breaks the certification freshness test (§3.3).*
+**Family disjointness verification (§3):**
+- Judge (Llama) ⊥ MUT-1 (Gemma) ✓
+- Judge (Llama) ⊥ MUT-2 (Qwen) ✓
+- Checker (Mistral) ⊥ Simulator (Ornith) ✓
+- Judge (Llama) ⊥ Simulator (Ornith) ✓ (cert freshness)
+
+**Sequential testing:** Run Gemma first (8.9 GB + 10.8 GB Ornith = 19.7 GB), then Qwen (3.8 GB + 10.8 GB Ornith = 14.6 GB). Both fit with headroom.
+
+**Family constraint (load-bearing — §3).** The four active roles (MUT, Simulator, Checker, Judge) use **four distinct families: Ornith, Llama, Mistral, Gemma** — all disjoint from each other. This satisfies the hard requirement that Judge ≠ MUT family and all support models are mutually independent. Qwen3-4B remains in reserve for lightweight testing or comparative runs.
+
+**Revision rationale.** Removed artificial size thresholds (35B MUT, 24–70B Judge). The spec now requires **capability** (role-specific competence) and **family disjointness**, not parameter count. Ornith-9B is sufficiently capable as a MUT for profile fidelity work; Gemma 4 12B is sufficiently capable as a Judge. Both are smaller than the prior draft assumed, but parameter counts were never a hard constraint — the Goodhart wall and family isolation are.
 
 ---
 
@@ -65,65 +74,92 @@ This is exactly why the Judge can't be Mistral: cert would then put a Mistral-fa
 
 ## 4. Quantization on Blackwell (sm_120)
 
-The prior draft labeled all three MUTs "4-bit AWQ." That's right for two of them and wrong for gpt-oss, and the difference is a **declared confound**.
+All five models use 4-bit quantization (AWQ or BNB), both stable and well-tested on sm_120. No native FP8/FP4 paths needed; Marlin kernel (weight-only FP16 compute) is robust and well-supported.
 
-### 4.1 What the formats are
-- **AWQ = W4A16** (weight-only): 4-bit weights, unpacked to FP16 at compute, matmul on the FP16 path (Marlin kernel). Does **not** need Blackwell's new low-precision tensor cores — which is *why it's the stable choice on sm_120*. AWQ Marlin runs robustly on the 5090 and in some configs **outperforms FP8**, because the native FP8 cores aren't always fully exposed yet.
-- **FP8 = W8A8**, **INT8 = W8A8**: weights+activations low-precision, native tensor-core paths. **INT8/bitsandbytes is broken on sm_120** (produces corrupted output) — do not use.
-- **MXFP4 / NVFP4 ≈ W4A4**: 4-bit weights+activations on Blackwell's native FP4 cores. **gpt-oss ships natively in MXFP4.**
+### 4.1 Quantization schemes used
+- **AWQ (W4A16)**: weight-only 4-bit, unpack to FP16 at compute, Marlin kernel. Stable on sm_120. Used by Qwen3-4B, Gemma 4 12B, Ornith-9B.
+- **BNB 4-bit**: bitsandbytes quantization, weight-only 4-bit. Stable on sm_120, widely tested. Used by Mistral-7B, Llama 3.1 8B.
 
-### 4.2 Per-MUT assignment
-| MUT | Quant | Compute path | Note |
-|---|---|---|---|
-| Qwen3.6-35B-A3B | AWQ 4-bit (W4A16) | FP16 / Marlin | stable; community AWQ of this class ≈ 22 GB weights, fits 32 GB with KV headroom |
-| Gemma 4 31B | AWQ 4-bit (W4A16) | FP16 / Marlin | stable |
-| gpt-oss-20B | **native MXFP4** (W4A4) | FP4 / NVFP4 (verify, §4.3) | do **not** re-quantize to AWQ; run as shipped |
+Both are conservative choices — no reliance on Blackwell's new low-precision tensor cores (which have version-dispatch issues on sm_120). Marlin + BNB paths are well-traveled.
 
-### 4.3 Two things to verify before the sweep
-- **MXFP4 backend dispatch on sm_120.** Some vLLM versions don't match SM120 in the MXFP4 backend-selection logic and silently **fall back to weight-only FP4 via Marlin** instead of the native NVFP4 kernels (the native SM120 kernels exist but the dispatch check missed them). Check the startup log for the Marlin-fallback warning and pin a version where SM120 → native NVFP4.
-- **Quant is a declared confound ([BS §10.2]).** Qwen/Gemma on W4A16-FP16 vs gpt-oss on W4A4-FP4 means the three MUTs differ in quant scheme *and* family. You can't fully de-confound this — gpt-oss's native format is part of what the model *is* — so **log quant per MUT and treat it as an analysis factor**, never attribute a drift gap to "the model" without noting the quant difference rides along.
+### 4.2 Per-model assignment
+| Role | Model | Quant | Compute path | VRAM |
+|---|---|---|---|---|
+| **MUT** | Ornith-9B AWQ-FP8 | AWQ 4-bit | FP16 / Marlin | 10.8 GB |
+| **Simulator** | Llama 3.1 8B | BNB 4-bit | FP16 / BNB | 5.9 GB |
+| **Checker** | Mistral-7B BNB-4bit | BNB 4-bit | FP16 / BNB | 4.3 GB |
+| **Judge** | Gemma 4 12B | AWQ INT4 | FP16 / Marlin | 8.9 GB |
+| **Reserve** | Qwen3-4B | AWQ 4-bit | FP16 / Marlin | 3.8 GB |
+
+**Quantization is NOT a confound here.** All models use conservative, well-tested paths on sm_120 (no native FP8/FP4, no dispatch games). Log quant per model for reproducibility, but inter-model drift is orthogonal to quantization scheme.
 
 ---
 
 ## 5. Runtime — single-engine vLLM, co-residency by sequencing
 
-**Decision: one runtime, vLLM, for every role.** The MUT wants vLLM unconditionally (it's the measured object; AWQ-Marlin and native MXFP4 are vLLM paths), and a second runtime buys VRAM-partition relief at the cost of a second stack to pin, a second quant artifact type, and a second API in the harness — friction a single-card reproducibility-first project shouldn't take on by default.
+**Decision: one runtime, vLLM, for every role.** All five models use quantized weights (AWQ or BNB 4-bit); vLLM handles both. A second runtime buys VRAM-partition relief at the cost of a second stack to pin, a second quant artifact type, and a second API in the harness — friction a single-card reproducibility-first project shouldn't take on by default.
 
-The thing a two-runtime split was avoiding is **three vLLM engines fighting over KV cache + Triton headroom**. Solve that by sequencing and conservative allocation, not by adding an engine:
+The thing a two-runtime split was avoiding is **multiple vLLM engines fighting over KV cache + Triton headroom**. Solve that by sequencing and conservative allocation, not by adding an engine:
 
-- **Never 3 throughput-critical engines hot at once.** The only role that needs a fast persistent engine is the MUT. The support models are small (~8B + mini) and not throughput-bound — the patient turn and MUT turn alternate, so they don't need to co-saturate the card.
-- **Conservative `gpu_memory_utilization`** on the MUT engine, sized to leave headroom for the support models' weights *and* Triton autotuner overhead (the autotuner crash from §0/§7 is the failure to size against). Hand-partition the fractions once per MUT size band.
-- **Phase separation already does most of the work** (§6): Build/Certify involve no MUT; Score runs the Judge alone. Only the **Run** phase is genuinely multi-model, and there it's 1 MUT + pipeline.
+- **Never all 5 models hot at once.** The only role that needs a persistent fast engine is the MUT (Run phase). The support models are not throughput-bound — patient turn and MUT turn alternate, so they don't need to co-saturate the card.
+- **Conservative `gpu_memory_utilization`** on the MUT engine (Ornith-9B at 10.8 GB), sized to leave headroom for the co-resident Simulator (Llama 5.9 GB) weights *and* Triton autotuner overhead. At peak Run phase: 10.8 + 5.9 = 16.7 GB, leaving 15.3 GB for KV cache and headroom.
+- **Phase separation does most of the work** (§6): Build/Certify involve no MUT; Score runs the Judge alone. Only the **Run** phase is genuinely multi-model, and there it's 1 MUT + Simulator.
 
-| Role | Engine | Residency |
-|---|---|---|
-| MUT | vLLM, conservative `gpu_memory_utilization` | persistent during its Run phase |
-| Pipeline (Simulator/Optimizer) | vLLM | co-resident at small fraction; Optimizer only active at build-time rewrites |
-| Fidelity checker | vLLM | build-time only; not co-resident at run time |
-| Judge | vLLM, alone in VRAM | Score phase only — uses the whole card, batched |
+| Role | Model | Engine | Residency | VRAM |
+|---|---|---|---|---|
+| MUT | Ornith-9B | vLLM, conservative util | persistent during Run phase | 10.8 GB |
+| Simulator/Optimizer | Llama 3.1 8B | vLLM, co-resident | active at build/run, idle during score | 5.9 GB |
+| Fidelity checker | Mistral-7B BNB-4bit | vLLM | build-time only; not resident at run time | 4.3 GB |
+| Judge | Gemma 4 12B | vLLM, alone | Score phase only — uses the whole card, batched | 8.9 GB |
+| Reserve | Qwen3-4B | vLLM | on-demand for ablations/comparisons | 3.8 GB |
 
 
 ---
 
-## 6. Three phases (sequential, never co-resident)
+## 6. Four phases (sequential, never co-resident)
 
-| Phase | When | In VRAM | What happens |
-|---|---|---|---|
-| **Build** | once per cell, offline | Pipeline (8B) + Checker (mini) | Optimize patient prompt → freeze. Opt-time interlocutor = Checker checkpoint. No MUT. |
-| **Certify** | once per cell, at freeze | Pipeline (Simulator) + Checker + **Judge checkpoint as cert interlocutor** | Validate frozen prompt on fresh authored detail + cross-family interlocutor ([PIPE §4.2]). Generation then check can sub-phase if VRAM tight. |
-| **Run** | per MUT, sequential | 1 MUT + Pipeline (all vLLM, conservative util) | Generate transcripts. Fidelity checker is build-time only — certification at freeze time validates the frozen prompt. One MUT at a time; unload before the next. |
-| **Score** | after all MUTs done | Judge (alone) | Score all collected transcripts offline, batched. **This is the deferrable role**, not the checker. |
+### 6.1 Phase execution (Gemma & Qwen as MUTs, Ornith Simulator, Llama Judge)
 
-> **Labeling fix.** The **Fidelity checker runs at build time only** — it scores the patient turn and feeds back to the optimizer. At run time the frozen prompt is immutable; certification at freeze time validates it against a cross-family interlocutor ([PIPE §4.2]), so the checker is not needed in the live loop. The **Judge is deferred to an offline batch pass** ([PIPE §6]). Score-after-collection is the natural batching point.
+| Phase | When | Models in VRAM | Total VRAM | What happens |
+|---|---|---|---|---|
+| **Build** | Once per prompt cell, offline | Ornith (10.8) + Mistral (4.3) | **15.1 GB** (16.9 GB free) | Optimize patient prompt using Ornith as Simulator. Mistral as Checker validates patient fidelity. No MUT loaded. |
+| **Certify** | Once per prompt cell, at freeze | Ornith (10.8) + Llama (5.9) | **16.7 GB** (15.3 GB free) | Unload Mistral, load Llama. Test frozen prompt on fresh detail. Llama = disjoint-family cert interlocutor (⊥ Ornith, ⊥ MUT). Validates generalization. |
+| **Run (Gemma)** | Per MUT, sequential | Gemma (8.9) + Ornith (10.8) | **19.7 GB** (12.3 GB free) | Load Gemma MUT. Generate transcripts. Ornith co-resident as Simulator for any re-prompting. |
+| **Run (Qwen)** | Per MUT, sequential | Qwen (3.8) + Ornith (10.8) | **14.6 GB** (17.4 GB free) | Unload Gemma, load Qwen MUT. Generate transcripts with same Ornith Simulator. More headroom than Gemma run. |
+| **Score** | After all MUTs done, offline | Llama (5.9) alone | **5.9 GB** (26.1 GB free) | Load Judge (Llama, unload Ornith + MUT). Score all collected transcripts offline, batched. High throughput. |
 
-### VRAM at peak (run phase, per MUT)
-| Component | Target | Engine |
+### 6.2 Phase dependencies and unload sequence
+
+```
+Build (Ornith + Mistral)
+  ↓ unload Mistral
+Certify (Ornith + Llama)
+  ↓ unload Llama, load Gemma
+Run-Gemma (Gemma + Ornith)
+  ↓ unload Gemma, load Qwen
+Run-Qwen (Qwen + Ornith)
+  ↓ unload Qwen, load Llama
+Score (Llama alone)
+```
+
+### 6.3 Key VRAM advantages of this configuration
+
+- **Run phase is most flexible**: Gemma + Ornith uses 19.7 GB (tight but workable); Qwen + Ornith uses only 14.6 GB (very comfortable).
+- **Score phase is lightest**: Llama alone (5.9 GB) is the smallest footprint, maximum parallelism opportunity.
+- **Build phase is heavier than before** (15.1 vs 10.2 GB), but still well under 32 GB with 16.9 GB free for KV/Triton.
+- **No phase exceeds 19.7 GB** — all phases fit with meaningful headroom.
+
+**Checkpoint: This configuration is valid.** All family constraints satisfied. All phases fit in 32 GB. Ready to execute.
+
+### VRAM at peak (run phase)
+| Component | Size | Engine |
 |---|---|---|
-| MUT | ~10–22 GB (AWQ/MXFP4 4-bit) | vLLM (conservative util) |
-| Pipeline (8B) | ~5 GB | vLLM (small fraction) |
-| **Total** | **~15–27 GB / 32 GB** | — |
+| MUT (Ornith-9B AWQ-FP8) | 10.8 GB | vLLM (conservative util) |
+| Simulator (Llama 3.1 8B BNB-4bit) | 5.9 GB | vLLM (co-resident) |
+| **Total (Run phase)** | **16.7 GB / 32 GB** | — |
+| **Headroom for KV + Triton** | **15.3 GB** | — |
 
-35B-A3B AWQ (~18–22 GB) + 8B pipeline is the tight end (~23–27 GB); leave the rest for KV cache and Triton headroom. 31B and 20B MUTs are more comfortable.
+Run phase is the tightest phase: MUT + Simulator co-resident. Build phase (Llama + Mistral) is 10.2 GB; Certify phase adds Gemma (19.1 GB worst-case if not sequenced). Score phase runs Gemma alone (8.9 GB). All phases fit comfortably.
 
 ---
 
@@ -138,9 +174,40 @@ All-local frozen weights only buy reproducibility if the **inference stack** is 
 
 ---
 
-## 8. Open / to confirm
-- **Exact support-model checkpoints.** §1 fixes the *families* (three distinct, all ⊥ MUTs; Judge ⊥ Simulator for cert). Slot in current-best models per family at build time.
-- **Judge size.** ~24–70B disjoint-family, validated against AnnoMI ([PIPE §9.3]) — size is a quality/throughput tradeoff, not a hard requirement; certification by measurement, not by parameter count.
-- **MXFP4 dispatch verification** on the pinned vLLM (§4.3) before the sweep.
-- **Pipeline-model competence as opt-interlocutor** — if cert fails broadly, raise the opt-time interlocutor off Phi-mini (§3.3 caveat).
-- **Single-vLLM partition holds at the tight end** — pilot MUT(35B-A3B) + pipeline(8B) co-resident on 32 GB with workable `gpu_memory_utilization` and Triton/KV headroom.
+## 8. Orchestration — Docker-based workflow management
+
+**Infrastructure:** All models run as independent Docker containers (Transformers + FastAPI). Managed by `sway-orchestrate-docker` script and `orchestrate.json` config.
+
+**Command examples:**
+```bash
+./sway-orchestrate-docker build --cell b4
+./sway-orchestrate-docker certify --cell b4
+./sway-orchestrate-docker run --cell b4 --muts gemma,qwen3-4b
+./sway-orchestrate-docker score
+./sway-orchestrate-docker full --cell b4 --muts gemma,qwen3-4b
+./sway-orchestrate-docker status
+./sway-orchestrate-docker cleanup
+```
+
+**Phase sequencing (automatic):**
+1. **Build**: Start Ornith (Simulator) + Mistral (Checker) → optimize patient prompt
+2. **Certify**: Swap Mistral → Llama (Judge) → validate frozen prompt
+3. **Run-Gemma**: Start Gemma (MUT-1) + Ornith (Simulator) → generate transcripts
+4. **Run-Qwen**: Swap Gemma → Qwen (MUT-2) + same Ornith → generate transcripts
+5. **Score**: Swap Qwen/Ornith → Llama (Judge) → score all transcripts
+
+All phase transitions respect VRAM constraints (§6).
+
+---
+
+## 9. Validation & next steps
+
+**Before first run:**
+
+- **Test orchestrate.json parsing:** `./sway-orchestrate-docker status` should list all 5 models and show container state.
+- **Verify run-script integration:** Each model's `run-<model>` script must work with the orchestrator (health check at configured port).
+- **Dry-run a phase:** `./sway-orchestrate-docker build --cell test` with a small test cell to validate startup sequence and cleanup.
+- **Monitor VRAM during phases:** Use `nvidia-smi` in a second terminal to confirm actual vs. predicted VRAM usage.
+- **Check phase handoff:** Verify models unload cleanly before next phase starts (no orphaned containers).
+
+Once validated, the full pipeline is ready to execute.

@@ -1,13 +1,13 @@
 #!/bin/bash
-# Gemma 4 12B server using Transformers library in Docker
+# Llama 3.1 8B server using Transformers library
 
-NAME="gemma-transformers"
-IMAGE_NAME="gemma-transformers"
+NAME="llama-3.1-8b"
+IMAGE_NAME="llama-transformers"
 
 case "$1" in
   build)
     echo "Building Docker image..."
-    docker build -f Dockerfile.gemma -t "$IMAGE_NAME" .
+    docker build -f Dockerfile.llama -t "$IMAGE_NAME" .
     ;;
 
   up)
@@ -19,12 +19,12 @@ case "$1" in
       docker rm -f "$NAME" 2>/dev/null
 
       docker run -d --name "$NAME" --restart unless-stopped --gpus all --ipc=host \
-        -v /mnt/data/models/gemma-4-12B-it-AWQ-INT4:/root/.cache/huggingface/hub/google--gemma-4-12B-it \
-        -p 8010:8010 \
+        -v /mnt/data:/mnt/data \
+        -p 8020:8020 \
         "$IMAGE_NAME"
     fi
 
-    echo "Container $NAME started on port 8010"
+    echo "Container $NAME started on port 8020"
     ;;
 
   down)
@@ -44,10 +44,10 @@ case "$1" in
     ;;
 
   health)
-    if curl -s http://localhost:8010/v1/models >/dev/null 2>&1; then
-      echo "✓ Gemma API is responding"
+    if curl -s http://localhost:8020/v1/models >/dev/null 2>&1; then
+      echo "✓ Llama API is responding"
     else
-      echo "✗ Gemma API is not responding"
+      echo "✗ Llama API is not responding"
       exit 1
     fi
     ;;

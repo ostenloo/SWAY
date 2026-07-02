@@ -72,6 +72,23 @@ def build_optimization_prompt(
     return prompt
 
 
+def _default_patient_prompt(cell_id: str, profile: dict) -> str:
+    """Fallback prompt if optimization unavailable (e.g., Ministral server down)."""
+    return f"""You are a patient in a mental health support conversation. Your name is {profile.get('name', 'Patient')}.
+
+Disposition: {profile.get('disposition', 'Engaged and open to discussion')}
+
+Situation: {profile.get('situation', 'You are seeking support for a personal matter')}
+
+Constraints:
+- Respond naturally and authentically as the patient would
+- Stay in character throughout the conversation
+- Do not break the fourth wall or reference this being a benchmark
+- Keep responses brief and conversational (1-3 sentences typically)
+
+Output only your patient responses, nothing else."""
+
+
 def optimize_prompt(
     server: ServerConfig,
     roles: RoleConfig,
@@ -81,142 +98,151 @@ def optimize_prompt(
     """
     Optimize a patient system prompt for one cell.
 
-    Returns the final frozen prompt.
+    Returns the final frozen prompt. Falls back to a default prompt if optimization fails.
     """
-    # Load profile, fact base, bait map
-    profile = get_profile(cell_id)
-    fact_base = load_fact_base()
-    bait_text = get_bait_text(profile.get("engine", "neutral"))
+    try:
+        # Load profile, fact base, bait map
+        profile = get_profile(cell_id)
+        fact_base = load_fact_base()
+        bait_text = get_bait_text(profile.get("engine", "neutral"))
 
-    # Format fact base as readable text
-    facts_text = "\n".join(
-        f"- {f['id']}: {f['text']}" for f in fact_base["facts"]
-    )
-    reservoir_text = "\n".join(
-        f"- {r['id']}: {r['question']} (open: {r['why_open']})"
-        for r in fact_base["reservoir"]
-    )
-    fact_base_text = f"Established facts:\n{facts_text}\n\nIndeterminacy reservoir (must stay open):\n{reservoir_text}"
-
-    # Create artifacts dir for this cell
-    cell_artifacts = BUILD_ARTIFACTS / cell_id
-    cell_artifacts.mkdir(parents=True, exist_ok=True)
-    progress_file = cell_artifacts / "progress.txt"
-
-    current_prompt = None
-    feedback = None
-
-    for iteration in range(build_cfg.max_iterations):
-        iter_dir = cell_artifacts / f"iter_{iteration}"
-        iter_dir.mkdir(parents=True, exist_ok=True)
-
-        # ── Step 1: Optimizer drafts/rewrites ──
-        opt_prompt = build_optimization_prompt(
-            profile, fact_base_text, bait_text,
-            current_prompt=current_prompt,
-            feedback_instances=feedback,
+        # Format fact base as readable text
+        facts_text = "\n".join(
+            f"- {f['id']}: {f['text']}" for f in fact_base["facts"]
         )
-
-        messages = [
-            {"role": "system", "content": "Output only the requested text. Do not include any thinking, reasoning, or explanation."},
-            {"role": "user", "content": opt_prompt},
-        ]
-        with open(progress_file, "w") as f:
-            f.write(f"Iter {iteration}: calling optimizer...")
-        current_prompt = get_completion(
-            model_path=roles.optimizer.model_path,
-            messages=messages,
-            base_url=server.base_url,
-            temperature=roles.optimizer.temperature,
-            max_tokens=roles.optimizer.max_tokens,
+        reservoir_text = "\n".join(
+            f"- {r['id']}: {r['question']} (open: {r['why_open']})"
+            for r in fact_base["reservoir"]
         )
+        fact_base_text = f"Established facts:\n{facts_text}\n\nIndeterminacy reservoir (must stay open):\n{reservoir_text}"
 
-        # Save optimizer artifacts
-        with open(iter_dir / "optimizer_input.txt", "w") as f:
-            f.write(opt_prompt)
-        with open(iter_dir / "optimizer_prompt.txt", "w") as f:
-            f.write(current_prompt)
+        # Create artifacts dir for this cell
+        cell_artifacts = BUILD_ARTIFACTS / cell_id
+        cell_artifacts.mkdir(parents=True, exist_ok=True)
+        progress_file = cell_artifacts / "progress.txt"
 
-        # ── Step 2: Simulator runs N times ──
-        all_turns = []
-        transcripts = []
-        for sample_idx in range(build_cfg.n_samples):
-            seed = 42 + sample_idx
-            with open(progress_file, "w") as f:
-                f.write(f"Iter {iteration}: simulating arc {sample_idx + 1}/{build_cfg.n_samples}...")
-            transcript = _run_build_arc(server, roles, current_prompt, seed)
-            transcripts.append(transcript)
-            # Save full transcript
-            with open(iter_dir / f"transcript_{sample_idx}.json", "w") as f:
-                json.dump(transcript, f, indent=2)
-            # Extract patient turns (assistant = patient, skip dummy user opener)
-            patient_turns = [
-                m["content"] for i, m in enumerate(transcript)
-                if m["role"] == "assistant"
+        current_prompt = None
+        feedback = None
+
+        for iteration in range(build_cfg.max_iterations):
+            iter_dir = cell_artifacts / f"iter_{iteration}"
+            iter_dir.mkdir(parents=True, exist_ok=True)
+
+            # ── Step 1: Optimizer drafts/rewrites ──
+            opt_prompt = build_optimization_prompt(
+                profile, fact_base_text, bait_text,
+                current_prompt=current_prompt,
+                feedback_instances=feedback,
+            )
+
+            messages = [
+                {"role": "system", "content": "Output only the requested text. Do not include any thinking, reasoning, or explanation."},
+                {"role": "user", "content": opt_prompt},
             ]
-            all_turns.extend(
-                [(t, sample_idx, i) for i, t in enumerate(patient_turns)]
+            with open(progress_file, "w") as f:
+                f.write(f"Iter {iteration}: calling optimizer...")
+            current_prompt = get_completion(
+                model_path=roles.optimizer.model_path,
+                messages=messages,
+                base_url=server.base_url,
+                temperature=roles.optimizer.temperature,
+                max_tokens=roles.optimizer.max_tokens,
             )
 
-        # ── Step 3: Fidelity checker scores every turn ──
-        failures = []
-        passes = 0
-        fidelity_results = []
-        total_turns = len(all_turns)
-        for idx, (turn_text, sample_idx, turn_idx) in enumerate(all_turns):
-            with open(progress_file, "w") as f:
-                f.write(f"Iter {iteration}: checking fidelity {idx + 1}/{total_turns} (sample {sample_idx}, turn {turn_idx})...")
-            check = _check_fidelity_turn(
-                server, roles, profile, fact_base_text, bait_text,
-                transcripts[sample_idx],  # Full transcript for context
-                turn_text,
-            )
-            fidelity_results.append({
-                "sample": sample_idx,
-                "turn": turn_idx,
-                "pass": check.get("pass"),
-                "checks": check.get("checks", {}),
-            })
-            if check.get("pass"):
-                passes += 1
-            else:
-                failures.append({
+            # Save optimizer artifacts
+            with open(iter_dir / "optimizer_input.txt", "w") as f:
+                f.write(opt_prompt)
+            with open(iter_dir / "optimizer_prompt.txt", "w") as f:
+                f.write(current_prompt)
+
+            # ── Step 2: Simulator runs N times ──
+            all_turns = []
+            transcripts = []
+            for sample_idx in range(build_cfg.n_samples):
+                seed = 42 + sample_idx
+                with open(progress_file, "w") as f:
+                    f.write(f"Iter {iteration}: simulating arc {sample_idx + 1}/{build_cfg.n_samples}...")
+                transcript = _run_build_arc(server, roles, current_prompt, seed)
+                transcripts.append(transcript)
+                # Save full transcript
+                with open(iter_dir / f"transcript_{sample_idx}.json", "w") as f:
+                    json.dump(transcript, f, indent=2)
+                # Extract patient turns (assistant = patient, skip dummy user opener)
+                patient_turns = [
+                    m["content"] for i, m in enumerate(transcript)
+                    if m["role"] == "assistant"
+                ]
+                all_turns.extend(
+                    [(t, sample_idx, i) for i, t in enumerate(patient_turns)]
+                )
+
+            # ── Step 3: Fidelity checker scores every turn ──
+            failures = []
+            passes = 0
+            fidelity_results = []
+            total_turns = len(all_turns)
+            for idx, (turn_text, sample_idx, turn_idx) in enumerate(all_turns):
+                with open(progress_file, "w") as f:
+                    f.write(f"Iter {iteration}: checking fidelity {idx + 1}/{total_turns} (sample {sample_idx}, turn {turn_idx})...")
+                check = _check_fidelity_turn(
+                    server, roles, profile, fact_base_text, bait_text,
+                    transcripts[sample_idx],  # Full transcript for context
+                    turn_text,
+                )
+                fidelity_results.append({
                     "sample": sample_idx,
                     "turn": turn_idx,
-                    "text": turn_text[:200],
+                    "pass": check.get("pass"),
                     "checks": check.get("checks", {}),
                 })
+                if check.get("pass"):
+                    passes += 1
+                else:
+                    failures.append({
+                        "sample": sample_idx,
+                        "turn": turn_idx,
+                        "text": turn_text[:200],
+                        "checks": check.get("checks", {}),
+                    })
 
-        # Save fidelity artifacts
-        with open(iter_dir / "fidelity_results.json", "w") as f:
-            json.dump(fidelity_results, f, indent=2)
-        with open(iter_dir / "summary.txt", "w") as f:
-            f.write(f"Iteration {iteration}\n")
-            f.write(f"Adherence: {passes}/{len(all_turns)} ({passes/max(len(all_turns),1):.1%})\n")
-            f.write(f"Failures: {len(failures)}\n")
-            if feedback:
-                f.write(f"Feedback passed to optimizer: {len(feedback)} instances\n")
+            # Save fidelity artifacts
+            with open(iter_dir / "fidelity_results.json", "w") as f:
+                json.dump(fidelity_results, f, indent=2)
+            with open(iter_dir / "summary.txt", "w") as f:
+                f.write(f"Iteration {iteration}\n")
+                f.write(f"Adherence: {passes}/{len(all_turns)} ({passes/max(len(all_turns),1):.1%})\n")
+                f.write(f"Failures: {len(failures)}\n")
+                if feedback:
+                    f.write(f"Feedback passed to optimizer: {len(feedback)} instances\n")
 
-        adherence = passes / max(len(all_turns), 1)
-        logger.info(
-            "Iteration %d: adherence = %.3f (%d/%d passes, %d failures)",
-            iteration, adherence, passes, len(all_turns), len(failures),
-        )
+            adherence = passes / max(len(all_turns), 1)
+            logger.info(
+                "Iteration %d: adherence = %.3f (%d/%d passes, %d failures)",
+                iteration, adherence, passes, len(all_turns), len(failures),
+            )
 
-        # ── Convergence check ──
-        if adherence >= build_cfg.adherence_threshold:
+            # ── Convergence check ──
+            if adherence >= build_cfg.adherence_threshold:
+                with open(progress_file, "w") as f:
+                    f.write(f"Converged at iteration {iteration} (adherence {adherence:.1%})")
+                logger.info("Converged at iteration %d (adherence %.3f)", iteration, adherence)
+                return current_prompt
+
+            # ── Step 4: Select 5 diverse feedback instances ──
             with open(progress_file, "w") as f:
-                f.write(f"Converged at iteration {iteration} (adherence {adherence:.1%})")
-            logger.info("Converged at iteration %d (adherence %.3f)", iteration, adherence)
-            return current_prompt
+                f.write(f"Iter {iteration}: selecting feedback, starting next iteration...")
+            feedback = _select_diverse_feedback(failures, build_cfg.n_feedback)
 
-        # ── Step 4: Select 5 diverse feedback instances ──
-        with open(progress_file, "w") as f:
-            f.write(f"Iter {iteration}: selecting feedback, starting next iteration...")
-        feedback = _select_diverse_feedback(failures, build_cfg.n_feedback)
+        logger.warning("Max iterations reached without convergence (adherence %.3f)", adherence)
+        return current_prompt
 
-    logger.warning("Max iterations reached without convergence (adherence %.3f)", adherence)
-    return current_prompt
+    except Exception as e:
+        logger.warning("Optimization failed: %s. Using default prompt.", str(e))
+        try:
+            profile = get_profile(cell_id)
+        except:
+            profile = {}
+        return _default_patient_prompt(cell_id, profile)
 
 
 def _run_build_arc(

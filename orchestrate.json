@@ -1,0 +1,64 @@
+{
+  "models": {
+    "gemma": {
+      "role": "mut-1",
+      "model_id": "cyankiwi/gemma-4-12B-it-AWQ-INT4",
+      "port": 8010,
+      "vram_gb": 8.9,
+      "run_script": "run-gemma"
+    },
+    "qwen3-4b": {
+      "role": "mut-2",
+      "model_id": "cyankiwi/Qwen3-4B-Instruct-2507-AWQ-4bit",
+      "port": 8100,
+      "vram_gb": 3.8,
+      "run_script": "run-qwen3-4b"
+    },
+    "ornith-9b": {
+      "role": "simulator",
+      "model_id": "cyankiwi/Ornith-1.0-9B-AWQ-FP8",
+      "port": 8130,
+      "vram_gb": 10.8,
+      "run_script": "run-ornith-9b"
+    },
+    "mistral-7b": {
+      "role": "checker",
+      "model_id": "unsloth/mistral-7b-instruct-v0.3-bnb-4bit",
+      "port": 8120,
+      "vram_gb": 4.3,
+      "run_script": "run-mistral-7b"
+    },
+    "llama": {
+      "role": "judge",
+      "model_id": "unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit",
+      "port": 8020,
+      "vram_gb": 5.9,
+      "run_script": "run-llama"
+    }
+  },
+  "phases": {
+    "build": {
+      "roles": ["simulator", "checker"],
+      "models": ["ornith-9b", "mistral-7b"],
+      "max_vram_gb": 15.1,
+      "description": "Optimize patient prompt, validate fidelity"
+    },
+    "run-gemma": {
+      "roles": ["mut-1", "simulator"],
+      "models": ["gemma", "ornith-9b"],
+      "max_vram_gb": 19.7,
+      "description": "Generate transcripts with Gemma MUT"
+    },
+    "run-qwen3-4b": {
+      "roles": ["mut-2", "simulator"],
+      "models": ["qwen3-4b", "ornith-9b"],
+      "max_vram_gb": 14.6,
+      "description": "Generate transcripts with Qwen3-4B MUT"
+    }
+  },
+  "execution_order": [
+    "build",
+    "run-gemma",
+    "run-qwen3-4b"
+  ]
+}
