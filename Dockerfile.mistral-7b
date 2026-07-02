@@ -21,7 +21,9 @@ RUN pip install --no-cache-dir \
     uvicorn \
     accelerate \
     bitsandbytes \
-    safetensors
+    safetensors \
+    sentencepiece \
+    protobuf
 
 # Copy server script
 COPY mistral_server.py .
