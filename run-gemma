@@ -42,7 +42,7 @@ case "${1:-help}" in
     ;;
   health)
     response=$(curl -s http://localhost:$PORT/health 2>&1)
-    if echo "$response" | grep -q '"model_loaded": true'; then
+    if echo "$response" | grep -q '"model_loaded".*true'; then
       echo "✓ Gemma is responding"
       exit 0
     else

@@ -66,7 +66,7 @@ wait_for_model() {
 
     while [ $elapsed -lt $timeout ]; do
         local response=$(curl -s "http://localhost:$port/health" 2>&1)
-        if echo "$response" | grep -q '"model_loaded": true'; then
+        if echo "$response" | grep -q '"model_loaded".*true'; then
             log "  ✓ $model is fully loaded and ready"
             return 0
         fi
