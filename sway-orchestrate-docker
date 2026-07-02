@@ -169,6 +169,11 @@ cmd_build_all() {
     log "=== BUILD ALL CELLS ==="
     log "Roles: Simulator (Ornith-9B) + Checker (Mistral-7B)"
 
+    # Build Docker images if needed
+    log "Building Docker images..."
+    ./run-ornith-9b build || true
+    ./run-mistral-7b build || true
+
     local models=$(get_phase_models "build")
     start_models "$models"
 
