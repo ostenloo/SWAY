@@ -1,7 +1,7 @@
 #!/bin/bash
 
 CONTAINER_NAME="qwen3-4b"
-IMAGE_NAME="qwen3-4b-transformers"
+IMAGE_NAME="qwen3-4b"
 PORT="8100"
 DOCKERFILE="Dockerfile.qwen3_4b"
 
@@ -24,7 +24,7 @@ case "${1:-help}" in
   down)
     if docker ps -a --format '{{.Names}}' | grep -q "^${CONTAINER_NAME}$"; then
       docker stop $CONTAINER_NAME
-      echo "$CONTAINER_NAME"
+      echo "$CONTAINER_NAME stopped"
     else
       echo "Container $CONTAINER_NAME is not running"
     fi
@@ -42,11 +42,11 @@ case "${1:-help}" in
     ;;
   health)
     response=$(curl -s http://localhost:$PORT/health 2>&1)
-    if echo "$response" | grep -q "ok"; then
-      echo "✓ Qwen3-4B API is responding"
+    if echo "$response" | grep -q '"model_loaded": true'; then
+      echo "✓ Qwen3-4B is responding"
       exit 0
     else
-      echo "✗ Qwen3-4B API is not responding"
+      echo "✗ Qwen3-4B is not responding"
       exit 1
     fi
     ;;

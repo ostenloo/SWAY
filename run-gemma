@@ -1,61 +1,57 @@
 #!/bin/bash
-# Gemma 4 12B AWQ model launcher
 
-NAME="gemma-12b-awq"
+CONTAINER_NAME="gemma-12b-awq"
+IMAGE_NAME="gemma"
+PORT="8010"
+DOCKERFILE="Dockerfile.gemma"
 
-case "$1" in
+case "${1:-help}" in
+  build)
+    echo "Building Docker image..."
+    DOCKER_BUILDKIT=0 docker build -f $DOCKERFILE -t $IMAGE_NAME .
+    ;;
   up)
-    if docker ps -a --format '{{.Names}}' | grep -q "^$NAME$"; then
+    if docker ps -a --format '{{.Names}}' | grep -q "^${CONTAINER_NAME}$"; then
       echo "Starting existing container..."
-      docker start "$NAME"
+      docker start $CONTAINER_NAME
+      echo "Container $CONTAINER_NAME started on port $PORT"
     else
-      echo "Container not found. Building..."
-      docker rm -f "$NAME" 2>/dev/null
-
-      docker run -d --name "$NAME" --restart unless-stopped --gpus all --ipc=host \
-        -v ~/.cache/huggingface:/root/.cache/huggingface \
-        -v /mnt/data/models/gemma-4-12B-it-AWQ-INT4:/models/gemma \
-        -p 8010:8010 \
-        vllm/vllm-openai:latest \
-        /models/gemma \
-        --served-model-name gemma \
-        --quantization awq \
-        --dtype float16 \
-        --max-model-len 4096 \
-        --gpu-memory-utilization 0.5 \
-        --max-num-seqs 1 \
-        --host 0.0.0.0 \
-        --port 8010 \
-        --trust-remote-code
+      echo "Creating and starting new container..."
+      docker run -d --name $CONTAINER_NAME --gpus all -p $PORT:$PORT -v /mnt/data:/mnt/data $IMAGE_NAME
+      echo "Container $CONTAINER_NAME created and started on port $PORT"
     fi
     ;;
-
   down)
-    docker stop "$NAME"
-    ;;
-
-  restart)
-    docker restart "$NAME"
-    ;;
-
-  logs)
-    docker logs -f "$NAME"
-    ;;
-
-  status)
-    docker ps -a --filter "name=$NAME"
-    ;;
-
-  health)
-    if curl -s http://localhost:8001/v1/models >/dev/null 2>&1; then
-      echo "✓ Gemma API is responding"
+    if docker ps -a --format '{{.Names}}' | grep -q "^${CONTAINER_NAME}$"; then
+      docker stop $CONTAINER_NAME
+      echo "$CONTAINER_NAME stopped"
     else
-      echo "✗ Gemma API is not responding"
+      echo "Container $CONTAINER_NAME is not running"
+    fi
+    ;;
+  restart)
+    $0 down
+    sleep 2
+    $0 up
+    ;;
+  logs)
+    docker logs $CONTAINER_NAME
+    ;;
+  status)
+    docker ps -a --filter "name=$CONTAINER_NAME"
+    ;;
+  health)
+    response=$(curl -s http://localhost:$PORT/health 2>&1)
+    if echo "$response" | grep -q '"model_loaded": true'; then
+      echo "✓ Gemma is responding"
+      exit 0
+    else
+      echo "✗ Gemma is not responding"
       exit 1
     fi
     ;;
-
   *)
-    echo "Usage: $0 {up|down|restart|logs|status|health}"
+    echo "Usage: $0 {build|up|down|restart|logs|status|health}"
+    exit 1
     ;;
 esac
