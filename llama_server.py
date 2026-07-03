@@ -54,13 +54,19 @@ async def list_models():
     }
 
 
+class ChatCompletionRequest(BaseModel):
+    messages: list
+    max_tokens: int = 2048
+    temperature: float = 0.7
+
+
 @app.post("/v1/chat/completions")
-async def chat_completions(request: dict = Body(...)):
+async def chat_completions(request: ChatCompletionRequest):
     try:
-        messages = request.get("messages", [])
+        messages = request.messages
         prompt = "\n".join([f"{m['role']}: {m['content']}" for m in messages])
-        max_tokens = request.get("max_tokens", 2048)
-        temperature = request.get("temperature", 0.7)
+        max_tokens = request.max_tokens
+        temperature = request.temperature
 
         inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
 
