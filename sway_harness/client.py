@@ -67,8 +67,12 @@ def get_completion(
             if not choices:
                 raise LocalError("No choices in response")
 
-            msg = choices[0].get("message", {})
-            content = msg.get("content") or ""
+            # Handle both /v1/chat/completions (message.content) and /v1/completions (text) formats
+            choice = choices[0]
+            if "message" in choice:
+                content = choice["message"].get("content") or ""
+            else:
+                content = choice.get("text") or ""
 
             if not content:
                 raise LocalError("Received empty content")
