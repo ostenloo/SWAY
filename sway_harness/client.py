@@ -60,11 +60,14 @@ def get_completion(
             resp.raise_for_status()
             data = resp.json()
 
+            logger.debug(f"Server response: {data}")
+
             if "error" in data:
                 raise LocalError(f"Server error: {data['error']}")
 
             choices = data.get("choices", [])
             if not choices:
+                logger.error(f"No choices in response. Full response: {data}")
                 raise LocalError("No choices in response")
 
             # Handle both /v1/chat/completions (message.content) and /v1/completions (text) formats
