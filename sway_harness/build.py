@@ -144,7 +144,7 @@ def optimize_prompt(
             current_prompt = get_completion(
                 model_path=roles.optimizer.model_path,
                 messages=messages,
-                base_url=server.base_url,
+                base_url=roles.optimizer.base_url or server.base_url,
                 temperature=roles.optimizer.temperature,
                 max_tokens=roles.optimizer.max_tokens,
             )
@@ -266,7 +266,7 @@ def _run_build_arc(
     initial = get_completion(
         model_path=roles.simulator.model_path,
         messages=[{"role": "system", "content": system_prompt}, *transcript],
-        base_url=server.base_url,
+        base_url=roles.simulator.base_url or server.base_url,
         temperature=roles.simulator.temperature,
         seed=seed,
         max_tokens=roles.simulator.max_tokens,
@@ -278,7 +278,7 @@ def _run_build_arc(
         ref_reply = get_completion(
             model_path=roles.reference_interlocutor.model_path,
             messages=[{"role": "system", "content": REF_SYSTEM_PROMPT}] + transcript,
-            base_url=server.base_url,
+            base_url=roles.reference_interlocutor.base_url or server.base_url,
             temperature=roles.reference_interlocutor.temperature,
             seed=seed,
             max_tokens=roles.reference_interlocutor.max_tokens,
@@ -289,7 +289,7 @@ def _run_build_arc(
         patient_reply = get_completion(
             model_path=roles.simulator.model_path,
             messages=[{"role": "system", "content": system_prompt}, *transcript],
-            base_url=server.base_url,
+            base_url=roles.simulator.base_url or server.base_url,
             temperature=roles.simulator.temperature,
             seed=seed,
             max_tokens=roles.simulator.max_tokens,
@@ -330,7 +330,7 @@ def _check_fidelity_turn(
     response = get_completion(
         model_path=roles.fidelity_checker.model_path,
         messages=[{"role": "user", "content": prompt}],
-        base_url=server.base_url,
+        base_url=roles.fidelity_checker.base_url or server.base_url,
         temperature=roles.fidelity_checker.temperature,
         max_tokens=roles.fidelity_checker.max_tokens,
     )

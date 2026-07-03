@@ -19,6 +19,7 @@ ROOT = Path(__file__).parent.parent  # /Users/austinliu/SWAY
 class ModelConfig:
     """Model assignment for one role."""
     model_path: str = ""
+    base_url: str = ""  # Optional per-role endpoint; falls back to ServerConfig.base_url if empty
     temperature: float = 0.0
     max_tokens: int = 2048   # Max response tokens
 
