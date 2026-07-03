@@ -33,12 +33,15 @@ def get_completion(
     Get a completion from a local OpenAI-compatible endpoint.
     Returns raw text — thinking preamble is stripped downstream.
     """
-    api_url = f"{base_url.rstrip('/')}/chat/completions"
+    api_url = f"{base_url.rstrip('/')}/completions"
     headers = {"Content-Type": "application/json"}
+
+    # Convert messages to prompt format for /v1/completions endpoint
+    prompt = "\n".join([f"{m['role']}: {m['content']}" for m in messages])
 
     payload = {
         "model": model_path,
-        "messages": messages,
+        "prompt": prompt,
         "max_tokens": max_tokens,
         "temperature": temperature,
     }
