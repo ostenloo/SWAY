@@ -48,6 +48,25 @@ async def list_models():
     }
 
 
+@app.post("/v1/chat/completions")
+async def chat_completions(request: dict):
+    messages = request.get("messages", [])
+    prompt = "\n".join([f"{m['role']}: {m['content']}" for m in messages])
+    max_tokens = request.get("max_tokens", 2048)
+    temperature = request.get("temperature", 0.7)
+
+    inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
+    outputs = model.generate(
+        **inputs,
+        max_new_tokens=max_tokens,
+        temperature=temperature,
+        top_p=0.95,
+        do_sample=True,
+    )
+    text = tokenizer.decode(outputs[0], skip_special_tokens=True)
+    return {"choices": [{"message": {"content": text}}]}
+
+
 @app.post("/v1/completions")
 async def completions(request: GenerateRequest):
     inputs = tokenizer(request.prompt, return_tensors="pt").to(model.device)

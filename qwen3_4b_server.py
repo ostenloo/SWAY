@@ -39,6 +39,18 @@ async def list_models():
     return {"object": "list", "data": [{"id": model_id, "object": "model"}]}
 
 
+@app.post("/v1/chat/completions")
+async def chat_completions(request: dict):
+    messages = request.get("messages", [])
+    prompt = "\n".join([f"{m['role']}: {m['content']}" for m in messages])
+    max_tokens = request.get("max_tokens", 2048)
+
+    inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
+    outputs = model.generate(**inputs, max_new_tokens=max_tokens)
+    text = tokenizer.decode(outputs[0], skip_special_tokens=True)
+    return {"choices": [{"message": {"content": text}}]}
+
+
 @app.post("/v1/completions")
 async def completions(request: CompletionRequest):
     inputs = tokenizer(request.prompt, return_tensors="pt").to(model.device)

@@ -54,6 +54,30 @@ async def list_models():
     }
 
 
+@app.post("/v1/chat/completions")
+async def chat_completions(request: dict):
+    try:
+        messages = request.get("messages", [])
+        prompt = "\n".join([f"{m['role']}: {m['content']}" for m in messages])
+        max_tokens = request.get("max_tokens", 2048)
+        temperature = request.get("temperature", 0.7)
+
+        inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
+
+        with torch.no_grad():
+            outputs = model.generate(
+                **inputs,
+                max_new_tokens=max_tokens,
+                temperature=temperature,
+                top_p=0.95,
+            )
+
+        response = tokenizer.decode(outputs[0], skip_special_tokens=True)
+        return {"choices": [{"message": {"content": response}}]}
+    except Exception as e:
+        return {"error": str(e)}, 500
+
+
 @app.post("/v1/completions")
 async def completions(request: GenerateRequest):
     try:
