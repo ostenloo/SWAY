@@ -3,7 +3,7 @@
 
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Body
 from pydantic import BaseModel
 import uvicorn
 import logging
@@ -55,7 +55,7 @@ async def list_models():
 
 
 @app.post("/v1/chat/completions")
-async def chat_completions(request: dict):
+async def chat_completions(request: dict = Body(...)):
     try:
         messages = request.get("messages", [])
         prompt = "\n".join([f"{m['role']}: {m['content']}" for m in messages])

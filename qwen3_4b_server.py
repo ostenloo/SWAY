@@ -1,6 +1,6 @@
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
-from fastapi import FastAPI
+from fastapi import FastAPI, Body
 from pydantic import BaseModel
 import logging
 
@@ -40,7 +40,7 @@ async def list_models():
 
 
 @app.post("/v1/chat/completions")
-async def chat_completions(request: dict):
+async def chat_completions(request: dict = Body(...)):
     messages = request.get("messages", [])
     prompt = "\n".join([f"{m['role']}: {m['content']}" for m in messages])
     max_tokens = request.get("max_tokens", 2048)
