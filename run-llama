@@ -8,7 +8,7 @@ DOCKERFILE="Dockerfile.llama"
 case "${1:-help}" in
   build)
     echo "Building Docker image..."
-    DOCKER_BUILDKIT=0 docker build -f $DOCKERFILE -t $IMAGE_NAME .
+    DOCKER_BUILDKIT=0 docker build --no-cache -f $DOCKERFILE -t $IMAGE_NAME .
     ;;
   up)
     if docker ps -a --format '{{.Names}}' | grep -q "^${CONTAINER_NAME}$"; then
