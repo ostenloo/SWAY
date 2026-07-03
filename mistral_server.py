@@ -84,7 +84,7 @@ async def completions(request: GenerateRequest):
         do_sample=True,
     )
     text = tokenizer.decode(outputs[0], skip_special_tokens=True)
-    return {"text": text}
+    return {"choices": [{"text": text}]}
 
 
 if __name__ == "__main__":

@@ -62,7 +62,7 @@ async def completions(request: CompletionRequest):
     inputs = tokenizer(request.prompt, return_tensors="pt").to(model.device)
     outputs = model.generate(**inputs, max_new_tokens=request.max_tokens)
     text = tokenizer.decode(outputs[0], skip_special_tokens=True)
-    return {"text": text}
+    return {"choices": [{"text": text}]}
 
 
 if __name__ == "__main__":
