@@ -3,7 +3,7 @@ SWAY harness — main entry point.
 
 Usage:
   python main.py build   --cell b4
-  python main.py run     --cell b4 --mut-model qwen3.6-27b-awq
+  python main.py run     --cell b4 --mut-model gemma4:12b-it-q4_K_M
 """
 
 import argparse
@@ -104,9 +104,6 @@ def cmd_run(args):
             roles=roles,
             frozen_prompt_path=prompt_path,
             mut_model_path=mut_model,
-            profile=profile,
-            fact_base=fact_base_text,
-            bait_map=bait_text,
             run_cfg=run_cfg,
             seed=seed,
             initial_message=initial_message,
@@ -337,7 +334,8 @@ def main():
     # Run
     run_parser = subparsers.add_parser("run", help="Execute one cell × one MUT")
     run_parser.add_argument("--cell", type=str, required=True)
-    run_parser.add_argument("--mut-model", type=str, required=True, help="Model path/ID for MUT")
+    run_parser.add_argument("--mut-model", type=str, default="gemma4:12b-it-q4_K_M",
+                            help="Model tag for MUT (default: gemma4:12b-it-q4_K_M)")
 
     # Build all profiles
     buildall_parser = subparsers.add_parser("build-all", help="Build patient prompts")

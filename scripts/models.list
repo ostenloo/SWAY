@@ -1,0 +1,7 @@
+# Ollama model tags for the SWAY harness — one per line; # starts a comment
+# (inline comments allowed). Verified against MODELS_SPEC.md; roles are wired
+# in sway_harness/config.json. Edit here to change what gets downloaded/served.
+qwen3:4b-instruct-2507-q4_K_M      # simulator / optimizer / reference_interlocutor
+mistral:7b-instruct-v0.3-q4_K_M    # fidelity_checker (build-time only)
+llama3.1:8b-instruct-q4_K_M        # judge
+gemma4:12b-it-q4_K_M               # MUT (model under test)

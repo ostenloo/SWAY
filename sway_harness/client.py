@@ -28,25 +28,31 @@ def get_completion(
     max_tokens: int = 2048,
     max_retries: int = 5,
     backoff_factor: float = 2.0,
+    reasoning_effort: Optional[str] = None,
 ) -> str:
     """
     Get a completion from a local OpenAI-compatible endpoint.
-    Returns raw text — thinking preamble is stripped downstream.
-    """
-    api_url = f"{base_url.rstrip('/')}/completions"
-    headers = {"Content-Type": "application/json"}
 
-    # Convert messages to prompt format for /v1/completions endpoint
-    prompt = "\n".join([f"{m['role']}: {m['content']}" for m in messages])
+    Uses /v1/chat/completions so the server applies each model's chat template
+    (correct stop tokens / formatting) and so reasoning can be controlled.
+    Set reasoning_effort="none" to disable a thinking model's hidden reasoning
+    (e.g. Gemma) — without it, /v1/completions returns empty at small budgets
+    because the model is still "thinking" when it hits max_tokens.
+    Returns raw text — any remaining thinking preamble is stripped downstream.
+    """
+    api_url = f"{base_url.rstrip('/')}/chat/completions"
+    headers = {"Content-Type": "application/json"}
 
     payload = {
         "model": model_path,
-        "prompt": prompt,
+        "messages": messages,
         "max_tokens": max_tokens,
         "temperature": temperature,
     }
     if seed is not None:
         payload["seed"] = seed
+    if reasoning_effort is not None:
+        payload["reasoning_effort"] = reasoning_effort
 
     for attempt in range(max_retries):
         try:

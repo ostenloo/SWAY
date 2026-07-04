@@ -1,0 +1,38 @@
+services:
+  ollama:
+    build:
+      context: .
+      args:
+        OLLAMA_VERSION: "0.31.1"
+    image: sway-ollama
+    container_name: sway-ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      # Model store. Defaults to the named volume (self-contained; entrypoint
+      # pulls on first run). FAST TRACK: set SWAY_MODELS_DIR to a pre-populated
+      # ".ollama" dir to bind-mount it and skip the ~20 GB download, e.g.
+      #   SWAY_MODELS_DIR=./ollama-models docker compose up -d      (from download_models.sh)
+      #   SWAY_MODELS_DIR=/usr/share/ollama/.ollama docker compose up -d  (reuse native models)
+      - ${SWAY_MODELS_DIR:-ollama-models}:/root/.ollama
+    restart: unless-stopped
+    # GPU (NVIDIA) — requires nvidia-container-toolkit on the host (present on the
+    # fedora RTX 5090 box). Remove this block to run CPU-only elsewhere.
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    healthcheck:
+      # Healthy only once the MUT (largest, last-pulled) is present, i.e. all
+      # pulls + warm-ups have completed.
+      test: ["CMD-SHELL", "ollama list | grep -q gemma4:12b-it-q4_K_M"]
+      interval: 15s
+      timeout: 5s
+      retries: 40          # allow up to ~10 min for first-run pulls
+      start_period: 30s
+
+volumes:
+  ollama-models:

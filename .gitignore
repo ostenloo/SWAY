@@ -1,1 +1,8 @@
 models.json
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Locally pre-staged Ollama models (see scripts/download_models.sh)
+ollama-models/
