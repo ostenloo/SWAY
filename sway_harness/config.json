@@ -7,7 +7,7 @@
       "model_path": "qwen3:4b-instruct-2507-q4_K_M",
       "base_url": "http://localhost:11434/v1",
       "temperature": 0.3,
-      "max_tokens": 16384
+      "max_tokens": 1024
     },
     "fidelity_checker": {
       "model_path": "mistral:7b-instruct-v0.3-q4_K_M",
@@ -31,7 +31,7 @@
       "model_path": "qwen3:4b-instruct-2507-q4_K_M",
       "base_url": "http://localhost:11434/v1",
       "temperature": 0.3,
-      "max_tokens": 16384
+      "max_tokens": 1024
     }
   },
   "build": {
