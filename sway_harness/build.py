@@ -147,18 +147,19 @@ def optimize_prompt(
         cell_artifacts.mkdir(parents=True, exist_ok=True)
         progress_file = cell_artifacts / "progress.txt"
 
-        current_prompt = None
-        feedback = None
+        best_prompt = None
+        best_adherence = -1.0
+        best_feedback = None
 
         for iteration in range(build_cfg.max_iterations):
             iter_dir = cell_artifacts / f"iter_{iteration}"
             iter_dir.mkdir(parents=True, exist_ok=True)
 
-            # ── Step 1: Optimizer drafts/rewrites ──
+            # ── Step 1: Optimizer proposes a candidate (revises the best so far) ──
             opt_prompt = build_optimization_prompt(
                 profile, fact_base_text, bait_text,
-                current_prompt=current_prompt,
-                feedback_instances=feedback,
+                current_prompt=best_prompt,
+                feedback_instances=best_feedback,
             )
 
             messages = [
@@ -167,7 +168,7 @@ def optimize_prompt(
             ]
             with open(progress_file, "w") as f:
                 f.write(f"Iter {iteration}: calling optimizer...")
-            current_prompt = get_completion(
+            candidate_prompt = get_completion(
                 model_path=roles.optimizer.model_path,
                 messages=messages,
                 base_url=roles.optimizer.base_url or server.base_url,
@@ -179,7 +180,7 @@ def optimize_prompt(
             with open(iter_dir / "optimizer_input.txt", "w") as f:
                 f.write(opt_prompt)
             with open(iter_dir / "optimizer_prompt.txt", "w") as f:
-                f.write(current_prompt)
+                f.write(candidate_prompt)
 
             # ── Step 2: Simulator runs N times ──
             all_turns = []
@@ -188,7 +189,7 @@ def optimize_prompt(
                 seed = 42 + sample_idx
                 with open(progress_file, "w") as f:
                     f.write(f"Iter {iteration}: simulating arc {sample_idx + 1}/{build_cfg.n_samples}...")
-                transcript = _run_build_arc(server, roles, current_prompt, seed)
+                transcript = _run_build_arc(server, roles, candidate_prompt, seed)
                 transcripts.append(transcript)
                 # Save full transcript
                 with open(iter_dir / f"transcript_{sample_idx}.json", "w") as f:
@@ -234,33 +235,40 @@ def optimize_prompt(
             # Save fidelity artifacts
             with open(iter_dir / "fidelity_results.json", "w") as f:
                 json.dump(fidelity_results, f, indent=2)
+            adherence = passes / max(len(all_turns), 1)
+
+            # ── Step 4: Selection — keep the candidate only if it beats the best ──
+            improved = adherence > best_adherence
+            if improved:
+                best_prompt = candidate_prompt
+                best_adherence = adherence
+                # Guide the next revision by the (new) best prompt's failures.
+                best_feedback = _select_diverse_feedback(failures, build_cfg.n_feedback)
+
             with open(iter_dir / "summary.txt", "w") as f:
                 f.write(f"Iteration {iteration}\n")
-                f.write(f"Adherence: {passes}/{len(all_turns)} ({passes/max(len(all_turns),1):.1%})\n")
+                f.write(f"Adherence: {passes}/{len(all_turns)} ({adherence:.1%})\n")
                 f.write(f"Failures: {len(failures)}\n")
-                if feedback:
-                    f.write(f"Feedback passed to optimizer: {len(feedback)} instances\n")
+                f.write(f"Result: {'NEW BEST' if improved else 'rejected'} (best so far {best_adherence:.1%})\n")
 
-            adherence = passes / max(len(all_turns), 1)
             logger.info(
-                "Iteration %d: adherence = %.3f (%d/%d passes, %d failures)",
-                iteration, adherence, passes, len(all_turns), len(failures),
+                "Iteration %d: adherence = %.3f (%d/%d passes) — %s, best %.3f",
+                iteration, adherence, passes, len(all_turns),
+                "NEW BEST" if improved else "rejected", best_adherence,
             )
 
-            # ── Convergence check ──
-            if adherence >= build_cfg.adherence_threshold:
+            # ── Convergence check (on the best so far) ──
+            if best_adherence >= build_cfg.adherence_threshold:
                 with open(progress_file, "w") as f:
-                    f.write(f"Converged at iteration {iteration} (adherence {adherence:.1%})")
-                logger.info("Converged at iteration %d (adherence %.3f)", iteration, adherence)
-                return current_prompt
+                    f.write(f"Converged at iteration {iteration} (best adherence {best_adherence:.1%})")
+                logger.info("Converged at iteration %d (best adherence %.3f)", iteration, best_adherence)
+                return best_prompt
 
-            # ── Step 4: Select 5 diverse feedback instances ──
             with open(progress_file, "w") as f:
-                f.write(f"Iter {iteration}: selecting feedback, starting next iteration...")
-            feedback = _select_diverse_feedback(failures, build_cfg.n_feedback)
+                f.write(f"Iter {iteration}: {'accepted new best' if improved else 'rejected'}; starting next iteration...")
 
-        logger.warning("Max iterations reached without convergence (adherence %.3f)", adherence)
-        return current_prompt
+        logger.warning("Max iterations reached; returning best (adherence %.3f)", best_adherence)
+        return best_prompt
 
     except Exception as e:
         logger.warning("Optimization failed: %s. Using default prompt.", str(e))
