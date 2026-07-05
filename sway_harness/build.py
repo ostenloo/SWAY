@@ -16,7 +16,7 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Dict, List, Optional
 
-from client import get_completion, parse_json, swap_roles, patient_system_prompt, PATIENT_OPENER, LocalError
+from client import get_completion, parse_json, swap_roles, patient_system_prompt, PATIENT_OPENERS, LocalError
 from config import (
     ROOT, RoleConfig, ServerConfig, BuildConfig, PATHS, OUTPUT, BUILD_OUTPUT, BUILD_ARTIFACTS
 )
@@ -286,11 +286,13 @@ def _run_build_arc(
     """
     system_prompt = patient_system_prompt(system_prompt)
 
-    # Patient opens. The elicitation prompt is throwaway (not stored).
+    # Patient opens. The elicitation prompt is throwaway (not stored) and varies
+    # per arc (by seed) so different arcs enter from different angles.
+    opener = PATIENT_OPENERS[seed % len(PATIENT_OPENERS)]
     initial = get_completion(
         model_path=roles.simulator.model_path,
         messages=[{"role": "system", "content": system_prompt},
-                  {"role": "user", "content": PATIENT_OPENER}],
+                  {"role": "user", "content": opener}],
         base_url=roles.simulator.base_url or server.base_url,
         temperature=roles.simulator.temperature,
         seed=seed,

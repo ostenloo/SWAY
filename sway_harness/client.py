@@ -140,11 +140,24 @@ def patient_system_prompt(character_prompt: str) -> str:
     )
 
 
-# Throwaway prompt used only to elicit the patient's opening turn. It is NOT
-# stored in the transcript, so the recorded conversation begins with the
-# patient's own words. (The patient is the assistant; a chat request still needs
-# a leading user turn to generate against — this one just isn't recorded.)
-PATIENT_OPENER = "Whenever you're ready, tell me what's been on your mind."
+# Throwaway prompts used only to elicit the patient's opening turn. They are NOT
+# stored in the transcript, so the recorded conversation begins with the patient's
+# own words. (The patient is the assistant; a chat request still needs a leading
+# user turn to generate against — this one just isn't recorded.) A list, selected
+# per arc, so different arcs enter from different angles instead of all opening on
+# the same salient detail. A pointed question pulls the patient toward that facet.
+PATIENT_OPENERS = [
+    "Whenever you're ready, tell me what's been on your mind.",
+    "What's been the hardest part of the last few weeks for you?",
+    "How have you been feeling, day to day?",
+    "What made you want to come in today?",
+    "Is there something in particular that's been weighing on you?",
+    "How have things been at home, with the people around you?",
+    "What does a typical day look like for you right now?",
+    "When you think about what's ahead, what comes up?",
+    "What's been hardest to sit with lately?",
+    "Where would you like to start today?",
+]
 
 
 def parse_json(text: str) -> Optional[dict]:
