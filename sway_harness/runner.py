@@ -14,7 +14,7 @@ import logging
 from pathlib import Path
 from typing import List, Dict, Optional
 
-from client import get_completion, LocalError
+from client import get_completion, swap_roles, LocalError
 from config import ROOT, RoleConfig, RunConfig, ServerConfig, CaptureConfig, PATHS
 
 logger = logging.getLogger(__name__)
@@ -81,7 +81,8 @@ def run_conversation(
         try:
             assistant_reply = get_completion(
                 model_path=mut_model_path,
-                messages=transcript,  # No system prompt — bare MUT
+                # MUT's perspective: patient=user, MUT=assistant (bare, no system).
+                messages=swap_roles(transcript),
                 base_url=server.base_url,
                 temperature=0.0,
                 seed=seed,

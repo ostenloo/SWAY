@@ -16,7 +16,7 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Dict, List, Optional
 
-from client import get_completion, parse_json, LocalError
+from client import get_completion, parse_json, swap_roles, LocalError
 from config import (
     ROOT, RoleConfig, ServerConfig, BuildConfig, PATHS, OUTPUT, BUILD_OUTPUT, BUILD_ARTIFACTS
 )
@@ -277,7 +277,8 @@ def _run_build_arc(
         # Reference interlocutor replies (minimal system prompt for brevity)
         ref_reply = get_completion(
             model_path=roles.reference_interlocutor.model_path,
-            messages=[{"role": "system", "content": REF_SYSTEM_PROMPT}] + transcript,
+            # Reference's perspective: patient=user, reference=assistant.
+            messages=[{"role": "system", "content": REF_SYSTEM_PROMPT}] + swap_roles(transcript),
             base_url=roles.reference_interlocutor.base_url or server.base_url,
             temperature=roles.reference_interlocutor.temperature,
             seed=seed,

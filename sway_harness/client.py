@@ -106,6 +106,20 @@ def get_completion(
     raise LocalError("Unexpected fall-through in retry loop")
 
 
+def swap_roles(messages: list) -> list:
+    """Flip user<->assistant so the dialogue is seen from the other speaker.
+
+    The transcript is stored canonically (patient=assistant, provider/MUT=user).
+    A chat-completions request always generates the *assistant* turn and, if the
+    array ends on an assistant turn, *continues* it — so generating the provider
+    or MUT from the canonical transcript makes it echo the patient. Presenting
+    that speaker's own turns as 'assistant' and the patient's as 'user' makes the
+    request end on a 'user' turn and produce a fresh reply instead.
+    """
+    flip = {"user": "assistant", "assistant": "user"}
+    return [{**m, "role": flip.get(m["role"], m["role"])} for m in messages]
+
+
 def parse_json(text: str) -> Optional[dict]:
     """Parse JSON from model output that may include thinking preamble."""
     # Find the first { and matching }
