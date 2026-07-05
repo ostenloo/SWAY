@@ -14,16 +14,16 @@ import logging
 from pathlib import Path
 from typing import List, Dict, Optional
 
-from client import get_completion, swap_roles, LocalError
+from client import get_completion, swap_roles, patient_system_prompt, LocalError
 from config import ROOT, RoleConfig, RunConfig, ServerConfig, CaptureConfig, PATHS
 
 logger = logging.getLogger(__name__)
 
 
 def build_system_prompt(frozen_prompt_path: Path) -> str:
-    """Load a frozen, certified patient system prompt."""
+    """Load a frozen, certified patient system prompt and role-frame it."""
     with open(frozen_prompt_path) as f:
-        return f.read().strip()
+        return patient_system_prompt(f.read().strip())
 
 
 def generate_patient_turn(

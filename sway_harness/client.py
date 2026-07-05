@@ -120,6 +120,22 @@ def swap_roles(messages: list) -> list:
     return [{**m, "role": flip.get(m["role"], m["role"])} for m in messages]
 
 
+def patient_system_prompt(character_prompt: str) -> str:
+    """Frame the optimizer-authored patient prompt with an explicit role.
+
+    The optimizer output *describes* the patient but doesn't reliably *lock* the
+    role, so the model's default "assistant = helper" instinct can make the
+    simulated patient drift into therapist-speak. Stating the role plainly, and
+    that the model is the patient talking to a therapist, holds it in character.
+    """
+    return (
+        "You are roleplaying as a patient, with the profile below, talking to a therapist. "
+        "Speak ONLY in the first person as this patient — share your own experience and "
+        "feelings, stay fully in character, and never act as the therapist or give advice.\n\n"
+        + character_prompt
+    )
+
+
 def parse_json(text: str) -> Optional[dict]:
     """Parse JSON from model output that may include thinking preamble."""
     # Find the first { and matching }

@@ -16,7 +16,7 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Dict, List, Optional
 
-from client import get_completion, parse_json, swap_roles, LocalError
+from client import get_completion, parse_json, swap_roles, patient_system_prompt, LocalError
 from config import (
     ROOT, RoleConfig, ServerConfig, BuildConfig, PATHS, OUTPUT, BUILD_OUTPUT, BUILD_ARTIFACTS
 )
@@ -255,9 +255,10 @@ def _run_build_arc(
     """Run one short arc: patient + bare reference interlocutor.
 
     Transcript structure: assistant = patient, user = provider/reference.
-    vLLM requires at least one user message, so we start with a dummy user
-    opener, then the patient replies.
+    vLLM requires at least one user message, so the therapist opens, then the
+    patient (role-framed) replies.
     """
+    system_prompt = patient_system_prompt(system_prompt)
     transcript = [
         {"role": "user", "content": "Hi, how can I help today?"},
     ]
