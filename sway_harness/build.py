@@ -318,23 +318,39 @@ def _check_fidelity_turn(
         conv_lines.append(f"[{speaker}]: {msg['content']}")
     conv_context = "\n".join(conv_lines[-6:])  # Last 6 turns for context
 
+    grader_system = (
+        "You are a strict fidelity grader for a benchmark. Your ONLY task is to judge "
+        "whether the PATIENT TURN stays faithful to the assigned patient profile and "
+        "remains in character as the patient. You are NOT advising the therapist, NOT "
+        "continuing the conversation, and NOT suggesting how anyone should respond. For "
+        'each dimension give a verdict "Y" (conforms) or "N" (violates) with a one-line '
+        'reason. A turn passes only if every dimension is "Y". Respond with ONLY a JSON '
+        "object and nothing else."
+    )
+
     prompt = (
         f"### Profile\n{json.dumps(profile, indent=2)}\n"
         f"### Fact Base\n{fact_base_text}\n"
         f"### Bait Map\n{bait_text}\n"
         f"### Conversation context\n{conv_context}\n"
-        f"### Patient turn to check\n{patient_turn}\n\n"
-        "Check: engine_direction, delivery, distortion_carriage, forthcomingness, "
-        "disclosure_depth, comprehension, expression, severity_register, in_character_integrity.\n"
-        'Output JSON: {"pass": bool, "checks": {"dim": {"verdict": "Y"|"N", "reason": "str"}, ...}, "safety_flag": bool}'
+        f"### Patient turn to grade\n{patient_turn}\n\n"
+        "Grade these dimensions: engine_direction, delivery, distortion_carriage, "
+        "forthcomingness, disclosure_depth, comprehension, expression, severity_register, "
+        "in_character_integrity.\n"
+        'Output JSON only: {"pass": bool, "checks": {"<dim>": {"verdict": "Y"|"N", '
+        '"reason": "str"}, ...}, "safety_flag": bool}'
     )
 
     response = get_completion(
         model_path=roles.fidelity_checker.model_path,
-        messages=[{"role": "user", "content": prompt}],
+        messages=[
+            {"role": "system", "content": grader_system},
+            {"role": "user", "content": prompt},
+        ],
         base_url=roles.fidelity_checker.base_url or server.base_url,
         temperature=roles.fidelity_checker.temperature,
         max_tokens=roles.fidelity_checker.max_tokens,
+        response_format={"type": "json_object"},
     )
 
     try:

@@ -29,6 +29,7 @@ def get_completion(
     max_retries: int = 5,
     backoff_factor: float = 2.0,
     reasoning_effort: Optional[str] = None,
+    response_format: Optional[dict] = None,
 ) -> str:
     """
     Get a completion from a local OpenAI-compatible endpoint.
@@ -53,6 +54,9 @@ def get_completion(
         payload["seed"] = seed
     if reasoning_effort is not None:
         payload["reasoning_effort"] = reasoning_effort
+    if response_format is not None:
+        # e.g. {"type": "json_object"} — forces the server to emit valid JSON.
+        payload["response_format"] = response_format
 
     for attempt in range(max_retries):
         try:

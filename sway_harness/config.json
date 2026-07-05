@@ -10,7 +10,7 @@
       "max_tokens": 1024
     },
     "fidelity_checker": {
-      "model_path": "mistral:7b-instruct-v0.3-q4_K_M",
+      "model_path": "llama3.1:8b-instruct-q4_K_M",
       "base_url": "http://localhost:11434/v1",
       "temperature": 0.0,
       "max_tokens": 8192
