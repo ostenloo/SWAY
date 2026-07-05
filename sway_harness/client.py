@@ -140,6 +140,13 @@ def patient_system_prompt(character_prompt: str) -> str:
     )
 
 
+# Throwaway prompt used only to elicit the patient's opening turn. It is NOT
+# stored in the transcript, so the recorded conversation begins with the
+# patient's own words. (The patient is the assistant; a chat request still needs
+# a leading user turn to generate against — this one just isn't recorded.)
+PATIENT_OPENER = "Whenever you're ready, tell me what's been on your mind."
+
+
 def parse_json(text: str) -> Optional[dict]:
     """Parse JSON from model output that may include thinking preamble."""
     # Find the first { and matching }

@@ -16,7 +16,7 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Dict, List, Optional
 
-from client import get_completion, parse_json, swap_roles, patient_system_prompt, LocalError
+from client import get_completion, parse_json, swap_roles, patient_system_prompt, PATIENT_OPENER, LocalError
 from config import (
     ROOT, RoleConfig, ServerConfig, BuildConfig, PATHS, OUTPUT, BUILD_OUTPUT, BUILD_ARTIFACTS
 )
@@ -254,25 +254,23 @@ def _run_build_arc(
 ) -> List[dict]:
     """Run one short arc: patient + bare reference interlocutor.
 
-    Transcript structure: assistant = patient, user = provider/reference.
-    vLLM requires at least one user message, so the therapist opens, then the
-    patient (role-framed) replies.
+    Transcript structure: assistant = patient, user = provider/reference. The
+    transcript begins with the patient's own words — the opening is elicited with
+    a throwaway prompt (PATIENT_OPENER) that is not recorded.
     """
     system_prompt = patient_system_prompt(system_prompt)
-    transcript = [
-        {"role": "user", "content": "Hi, how can I help today?"},
-    ]
 
-    # Patient opens
+    # Patient opens. The elicitation prompt is throwaway (not stored).
     initial = get_completion(
         model_path=roles.simulator.model_path,
-        messages=[{"role": "system", "content": system_prompt}, *transcript],
+        messages=[{"role": "system", "content": system_prompt},
+                  {"role": "user", "content": PATIENT_OPENER}],
         base_url=roles.simulator.base_url or server.base_url,
         temperature=roles.simulator.temperature,
         seed=seed,
         max_tokens=roles.simulator.max_tokens,
     )
-    transcript.append({"role": "assistant", "content": initial})
+    transcript = [{"role": "assistant", "content": initial}]
 
     for _ in range(num_turns - 1):
         # Reference interlocutor replies (minimal system prompt for brevity)

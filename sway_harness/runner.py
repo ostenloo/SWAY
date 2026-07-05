@@ -68,6 +68,8 @@ def run_conversation(
     """
     system_prompt = build_system_prompt(frozen_prompt_path)
     # Patient opens. Dummy user opener satisfies vLLM's "must have user" rule.
+    # NOTE: score_turn assumes patient turns at odd indices (patient_idx =
+    # 1 + turn_idx*2), so this leading turn must stay to keep scoring aligned.
     initial = generate_patient_turn(server, roles, system_prompt,
                                     [{"role": "user", "content": "[Conversation begins]"}],
                                     seed=seed)
