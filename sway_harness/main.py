@@ -42,6 +42,8 @@ def cmd_build(args):
     server = build_server_config(config)
     roles = build_role_config(config)
     build_cfg = BuildConfig(**config.get("build", {}))
+    if getattr(args, "max_iters", None) is not None:
+        build_cfg.max_iterations = args.max_iters
 
     cell_id = args.cell
     RUN_OUTPUT.mkdir(parents=True, exist_ok=True)
@@ -330,6 +332,8 @@ def main():
     # Build
     build_parser = subparsers.add_parser("build", help="Optimize patient prompt for one cell")
     build_parser.add_argument("--cell", type=str, required=True, help="Cell ID (b1-b6, p1-p3)")
+    build_parser.add_argument("--max-iters", type=int, default=None,
+                              help="Override config.json max_iterations (e.g. 1 for a smoke run)")
 
     # Run
     run_parser = subparsers.add_parser("run", help="Execute one cell × one MUT")

@@ -12,7 +12,8 @@ from config import (
     PATHS, OUTPUT, BUILD_OUTPUT, RUN_OUTPUT,
 )
 from parser import get_profile, load_fact_base, get_bait_text
-from build import build_optimization_prompt, _run_build_arc, _check_fidelity_turn, save_frozen_prompt
+from build import build_optimization_prompt, _run_build_arc, _annotate_fidelity_turn, save_frozen_prompt
+from fidelity import classify_transcript
 from runner import run_conversation
 from scoring import score_turn, compute_metrics
 from client import get_completion, parse_json
@@ -96,29 +97,22 @@ def main():
     ]
     print(f"  Patient turns: {len(patient_turns)}")
 
-    # Step 3: Fidelity checker scores every turn
-    print("\n[3] Fidelity checker: scoring patient turns...")
-    passes = 0
-    failures = []
+    # Step 3: Annotate every turn, then classify the arc (Level 1)
+    print("\n[3] Fidelity checker: annotating patient turns...")
+    turn_labels = []
     for idx, turn_text in enumerate(patient_turns):
-        check = _check_fidelity_turn(
-            server, roles, profile, fact_base_text, bait_text,
-            transcript, turn_text,
+        labels = _annotate_fidelity_turn(
+            server, roles, fact_base_text, bait_text, transcript, turn_text,
         )
-        if check.get("pass"):
-            passes += 1
-        else:
-            failures.append({"turn": idx, "checks": check.get("checks", {})})
+        labels["turn"] = idx
+        labels["text"] = turn_text
+        turn_labels.append(labels)
 
-    adherence = passes / max(len(patient_turns), 1)
-    print(f"  Adherence: {passes}/{len(patient_turns)} ({adherence:.0%})")
-
-    if failures:
-        failed_dims = {}
-        for f in failures:
-            for dim, result in f.get("checks", {}).items():
-                if result.get("verdict") == "N":
-                    failed_dims[dim] = failed_dims.get(dim, 0) + 1
+    verdict = classify_transcript(profile, turn_labels, schedule=None)
+    passed_dims = sum(1 for r in verdict.dims.values() if r.passed)
+    print(f"  Arc discarded (veto): {verdict.discarded}  |  dims passing: {passed_dims}/{len(verdict.dims)}")
+    failed_dims = {d: r.detail for d, r in verdict.dims.items() if not r.passed}
+    if failed_dims:
         print(f"  Failed dimensions: {failed_dims}")
 
     # Save frozen prompt

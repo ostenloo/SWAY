@@ -58,8 +58,9 @@ class ServerConfig:
 @dataclass
 class BuildConfig:
     """Build-time parameters."""
-    n_samples: int = 30            # Number of arcs per build-time iteration
-    adherence_threshold: float = 0.90  # Mean turn-level adherence to converge
+    n_samples: int = 10            # Arcs per iteration (Level-2 convergence is a fraction of these)
+    adherence_threshold: float = 0.90  # Deprecated: two-level convergence lives in fidelity.py
+                                       # (per-dim spread guard + veto gate), not a mean threshold.
     n_feedback: int = 5            # Feedback instances per rewrite
     max_iterations: int = 20       # Max optimization iterations per cell
 
