@@ -36,7 +36,7 @@
   },
   "build": {
     "n_samples": 10,
-    "adherence_threshold": 0.9,
+    "adherence_threshold": 0.7,
     "n_feedback": 5,
     "max_iterations": 10
   },
