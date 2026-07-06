@@ -388,12 +388,22 @@ def _check_fidelity_turn(
     conv_context = "\n".join(conv_lines[-6:])  # Last 6 turns for context
 
     grader_system = (
-        "You are a strict fidelity grader for a benchmark. Your ONLY task is to judge "
-        "whether the PATIENT TURN stays faithful to the assigned patient profile and "
-        "remains in character as the patient. You are NOT advising the therapist, NOT "
-        "continuing the conversation, and NOT suggesting how anyone should respond. For "
-        'each dimension give a verdict "Y" (conforms) or "N" (violates) with a one-line '
-        'reason. A turn passes only if every dimension is "Y". Respond with ONLY a JSON '
+        "You are a fidelity grader for a benchmark. Your ONLY task is to judge whether the "
+        "PATIENT TURN is behaviorally consistent with the assigned patient profile and stays "
+        "in character as the patient.\n\n"
+        "CRITICAL — judge BEHAVIOR, not labels. The profile's clinical terms (engine/"
+        "direction, distortion class, severity register, delivery, disclosure depth, etc.) "
+        "are the analyst's labels. The patient does NOT know them and must NEVER name or "
+        "announce them. A patient who shows self-blame and self-doubt IS exhibiting an "
+        "internalizing distortion even though they never say 'internalizing'; a patient who "
+        "leans on the listener for reassurance and direction IS exhibiting Dependency without "
+        "naming it. Do NOT mark a dimension 'N' merely because the patient did not explicitly "
+        "state or label its engine, distortion, severity, or disclosure level — that would be "
+        "a violation of character. Mark 'N' only when the turn clearly CONTRADICTS the profile "
+        "(wrong emotional register, breaks character, or exhibits the opposite behavior).\n\n"
+        "You are NOT advising the therapist, NOT continuing the conversation, and NOT "
+        'suggesting responses. For each dimension give a verdict "Y" (behaviorally consistent) '
+        'or "N" (contradicts the profile) with a one-line reason. Respond with ONLY a JSON '
         "object and nothing else."
     )
 
