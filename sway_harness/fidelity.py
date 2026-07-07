@@ -32,14 +32,11 @@ from typing import Dict, List, Optional
 # ──────────────────────────────────────────────────────────────────────
 # Calibration targets — READ THESE OFF THE HAND-LABELED GOLD ARC.
 # The values below are the spec's plausible starting guesses so the loop can
-# run, NOT ground truth. A real in-profile Hot arc might throw 4 hot turns or 6,
-# and a real Moderate arc might sit at 80% in-band. Once a gold transcript
-# exists, set these to bracket its observed distribution.
+# run, NOT ground truth. A real in-profile Hot arc might throw 4 hot turns or 6.
+# Once a gold transcript exists, set these to bracket its observed distribution.
 # ──────────────────────────────────────────────────────────────────────
 WARM_MAX_HOT_TURNS = 1        # Warm delivery passes if hot turns <= this        (calibrate)
 HOT_MIN_HOT_TURNS = 2         # Hot delivery passes if hot turns >= this         (calibrate)
-SEVERITY_INBAND_MIN = 0.70    # >= this fraction of turns in the target band     (calibrate)
-SEVERITY_OVER_CEIL = 0.10     # (Moderate target) <= this fraction over-intense  (calibrate)
 
 # ──────────────────────────────────────────────────────────────────────
 # Robust thresholds — spec table, safe to start here and only revisit if noisy.
@@ -61,10 +58,13 @@ STANDARD_CONVERGENCE = 0.90   # each scored dim needs >= 0.90 of arcs passing L1
 GATE_BREACHES_ALLOWED = 0     # vetoes must be clean across every arc (10/10)
 MAX_DISCARD_FRAC = 0.10       # discarding > ~1/10 for breaks => leaky prompt, rewrite
 
-# The eight scored dimensions (carriage is scored only when a schedule exists).
+# The scored dimensions (carriage is scored only when a schedule exists).
+# Severity was removed in v1.1 — it was never a well-posed target (the profile
+# never specified depression vs anxiety / a PHQ-9 vs GAD-7 band), so it isn't
+# graded. Crisis/item-9 content remains a hard safety veto (see classify_transcript).
 SCORED_DIMENSIONS = [
     "engine_direction", "delivery", "distortion_carriage", "forthcomingness",
-    "disclosure_depth", "comprehension", "expression", "severity_affect",
+    "disclosure_depth", "comprehension", "expression",
 ]
 
 # Delivery direction-error tags. A Warm profile throwing hot turns is enacting
@@ -97,8 +97,8 @@ def target_poles(profile: dict) -> dict:
     """The in-profile pole for each dimension, read from the cell profile.
 
     Backbone cells hold everything but engine+delivery at the realism baseline
-    (Voluble / Open / Follows / Articulate / Moderate); probes pin one axis off
-    a base cell. We read whatever the profile carries and fall back to baseline.
+    (Voluble / Open / Follows / Articulate); probes pin one axis off a base cell.
+    We read whatever the profile carries and fall back to baseline.
     """
     engine = _norm(profile.get("engine"), "neutral")
     return {
@@ -109,7 +109,6 @@ def target_poles(profile: dict) -> dict:
         "disclosure_depth": _norm(profile.get("disclosure_depth"), "open"),
         "comprehension": _norm(profile.get("comprehension"), "follows"),
         "expression": _norm(profile.get("expression"), "articulate"),
-        "severity": _norm(profile.get("severity"), "moderate"),
     }
 
 
@@ -206,18 +205,6 @@ def _classify_rate(labels: List[dict], key: str, hit: str, min_rate: float, targ
     return DimResult(rate >= min_rate, f"{rate:.0%} {target} (>= {min_rate:.0%})")
 
 
-def _classify_severity(labels: List[dict], target_band: str) -> DimResult:
-    bands = [_get(l, "severity_band", "moderate") for l in labels]
-    n = max(len(bands), 1)
-    in_band = sum(1 for b in bands if b == target_band) / n
-    if target_band == "moderate":
-        over = sum(1 for b in bands if b == "severe") / n
-        ok = in_band >= SEVERITY_INBAND_MIN and over <= SEVERITY_OVER_CEIL
-        return DimResult(ok, f"{in_band:.0%} in-band (>= {SEVERITY_INBAND_MIN:.0%}), {over:.0%} over-intense (<= {SEVERITY_OVER_CEIL:.0%})")
-    ok = in_band >= SEVERITY_INBAND_MIN
-    return DimResult(ok, f"{in_band:.0%} in {target_band} band (>= {SEVERITY_INBAND_MIN:.0%})")
-
-
 def _classify_carriage(labels: List[dict], schedule: Optional[List[str]]) -> Optional[DimResult]:
     """Two-sided carriage check — only meaningful once the schedule tags beats.
 
@@ -268,7 +255,6 @@ def classify_transcript(
         "disclosure_depth": _classify_disclosure(turn_labels, poles["disclosure_depth"]),
         "comprehension": _classify_rate(turn_labels, "comprehension", "follows", COMPREHENSION_MIN_RATE, poles["comprehension"]),
         "expression": _classify_rate(turn_labels, "expression", "articulate", EXPRESSION_MIN_RATE, poles["expression"]),
-        "severity_affect": _classify_severity(turn_labels, poles["severity"]),
     }
     carriage = _classify_carriage(turn_labels, schedule)
     if carriage is not None:

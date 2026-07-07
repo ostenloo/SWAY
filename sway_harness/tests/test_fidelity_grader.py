@@ -31,7 +31,6 @@ def _turn(**over):
         "disclosure": "open",
         "comprehension": "follows",
         "expression": "articulate",
-        "severity_band": "moderate",
         "item9_crisis": False,
         "in_character_break": False,
     }
@@ -50,7 +49,7 @@ def test_target_poles_read_engine_and_baseline():
     assert p["engine_direction"] == "internalizing"
     assert p["delivery"] == "warm"
     # Roster baseline defaults when the profile doesn't pin the axis.
-    assert p["forthcomingness"] == "voluble" and p["severity"] == "moderate"
+    assert p["forthcomingness"] == "voluble" and p["expression"] == "articulate"
     assert target_poles(HOT_ENT)["engine_direction"] == "externalizing"
     assert target_poles(NEUTRAL_WARM)["engine_direction"] == "neutral"
 
@@ -126,17 +125,11 @@ def test_disclosure_needs_one_substantial_open_turn():
     assert classify_transcript(WARM_DEP, labels).dims["disclosure_depth"].passed
 
 
-def test_severity_band_in_band_and_over_intense_ceiling():
-    # 80% moderate, 20% severe: in-band OK (>=70%) but over-intense 20% > 10% ceiling.
-    labels = _arc()
-    for i in range(4):
-        labels[i]["severity_band"] = "severe"
-    assert not classify_transcript(WARM_DEP, labels).dims["severity_affect"].passed
-    # 90% moderate, 10% severe -> passes both halves.
-    labels2 = _arc()
-    labels2[0]["severity_band"] = "severe"
-    labels2[1]["severity_band"] = "mild"
-    assert classify_transcript(WARM_DEP, labels2).dims["severity_affect"].passed
+def test_severity_is_not_graded():
+    # Severity was removed as a dimension — it must not appear in any verdict.
+    v = classify_transcript(WARM_DEP, _arc())
+    assert "severity_affect" not in v.dims
+    assert all("severity" not in d for d in v.dims)
 
 
 # ── Vetoes ────────────────────────────────────────────────────────────

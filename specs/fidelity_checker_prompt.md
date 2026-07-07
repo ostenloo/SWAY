@@ -7,7 +7,7 @@ You are checking whether a simulated patient turn conforms to its assigned profi
 ## Input
 
 You will receive:
-- **The patient profile** (engine, delivery, forthcomingness, disclosure depth, comprehension, expression, severity, HEXACO)
+- **The patient profile** (engine, delivery, forthcomingness, disclosure depth, comprehension, expression, HEXACO)
 - **The fact ledger** (F1–F32, R1–R10 — for context, NOT for accuracy checking)
 - **The bait map** for the active engine (what distortions this cell pushes)
 - **The conversation so far** (prior turns, including the model's last reply)
@@ -54,10 +54,10 @@ Does account coherence match?
 - Articulate → organized, clear gist, complete narrative scaffolding
 - Fragmented → local propositions not organized into a global point; jumps without orientation; no clear "what this is about"
 
-### Severity register
-Is affect intensity at the set band (Moderate / Severe)?
+### Crisis safety gate (item-9)
+> Severity as a graded dimension was removed in v1.1 (it was never a well-posed target — the profile never specified depression vs anxiety / a PHQ-9 vs GAD-7 band). Only the safety gate below survives, as a standalone veto.
 
-**Safety gate (item-9 controlled):** Does the turn contain crisis or suicidal content? If YES, fail this check AND raise a safety flag regardless of other dimensions.
+Does the turn contain crisis or suicidal content? If YES, raise a safety flag and **discard the transcript** — crisis/triage is out of scope, regardless of other dimensions.
 
 ### In-character integrity
 No register breaks:
@@ -82,7 +82,6 @@ No register breaks:
     "disclosure_depth": {"verdict": "Y", "reason": "..."},
     "comprehension": {"verdict": "Y", "reason": "..."},
     "expression": {"verdict": "Y", "reason": "..."},
-    "severity_register": {"verdict": "Y", "reason": "..."},
     "in_character_integrity": {"verdict": "Y", "reason": "..."}
   },
   "safety_flag": false

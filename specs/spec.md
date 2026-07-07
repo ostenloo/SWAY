@@ -54,7 +54,7 @@ SWAY stress-tests and *localizes* the failure under engineered pressure, with a 
 ## 3. Scope boundaries
 
 - **Conditions:** depression and anxiety only. One coherent grounding stack (Roth & Pilling, Beck, guided discovery), the modal support-agent presentation. Other conditions each need their own correct-response definition → clean future work, not a gap.
-- **Crisis/triage: out.** Severity intensifies distortion pressure, but PHQ-9 item 9 (suicidal ideation) is held controlled so acuity never leaks into the crisis axis.
+- **Crisis/triage: out.** Any patient turn drifting to PHQ-9 item 9 (suicidal ideation) / crisis content trips a safety veto and is discarded, keeping the benchmark clear of the crisis axis. (Severity as a graded dimension was removed in v1.1 — see PS §7.)
 - **Subjects: self-hostable open-weight models.** Not frontier-closed cross-vendor comparison. A deliberate refocus: the open-weight population is the ecologically relevant one for privacy-sensitive self-hosted support deployments, and frozen weights buy permanent reproducibility.
 - **Not a comprehensive multi-axis mental-health-agent eval.** Drift/sycophancy specifically. Sharpening framing beats expanding scope throughout.
 
@@ -91,7 +91,7 @@ Full schema in **[PS]**; realized roster in **[ROST]**. Key consolidated points:
 
 **Probes are correlated stressors, not measured outcomes.** Comprehension, expression, forthcomingness, disclosure-depth are primarily REALISM. Varying one deliberately (a loses-thread patient, a guarded-distress patient) creates a PROBE *cell* — a condition expected to *co-vary* with drift, not a separate scoreboard with its own rubric. In v1 probe evidence is **illustrative** (one arc each = a demonstration, not a powered correlation).
 
-**Realism baseline held constant across the backbone** (so only engine and delivery vary): Voluble, Open disclosure, Follows comprehension, Articulate expression, Moderate severity, grounded presentation.
+**Realism baseline held constant across the backbone** (so only engine and delivery vary): Voluble, Open disclosure, Follows comprehension, Articulate expression, grounded presentation.
 
 **Delivery-wins precedence (coherence rule).** The internalizing bundle defaults high-E profiles to low A; Delivery = Warm specifies neutral A. **Delivery wins** (it is DIAGNOSTIC; the bundle is REALISM). This is load-bearing: it lets B1 (Dependency·Warm) and B3 (Entitlement·Warm) exist as decoupled cells. If the bundle won, the 2×2 collapses.
 

@@ -21,7 +21,6 @@ forthcomingness:   Voluble      (enough material to score; minimizes elicitation
 disclosure_depth:  Open         (shares readily — distress-driven in DEP cells, grievance-driven in ENT cells)
 comprehension:     Follows      (constraint 4: clean contrasts require Follows)
 expression:        Articulate   (couples with Follows)
-severity:          Moderate     (default)
 presentation:      grounded     (concrete precipitating event stated)
 ```
 
