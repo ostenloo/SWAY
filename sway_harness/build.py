@@ -11,6 +11,8 @@ Loop:
 
 import json
 import logging
+import shutil
+import time
 from pathlib import Path
 from typing import Dict, List, Optional
 
@@ -182,17 +184,23 @@ def optimize_prompt(
         )
         fact_base_text = f"Established facts:\n{facts_text}\n\nIndeterminacy reservoir (must stay open):\n{reservoir_text}"
 
-        # Create artifacts dir for this cell
+        # Create artifacts dir for this cell. Clear any iter_* dirs from a prior
+        # run so the trajectory report never mixes stale iterations with fresh ones.
         cell_artifacts = BUILD_ARTIFACTS / cell_id
         cell_artifacts.mkdir(parents=True, exist_ok=True)
+        for old in cell_artifacts.glob("iter_*"):
+            if old.is_dir():
+                shutil.rmtree(old, ignore_errors=True)
         progress_file = cell_artifacts / "progress.txt"
 
         best_prompt = None
         best_adherence = -1.0
         best_feedback = None
         best_dim_rates = None
+        run_start = time.time()
 
         for iteration in range(build_cfg.max_iterations):
+            iter_start = time.time()
             iter_dir = cell_artifacts / f"iter_{iteration}"
             iter_dir.mkdir(parents=True, exist_ok=True)
 
@@ -291,10 +299,16 @@ def optimize_prompt(
                 best_dim_rates = dim_rates
                 best_feedback = _select_diverse_feedback(failures, build_cfg.n_feedback)
 
+            iter_secs = time.time() - iter_start
+            total_secs = time.time() - run_start
+            with open(iter_dir / "timing.json", "w") as f:
+                json.dump({"iter_seconds": round(iter_secs, 1), "total_seconds": round(total_secs, 1)}, f)
+
             rate_str = ", ".join(
                 f"{d} {dim_rates[d]:.0%}" for d in sorted(dim_rates, key=lambda d: dim_rates[d])
             ) or "(no dims scored)"
-            _write_iteration_summary(iter_dir / "summary.txt", iteration, conv, improved, best_adherence, rate_str)
+            _write_iteration_summary(iter_dir / "summary.txt", iteration, conv, improved,
+                                     best_adherence, rate_str, iter_secs, total_secs)
             _write_scores_by_iteration(cell_artifacts, cell_id)
 
             logger.info(
@@ -595,11 +609,20 @@ def _slim_label(turn_label: dict) -> dict:
     return {k: turn_label.get(k) for k in keys}
 
 
-def _write_iteration_summary(path, iteration, conv, improved, best_adherence, rate_str):
+def _fmt_secs(s) -> str:
+    """Seconds → compact 'Xm YYs' (or 'Ys' under a minute)."""
+    s = int(round(s or 0))
+    return f"{s // 60}m{s % 60:02d}s" if s >= 60 else f"{s}s"
+
+
+def _write_iteration_summary(path, iteration, conv, improved, best_adherence, rate_str,
+                             iter_secs=None, total_secs=None):
     """Human-readable per-iteration summary of the two-level result."""
     discarded = conv.n_total - conv.n_valid
     with open(path, "w") as f:
         f.write(f"Iteration {iteration}\n")
+        if iter_secs is not None:
+            f.write(f"Time: this iter {_fmt_secs(iter_secs)}, total {_fmt_secs(total_secs)}\n")
         f.write(f"Adherence (mean per-dim pass frac): {conv.adherence:.1%}\n")
         f.write(f"Spread (weakest scored dim): {conv.spread:.1%} "
                 f"({'PASS' if conv.spread >= 0.90 else 'below 0.90 — fragile axis'})\n")
@@ -643,12 +666,19 @@ def _write_scores_by_iteration(cell_artifacts: Path, cell_id: str) -> None:
             conv = json.loads(fp.read_text()).get("convergence")
         except Exception:
             conv = None
+        timing = {}
+        tp = d / "timing.json"
+        if tp.exists():
+            try:
+                timing = json.loads(tp.read_text())
+            except Exception:
+                timing = {}
         if conv:
-            rows.append((int(d.name.split("_")[1]), conv))
+            rows.append((int(d.name.split("_")[1]), conv, timing))
     if not rows:
         return
 
-    dims = [x for x in SCORED_DIMENSIONS if any(x in c["dim_pass_frac"] for _, c in rows)]
+    dims = [x for x in SCORED_DIMENSIONS if any(x in c["dim_pass_frac"] for _, c, _ in rows)]
     lines = [
         f"# {cell_id.upper()} — dimension pass-rates over {len(rows)} iteration(s)",
         "",
@@ -656,11 +686,11 @@ def _write_scores_by_iteration(cell_artifacts: Path, cell_id: str) -> None:
         "Convergence needs EVERY scored dim ≥ 90% (spread guard) AND vetoes clean;",
         "the mean is reporting-only — it can look fine while one axis stays fragile.",
         "",
-        "| iter | mean | spread | conv | " + " | ".join(_DIM_SHORT.get(x, x) for x in dims) + " | disc | best |",
-        "|" + "---|" * (5 + len(dims) + 1),
+        "| iter | time | mean | spread | conv | " + " | ".join(_DIM_SHORT.get(x, x) for x in dims) + " | disc | best |",
+        "|" + "---|" * (6 + len(dims) + 1),
     ]
     best, best_iter, converged_iters = -1.0, None, []
-    for n, c in rows:
+    for n, c, timing in rows:
         is_best = c["adherence"] > best
         if is_best:
             best, best_iter = c["adherence"], n
@@ -668,11 +698,16 @@ def _write_scores_by_iteration(cell_artifacts: Path, cell_id: str) -> None:
             converged_iters.append(n)
         cells = " | ".join(f"{c['dim_pass_frac'].get(x, 0):.0%}" for x in dims)
         disc = c["n_total"] - c["n_valid"]
-        lines.append(f"| {n} | {c['adherence']:.0%} | {c['spread']:.0%} | {c['converged']} | "
+        t = _fmt_secs(timing["iter_seconds"]) if "iter_seconds" in timing else "-"
+        lines.append(f"| {n} | {t} | {c['adherence']:.0%} | {c['spread']:.0%} | {c['converged']} | "
                      f"{cells} | {disc}/{c['n_total']} | {'★' if is_best else ''} |")
 
-    walls = [x for x in dims if all(c["dim_pass_frac"].get(x, 0) < 0.90 for _, c in rows)]
-    lines += ["", f"- Best iteration: **iter {best_iter}** (mean {best:.0%})."]
+    total = next((c[2].get("total_seconds") for c in reversed(rows) if c[2].get("total_seconds")), None)
+    walls = [x for x in dims if all(c["dim_pass_frac"].get(x, 0) < 0.90 for _, c, _ in rows)]
+    lines += [""]
+    if total:
+        lines.append(f"- Total elapsed: **{_fmt_secs(total)}** over {len(rows)} iteration(s).")
+    lines.append(f"- Best iteration: **iter {best_iter}** (mean {best:.0%}).")
     if converged_iters:
         lines.append(f"- **CONVERGED** at iteration(s): {converged_iters}.")
     else:
