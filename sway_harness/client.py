@@ -124,6 +124,20 @@ def swap_roles(messages: list) -> list:
     return [{**m, "role": flip.get(m["role"], m["role"])} for m in messages]
 
 
+# Simulator persona-framing modes (config: roles.simulator.framing).
+#   "roleplay"   — the current explicit assistant-role instruction.
+#   "completion" — port of Roleplay-doh's finding that eliciting the patient as a
+#                  *continuation of that person's own speech*, rather than
+#                  instructing an assistant to roleplay a patient, suppresses
+#                  assistant-register leak (therapist-speak, gratitude, premature
+#                  self-resolution). Ollama exposes no raw-completion endpoint, so
+#                  over /v1/chat/completions it approximates the effect by dropping
+#                  the assistant / helper / advice / therapist framing and
+#                  presenting the profile as an established first-person self to be
+#                  continued verbatim.
+SIMULATOR_FRAMINGS = ("roleplay", "completion")
+
+
 def patient_system_prompt(character_prompt: str) -> str:
     """Frame the optimizer-authored patient prompt with an explicit role.
 
@@ -138,6 +152,41 @@ def patient_system_prompt(character_prompt: str) -> str:
         "feelings, stay fully in character, and never act as the therapist or give advice.\n\n"
         + character_prompt
     )
+
+
+def patient_completion_prompt(character_prompt: str) -> str:
+    """Completion-framing: elicit the patient as a continuation of their own speech.
+
+    Deliberately omits the "you are an assistant roleplaying" / "talking to a
+    therapist" / "never give advice" register that primes helper behaviour. The
+    profile is presented as this person's own established first-person account,
+    and the only instruction is to keep speaking as them — no stepping outside,
+    no shifting into anyone else's voice.
+    """
+    return (
+        "Below is one person's own account, in their first-person voice, of who "
+        "they are and what they are going through. Continue speaking AS this "
+        "person: only their own words, thoughts, and feelings. Do not narrate or "
+        "comment on them from the outside, do not step out of their voice, and do "
+        "not answer as anyone else.\n\n"
+        + character_prompt
+    )
+
+
+def frame_patient(character_prompt: str, framing: str = "roleplay") -> str:
+    """Frame the patient profile for the simulator per the configured mode.
+
+    See SIMULATOR_FRAMINGS. Both modes are delivered as a single system message
+    (Ollama has no raw-completion endpoint), so callers can keep their existing
+    [{system}, *transcript] shape and only swap which string this returns.
+    """
+    if framing not in SIMULATOR_FRAMINGS:
+        raise ValueError(
+            f"Unknown simulator framing {framing!r}; expected one of {SIMULATOR_FRAMINGS}"
+        )
+    if framing == "completion":
+        return patient_completion_prompt(character_prompt)
+    return patient_system_prompt(character_prompt)
 
 
 # Throwaway prompts used only to elicit the patient's opening turn. They are NOT

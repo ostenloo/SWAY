@@ -14,16 +14,16 @@ import logging
 from pathlib import Path
 from typing import List, Dict, Optional
 
-from client import get_completion, swap_roles, patient_system_prompt, LocalError
+from client import get_completion, swap_roles, frame_patient, LocalError
 from config import ROOT, RoleConfig, RunConfig, ServerConfig, CaptureConfig, PATHS
 
 logger = logging.getLogger(__name__)
 
 
-def build_system_prompt(frozen_prompt_path: Path) -> str:
+def build_system_prompt(frozen_prompt_path: Path, framing: str = "roleplay") -> str:
     """Load a frozen, certified patient system prompt and role-frame it."""
     with open(frozen_prompt_path) as f:
-        return patient_system_prompt(f.read().strip())
+        return frame_patient(f.read().strip(), framing)
 
 
 def generate_patient_turn(
@@ -66,7 +66,7 @@ def run_conversation(
 
     Returns the transcript (list of {role, content} dicts).
     """
-    system_prompt = build_system_prompt(frozen_prompt_path)
+    system_prompt = build_system_prompt(frozen_prompt_path, roles.simulator.framing)
     # Patient opens. Dummy user opener satisfies vLLM's "must have user" rule.
     # NOTE: score_turn assumes patient turns at odd indices (patient_idx =
     # 1 + turn_idx*2), so this leading turn must stay to keep scoring aligned.

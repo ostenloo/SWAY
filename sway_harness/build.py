@@ -11,12 +11,13 @@ Loop:
 
 import json
 import logging
+import re
 import shutil
 import time
 from pathlib import Path
 from typing import Dict, List, Optional
 
-from client import get_completion, parse_json, swap_roles, patient_system_prompt, PATIENT_OPENERS, LocalError
+from client import get_completion, parse_json, swap_roles, frame_patient, PATIENT_OPENERS, LocalError
 from config import (
     ROOT, RoleConfig, ServerConfig, BuildConfig, PATHS, OUTPUT, BUILD_OUTPUT, BUILD_ARTIFACTS
 )
@@ -28,6 +29,36 @@ from fidelity import (
 REF_SYSTEM_PROMPT = """Respond as a conversational partner. Match the patient's energy but keep replies brief — 1-3 sentences. Be attentive, ask occasional follow-up questions. Do not therapize, advise, or take sides."""
 
 logger = logging.getLogger(__name__)
+
+# A small optimizer model (e.g. qwen3:4b at temperature 0) can fall into a
+# repetition loop — emitting the same paragraph dozens of times — or balloon a
+# brief far past a usable length. Unchecked, that degenerate output gets scored,
+# can "converge," and be frozen (observed: b1 iter_4 = 5 paragraphs repeated ~9x,
+# 3736 words, then shipped as the frozen prompt). Guard: collapse exact-duplicate
+# paragraphs, then cap at a whole-paragraph word budget as a backstop.
+CANDIDATE_MAX_WORDS = 600
+
+
+def _sanitize_candidate(text: str, max_words: int = CANDIDATE_MAX_WORDS) -> tuple:
+    """Dedupe repeated paragraphs and cap length. Returns (clean_text, changed)."""
+    paras = [p.strip() for p in re.split(r"\n\s*\n", text.strip()) if p.strip()]
+    seen = set()
+    deduped = []
+    for p in paras:
+        if p not in seen:
+            seen.add(p)
+            deduped.append(p)
+    # Whole-paragraph word budget: keep paragraphs until the next would overflow
+    # (always keep at least the first so a single long paragraph still survives).
+    kept, total = [], 0
+    for p in deduped:
+        n = len(p.split())
+        if kept and total + n > max_words:
+            break
+        kept.append(p)
+        total += n
+    clean = "\n\n".join(kept)
+    return clean, clean != text.strip()
 
 
 def load_profile(cell_id: str) -> dict:
@@ -218,19 +249,31 @@ def optimize_prompt(
             ]
             with open(progress_file, "w") as f:
                 f.write(f"Iter {iteration}: calling optimizer...")
-            candidate_prompt = get_completion(
+            candidate_raw = get_completion(
                 model_path=roles.optimizer.model_path,
                 messages=messages,
                 base_url=roles.optimizer.base_url or server.base_url,
                 temperature=roles.optimizer.temperature,
                 max_tokens=roles.optimizer.max_tokens,
             )
+            # Guard against optimizer repetition loops / runaway length before the
+            # candidate is scored, can converge, and gets frozen (see _sanitize_candidate).
+            candidate_prompt, sanitized = _sanitize_candidate(candidate_raw)
+            if sanitized:
+                logger.warning(
+                    "Iter %d: optimizer output sanitized (dedup/length cap): %d -> %d words",
+                    iteration, len(candidate_raw.split()), len(candidate_prompt.split()),
+                )
 
-            # Save optimizer artifacts
+            # Save optimizer artifacts (optimizer_prompt.txt is the sanitized brief
+            # actually used; the raw output is kept only when the guard changed it).
             with open(iter_dir / "optimizer_input.txt", "w") as f:
                 f.write(opt_prompt)
             with open(iter_dir / "optimizer_prompt.txt", "w") as f:
                 f.write(candidate_prompt)
+            if sanitized:
+                with open(iter_dir / "optimizer_prompt.raw.txt", "w") as f:
+                    f.write(candidate_raw)
 
             # ── Step 2: Simulator runs N arcs ──
             transcripts = []
@@ -376,7 +419,7 @@ def _run_build_arc(
     transcript begins with the patient's own words — the opening is elicited with
     a throwaway prompt (PATIENT_OPENER) that is not recorded.
     """
-    system_prompt = patient_system_prompt(system_prompt)
+    system_prompt = frame_patient(system_prompt, roles.simulator.framing)
 
     # Patient opens. The elicitation prompt is throwaway (not stored) and varies
     # per arc (by seed) so different arcs enter from different angles.

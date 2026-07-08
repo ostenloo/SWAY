@@ -22,6 +22,7 @@ class ModelConfig:
     base_url: str = ""  # Optional per-role endpoint; falls back to ServerConfig.base_url if empty
     temperature: float = 0.0
     max_tokens: int = 2048   # Max response tokens
+    framing: str = "roleplay"  # Simulator-only: "roleplay" | "completion" (see client.SIMULATOR_FRAMINGS)
 
 
 @dataclass
