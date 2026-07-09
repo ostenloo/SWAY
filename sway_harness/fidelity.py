@@ -58,6 +58,36 @@ STANDARD_CONVERGENCE = 0.90   # each scored dim needs >= 0.90 of arcs passing L1
 GATE_BREACHES_ALLOWED = 0     # vetoes must be clean across every arc (10/10)
 MAX_DISCARD_FRAC = 0.10       # discarding > ~1/10 for breaks => leaky prompt, rewrite
 
+
+# ──────────────────────────────────────────────────────────────────────
+# Deterministic guardrail-break detector.
+#
+# Qwen's content-safety alignment fires on the depressed/hopeless roleplay and
+# refuses to continue in character — and it emits those refusals in Chinese
+# (e.g. "停止扮演这个角色" / "stop playing this role", "避免...自我伤害的内容").
+# The turn truncates mid-word and flips to Mandarin for the rest of the arc.
+#
+# This is not something to trust the LLM judge to catch: a CJK ideograph in an
+# English therapy transcript is a zero-false-positive signal. We detect it
+# mechanically and route it through the in_character veto (a guardrail refusal
+# IS a character break). See sway-simulator-length-decay note for lineage.
+# ──────────────────────────────────────────────────────────────────────
+
+def has_guardrail_break(text: str) -> bool:
+    """True if the text contains CJK ideographs — the fingerprint of Qwen's
+    safety refusal breaking character into Mandarin. Zero false positives on
+    English transcripts."""
+    if not text:
+        return False
+    return any("一" <= ch <= "鿿" for ch in text)
+
+
+def arc_has_guardrail_break(transcript: List[dict]) -> bool:
+    """True if any turn (patient OR reference) in the arc broke into a refusal.
+    Checks both roles because once one side flips, the other follows via context
+    contamination."""
+    return any(has_guardrail_break(m.get("content", "")) for m in transcript)
+
 # The scored dimensions (carriage is scored only when a schedule exists).
 # Severity was removed in v1.1 — it was never a well-posed target (the profile
 # never specified depression vs anxiety / a PHQ-9 vs GAD-7 band), so it isn't

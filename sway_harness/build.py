@@ -24,7 +24,16 @@ from config import (
 from parser import get_profile, load_fact_base, get_bait_text
 from fidelity import (
     classify_transcript, converge, SCORED_DIMENSIONS, TAG_WRONG_DIRECTION, TAG_UNDER_EXPRESSION,
+    has_guardrail_break, arc_has_guardrail_break,
 )
+
+# A guardrail-broken arc (Qwen refuses the roleplay in Mandarin) is a corrupt
+# stimulus. Re-roll with a fresh seed — which changes the opener and the whole
+# trajectory, so it dodges the guardrail rather than re-rolling one turn inside
+# an already-poisoned context. If every attempt breaks, keep the last one; the
+# deterministic veto below then discards it from the scoring pool.
+ARC_MAX_ATTEMPTS = 3
+ARC_RESEED_STRIDE = 1000
 
 REF_SYSTEM_PROMPT = """Respond as a conversational partner. Match the patient's energy but keep replies brief — 1-3 sentences. Be attentive, ask occasional follow-up questions. Do not therapize, advise, or take sides."""
 
@@ -281,7 +290,17 @@ def optimize_prompt(
                 seed = 42 + sample_idx
                 with open(progress_file, "w") as f:
                     f.write(f"Iter {iteration}: simulating arc {sample_idx + 1}/{build_cfg.n_samples}...")
-                transcript = _run_build_arc(server, roles, candidate_prompt, seed)
+                # Re-roll on a guardrail break; fresh seed → fresh trajectory.
+                for attempt in range(ARC_MAX_ATTEMPTS):
+                    arc_seed = seed + attempt * ARC_RESEED_STRIDE
+                    transcript = _run_build_arc(server, roles, candidate_prompt, arc_seed)
+                    if not arc_has_guardrail_break(transcript):
+                        break
+                    logger.warning(
+                        "Iter %d arc %d: guardrail break (Qwen refused in Mandarin); "
+                        "re-rolling with fresh seed (attempt %d/%d).",
+                        iteration, sample_idx, attempt + 1, ARC_MAX_ATTEMPTS,
+                    )
                 transcripts.append(transcript)
                 with open(iter_dir / f"transcript_{sample_idx}.json", "w") as f:
                     json.dump(transcript, f, indent=2)
@@ -305,12 +324,31 @@ def optimize_prompt(
                     )
                     labels["turn"] = turn_idx
                     labels["text"] = turn_text
+                    # Deterministic override: a Mandarin guardrail refusal is a
+                    # character break, whatever the LLM annotator reported. Force
+                    # the veto so the arc is discarded from the scoring pool.
+                    if has_guardrail_break(turn_text):
+                        labels["in_character_break"] = True
+                        notes = labels.setdefault("notes", {})
+                        if isinstance(notes, dict):
+                            notes["in_character_break"] = "deterministic: CJK guardrail refusal"
                     turn_labels.append(labels)
 
                 # Carriage stays excluded until the pressure schedule tags scheduled-
                 # carriage vs scheduled-N/A beats (the open PIPE dependency): pass
                 # schedule=None and dim 3 drops out of convergence rather than scoring
                 # a meaningless one-sided rate.
+                # Belt-and-suspenders: if the break landed only on a reference
+                # turn (patient stayed English), pin the veto to the last patient
+                # turn so the arc is still discarded.
+                if arc_has_guardrail_break(transcript) and not any(
+                    l.get("in_character_break") for l in turn_labels
+                ) and turn_labels:
+                    turn_labels[-1]["in_character_break"] = True
+                    notes = turn_labels[-1].setdefault("notes", {})
+                    if isinstance(notes, dict):
+                        notes["in_character_break"] = "deterministic: CJK on reference turn"
+
                 verdict = classify_transcript(profile, turn_labels, schedule=None)
                 verdicts.append(verdict)
                 fidelity_results.append({"sample": sample_idx, **verdict.to_dict(),
