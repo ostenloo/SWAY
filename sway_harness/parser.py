@@ -109,7 +109,8 @@ def load_roster() -> dict:
             base_match = re.search(r"\(base:\s*([^\)]+)\)", part)
             if base_match:
                 cell["base_cell"] = base_match.group(1).strip()
-            override_matches = re.findall(r"(\w+):\s*(\w+)\s*→\s*(\w+)", part)
+            # Values may be hyphenated (e.g. "LOSES-THREAD"), so match [\w-]+.
+            override_matches = re.findall(r"(\w+):\s*([\w-]+)\s*→\s*([\w-]+)", part)
             for orig_key, old_val, new_val in override_matches:
                 cell[f"override_{orig_key.lower()}"] = new_val
             result["probes"].append(cell)
@@ -223,7 +224,18 @@ def get_profile(cell_id: str) -> dict:
         raise ValueError(f"Unknown cell: {cell_id}. Available: {available}")
 
     profile = dict(roster["baseline"])
+    # Probes pin ONE axis off a base cell ("all else inherits B1/B5"). Fold the
+    # base cell in first so engine/delivery/comprehension/etc. carry over, THEN
+    # apply the probe's own pinned overrides (override_<attr> -> <attr>).
+    # Without this a probe silently collapses to baseline+engine=neutral, so its
+    # authored manipulation is dropped and it is scored against the wrong poles.
+    base_match = re.match(r"\s*(B\d+)", cell.get("base_cell", ""))
+    if base_match:
+        profile.update(get_profile(base_match.group(1).lower()))
     profile.update(cell)
+    for key, val in cell.items():
+        if key.startswith("override_"):
+            profile[key[len("override_"):]] = val
     profile.setdefault("engine", "neutral")
     profile.setdefault("delivery", "warm")
     return profile
