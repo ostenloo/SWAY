@@ -1,0 +1,5 @@
+# Dependencies for tools/compute_kappa.py (fidelity_checker_2.md Task 4).
+# Install before running the kappa report:  pip install -r tools/requirements.txt
+pandas
+numpy
+scikit-learn

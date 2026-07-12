@@ -54,9 +54,27 @@ CARRIAGE_MIN_CLEAN_RATE = 0.90    # >= 90% clean on scheduled-N/A beats
 # ──────────────────────────────────────────────────────────────────────
 # Level-2 convergence bars (spec §Level 2 / PIPE §4.2).
 # ──────────────────────────────────────────────────────────────────────
-STANDARD_CONVERGENCE = 0.90   # each scored dim needs >= 0.90 of arcs passing L1
+STANDARD_CONVERGENCE = 0.90   # legacy flat bar (retained for reference/reporting)
 GATE_BREACHES_ALLOWED = 0     # vetoes must be clean across every arc (10/10)
 MAX_DISCARD_FRAC = 0.10       # discarding > ~1/10 for breaks => leaky prompt, rewrite
+
+# ── Diagnostic-subset gate (fidelity_checker_2.md Task 3) ──────────────────────
+# Cells gate on the DIAGNOSTIC (active-ingredient) dims only — engine + delivery.
+# Realism dims (forthcomingness/disclosure/comprehension/expression) and carriage are
+# still computed for analysis but MUST NOT gate convergence: letting a realism lapse
+# veto a cell on equal footing with the measurement is a category error. Treatment-
+# fidelity practice holds adherence-to-active-ingredients to a high bar and treats the
+# rest separately.
+DIAGNOSTIC_DIMENSIONS = ["engine_direction", "delivery"]  # + distortion_carriage when restored
+
+# Engine: anchored to the human content-channel ceiling (~0.89-0.93, Erby/Tamblyn).
+# 0.80 is a defensible bar below the human ceiling but above chance-noise.
+ENGINE_CONVERGENCE_BAR = 0.80
+# Delivery: the affective channel is intrinsically noisier (Baig/Erby); the correct bar
+# is read off the gold set AFTER the judge clears its kappa audit (tools/compute_kappa.py).
+# Until then delivery is REPORT-ONLY — computed and printed, but it does NOT gate.
+DELIVERY_CONVERGENCE_BAR = None
+DELIVERY_GATING_ENABLED = False   # flip True once kappa>=~0.80 AND the bar is set
 
 
 # ──────────────────────────────────────────────────────────────────────
@@ -357,19 +375,29 @@ def converge(verdicts: List[TranscriptVerdict]) -> ConvergenceResult:
         TAG_UNDER_EXPRESSION: sum(1 for v in valid if v.dims.get("delivery") and v.dims["delivery"].tag == TAG_UNDER_EXPRESSION),
     }
 
-    spread = min(dim_pass_frac.values()) if dim_pass_frac else 0.0
+    # adherence stays a mean over ALL scored dims (reporting / hill-climb only).
     adherence = sum(dim_pass_frac.values()) / len(dim_pass_frac) if dim_pass_frac else 0.0
-    failing_dims = [d for d, f in dim_pass_frac.items() if f < STANDARD_CONVERGENCE]
+
+    # ── Convergence gates on the DIAGNOSTIC subset only (spec Task 3) ──
+    # engine is gated at ENGINE_CONVERGENCE_BAR; delivery is report-only until the
+    # kappa audit sets its bar (DELIVERY_GATING_ENABLED). Realism dims never gate.
+    engine_frac = dim_pass_frac.get("engine_direction", 0.0)
+    delivery_frac = dim_pass_frac.get("delivery", 0.0)
+    engine_ok = engine_frac >= ENGINE_CONVERGENCE_BAR
+    if DELIVERY_GATING_ENABLED and DELIVERY_CONVERGENCE_BAR is not None:
+        delivery_ok = delivery_frac >= DELIVERY_CONVERGENCE_BAR
+    else:
+        delivery_ok = True  # report-only: computed + printed, does not gate
+    # spread = weakest active ingredient that actually gates (delivery excluded while report-only)
+    gating_fracs = [engine_frac] + ([delivery_frac] if DELIVERY_GATING_ENABLED else [])
+    spread = min(gating_fracs) if gating_fracs else 0.0
+    failing_dims = ([("engine_direction")] if not engine_ok else []) + \
+                   (["delivery"] if (DELIVERY_GATING_ENABLED and not delivery_ok) else [])
 
     veto_gate = (veto_breaches["item9"] <= GATE_BREACHES_ALLOWED
                  and veto_breaches["in_character"] <= GATE_BREACHES_ALLOWED)
     leaky = discard_frac > MAX_DISCARD_FRAC
-    converged = bool(
-        valid
-        and veto_gate
-        and not leaky
-        and spread >= STANDARD_CONVERGENCE
-    )
+    converged = bool(valid and veto_gate and not leaky and engine_ok and delivery_ok)
 
     return ConvergenceResult(
         converged=converged,
