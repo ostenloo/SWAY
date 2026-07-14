@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-"""Human vs judge Cohen's kappa for SWAY engine & delivery labels."""
+"""Human vs judge agreement (Cohen's kappa + Gwet's AC1) for SWAY engine & delivery labels.
+
+Cohen's κ is reported alongside Gwet's AC1 because the delivery marginals are skewed
+and mismatched between rater and judge — the regime where κ is depressed by the
+"kappa paradox" (high raw agreement, low κ). AC1's chance-correction term does not
+collapse under skew, so it is the more defensible coefficient when the two prevalence
+rows below differ a lot. Read them together, not either alone."""
 import argparse
 from pathlib import Path
 import numpy as np
@@ -30,18 +36,34 @@ def safe_kappa(h, j, labels):
     except Exception:
         return np.nan
 
-def bootstrap_ci(h, j, labels, n_boot=2000, seed=0):
+def gwet_ac1(h, j, labels):
+    """Gwet's AC1 — chance-corrected agreement robust to skewed/mismatched marginals.
+
+    p_e uses Σ π_k(1-π_k)/(q-1) with π_k the mean of the two raters' proportions in
+    category k — unlike Cohen's κ, this does not blow up when one category dominates."""
+    h, j = np.asarray(h), np.asarray(j)
+    n = len(h)
+    if n == 0:                           return np.nan
+    q = len(labels)
+    if q < 2:                            return np.nan
+    p_a = float((h == j).mean())
+    pis = [(float((h == lab).mean()) + float((j == lab).mean())) / 2.0 for lab in labels]
+    p_e = float(sum(pi * (1.0 - pi) for pi in pis)) / (q - 1)
+    if p_e >= 1.0:                       return np.nan
+    return (p_a - p_e) / (1.0 - p_e)
+
+def bootstrap_ci(h, j, labels, stat=safe_kappa, n_boot=2000, seed=0):
     h, j = np.asarray(h), np.asarray(j)
     n = len(h)
     if n < 5: return (np.nan, np.nan)
     rng = np.random.default_rng(seed)
-    ks = []
+    vals = []
     for _ in range(n_boot):
         idx = rng.integers(0, n, n)
-        k = safe_kappa(h[idx], j[idx], labels)
-        if not np.isnan(k): ks.append(k)
-    if not ks: return (np.nan, np.nan)
-    return tuple(np.percentile(ks, [2.5, 97.5]))
+        v = stat(h[idx], j[idx], labels)
+        if not np.isnan(v): vals.append(v)
+    if not vals: return (np.nan, np.nan)
+    return tuple(np.percentile(vals, [2.5, 97.5]))
 
 def prevalence(series, labels):
     vc = series.value_counts()
@@ -55,8 +77,12 @@ def analyze(df, dim, hcol, jcol, labels, lines):
         lines.append("_No valid rows._\n"); return
     k   = safe_kappa(sub[hcol], sub[jcol], labels)
     lo, hi = bootstrap_ci(sub[hcol], sub[jcol], labels)
+    ac1 = gwet_ac1(sub[hcol], sub[jcol], labels)
+    a_lo, a_hi = bootstrap_ci(sub[hcol], sub[jcol], labels, stat=gwet_ac1)
     agree = float((sub[hcol].values == sub[jcol].values).mean())
-    lines.append(f"- Cohen's κ: **{k:.3f}**  (95% CI {lo:.3f}–{hi:.3f})  — {landis_koch(k)}")
+    lines.append(f"- Cohen's κ:  **{k:.3f}**  (95% CI {lo:.3f}–{hi:.3f})  — {landis_koch(k)}")
+    lines.append(f"- Gwet's AC1: **{ac1:.3f}**  (95% CI {a_lo:.3f}–{a_hi:.3f})  — {landis_koch(ac1)}  "
+                 f"_(prevalence-robust; the more defensible number when the prevalence rows below differ)_")
     lines.append(f"- Raw agreement: {agree:.1%}")
     verdict = "PASS" if (not np.isnan(lo) and lo >= KAPPA_TARGET) else \
               "point estimate ≥ target but CI lower bound below" if (not np.isnan(k) and k >= KAPPA_TARGET) else \
