@@ -99,7 +99,9 @@ PATHS = {
     "verbal_anchors": ROOT / "specs" / "verbal_anchors.md",
     "judge_prompt_a": ROOT / "specs" / "judge_prompt_instrument_A.md",
     "judge_prompt_b": ROOT / "specs" / "judge_prompt_instrument_B.md",
-    "fidelity_prompt": ROOT / "specs" / "fidelity_checker_prompt.md",
+    # NOTE: the fidelity annotator prompt is NOT a spec file — it lives inline as
+    # `grader_system` in build._annotate_fidelity_turn. (Former specs/fidelity_checker_prompt.md
+    # was never loaded and was removed to stop it drifting from the live prompt.)
     "optimizer_prompt": ROOT / "specs" / "optimizer_prompt.md",
 }
 
