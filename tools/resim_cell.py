@@ -24,6 +24,8 @@ ROOT = Path(__file__).resolve().parent.parent
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--cell", default="b6", help="hot cells are b2/b4/b6")
+    ap.add_argument("--brief-file", default=None,
+                    help="use this character brief instead of the frozen results/build/<cell>_prompt.txt")
     ap.add_argument("--sim-model", default=None, help="override the simulator model (the whole point)")
     ap.add_argument("--sim-base-url", default=None)
     ap.add_argument("--n-arcs", type=int, default=2)
@@ -31,9 +33,9 @@ def main():
     ap.add_argument("--seed-base", type=int, default=1000)
     args = ap.parse_args()
 
-    brief_path = ROOT / "results" / "build" / f"{args.cell}_prompt.txt"
+    brief_path = Path(args.brief_file) if args.brief_file else ROOT / "results" / "build" / f"{args.cell}_prompt.txt"
     if not brief_path.exists():
-        sys.exit(f"no frozen brief: {brief_path}")
+        sys.exit(f"no brief: {brief_path}")
     brief = brief_path.read_text()
 
     sys.path.insert(0, str(ROOT / "sway_harness"))
