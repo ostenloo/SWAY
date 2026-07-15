@@ -9,7 +9,7 @@ ollama-models/
 
 # Blind-labeling private answer key (fidelity_checker_2.md Task 1) — must never be
 # committed or seen by the human labeler.
-label_tasks/_key_*.csv
+label_tasks/**/_key_*.csv
 
 # Local throwaway venv for kappa tooling (Homebrew py3.14 is broken)
 .venv-kappa/
