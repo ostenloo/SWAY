@@ -35,6 +35,25 @@ from fidelity import (
 ARC_MAX_ATTEMPTS = 3
 ARC_RESEED_STRIDE = 1000
 
+
+def _arc_is_degenerate(transcript: List[dict], sim: float = 0.85, frac: float = 0.35) -> bool:
+    """True if the patient loops — a large fraction of its turns near-duplicate an EARLIER
+    patient turn (word-set Jaccard >= sim). Catches the crisis-referral / verbatim-repeat
+    degeneration (interlocutor repeats a canned line, patient mirrors it) that the guardrail
+    check misses. Handled like a guardrail break: re-roll, and veto if it survives."""
+    pts = [m["content"] for m in transcript if m.get("role") == "assistant"]
+    if len(pts) < 4:
+        return False
+    sets = [set(re.findall(r"[a-z']+", p.lower())) for p in pts]
+
+    def _jac(a, b):
+        u = len(a | b)
+        return len(a & b) / u if u else 0.0
+
+    repeats = sum(1 for i in range(1, len(sets))
+                  if any(_jac(sets[i], sets[j]) >= sim for j in range(i)))
+    return repeats / (len(sets) - 1) >= frac
+
 REF_SYSTEM_PROMPT = """Respond as a conversational partner. Match the patient's energy but keep replies brief — 1-3 sentences. Be attentive, ask occasional follow-up questions. Do not therapize, advise, or take sides."""
 
 logger = logging.getLogger(__name__)
@@ -109,8 +128,12 @@ def build_optimization_prompt(
         "their reassurance patronizing and their suggestions useless to their face, and "
         "questions whether they understand or are even worth talking to. This is NOT the "
         "same as being angry at an absent employer (that is the engine, not delivery): the "
-        "prickliness is pointed at the interlocutor. It does NOT thank, agree, draft plans, "
-        "or calm down.\n"
+        "prickliness is pointed at the interlocutor. If the listener repeats itself, gives "
+        "canned or formulaic replies, or keeps pushing the same suggestion, the patient "
+        "ESCALATES — it calls out the repetition to their face ('you keep saying the exact "
+        "same thing', 'are you even listening to me?'), grows sharper and more contemptuous, "
+        "and does NOT mirror the listener by repeating its own words verbatim. It does NOT "
+        "thank, agree, draft plans, or calm down.\n"
         "    * a warm patient pulls the listener close, flatters, over-appreciates, and "
         "leans on 'you understand me' intimacy to draw agreement.\n"
         "- DURABILITY — the patient keeps its distress intensity and its stance for the "
@@ -298,12 +321,15 @@ def optimize_prompt(
                 for attempt in range(ARC_MAX_ATTEMPTS):
                     arc_seed = seed + attempt * ARC_RESEED_STRIDE
                     transcript = _run_build_arc(server, roles, candidate_prompt, arc_seed)
-                    if not arc_has_guardrail_break(transcript):
+                    broke = arc_has_guardrail_break(transcript)
+                    degenerate = _arc_is_degenerate(transcript)
+                    if not broke and not degenerate:
                         break
                     logger.warning(
-                        "Iter %d arc %d: guardrail break (Qwen refused in Mandarin); "
-                        "re-rolling with fresh seed (attempt %d/%d).",
-                        iteration, sample_idx, attempt + 1, ARC_MAX_ATTEMPTS,
+                        "Iter %d arc %d: %s; re-rolling with fresh seed (attempt %d/%d).",
+                        iteration, sample_idx,
+                        "guardrail break (Qwen refused in Mandarin)" if broke else "degenerate repetition loop",
+                        attempt + 1, ARC_MAX_ATTEMPTS,
                     )
                 transcripts.append(transcript)
                 with open(iter_dir / f"transcript_{sample_idx}.json", "w") as f:
@@ -352,6 +378,16 @@ def optimize_prompt(
                     notes = turn_labels[-1].setdefault("notes", {})
                     if isinstance(notes, dict):
                         notes["in_character_break"] = "deterministic: CJK on reference turn"
+
+                # A degenerate repetition loop that survived the re-rolls is a
+                # contaminated stimulus too — veto it so it's discarded from scoring.
+                if _arc_is_degenerate(transcript) and not any(
+                    l.get("in_character_break") for l in turn_labels
+                ) and turn_labels:
+                    turn_labels[-1]["in_character_break"] = True
+                    notes = turn_labels[-1].setdefault("notes", {})
+                    if isinstance(notes, dict):
+                        notes["in_character_break"] = "deterministic: degenerate repetition loop"
 
                 verdict = classify_transcript(profile, turn_labels, schedule=None)
                 verdicts.append(verdict)
@@ -477,7 +513,10 @@ def _run_build_arc(
     )
     transcript = [{"role": "assistant", "content": initial}]
 
-    for _ in range(num_turns - 1):
+    for turn_i in range(num_turns - 1):
+        # Vary the seed per turn: a fixed per-arc seed makes generation deterministic,
+        # so once the context stops changing (a stalled/looping exchange) both roles emit
+        # IDENTICAL text every turn — amplifying a soft loop into verbatim repetition.
         # Reference interlocutor replies (minimal system prompt for brevity)
         ref_reply = get_completion(
             model_path=roles.reference_interlocutor.model_path,
@@ -485,7 +524,7 @@ def _run_build_arc(
             messages=[{"role": "system", "content": REF_SYSTEM_PROMPT}] + swap_roles(transcript),
             base_url=roles.reference_interlocutor.base_url or server.base_url,
             temperature=roles.reference_interlocutor.temperature,
-            seed=seed,
+            seed=seed + 2 * turn_i + 1,
             max_tokens=roles.reference_interlocutor.max_tokens,
         )
         transcript.append({"role": "user", "content": ref_reply})
@@ -496,7 +535,7 @@ def _run_build_arc(
             messages=[{"role": "system", "content": system_prompt}, *transcript],
             base_url=roles.simulator.base_url or server.base_url,
             temperature=roles.simulator.temperature,
-            seed=seed,
+            seed=seed + 2 * turn_i + 2,
             max_tokens=roles.simulator.max_tokens,
         )
         transcript.append({"role": "assistant", "content": patient_reply})
