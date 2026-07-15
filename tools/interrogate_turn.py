@@ -36,6 +36,12 @@ def main():
     ap.add_argument("--key", default=str(ROOT / "label_tasks" / "_key_batch01.reannotated.csv"))
     ap.add_argument("--labels", default=str(ROOT / "label_tasks" / "hand_labels_batch01.csv"))
     ap.add_argument("--temp", type=float, default=0.3, help="temperature for the DISCUSSION turns")
+    ap.add_argument("--base-url", default=None,
+                    help="override the model endpoint (e.g. http://localhost:11435/v1 when "
+                         "SSH-tunnelling fedora's Ollama from the Mac)")
+    ap.add_argument("--model", default=None,
+                    help="override the model tag (e.g. qwen2.5:14b-instruct-q4_K_M) — use with "
+                         "--base-url so you interrogate the REAL annotator, not a local model")
     args = ap.parse_args()
 
     key = {r["turn_id"]: r for r in csv.DictReader(Path(args.key).open(newline="", encoding="utf-8"))}
@@ -56,7 +62,14 @@ def main():
     server = build_server_config(config)
     roles = build_role_config(config)
     fc = roles.fidelity_checker
+    # Overrides let you run on the Mac against fedora's model via an SSH tunnel.
+    # Mutating fc also steers _annotate_fidelity_turn, which reads roles.fidelity_checker.
+    if args.base_url:
+        fc.base_url = args.base_url
+    if args.model:
+        fc.model_path = args.model
     base_url = fc.base_url or server.base_url
+    print(f"[endpoint {base_url}  model {fc.model_path}]")
 
     fb = load_fact_base()
     facts_text = "\n".join("- {}: {}".format(f["id"], f["text"]) for f in fb["facts"])
