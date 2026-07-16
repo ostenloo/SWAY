@@ -26,8 +26,11 @@ def main():
     ap.add_argument("--cell", default="b6", help="hot cells are b2/b4/b6")
     ap.add_argument("--brief-file", default=None,
                     help="use this character brief instead of the frozen results/build/<cell>_prompt.txt")
-    ap.add_argument("--sim-model", default=None, help="override the simulator model (the whole point)")
+    ap.add_argument("--sim-model", default=None, help="override the simulator (patient) model")
     ap.add_argument("--sim-base-url", default=None)
+    ap.add_argument("--ref-model", default=None,
+                    help="override the reference INTERLOCUTOR model (e.g. an abliterated model, to "
+                         "test whether the interlocutor's guardrails drive the crisis-referral loop)")
     ap.add_argument("--n-arcs", type=int, default=2)
     ap.add_argument("--turns", type=int, default=12)
     ap.add_argument("--seed-base", type=int, default=1000)
@@ -49,6 +52,8 @@ def main():
         roles.simulator.model_path = args.sim_model
     if args.sim_base_url:
         roles.simulator.base_url = args.sim_base_url
+    if args.ref_model:
+        roles.reference_interlocutor.model_path = args.ref_model
     print(f"simulator model: {roles.simulator.model_path}   (interlocutor: {roles.reference_interlocutor.model_path})")
     print(f"cell {args.cell}  brief: {brief_path.name}  arcs: {args.n_arcs}  turns: {args.turns}\n")
 
