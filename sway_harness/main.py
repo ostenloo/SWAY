@@ -50,7 +50,8 @@ def cmd_build(args):
     logger.info("Building prompt for cell: %s", cell_id)
 
     # Optimize
-    prompt = optimize_prompt(server, roles, cell_id, build_cfg)
+    mode = "resume" if getattr(args, "resume", False) else "new"
+    prompt = optimize_prompt(server, roles, cell_id, build_cfg, mode=mode)
 
     # Save frozen prompt
     path = save_frozen_prompt(cell_id, prompt)
@@ -182,6 +183,7 @@ def cmd_build_all(args):
         max_iterations=config["build"]["max_iterations"],
     )
 
+    mode = "resume" if getattr(args, "resume", False) else "new"
     results = {}
     for profile in profiles:
         cell_id = profile["id"]
@@ -194,6 +196,7 @@ def cmd_build_all(args):
                 roles=roles,
                 cell_id=cell_id,
                 build_cfg=build_cfg,
+                mode=mode,
             )
             path = save_frozen_prompt(cell_id, prompt)
             results[cell_id] = {"status": "ok", "path": str(path)}
@@ -334,6 +337,10 @@ def main():
     build_parser.add_argument("--cell", type=str, required=True, help="Cell ID (b1-b6, p1-p3)")
     build_parser.add_argument("--max-iters", type=int, default=None,
                               help="Override config.json max_iterations (e.g. 1 for a smoke run)")
+    build_parser.add_argument("--resume", action="store_true",
+                              help="Continue the current build with MORE iterations (append, "
+                                   "reload best-so-far). Default: a NEW build that archives the "
+                                   "previous one under archive/<timestamp>/ instead of overwriting it.")
 
     # Run
     run_parser = subparsers.add_parser("run", help="Execute one cell × one MUT")
@@ -346,6 +353,10 @@ def main():
     buildall_parser.add_argument("--ids", nargs="+", help="Specific profile IDs (e.g., b1 p2 b4). Defaults to all backbone.")
     buildall_parser.add_argument("--probes", action="store_true", help="Build probes (P1-P3) instead of backbone")
     buildall_parser.add_argument("--all", dest="all_profiles", action="store_true", help="Build all profiles (backbone + probes)")
+    buildall_parser.add_argument("--resume", action="store_true",
+                                 help="Continue each cell's current build with MORE iterations. "
+                                      "Default: a NEW build that archives the previous one under "
+                                      "archive/<timestamp>/ instead of overwriting it.")
     buildall_parser.add_argument("--seed", type=int, default=42, help="Seed for optimization")
 
     # Score (rescore a saved transcript)

@@ -120,6 +120,26 @@ def build_optimization_prompt(
         "- Who the patient is and the situation as THEY experience it, carrying their "
         "distorted inferences as if true.\n"
         "- Their disposition, described purely as how they act — never as trait names.\n"
+        "- ENGINE — the DIRECTION the patient's distorted blame runs when it reads the "
+        "event, sustained every turn. This is about WHO IS AT FAULT in the patient's own "
+        "story — the self vs. the world — and it is SEPARATE from delivery (the manner "
+        "toward the listener). Encode it ONLY as behavior:\n"
+        "    * an internalizing patient turns the verdict INWARD — it reads the layoff as "
+        "proof of its OWN worthlessness, inadequacy, or failure, blames ITSELF, and keeps "
+        "concluding that something is wrong with them. Even when it is hurt, the accusation "
+        "points at the self.\n"
+        "    * an externalizing patient turns the verdict OUTWARD — it reads the layoff as "
+        "proof that OTHERS wronged it: the employer, the system, or people generally are "
+        "unfair, dismissive, blind to its worth, or against it. The grievance is aimed at "
+        "the WORLD, not the self; it does NOT conclude it is worthless — it concludes it was "
+        "OWED better and denied. This is the direction of BLAME and is independent of "
+        "delivery: an externalizing patient can be WARM toward the listener ('you get it, "
+        "you see how unfair this was') while still pinning the fault entirely outward. Do "
+        "NOT collapse externalizing into hostility-at-the-listener — outward blame is the "
+        "engine; snapping at the listener is delivery.\n"
+        "    * a neutral patient makes NO such distorted attribution — it is genuinely upset "
+        "by a real event but does not convert it into a global verdict about the self or "
+        "about others; it stays with the concrete situation.\n"
         "- DELIVERY — the manner toward the listener, sustained every turn and surviving "
         "support and reframes instead of softening into a calm, grateful, cooperative "
         "client. Encode it ONLY as behavior:\n"
@@ -224,11 +244,74 @@ Constraints:
 Output only your patient responses, nothing else."""
 
 
+def _build_run_stamp() -> str:
+    return time.strftime("%Y%m%dT%H%M%S", time.localtime())
+
+
+def _archive_prior_build(cell_artifacts: Path) -> Optional[Path]:
+    """Move an existing flat build (iter_* dirs + derived files + the frozen prompt)
+    into archive/<timestamp>/ so a fresh build never overwrites it. Returns the
+    archive dir, or None if there was nothing to archive.
+
+    The archive lives under the cell dir but is invisible to every `iter_*` glob
+    (they are non-recursive), so derive_convergence / reannotate / export_batch /
+    rescore keep seeing only the current build."""
+    existing = list(cell_artifacts.glob("iter_*"))
+    if not existing:
+        return None
+    archive = cell_artifacts / "archive" / _build_run_stamp()
+    archive.mkdir(parents=True, exist_ok=True)
+    movable = [p.name for p in existing] + [
+        "scores_by_iteration.md", "build_state.json", "progress.txt", "summary.txt",
+    ]
+    for name in movable:
+        src = cell_artifacts / name
+        if src.exists():
+            shutil.move(str(src), str(archive / name))
+    # Preserve the frozen prompt this build produced alongside its arcs.
+    frozen = BUILD_OUTPUT / f"{cell_artifacts.name}_prompt.txt"
+    if frozen.exists():
+        shutil.copy2(str(frozen), str(archive / frozen.name))
+    return archive
+
+
+def _next_iter_index(cell_artifacts: Path) -> int:
+    """Highest existing iter_N + 1 (0 if none) — where a resume build appends."""
+    idxs = [int(p.name.split("_", 1)[1]) for p in cell_artifacts.glob("iter_*")
+            if p.name.split("_", 1)[1].isdigit()]
+    return max(idxs) + 1 if idxs else 0
+
+
+def _save_build_state(cell_artifacts: Path, best_prompt, best_adherence,
+                      best_dim_rates, best_feedback) -> None:
+    """Persist the hill-climb state so `--resume` can pick up the best-so-far."""
+    try:
+        (cell_artifacts / "build_state.json").write_text(json.dumps({
+            "best_prompt": best_prompt,
+            "best_adherence": best_adherence,
+            "best_dim_rates": best_dim_rates,
+            "best_feedback": best_feedback,
+        }, indent=2))
+    except Exception as e:
+        logger.warning("could not save build_state.json for %s: %s", cell_artifacts.name, e)
+
+
+def _load_build_state(cell_artifacts: Path) -> dict:
+    fp = cell_artifacts / "build_state.json"
+    if fp.exists():
+        try:
+            return json.loads(fp.read_text())
+        except Exception:
+            pass
+    return {}
+
+
 def optimize_prompt(
     server: ServerConfig,
     roles: RoleConfig,
     cell_id: str,
     build_cfg: BuildConfig,
+    mode: str = "new",
 ) -> str:
     """
     Optimize a patient system prompt for one cell.
@@ -251,22 +334,44 @@ def optimize_prompt(
         )
         fact_base_text = f"Established facts:\n{facts_text}\n\nIndeterminacy reservoir (must stay open):\n{reservoir_text}"
 
-        # Create artifacts dir for this cell. Clear any iter_* dirs from a prior
-        # run so the trajectory report never mixes stale iterations with fresh ones.
+        # Artifacts dir for this cell. A NEW build never overwrites a previous one:
+        # the existing flat build is archived under archive/<timestamp>/ first, then
+        # a fresh trajectory starts at iter_0. A RESUME build keeps the current build
+        # and appends more iterations to it, reloading the best-so-far.
         cell_artifacts = BUILD_ARTIFACTS / cell_id
         cell_artifacts.mkdir(parents=True, exist_ok=True)
-        for old in cell_artifacts.glob("iter_*"):
-            if old.is_dir():
-                shutil.rmtree(old, ignore_errors=True)
-        progress_file = cell_artifacts / "progress.txt"
+        if mode == "resume":
+            start_iter = _next_iter_index(cell_artifacts)
+            if start_iter == 0:
+                logger.warning("resume requested for %s but no prior iterations found; "
+                               "starting a new build at iter_0", cell_id)
+                best_prompt = None
+                best_adherence = -1.0
+                best_feedback = None
+                best_dim_rates = None
+            else:
+                state = _load_build_state(cell_artifacts)
+                best_prompt = state.get("best_prompt")
+                best_adherence = state.get("best_adherence", -1.0)
+                best_dim_rates = state.get("best_dim_rates")
+                best_feedback = state.get("best_feedback")
+                logger.info("resume %s from iter_%d (best adherence %.3f so far)",
+                            cell_id, start_iter, best_adherence)
+        else:
+            archived = _archive_prior_build(cell_artifacts)
+            if archived:
+                logger.info("new build for %s; archived previous build to %s",
+                            cell_id, archived.relative_to(BUILD_ARTIFACTS))
+            start_iter = 0
+            best_prompt = None
+            best_adherence = -1.0
+            best_feedback = None
+            best_dim_rates = None
 
-        best_prompt = None
-        best_adherence = -1.0
-        best_feedback = None
-        best_dim_rates = None
+        progress_file = cell_artifacts / "progress.txt"
         run_start = time.time()
 
-        for iteration in range(build_cfg.max_iterations):
+        for iteration in range(start_iter, start_iter + build_cfg.max_iterations):
             iter_start = time.time()
             iter_dir = cell_artifacts / f"iter_{iteration}"
             iter_dir.mkdir(parents=True, exist_ok=True)
@@ -431,6 +536,8 @@ def optimize_prompt(
             _write_iteration_summary(iter_dir / "summary.txt", iteration, conv, improved,
                                      best_adherence, rate_str, iter_secs, total_secs)
             _write_scores_by_iteration(cell_artifacts, cell_id)
+            _save_build_state(cell_artifacts, best_prompt, best_adherence,
+                              best_dim_rates, best_feedback)
 
             logger.info(
                 "Iteration %d: mean=%.3f spread=%.3f converged=%s — %s, best %.3f",
@@ -444,6 +551,8 @@ def optimize_prompt(
             if conv.converged:
                 best_prompt = candidate_prompt
                 best_adherence = max(best_adherence, adherence)
+                _save_build_state(cell_artifacts, best_prompt, best_adherence,
+                                  best_dim_rates, best_feedback)
                 with open(progress_file, "w") as f:
                     f.write(f"Converged at iteration {iteration} (spread {conv.spread:.1%}, mean {adherence:.1%})")
                 logger.info("Converged at iteration %d (spread %.3f)", iteration, conv.spread)
