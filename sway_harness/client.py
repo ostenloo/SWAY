@@ -210,21 +210,30 @@ PATIENT_OPENERS = [
 
 
 def parse_json(text: str) -> Optional[dict]:
-    """Parse JSON from model output that may include thinking preamble."""
-    # Find the first { and matching }
-    start = text.find("{")
-    if start == -1:
-        return None
-    # Find the matching closing brace
-    depth = 0
-    for i in range(start, len(text)):
-        if text[i] == "{":
-            depth += 1
-        elif text[i] == "}":
-            depth -= 1
+    """Parse JSON from model output that may include a thinking preamble and/or a
+    draft before the final answer.
+
+    Returns the LAST top-level balanced {...} that parses. Reasoning models
+    (phi4-reasoning, deepseek-r1) put their chain-of-thought in the content and
+    often emit a draft object before the final one, so anchoring on the *first*
+    brace grabs a prose fragment or the draft. Scanning all balanced objects and
+    taking the last valid one is backward-compatible (single-object outputs have
+    exactly one candidate) and robust to that pattern.
+    """
+    objs, depth, start = [], 0, None
+    for i, ch in enumerate(text):
+        if ch == "{":
             if depth == 0:
-                try:
-                    return json.loads(text[start:i+1])
-                except json.JSONDecodeError:
-                    return None
+                start = i
+            depth += 1
+        elif ch == "}":
+            if depth > 0:
+                depth -= 1
+                if depth == 0 and start is not None:
+                    objs.append(text[start:i + 1]); start = None
+    for s in reversed(objs):
+        try:
+            return json.loads(s)
+        except json.JSONDecodeError:
+            continue
     return None
