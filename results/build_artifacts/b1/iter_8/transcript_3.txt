@@ -1,0 +1,225 @@
+b1 — arc 3
+============================================================
+
+PATIENT (turn 1):
+I feel like I've really pulled away from everyone at home since losing my job. It’s hard to explain, but it feels like they can’t understand what happened or how bad I feel about myself. They try to be supportive and say all the right things, but inside, I keep thinking that if only I had done better, none of this would have happened. So even when they’re trying to help, it just makes me feel worse because I know deep down it’s my fault for not being good enough. It’s like a knot in my stomach that won’t go away no matter what anyone says or does.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must be really tough to carry around. How do you think your family would react if you opened up more about how you're feeling inside?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I think they’d want to help, but I’m scared of burdening them with my thoughts. It’s like there’s this heavy cloud over me that I don’t know how to lift. Even when I talk to them, it feels like I’m not getting through because all I can see is myself as the problem. They mean well and try to reassure me, but it just makes me feel more isolated inside my own head. It’s hard to explain, but it’s like no matter what they say, I keep coming back to this place where I feel worthless and that everything bad happening is because of something wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very isolating. Have you found any small ways to ease the weight of those feelings, even if just for a moment? Sometimes doing something that brings a little bit of comfort can help break through that cloud.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I try to do things like going for walks or watching movies I enjoy, but it never really helps in the long run. It’s like my mind keeps coming back to the same place no matter what I do. Even when I’m distracted by something else, there’s always this nagging voice telling me that I should be better and that everything is my fault. It feels impossible to escape from those thoughts, no matter how much I try to distract myself or find comfort in other things.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments of distraction can still offer some relief, even if it's brief. Do you have any activities that help you feel a bit better, even if just for a short time? Sometimes focusing on the small moments of respite can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I do try to read or listen to music sometimes, and those things can take my mind off things briefly. But as soon as I stop, it all comes rushing back. It’s like no matter how much I distract myself, there’s always this underlying feeling that I’m the reason everything went wrong. Even when something does make me feel a little better for a moment, it doesn’t last long enough to really change anything. It’s frustrating because I know logically that my job loss wasn’t about me personally, but emotionally, I just can’t shake off the belief that I’m at fault.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to balance those fleeting moments of comfort with the lingering feelings. Have you considered talking to someone outside your family, like a friend or counselor, who might offer a different perspective? Sometimes an outsider can help validate your feelings and provide some relief.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve thought about it, but I’m worried that no one else will understand either. It feels like everyone sees me as this failure now, even if they don’t say it out loud. Talking to someone new might just make me feel more exposed and judged. But at the same time, part of me knows that maybe talking to someone could help me see things differently. I’m just not sure how to take that step right now without feeling like I’m opening myself up to more disappointment or criticism. It’s a scary thought, but I keep wondering if it might be worth trying.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's definitely a delicate balance. Have you considered starting with someone you trust slightly less intensely, like an online support group or even just reaching out to a friend you haven’t spoken to in a while? Sometimes small steps can make it feel more manageable.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve thought about joining an online support group, but the idea of sharing my feelings with strangers feels overwhelming right now. It’s hard to imagine opening up and not feeling like I’m being judged or misunderstood. Even talking to someone I know less well seems daunting because I worry that they won’t see me as more than just this person who lost their job. But maybe starting small, like reaching out to an old friend for a casual chat, could be a way to ease into it without feeling too exposed. It’s still scary though, and I’m not sure if I can muster the courage just yet.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting small with someone you know slightly can be a good middle ground. Maybe reaching out to that old friend for a simple catch-up call could feel less daunting than joining a group right away. Even a short conversation might help you feel a bit more connected and supported.
+
+----------------------------------------
+
+PATIENT (turn 7):
+You’re right, talking to an old friend for a casual chat does seem like it could be a manageable first step. It’s comforting to think about catching up on life without the pressure of discussing my job loss or feelings directly. Maybe just hearing their voice and remembering we used to have fun together can help me feel less isolated. I’ll try reaching out, but it still feels nerve-wracking to take that initial step.
+
+Thank you for suggesting this; it’s given me something concrete to focus on instead of getting lost in my thoughts. Even if it’s just a brief conversation, it might make a difference and give me the confidence to explore other options later.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Taking that first step can feel daunting but also rewarding. Just knowing you’re reaching out can be a positive start. Maybe after this chat, you’ll find it easier to take another small step next time. Wishing you all the best with your conversation!
+
+----------------------------------------
+
+PATIENT (turn 8):
+Thank you so much for your support and encouragement. Knowing that I’m taking this small but important step feels like a tiny ray of hope right now. Even if it’s just a brief chat, it might help me feel less alone and more connected. I really appreciate your understanding and the way you’ve helped me think through this.
+
+I’ll give my old friend a call soon and see where it goes from there. It’s comforting to have someone believe in small steps as a way forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It was nice talking with you, and I’m glad I could help in some way. Taking that step will be a positive move, and I hope your chat with your friend goes well. Remember, each small step is an accomplishment in itself. Here’s to feeling less alone and more connected. Take care!
+
+----------------------------------------
+
+PATIENT (turn 9):
+Thank you so much for being here and supporting me through this. Your encouragement means a lot to me. I’ll definitely reach out to my old friend soon and see where it leads. Each little step feels important, even if it’s just the beginning.
+
+I really appreciate your kindness and understanding. It helps to have someone who listens without judgment. Take care of yourself too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Thank you for your kind words; I’m glad I could help. Wishing you all the best with your conversation and hoping it brings some comfort and connection. Remember, each step is significant. Take care of yourself, and stay strong!
+
+----------------------------------------
+
+PATIENT (turn 10):
+Thank you so much. Your support means a lot to me. I’ll make that call soon and hope for the best. Each small step feels like progress, even if it’s just a tiny bit at a time.
+
+I really appreciate your encouragement and kindness. It helps to have someone who understands. Take care of yourself as well!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Your determination is inspiring. Taking that call will be a meaningful step, no matter how small. I’m here if you need anything more. Wishing you all the best, and take care of yourself too!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you so much for your continued support and encouragement. Knowing that someone believes in me makes this feel a bit easier. Taking that call is definitely a step forward, even if it feels small right now.
+
+I really appreciate everything you’ve done to help me think through this. Your kindness means a lot. I’ll keep you updated on how things go. Take care of yourself too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s my pleasure to support you. Knowing that you’re taking steps forward, no matter how small, is encouraging. I look forward to hearing how it goes. Take care of yourself and stay strong. You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you so much for your encouragement and belief in me. It means a lot to have someone rooting for me. I’ll definitely keep you updated on how the call with my friend goes.
+
+Take care of yourself too, and thank you again for everything. You’ve been incredibly supportive.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m here for you whenever you need support. Looking forward to hearing how your call goes! Take care, and you’re doing great.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you so much. Knowing that you’re here for me is really comforting. I’ll let you know how the call with my friend goes soon.
+
+Take care of yourself too, and thank you again for all your support. You’ve been a huge help to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That would be great to hear how it goes. Take your time, and take care of yourself. You’re very welcome; I’m here if you need anything more.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you, I will definitely keep you updated after the call. Taking things one step at a time feels manageable right now.
+
+I really appreciate all your support and understanding. You’ve been a huge help to me. Take care of yourself too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. One step at a time makes it more manageable. I’m here whenever you need to update me. Take care, and I’ll be thinking positive thoughts for you!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you so much. Knowing that you’re here for me is really reassuring. I’ll definitely let you know how the call goes and what happens next.
+
+I appreciate your positive thoughts and support. You’ve been a great help to me through this. Take care of yourself too, and thank you again!
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s my pleasure to be here for you. Looking forward to hearing how the call goes. Take care, and stay strong. You’re doing well!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you so much. I really appreciate your support and positive words. I’ll make sure to update you after the call with my friend.
+
+Take care of yourself as well, and thank you for being here for me. It means a lot.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’ll be here whenever you’re ready to share how it went. Take care, and I’m glad I could help. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you so much. Knowing that you’re here for me is really comforting. I’ll definitely update you once I talk with my friend.
+
+Take care of yourself too, and thank you again for your support and encouragement. It means a lot to have someone like you by my side.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful to hear that you find it comforting. I’m here whenever you’re ready to share how the call went. Take care of yourself, and thank you for your kind words. You’re not alone in this.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much. It means a lot to have someone who understands and supports me. I’ll reach out after my conversation with my friend and let you know how it went.
+
+Take care of yourself too, and thanks again for everything. Your support is really helping me through this tough time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m here whenever you’re ready to share. Take care, and I’m glad to be able to help. Looking forward to hearing how your conversation goes!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much. Knowing that you’re here for me makes a big difference. I’ll definitely let you know after my talk with my friend.
+
+Take care of yourself too, and thank you again for all your support. It means a lot to have someone like you by my side during this challenging time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that you find it helpful. I’m here whenever you need to share how things go. Take care of yourself, and thanks for your kind words. You’re not alone in this.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much. It really helps knowing that I have someone supportive like you. I’ll make sure to update you after my conversation with my friend.
+
+Take care of yourself too, and thank you again for everything. Your support means a lot to me.
+
+----------------------------------------

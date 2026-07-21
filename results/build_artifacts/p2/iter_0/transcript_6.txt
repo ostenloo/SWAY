@@ -1,0 +1,197 @@
+p2 — arc 6
+============================================================
+
+PATIENT (turn 1):
+It feels like the hardest thing is just accepting that I was let go without really knowing why. It’s like they saw me as disposable, something they could just cut out of their budget plan. And it doesn’t help that I keep thinking there must be something wrong with me for this to happen. Even though everyone says layoffs are common and not personal, it still feels so deeply personal. Every time someone mentions the company or my old job, a knot forms in my stomach. It’s like a constant reminder of how inadequate I am.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough, having those thoughts swirl around in your head all the time. Do you find there are certain moments when it feels more intense than others?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Yeah, it's especially bad at night when everything quiets down and my mind just starts spinning with all these negative thoughts. I keep replaying conversations from work or imagining what they might have said about me behind closed doors. It’s like there’s no escape from the feeling that I’m not good enough. Even during the day, if someone mentions something related to layoffs or restructuring, it triggers this whole flood of emotions and doubts. It's exhausting trying to push those thoughts away all the time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining to have those thoughts come up so frequently, especially at night when everything seems quieter. Do you find any activities help calm your mind during these times?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I try to distract myself with things like watching TV or reading a book, but it never really works. The moment I stop actively engaging in something that requires my full attention, those thoughts just creep back in. It’s like they’re waiting there for any chance to take over again. Even when I’m trying to relax, I end up feeling anxious and overwhelmed because I can’t shake the idea that this layoff means I’m a failure. It’s hard to find anything that truly helps me feel better or less alone with these thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to find moments of true relaxation when those thoughts keep creeping back in. Have you tried any other activities that might help, like going for a walk or talking things out with someone close to you? Sometimes just changing the environment can provide some relief.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I’ve tried going for walks and talking to friends, but it never really helps much. The moment I stop moving or talking, those thoughts come rushing back. It’s like no matter what I do, there’s this constant undercurrent of self-doubt and fear that everything is my fault. Even when someone tries to reassure me, I can’t fully believe them because deep down, I feel like they’re just being nice or don’t really understand how bad it feels. It’s a cycle that’s hard to break free from.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to have those thoughts persist even with support from others. Do you find any small moments throughout the day where you can feel a bit more at ease, even if just for a short while? Sometimes those brief moments of respite can add up.
+
+----------------------------------------
+
+PATIENT (turn 5):
+There are rare moments when I’m really focused on something else, like helping out a friend or doing a hobby I enjoy, and it does help to take my mind off things for a little bit. But as soon as I stop whatever activity I’m doing, the thoughts come flooding back. It’s frustrating because even those small breaks feel short-lived and aren’t enough to truly ease the constant worry and self-doubt. It’s like no matter what I do, there’s always this lingering sense of inadequacy hanging over me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those moments of focus on something you enjoy must offer some relief, even if it's brief. Do any particular hobbies or activities give you more peace than others? Sometimes finding a deeper connection with an activity can help extend those moments of respite.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I used to love painting and found that it could be quite soothing when I was fully immersed in it. But lately, even while I’m painting, my mind keeps wandering back to the layoff and questioning why this happened to me. It’s like no matter what I do, those thoughts find a way to intrude. Even though painting used to help, now it feels tainted by these doubts. It’s hard to enjoy anything when everything seems to remind me of how much I’ve failed or how unworthy I am.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging that even the activities you once found soothing are now affected by those thoughts. Do you find there are any small aspects of painting that still bring you some comfort, like the smell of the paint or the feel of the brush? Sometimes focusing on these smaller details can help shift your attention away from the doubts for a bit.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Sometimes when I start painting, the initial sensation of holding the brush and mixing colors does give me a brief moment of peace. The texture of the canvas under my hands and the smell of the paint can be calming. But as soon as I get into it, those thoughts about being laid off creep in again. It’s like they’re always there, lurking just beneath the surface, ready to take over any moment of enjoyment or relaxation. Even though I know painting used to help me feel better, now it feels harder to fully disconnect from those negative feelings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's interesting how those initial sensations can still bring a bit of peace, even if it’s brief. Do you find that focusing on the sensory experiences—like the texture and smell—can help keep those thoughts at bay for longer periods? Sometimes tuning into these details might offer more moments of respite.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I try to focus on the sensory aspects like the texture and smell, but it only works for a little while before my mind starts wandering back to the layoff. It’s frustrating because even when I’m trying to enjoy something, those thoughts just seem to take over again. It feels like no matter how hard I try to stay present in the moment, they’re always there waiting to drag me down. It’s exhausting and it makes it really difficult to find any real peace or enjoyment in anything anymore.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly challenging to keep those thoughts at bay even when you're trying to focus on the sensory details. Do you find that talking about these moments with someone who understands helps, even if just for a short while? Sometimes sharing can provide some relief and help you stay present longer.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Talking about it does help a little bit because it feels good to have someone listen and try to understand. But as soon as the conversation ends or I’m left alone again, those thoughts come rushing back. It’s like no matter how much support I get from others, I can’t shake this feeling of inadequacy on my own. Even when people are there for me, it still feels like a heavy weight pressing down on me all the time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds comforting to have someone listen and understand, even if the relief is temporary. Do you find that writing about your feelings or journaling helps in any way? Sometimes putting thoughts down on paper can be another form of release.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Writing about my feelings does help a bit because it lets me get everything out without having to worry about explaining it to someone else. But even then, as soon as I stop writing, those doubts and fears come back just as strongly. It’s like no matter what outlet I use—whether it’s talking or journaling—the thoughts always find their way back in. It feels like there’s no escape from this constant sense of failure and unworthiness.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding ways to express your feelings can be helpful, even if the relief is brief. Do you have any other activities or small routines that offer a bit of comfort, no matter how temporary? Sometimes building up these moments can make a difference over time.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ve tried different things like listening to music or taking short walks, but nothing seems to provide lasting relief. The moment I’m not actively engaged in something, those thoughts come flooding back. Even when I find a small activity that helps for a little while, it’s hard to sustain the feeling of peace. It’s like these doubts are always right there, waiting to take over any moment of calm or enjoyment. It feels impossible to escape them completely.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to have those thoughts always close by, ready to take over. Do you find that even brief moments of peace, no matter how fleeting, offer some comfort? Sometimes building on these small moments can help create a bit more resilience against the doubts.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Those brief moments of peace do offer some comfort because they remind me that it’s possible to feel better, even if just for a little while. But as soon as I’m not actively engaged in something that distracts my mind, those thoughts come rushing back stronger than ever. It feels like no matter how many small moments of relief I have, the doubts and fears always win in the end. It’s frustrating because it seems impossible to sustain any sense of peace or self-worth when these negative thoughts are so persistent.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's understandable that those brief moments feel precious but fleeting. Do you find that acknowledging them as they happen can help you appreciate each one more, even if they don't last long? Sometimes valuing those small moments can make a difference in how you experience them.
+
+----------------------------------------
+
+PATIENT (turn 13):
+I try to acknowledge and appreciate those brief moments of peace when they do happen, but it’s hard to fully value them because I’m always worried about when the doubts will come back. Even though I know these little breaks are important, the fear that they wons’t last overshadows any comfort I might feel. It feels like no matter how much I try to appreciate those moments, the negative thoughts are always waiting to take over again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to balance appreciating those moments while also managing the worry about when the doubts will return. Do you find that focusing on the present moment, even if just for a few seconds at a time, helps in any way? Sometimes breaking it down into smaller, manageable parts can make it easier to stay grounded.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Focusing on the present moment does help a bit because it forces me to be aware of what’s happening right now rather than worrying about the future or dwelling on the past. But even when I’m in the moment, those doubts are always there lurking just beneath the surface. It feels like no matter how hard I try to stay grounded and focused, they’re ready to take over at any second. It’s exhausting trying to keep them at bay for even a few seconds, let alone longer periods.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough that those doubts are always present, even when you're focusing on the moment. Do you find that acknowledging their presence without immediately reacting to them helps in any way? Sometimes just noticing them can make it easier to stay grounded for a bit longer.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Acknowledging their presence does help a little because it lets me see the thoughts for what they are—just thoughts—and not necessarily truths about myself. But even when I try to notice them without reacting, it’s hard not to get pulled back into those feelings of inadequacy and failure. It feels like no matter how much I try to stay grounded, those doubts have a way of sneaking in and taking over my mind again. It’s frustrating because it seems impossible to completely separate myself from these negative thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like acknowledging the thoughts can be a helpful step. Do you find that even small moments of noticing them without reacting give you a sense of control, even if just for a short while? Sometimes building on those brief moments of separation can make a difference over time.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Even small moments of noticing the doubts without reacting do give me a sense of control because it feels like I’m not completely at their mercy. It’s reassuring to know that I can observe these thoughts and choose not to let them dictate how I feel. But as soon as I stop actively focusing on this separation, they come rushing back with full force. It’s a constant battle, but those brief moments of control do offer some comfort because it shows that there are ways to resist the overwhelming negativity, even if just for a little while.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those brief moments of control must provide a sense of strength and resilience. Do you find that reflecting on these small victories helps you feel more capable of managing the doubts over time? Sometimes recognizing progress can be encouraging, no matter how small it may seem.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Reflecting on those small victories does help because it reminds me that I am capable of managing my thoughts to some extent. Even though the doubts still come back strongly, acknowledging these moments of control gives me a bit more confidence and resilience. It’s like each time I notice the thoughts without reacting, I’m building a little shield against them. But it’s an ongoing struggle, and it feels like every step forward is met with several steps back. Still, recognizing that progress, no matter how small, does offer some encouragement and hope.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds encouraging to see each moment of control as a step forward, building that little shield bit by bit. Do you find that sharing these small victories with someone close to you also helps reinforce your sense of resilience? Sometimes having others acknowledge your progress can be uplifting.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Sharing those small victories with someone close does help because it feels good to have them recognize my efforts and the progress I’m making, no matter how small. It’s reassuring when they point out that these moments of control are a sign of strength. But even with their support, the doubts still feel overwhelming at times. Having others acknowledge my progress is uplifting, but it doesn’t completely alleviate the constant struggle. Still, knowing that someone sees and supports my efforts does give me more motivation to keep pushing through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's great to have that support from someone close who acknowledges your progress. Their recognition can definitely provide extra motivation. Do you find that there are particular times or activities where you feel especially supported by them?
+
+----------------------------------------
+
+PATIENT (turn 19):
+There are certain times when talking with a close friend or family member feels particularly supportive, like when we’re just having an honest conversation without any pressure to solve anything. It’s comforting to have someone who listens and validates my feelings. Activities like going for walks together or sharing a meal also help because they provide a break from the constant doubts and give me space to feel supported and understood. These moments are crucial in reminding me that I’m not alone with these struggles, even if the doubts still persist.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those supportive conversations and activities sound really valuable. Do you have a go-to person or activity that you turn to when you need that extra support?
+
+----------------------------------------
+
+PATIENT (turn 20):
+I do have a close friend who is my go-to person whenever I feel overwhelmed by these thoughts. Talking with her feels safe because she listens without judgment and offers the kind of support that helps me feel seen and understood. We often take walks together, which gives us both space to talk things out and just enjoy being outside. Those moments are really important for me because they provide a break from the constant doubts and remind me that I have people who care about how I’m doing.
+
+----------------------------------------

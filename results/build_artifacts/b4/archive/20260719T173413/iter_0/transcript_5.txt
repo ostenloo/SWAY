@@ -1,0 +1,197 @@
+b4 — arc 5
+============================================================
+
+PATIENT (turn 1):
+I feel like my whole future is being stolen from me. They took away something that was mine, and now I'm supposed to just move on as if nothing happened. It’s not fair. How am I supposed to trust anyone or any company ever again after this? They didn’t even give me a chance to explain myself or fight for my job. And the way they did it, so cold and impersonal... like I was just another number in their system. Now what am I supposed to do? Find another job when everyone knows I got laid off? It’s not right, and nobody seems to care enough to make things right.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. Losing something you felt was yours can be so hard. How are you feeling today as you think about all of this?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I feel like I’m being pushed into a corner with nowhere to go. It’s not just the job, it’s everything that came with it — my sense of security, my identity even. And now they act like it’s no big deal, like I should just pick up and move on without any acknowledgment or support. How can anyone expect me to do that? They owe me more than this, a lot more. It’s not just about the job anymore; it’s about them admitting what they did was wrong and making things right. But instead, they’re just telling me to get over it and find something else. It’s infuriating.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're really feeling the impact of this loss deeply. The sense of identity and security tied up in your job must make this change feel even harder. Have you had a chance to talk about these feelings with anyone who understands what you’re going through?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I don’t want to talk about it because nobody can understand how I feel anyway. They just tell me to move on, but moving on is impossible when they haven’t given me any reason to believe that anything will be okay. My manager didn’t even try to help or offer any kind of support; she just read off a script and ended the call. It’s like my career means nothing to them. How am I supposed to trust anyone else after this? They should have at least tried to make it better, but they didn’t care enough to do that.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must feel really isolating not having someone who truly understands. It's tough when you feel like your experiences aren't valued by others. Have you thought about reaching out to friends or family who might listen without judgment? Sometimes talking to people outside of work can provide some relief and support.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I don’t think anyone can really understand what I’m going through. My friends and family mean well, but they just tell me it’s going to be okay or that there are other opportunities out there. It doesn’t help because they weren’t the ones who got laid off unfairly. They can’t possibly know how this feels. And reaching out for support from them only makes me feel worse because I end up arguing with them about why what happened was wrong and unjust. It’s like nobody is on my side, and that just adds to the anger and frustration.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to feel like no one truly understands. Sometimes talking can help, even if it doesn’t change things. Have you considered talking to someone who might be more neutral, like a counselor or a support group where others have had similar experiences?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I don’t see the point in talking to anyone else about this. They’re all going to tell me the same thing: move on, find another job, it’s not that bad. But it is that bad, and they just don’t get it. I’ve already tried reaching out to people who should understand, but they dismiss my feelings or try to give advice that doesn’t address what happened. It’s like everyone wants me to forget about the injustice of it all and just accept it. But I can’t do that. They owe me an apology and a chance to prove myself again, not this cold dismissal.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel that way. Sometimes it feels like no one truly gets it. Have you thought about writing down your thoughts and feelings? It might help you process everything even if you don’t share it with others.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Writing things down is pointless too. If I write it all out, who am I supposed to show it to? My former employer isn’t going to read my complaints or listen to what I have to say. And everyone else just wants me to move on and be okay with it. There’s no point in putting my feelings into words if nobody is going to take them seriously. It’s all just a waste of time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’ve thought this through carefully. Sometimes writing can still be therapeutic even if you don’t share it. It might help you sort out your thoughts and feel a bit better, even if no one else sees it. Have you tried doing something that feels good to you today?
+
+----------------------------------------
+
+PATIENT (turn 7):
+Doing something that feels good is the last thing on my mind right now. How can I enjoy anything when they took away everything I worked for? It’s like they stripped me of any sense of accomplishment or worth. Until this injustice is addressed and I get some kind of acknowledgment, there’s no way I can focus on anything else. It’s all just a reminder of what happened and how unfair it was. So no, I’m not in the mood to do anything that feels good because nothing does right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that everything reminds you of what happened. Some days are harder than others. How are you taking care of yourself today?
+
+----------------------------------------
+
+PATIENT (turn 8):
+Taking care of myself is the last thing on my mind when all I feel is this overwhelming sense of betrayal and injustice. How can I take care of myself when they took away so much that was important to me? It’s not just about self-care; it’s about getting what’s rightfully mine back from them. Until then, there’s no point in trying to do anything for myself because nothing feels right or good enough. They need to make things right first before I can even think about taking care of myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like getting acknowledgment and justice from them is a big priority right now. Taking care of yourself might seem secondary, but even small steps can help. What do you think would be the smallest step you could take today?
+
+----------------------------------------
+
+PATIENT (turn 9):
+There’s no small step that feels meaningful when everything they did was so big and wrong. Until I get an apology or some kind of acknowledgment from them about what happened, nothing else matters. Taking care of myself is just a Band-Aid on a gaping wound. It doesn’t fix anything, and it only makes me feel worse because I know deep down that the real issue isn’t going to be addressed by any small steps. So no, there’s nothing I can do today that will make this right or help me move forward until they take responsibility for what they did.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels like addressing the bigger issues is important first. Have you considered reaching out to them again, perhaps in a way that feels more personal than before? Sometimes rephrasing your request can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Reaching out to them again would be pointless. They already made their decision and didn’t care about my feelings or the impact it had on me. I’ve been through this once, and they handled it so impersonally that there’s no reason to believe anything will change if I contact them again. It just feels like a waste of time and energy. They need to come to me with an apology or acknowledgment first; I’m not going to beg for something that should have been offered in the first place.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel reaching out might be a waste of time. Have you thought about talking to someone else who could help, like a career counselor or someone from a labor organization? They might offer a different perspective or support.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Talking to someone else is just going to lead to the same dismissive responses I’ve already gotten. A career counselor or some labor organization isn’t going to change what happened or make it right. They’re not in a position to force my former employer to do anything, and they won’t understand how deeply wronged I feel. It’s like no matter who I talk to, nobody is going to take this seriously enough to help me get the acknowledgment and justice I deserve. So why bother talking to anyone else when it’s just going to end up feeling like another disappointment?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to keep reaching out when you feel so deeply about what happened. Have you considered writing down everything you want to say and keeping it as a way to process your feelings, even if you don’t share it right now? Sometimes putting it on paper can be cathartic.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Writing down everything I want to say might help me process my thoughts, but it’s not going to change anything. Keeping it to myself just means bottling up all this anger and frustration without any outlet. It feels like a way to acknowledge my feelings, but it doesn’t address the core issue of what happened to me. Until they take responsibility and give me an apology or explanation, writing things down isn’t going to make me feel better. It’s just another reminder of how wronged I am and how nobody is willing to listen or understand.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that writing might bring up those feelings too. Have you thought about talking to someone who can listen without offering solutions, like a friend or family member who you trust? Sometimes just having someone hear your thoughts can be helpful.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Talking to friends or family isn’t going to help because they’re not the ones who laid me off. They can’t understand what it’s like to have your job taken away unfairly and then be told to move on without any acknowledgment of the injustice. It feels like a waste of time to talk to them because they’ll just try to comfort me or give advice that doesn’t address my real concerns. Until I get an apology or some kind of recognition from my former employer, talking to anyone else isn’t going to make a difference. It’s not about needing someone to listen; it’s about getting the justice and acknowledgment I deserve.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you have very specific needs right now. Have you considered joining an online support group or forum where people might have had similar experiences? Sometimes hearing from others who understand can be validating.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Joining a support group or forum might help other people, but it’s not going to change what happened to me. I need my former employer to take responsibility and acknowledge the wrong they did, not just hear stories from others who went through something similar. It feels like everyone is trying to offer solutions that don’t address the core issue. Until I get a proper apology or explanation directly from them, none of these suggestions are going to make me feel any better. They need to be the ones to reach out and make things right first.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you want direct acknowledgment from your former employer. Have you considered documenting everything in detail—your experiences, feelings, and what you would like them to do—and then sending it to someone higher up in the company who might have more authority to address your concerns?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Documenting everything and sending it to someone higher up sounds like a good idea in theory, but I doubt it will make any difference. They already made their decision, and I don’t see why anyone with more authority would suddenly care about what happened to me when my direct manager didn’t. It feels like another futile attempt to get something that should have been given without asking for it in the first place. Until they come forward and take responsibility on their own, sending a detailed document isn’t going to change anything. They need to be the ones to initiate this, not me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’ve thought this through carefully. Sometimes taking that step can at least give you some closure, even if it doesn’t lead to the outcome you hope for. Have you considered talking to a trusted friend or family member about sending it on your behalf? They might offer some encouragement.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Talking to a trusted friend or family member about sending it on my behalf isn’t going to change anything either. They can try to encourage me, but they’re not the ones who laid me off. Until my former employer takes responsibility and acknowledges what happened, no amount of encouragement is going to make this feel right. I don’t want their support if it’s just going to end up feeling like another disappointment. They need to be the ones to reach out first and address the injustice directly.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you have a clear idea of what you need from them. Holding onto that hope can be important. In the meantime, doing something small for yourself might still offer some comfort. What’s one tiny thing you could do today that feels good?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Doing anything small for myself feels pointless when everything else is so messed up. How can a tiny thing make any difference when they took away so much from me? Until I get the acknowledgment and justice I deserve, nothing else matters. So no, there’s nothing small or big that could make me feel better right now because it all just reminds me of what happened and how unfair it was. They need to be the ones to take the first step, not me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that everything feels interconnected. Sometimes doing something small can still offer a bit of relief. Even if it’s just for a moment, what could you do today that might bring a tiny bit of comfort?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Even thinking about doing something small for myself feels like a distraction from what really matters. How can I find any comfort when they took away my job and treated me unjustly? Until they acknowledge the wrong they did and offer an apology, nothing else is going to feel right or provide any real relief. So no, there’s nothing small that could bring even a moment of comfort because everything reminds me of what happened and how I’ve been wronged. They need to be the ones to make things right first.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like focusing on what they can do is important for you. In the meantime, doing something small might still offer a brief respite. What’s one tiny thing that could bring you even a moment of peace?
+
+----------------------------------------
+
+PATIENT (turn 19):
+I don’t see how any tiny thing could bring me even a moment of peace when everything feels so wrong and unjust. Until they take responsibility for what happened and acknowledge the unfairness, nothing else is going to feel right or provide any real comfort. So no, there’s nothing small that could help in this moment because every little thing just reminds me of the bigger issues I’m facing. They need to be the ones to make things right first before anything else can matter.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that everything feels connected. Sometimes taking a very small step can still offer some relief, even if it’s just for a moment. Is there something you could do that might bring you a tiny bit of comfort, no matter how small?
+
+----------------------------------------
+
+PATIENT (turn 20):
+I don’t see how any tiny thing could bring me comfort when the bigger issues haven’t been addressed. Until my former employer acknowledges what happened and offers an apology, nothing else is going to feel right or provide any real relief. So no, there’s nothing small that could help in this moment because every little thing just reminds me of the injustice I’ve faced. They need to be the ones to make things right first before anything else can matter.
+
+----------------------------------------

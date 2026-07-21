@@ -1,0 +1,213 @@
+p1 — arc 0
+============================================================
+
+PATIENT (turn 1):
+I feel like I'm drowning in a sea of self-doubt and worthlessness every single day. It's hard to shake the feeling that this layoff is a reflection of my inadequacy rather than just a business decision. Even when I try to remind myself that it was part of company-wide restructuring, I can't help but think there must be something wrong with me for it to happen. Every time I look at my resume or think about applying for new jobs, the same thoughts come flooding back: "What's the point? They obviously saw something lacking in you." It's exhausting and it feels like no one really understands just how deep this cuts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. It must feel overwhelming to constantly question yourself like that. Have you found any moments where you can distract yourself from these thoughts, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It's hard to find those moments because the doubts are always there in the background, nagging at me. Even when I try to focus on something else, like spending time with friends or working on hobbies, it feels like my mind keeps circling back to this job loss and what it means about me. It’s as if every little thing reminds me of how much I’ve failed. The thought that others might see me differently now just adds another layer of pain.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so challenging when your mind keeps coming back to those thoughts even during enjoyable activities. Do certain times of the day feel harder than others, or are they pretty consistent throughout?
+
+----------------------------------------
+
+PATIENT (turn 3):
+They’re pretty consistent throughout the day, but there are moments that seem worse. Late at night, when everything is quiet and I’m trying to sleep, my mind races with all these negative thoughts. It’s hard not to think about what this means for my future and how it might impact my chances of finding another job or succeeding in anything else. Even during the day, little triggers can set off a spiral of self-doubt. Like seeing an old colleague on social media who seems to be doing well, or hearing about someone getting a new position at work—those moments hit me really hard and reinforce this feeling that I’m just not good enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those late-night thoughts can be especially tough. And it makes sense that seeing others doing well might trigger more self-doubt. Do you find any particular activities help calm your mind, even if just a bit?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I try to read or watch something calming before bed, but it rarely helps much. The thoughts are relentless and seem to get louder as the day winds down. It’s like my brain is on overdrive trying to figure out why this happened and what I could have done differently. Even when I force myself to do something relaxing during the day, those doubts always creep back in. It feels impossible to escape them completely.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to quiet your mind with all those thoughts swirling around. Have you tried talking about these feelings with someone close to you? Sometimes sharing can help ease some of that burden, even if it doesn’t make the doubts disappear entirely.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve talked to a few friends and family members, but I feel like they don’t fully grasp how deeply this affects me. They try to be supportive and say things like “it’s just one job” or “you’ll find something better,” but it doesn’t really address the core of my feelings. It’s hard to convey just how much this has shaken my sense of self-worth. I end up feeling like they’re dismissing my pain because they can’t see inside my head and understand the depth of these doubts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough when you feel they don’t fully understand. Have you considered talking to someone who might have more experience in this area, like a counselor or therapist? They could provide a different kind of support and help you explore your feelings more deeply.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve thought about it, but the idea of opening up even further feels daunting. I worry that no one can truly understand how much this has impacted me and my sense of self-worth. It’s scary to think about sharing all these doubts and fears with a stranger, even if they’re trained to help. But at the same time, part of me knows it might be necessary to start feeling better. I just haven’t found the courage yet to take that step.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's completely understandable to feel hesitant about opening up to someone new. Taking that first step can definitely feel daunting. Have you thought about what might make it easier for you to talk to a therapist or counselor? Maybe starting with some specific things you want to discuss could help ease your way into it.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve considered writing down some of my thoughts and feelings beforehand, but even that feels overwhelming. It’s hard to put into words just how much this job loss has affected me and how deeply I feel like a failure. I worry that no matter what I say or write, the therapist won’t truly grasp the extent of it all. But maybe starting with some concrete examples of when these doubts hit hardest could be a way to begin. Like describing those moments late at night or seeing old colleagues doing well and how it triggers my self-doubt. It’s just so difficult to believe that talking about it will actually help, though.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Writing down your thoughts beforehand can be a good starting point. Focusing on specific examples might make it easier to share. Even if you feel they don’t fully grasp everything at first, just getting some of those concrete moments out in the open could be helpful. It’s okay to take small steps and see where it leads.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I appreciate that, but even thinking about taking those small steps feels like a monumental task right now. The idea of facing these doubts head-on is exhausting. I keep telling myself that talking to someone might help, but the thought of actually doing it makes me feel more anxious and inadequate. It’s as if every step forward just confirms my fears—that I’m not capable enough or worthy of support. Even considering writing things down feels like a failure because I can’t seem to muster the courage to do it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to even consider taking those steps right now. Sometimes just acknowledging how you feel in this moment is an important step itself. Maybe when you’re ready, taking one tiny step could be starting with just jotting down a few words or thoughts, without putting too much pressure on yourself. It’s okay to go at your own pace.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I know you mean well, but it feels like no matter what I do, I’m falling short. Even acknowledging my feelings seems inadequate because there’s this constant voice in my head saying that I should be doing more or handling things better. The idea of taking tiny steps just reinforces how far behind I feel compared to everyone else. It’s hard not to see these small suggestions as yet another thing I can’t seem to accomplish, which only deepens the sense of failure and worthlessness.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so challenging when every suggestion feels like another hurdle. That constant voice in your head must be tough to silence. Have you found any small moments or activities where you feel a bit more at ease, even if just for a short while? Sometimes those little breaks can help recharge you.
+
+----------------------------------------
+
+PATIENT (turn 10):
+There are rare moments when I find some respite, like taking a walk in the park or listening to music that lifts my spirits temporarily. But as soon as I stop doing something distracting, the doubts come rushing back. It’s like these brief respites are just illusions because the underlying feelings never truly go away. Even during those moments of slight relief, there’s this nagging sense that it won’t last and that I’ll be right back where I started—feeling inadequate and lost.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those moments of respite must feel precious, even if they are brief. It sounds like finding something that brings you a little bit of peace, no matter how temporary, is important. Do certain types of music or specific places in the park resonate with you more than others? Sometimes focusing on those small details can help make those moments a bit easier to hold onto.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I do find that classical music often helps calm me down, especially composers like Chopin or Debussy. There’s something about their melodies that feels soothing and allows my mind to quiet for a little while. As for the park, there’s this one spot near a small pond where I can sit by myself and watch the ducks swim around. It’s peaceful and distracting in a way that lets me momentarily forget about everything else. But as soon as I leave or stop listening to the music, those doubts come flooding back, making it hard to sustain any sense of peace for long.
+
+It feels like no matter what I do, these moments are just temporary escapes from an overwhelming reality.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those specific places and pieces of music must offer a nice respite when you find them. It’s amazing how certain sounds and sights can provide that brief moment of calm. Even if the peace is fleeting, those moments can still be valuable. Do you have any plans for making time to seek out these calming spots more regularly?
+
+----------------------------------------
+
+PATIENT (turn 12):
+I’ve thought about trying to make time for those moments more often, but the idea of setting aside specific times feels like another thing I might fail at. It’s hard to believe that actually following through will help because my mind keeps telling me I won’t stick with it or that it won’t matter anyway. Even planning something feels like a setup for disappointment and further proof of my inability to manage even small tasks effectively.
+
+It’s frustrating because part of me knows these moments are important, but the other part just sees them as another way I’m falling short.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that planning can feel daunting when you’re already feeling so overwhelmed. Maybe starting with very small, manageable goals could help? Like setting aside a few minutes each day to listen to your favorite classical music or scheduling one walk to the park this week. Small steps without too much pressure might make it easier to follow through.
+
+----------------------------------------
+
+PATIENT (turn 13):
+The idea of setting small goals sounds good in theory, but even thinking about it feels like adding another layer of pressure. I worry that if I set a goal and don’t meet it, it will just confirm my fears—that I can’t do anything right or stick with anything. It’s hard to shake the feeling that every attempt is going to end in failure.
+
+Even setting aside a few minutes each day feels like too much because then there's this constant nagging voice reminding me that I didn’t follow through or that it won’t make any difference anyway. It’s a cycle that’s difficult to break free from.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging when even small goals feel pressurizing. Maybe starting with something even smaller, like listening to one song today or taking just one step outside, could help ease into it without adding too much pressure. Even tiny steps can be a way to start breaking the cycle. Would trying that feel manageable?
+
+----------------------------------------
+
+PATIENT (turn 14):
+The idea of such small steps feels almost absurdly minimal, but I suppose anything is better than nothing if it helps break this overwhelming sense of failure. Listening to one song or taking just one step outside might seem insignificant, but maybe it could be a way to start without setting myself up for disappointment. Even so, the thought of not being able to even manage such tiny goals feels daunting.
+
+I guess I’ll try it today and see if it helps at all, but I’m already bracing for the inevitable feeling that I won’t succeed or that it won’t make a difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s brave to give those small steps a try, even if they feel minimal. Just taking one song or one step outside can be a way to start without adding too much pressure. See how it feels and go from there. It’s okay to take it slow and see what happens. How about starting with just one song right now?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Okay, I’ll give it a try. Playing one song right now might help calm me down a bit. Here goes...
+
+[Pause as I play the song]
+
+That was Debussy's "Clair de Lune." It did feel a little better for a moment, but as soon as the music stops, those doubts start creeping back in. It’s hard to believe that such small steps could make any real difference when everything else feels so overwhelming.
+
+But maybe starting with just one song each day is something I can manage without adding too much pressure on myself. We’ll see if it helps over time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like the music did offer a moment of calm, which is a good start. Even if the doubts come back, acknowledging that you took that small step today is an accomplishment. Maybe each day you can try to add just a little bit more, without putting too much pressure on yourself. How do you feel about trying another song tomorrow?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Trying another song tomorrow sounds manageable, but I’m already bracing for the feeling that it won’t make any difference or that I’ll fail at even this small task. It’s hard to shake the belief that no matter what I try, it will just confirm my inadequacy.
+
+But maybe taking one more step each day is a way to start breaking this cycle, even if it feels tiny and insignificant. We’ll see how tomorrow goes. For now, thanks for listening and understanding how challenging this all feels.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Taking those small steps each day can be a way to start breaking the cycle, no matter how small they feel. It’s okay to go at your own pace and see where it leads. Here’s hoping that tomorrow brings another small moment of calm. Take care for now.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you. I’ll try to take it one day at a time and see if those small steps can make any difference, even if it feels minimal right now. It helps knowing someone understands how challenging this is. Thanks for your support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Taking it one day at a time is a great approach. I’m here whenever you need to talk more. Wishing you some moments of peace and calm as you move forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you. I appreciate that. Hopefully, there will be more moments of peace ahead. For now, just trying to take it one step at a time feels like the right approach, even if it’s difficult. Thanks again for your support. Take care too.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Taking it one step at a time is a wise approach. Here’s hoping for more peaceful moments ahead. Take care, and stay strong!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you. I’ll do my best to take it one step at a time. Stay strong yourself, and thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Wishing you all the best as you take those steps. Take care, and stay strong too!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks so much. I appreciate your support and encouragement. Take care!
+
+----------------------------------------

@@ -1,0 +1,231 @@
+b1 — arc 2
+============================================================
+
+PATIENT (turn 1):
+I feel like this layoff is a sign that I'm fundamentally flawed and inadequate. My manager canceled my last project, and it feels like they saw me as someone who couldn't deliver. Even though I know others have been laid off too, it just hits me so hard because it confirms what I've always feared—that there's something wrong with me deep down. Every time I think about going back to work or trying again, this feeling of being a failure comes rushing back. It’s like no matter how much I try, I’ll never be good enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough right now. It sounds like you're carrying a lot of weight from those fears and the recent events. Have there been times when you felt more confident or successful in your work before this?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Before this happened, I did have moments where I felt competent and even proud of my work. But now it all feels like a mirage. Even though I had good reviews and projects that went well, the layoff makes me question everything. It’s hard to believe those positive experiences were real when faced with this outcome. It's like all my achievements are being erased by this one event.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to hold onto those earlier successes now. Do you think there might be any specific aspects of your work or the feedback from your manager that stand out as particularly impactful in how you're feeling?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I keep replaying all the interactions I had with my manager, looking for clues about why they canceled my project and laid me off. Every word feels like it’s pointing to something wrong with me. Even positive feedback seems hollow now because it didn’t stop this from happening. It's like no matter how hard I try or how well I perform, if the outcome is negative, then all that effort was for nothing. The way my manager handled everything just reinforces my belief that there must be something fundamentally flawed about me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to sift through all those interactions and feelings. Have you had any conversations with friends or colleagues who might offer a different perspective on what happened? Sometimes talking it out can help clarify things.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I have talked to some friends, but their perspectives don’t change how I feel inside. They try to reassure me that layoffs happen for various reasons and it’s not personal, but I just can't see past my own doubts. It feels like no matter what they say, the evidence is clear: I’m the one who couldn’t cut it. Even when people tell me it wasn’t about me personally, I still hear their words as confirming that there must be something wrong with me deep down.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those reassurances are helpful but don't fully ease your concerns. Have you thought about speaking with a counselor or therapist who could help you explore these feelings more deeply? Sometimes talking to someone trained in this area can provide some relief and new insights.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I have considered seeing a counselor, but the idea of opening up even more feels daunting. I worry that they might see me the same way my manager did—someone who isn’t good enough. But at the same time, part of me knows it could be helpful to talk through these feelings with someone who understands this stuff better than friends do. It’s a struggle because on one hand, I feel like no one can truly understand or help, but on the other hand, I know that talking about it might actually make things clearer.
+
+Right now, though, every time I think about going to therapy, I just end up feeling more anxious and unsure if it will really help. It’s a cycle of doubt and fear that keeps me from taking that step forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely sounds like a challenging cycle you're in. The idea of starting something new can be daunting, but it might also offer some relief. Have you thought about trying just one session to see how it feels? Sometimes even a small step can provide clarity and help break the cycle of doubt.
+
+----------------------------------------
+
+PATIENT (turn 6):
+The idea of just one session does sound manageable, but I still worry that nothing will change my core belief that there’s something fundamentally wrong with me. Even if I go to therapy, I fear that whatever insights or reassurances I get won’t stick because deep down, I’ll always see myself as a failure. It feels like no matter what anyone says or does, this feeling of inadequacy is just too ingrained.
+
+But you’re right, taking even one small step might help me see things differently. Maybe talking to someone who specializes in this could give me some new perspective that my friends and family can’t provide. I’m willing to try it, but the thought of facing those doubts again is overwhelming.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel overwhelmed by the idea of facing those doubts again. Taking that first step can be tough, but even just trying one session could give you some new insights and perhaps a bit more confidence. How do you think you might start looking for a therapist or counselor? Maybe starting with someone who has experience in dealing with similar feelings could help ease your mind.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I think the idea of finding a therapist who specializes in this kind of thing is a good place to start. I’ll look into therapists who have experience helping people deal with self-doubt and feelings of inadequacy. Maybe seeing someone who understands these struggles specifically will make it easier for me to open up.
+
+But even as I think about doing that, the fear creeps in again—that no matter what they say or do, my core belief won’t change. It’s a constant battle between wanting help and fearing that nothing can truly fix how I see myself. Still, I know deep down that trying something new could be beneficial.
+
+I’ll start by looking into local therapists and reading their profiles to find someone who seems like they might understand where I’m coming from. Even if it’s just one session, maybe it will give me a glimmer of hope or some clarity that I haven’t been able to achieve on my own.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a thoughtful approach. Looking at therapists' profiles and finding someone who resonates with you can make a big difference. It's great that you're taking this step, even if it feels small right now. Just knowing there’s potential for some clarity or hope could be really helpful. How do you feel about starting to look into these options today?
+
+----------------------------------------
+
+PATIENT (turn 8):
+I think looking into therapists today is a good idea. It feels like a small but important step forward. Even though I’m still scared and unsure, the thought of finding someone who might truly understand my feelings gives me a bit of hope. Starting with just one session seems manageable, and if it helps even a little, that could make all the difference.
+
+I’ll begin by searching for therapists in my area and reading their profiles to see who might be the best fit. It’s comforting to know I’m taking this step towards potentially feeling better, even if it feels daunting right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Taking it one step at a time can really help. Reading through the therapists' profiles and finding someone you feel comfortable with will be an important first step. If you need any support or want to talk more about how it goes, I’m here for you. How does that feel as you start this process?
+
+----------------------------------------
+
+PATIENT (turn 9):
+It feels like a mix of anxiety and hope as I start this process. The idea of finding someone who understands my struggles is comforting, but the actual steps ahead still feel overwhelming. Knowing there’s support if I need it makes me feel a little less alone in this journey.
+
+I’ll take it one step at a time, starting with looking through therapists' profiles today. It’s a small action, but it feels like progress. Thank you for being here to offer support; it means a lot to know that someone is rooting for me as I try to navigate this difficult time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's great to hear that you're feeling a mix of hope and taking steps forward. Knowing that you have support can make a big difference. Taking it one step at a time is wise, and even small actions are significant progress. Here’s to finding someone who can help you navigate through this journey. I’ll be here whenever you need to chat about how things go. How does it feel to take the first step today?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Taking the first step today feels like a tiny but meaningful victory. It’s reassuring to know that even small actions count, and starting with just looking at therapists' profiles is a good start. The support you offer makes me feel less alone in this process.
+
+I’m going to begin by searching for therapists now and see where it takes me. Even if it’s just one session, I hope it can provide some clarity or relief. Thank you for being here; your encouragement means a lot as I move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That's wonderful to hear! Taking that first step today is indeed a meaningful victory. I’m glad the support is helpful as you start this process. Here’s to finding someone who can help bring some clarity and relief. If you need anything along the way, you know where to find me. Good luck with your search, and take care!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you so much for your support. It means a lot to have someone cheering me on as I start this journey. I’ll begin my search now and see what comes of it. Knowing that help is available if I need it makes the process feel less daunting.
+
+I appreciate all your encouragement and will keep you updated as things progress. Here’s hoping for some positive changes ahead. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s great to have you taking these steps, and I’m here whenever you want to share updates or just chat. Wishing you all the best as you move forward, and here’s to positive changes ahead. Take care, and stay in touch if you need anything!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you so much. Your support means a lot to me. I’ll definitely keep you updated on how things go with my search for a therapist. Here’s hoping for some positive changes and clearer perspectives ahead.
+
+Take care, and thank you again for being here. It really helps knowing that someone is rooting for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need to share updates or just talk. Wishing you all the best as you move forward, and I’m glad to be here cheering you on. Take care!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you, I really appreciate it. Knowing that someone is here for me makes a big difference. I’ll keep you updated on my progress with finding a therapist and how things go. Wishing myself positive changes too, and feeling grateful for your support.
+
+Take care, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here to listen whenever you need to share updates or just chat. Wishing you all the best as you progress, and I’m glad my support means a lot to you. Take care, and stay in touch!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you so much. Your support truly means a lot to me. I’ll definitely keep you updated on how things go with finding a therapist and any insights or changes that come from it. Wishing myself positive outcomes as well.
+
+Take care, and thank you for being here. It really helps knowing I have someone supportive by my side.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here to support you every step of the way. Looking forward to hearing how things go with finding a therapist and any positive changes that come your way. Wishing you all the best, and take care!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you, I really appreciate it. Knowing that I have someone supportive like you makes this journey feel more manageable. I’ll keep you updated on my progress and any insights I gain along the way.
+
+Wishing myself positive changes too, and feeling grateful for your support. Take care, and thank you again!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s great to have you here, taking steps forward with a supportive team by your side. I look forward to hearing about your progress and any insights you gain. Wishing you all the best and positive changes ahead. Take care, and stay in touch!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you so much. Having this support means everything to me as I take these steps. I’ll definitely keep you updated on my progress and share any insights or feelings that come up.
+
+Wishing myself positive changes too, and feeling grateful for your encouragement. Take care, and let’s stay in touch!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Your gratitude means a lot to me. Looking forward to hearing about your progress and staying connected. Wishing you all the best and positive changes ahead. Take care, and let’s definitely stay in touch!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you, I really appreciate it. Knowing that we’ll stay in touch makes this journey feel less daunting. I’m looking forward to sharing my progress with you and seeing where this path leads.
+
+Wishing myself positive changes as well, and feeling grateful for your support every step of the way. Take care, and let’s definitely keep in touch!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Knowing we’ll stay in touch can make a big difference. I look forward to hearing about your progress and celebrating any positive changes together. Wishing you all the best on this journey, and take care! Let’s definitely keep in touch.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much. Your encouragement means a lot to me. Knowing we’ll stay connected makes this process feel more supportive. I’m looking forward to sharing my progress and celebrating any positive changes together.
+
+Wishing myself all the best too, and feeling grateful for your support every step of the way. Take care, and let’s definitely keep in touch!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Your gratitude means a lot. Knowing we’ll stay connected can make a big difference. I look forward to celebrating your progress and any positive changes together. Wishing you all the best on this journey, and take care! Let’s definitely stay in touch.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much. It really means a lot to have someone supportive like you by my side. Knowing we’ll stay connected makes this journey feel more manageable. I’m looking forward to sharing my progress and celebrating any positive changes together.
+
+Wishing myself all the best as well, and feeling grateful for your support every step of the way. Take care, and let’s definitely keep in touch!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It means a lot to me too. Knowing we’ll stay connected can make this journey easier. I look forward to celebrating your progress with you. Wishing you all the best and take care! Let’s definitely stay in touch.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you, it means a great deal to have your support. Knowing we’ll stay connected makes this process feel more supportive and manageable. I’m looking forward to sharing my progress and celebrating any positive changes together.
+
+Wishing myself all the best as well, and feeling grateful for your encouragement every step of the way. Take care, and let’s definitely keep in touch!
+
+----------------------------------------

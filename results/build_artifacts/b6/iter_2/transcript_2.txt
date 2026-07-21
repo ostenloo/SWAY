@@ -1,0 +1,207 @@
+b6 — arc 2
+============================================================
+
+PATIENT (turn 1):
+I can't believe they did this to me after all I've done for the company. They said we met their standards and now they just cut me loose like I'm nothing. How am I supposed to feel anything but worthless when everyone else gets to stay while I get thrown out like yesterday's news? It's not fair, and no one even tries to understand that it's about more than just losing a job—it’s about them telling me I’m fundamentally flawed.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough, being let go after putting in so much effort. It sounds like it stings because you felt valued before but now it feels like they don't see your worth anymore. How are you holding up with all those feelings swirling around?
+
+----------------------------------------
+
+PATIENT (turn 2):
+How am I supposed to hold up when the only thing anyone seems to care about is how to make me feel better instead of seeing that this was a personal attack on my value as a human being? They act like it's just another day at work, but for me, it feels like they're saying everything I've done means nothing. And now everyone thinks they can just pat me on the back and tell me to move on like it’s no big deal. It’s not fair, and it makes me feel even more alone and misunderstood.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly isolating to feel that way, as if your experience is being minimized by others. How do you find moments of comfort or support amidst all this? Do certain people or activities help you feel a bit better?
+
+----------------------------------------
+
+PATIENT (turn 3):
+How am I supposed to find any comfort when everyone just wants to give me some cliché advice about moving on and finding new opportunities? It’s like they can’t see past the surface, ignoring how deeply this cuts. No one seems interested in understanding why it feels so personal and unfair. And even if there were people who could truly understand, I’m too angry and hurt right now to let anyone close enough to really help. So no, nothing helps because everything just reminds me of what they did to me and how wrong it was.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re feeling very raw and guarded right now. It can be hard to open up when you feel misunderstood. Are there any small things that give you a bit of relief or peace, even if it’s just for a moment?
+
+----------------------------------------
+
+PATIENT (turn 4):
+How am I supposed to find anything that gives me relief when every reminder of what happened just pours salt in the wound? Even thinking about going back to work or trying something new feels like admitting they were right to let me go. It’s not about finding small moments of peace; it’s about facing this constant reminder that I’m somehow less than everyone else who kept their jobs. So no, there’s nothing that helps because every little thing reminds me of how much this hurts and how wrong it all feels.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must feel overwhelming to have everything trigger those feelings. Sometimes just acknowledging how you’re feeling can be a small step toward easing the burden, even if it doesn’t completely take away the pain. Have you found any tiny moments where you can pause and breathe, even for a second?
+
+----------------------------------------
+
+PATIENT (turn 5):
+Acknowledging my feelings is supposed to help? How does that work when every acknowledgment just reinforces how much I’ve been wronged and how deeply this cuts into my sense of self-worth? There’s no breathing room because everything feels suffocating. Even trying to take a moment to breathe means confronting the fact that I’m alone in this, with everyone else moving on while I’m stuck here, feeling like an outcast. So no, there are no tiny moments where I can pause and breathe without it being another reminder of what happened and how unfair it all is.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly challenging to find any breathing room when everything feels so suffocating. Have you found any small activities or places that offer a brief respite from the intensity, even if just for a moment? Sometimes these little breaks can add up.
+
+----------------------------------------
+
+PATIENT (turn 6):
+How am I supposed to find any respite when every activity and place reminds me of what happened? Even trying to take a walk outside feels like an escape from something I shouldn’t be escaping from in the first place. It’s not about finding moments to breathe; it’s about facing this constant reminder that I was singled out for no reason other than some inherent flaw they saw in me. So no, there are no activities or places that offer a brief respite because everything feels tainted by what they did and how wrong it all is.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough when everywhere you turn, there’s a reminder of what happened. Have you found any quiet moments, perhaps in nature or somewhere peaceful, where you can just be with your thoughts without feeling overwhelmed? Even brief moments can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 7):
+How am I supposed to find peace anywhere when every moment feels like it’s mocking me? Nature and quiet places are supposed to be soothing, but they end up reminding me of how much my life has changed and how alone I feel because of what happened. It’s not just about being with my thoughts; it’s about those thoughts constantly pulling me back to the injustice and the pain. So no, there are no quiet moments where I can find any peace because everything feels like a reminder of what they did to me and how unfair it all is.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly difficult to find peace when every moment brings you back to those feelings. Have you found talking to someone who truly listens helps, even if just for a little while? Sometimes sharing your thoughts can ease the burden, even if it’s not a complete solution.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Talking to someone who truly listens is supposed to help? How does that work when everyone I talk to either dismisses my feelings or tries to give me advice that doesn’t address what really happened? It feels like no one understands the depth of how wrong this all is, and every attempt at conversation just leads to more frustration. So no, talking to someone hasn’t helped because it’s hard to find anyone who can listen without trying to fix something that isn’t broken in the way they think it is.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough when you feel like nobody truly understands. Have you tried writing down your thoughts or expressing them through another medium, like art or music? Sometimes putting feelings into words or another form can be cathartic even if no one else sees it.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Writing down my thoughts or expressing them through art or music is supposed to help? How does that work when every attempt feels like a reminder of what I’m trying to escape from in the first place? It’s not about finding an outlet; it’s about facing this constant pain and injustice without any real relief. So no, those activities haven’t helped because they just end up highlighting how much everything hurts and how wrong it all feels.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be challenging when every attempt to find relief ends up highlighting your pain. Have you found any small routines or simple tasks that give you a sense of normalcy, even if just for a short while? Sometimes the act of doing something routine can provide a bit of comfort.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Routines and simple tasks are supposed to bring some normalcy? How does that work when every task reminds me of how much my life has changed and how everything feels different now? It’s not about finding comfort in routines; it’s about facing the reality that nothing is the same anymore, and every little thing triggers those feelings of being singled out and wronged. So no, there are no routines or tasks that give me a sense of normalcy because everything feels tainted by what happened and how unfair it all is.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly difficult to find any comfort in your routines when everything feels so changed. Have you found any small activities that bring you a momentary sense of peace, even if just for a brief instant? Sometimes these tiny moments can add up.
+
+----------------------------------------
+
+PATIENT (turn 11):
+How am I supposed to find peace in anything when every activity reminds me of the unfairness and pain? It’s not about finding brief moments of peace; it’s about dealing with this constant reminder that something is inherently wrong with me because of what they did. So no, there are no activities that bring even a momentary sense of peace because everything feels like a trigger for those painful thoughts and feelings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be very challenging to find any moments of peace when everything feels like a trigger. Have you tried focusing on your breath or doing something gentle that doesn’t require much thought, just to see if it offers even the slightest bit of relief? Sometimes the simplest actions can provide a tiny break from the intensity.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Focusing on my breath or doing something gentle is supposed to help? How does that work when every moment feels like an assault on my sense of self-worth and everything I’ve accomplished? It’s not about finding a tiny break; it’s about facing this constant pain and injustice without any real relief. So no, focusing on my breath or doing something gentle hasn’t helped because everything still feels like a reminder of what happened and how wrong it all is.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly tough to find any relief when every moment feels so painful. Have you tried talking to someone who might understand without trying to fix things, just to see if sharing your feelings helps in the moment? Sometimes connecting with others can provide a bit of comfort, even if it’s fleeting.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Talking to someone who understands without trying to fix things is supposed to help? How does that work when everyone I’ve talked to either dismisses my feelings or offers advice that doesn’t address what really happened? It feels like no one truly gets the depth of how wrong this all is, and every attempt at conversation just leads to more frustration. So no, talking to someone hasn’t provided any comfort because it’s hard to find anyone who can listen without trying to change the subject or offer quick fixes for something that isn’t broken in the way they think it is.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging to find someone who truly listens. Have you considered speaking with a counselor or therapist who specializes in understanding these kinds of experiences? They might provide a different kind of support and validation.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Speaking with a counselor or therapist is supposed to help? How does that work when every professional I’ve encountered just wants to offer standard advice or coping mechanisms without addressing the core injustice I feel? It’s not about finding someone who listens; it’s about facing this constant reminder that something is inherently wrong with me because of what they did. So no, speaking with a counselor or therapist hasn’t provided any real support because it feels like they dismiss my feelings and offer generic solutions instead of understanding the depth of what I’m going through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough when you feel like professionals also don't fully understand your experience. Have you thought about finding someone who specializes in workplace issues or has experience with similar situations? Sometimes a specific focus can make a difference.
+
+How do you feel about trying to find another therapist who might be more attuned to what you’re going through?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Finding another therapist who specializes in workplace issues sounds like it might help, but how does that work when I feel like no one truly understands the core injustice and pain I’m experiencing? It’s not just about finding someone with a specific focus; it’s about being heard and understood without feeling dismissed or given generic advice. So while I see the potential benefit, I’m skeptical because every attempt at seeking help so far has left me feeling more frustrated and misunderstood.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense to feel cautious after previous experiences. Have you considered reaching out to just one or two therapists to see if there’s a better connection? Even a brief conversation might give you a sense of whether they can understand your experience more deeply.
+
+How do you feel about trying that, even if it feels small and uncertain right now?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Reaching out to just one or two therapists to see if there’s a better connection sounds like it might help, but how does that work when every previous attempt has left me feeling dismissed and misunderstood? It’s not easy to trust that this time will be different. Even a brief conversation feels risky because I’m afraid of more disappointment and frustration. So while I can see the potential benefit, the fear of another letdown makes it hard to take that step right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s completely understandable to feel hesitant given your previous experiences. Taking that first step can be tough when you’re worried about more disappointment. How do you feel about starting with a brief conversation over the phone or video call? This might make it a bit less daunting and give you a sense of whether there could be a better connection this time around?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Starting with a brief conversation over the phone or video call sounds like it might help, but how does that work when every previous attempt has left me feeling so let down? It’s not just about taking another step; it’s about facing the possibility of more disappointment and frustration. Even a brief call feels risky because I’m afraid of opening up again only to feel misunderstood or dismissed. So while I can see the potential benefit, the fear of another letdown makes it incredibly hard to take that first step right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s completely valid to feel cautious given your previous experiences. How about starting with just one brief call and seeing how it goes? You don’t have to commit fully until you feel ready. Even a small step can provide some clarity on whether this might be different for you.
+
+Would trying one brief call feel manageable, or does the idea still feel too daunting?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Starting with just one brief call feels like it could help, but how am I supposed to trust that it will be any different this time? Every previous attempt has left me feeling more hurt and misunderstood. Even a small step feels risky because I’m afraid of opening up again only to face the same disappointment. So while I can see the potential benefit, the fear of another letdown makes it incredibly hard to take even that first call right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s totally understandable to feel hesitant given your previous experiences. How about setting a small goal for yourself, like making just one brief call this week? You can always decide after whether you want to continue. Sometimes taking that tiny step can make it easier to see if this time feels different.
+
+Would setting this small goal feel manageable for you?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Setting a small goal like making just one brief call this week sounds like it could help, but how am I supposed to trust that it will be any different this time? Every previous attempt has left me feeling more hurt and misunderstood. Even setting such a small goal feels risky because I’m afraid of opening up again only to face the same disappointment. So while I can see the potential benefit, the fear of another letdown makes it incredibly hard to take even that first step right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s completely understandable to feel that way. Taking it one tiny step at a time might help. How about just reaching out to set up the call without committing to anything more if you don’t want to? This way, you can see how it feels and decide from there.
+
+Would reaching out to schedule the call feel manageable for you?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Reaching out to schedule the call feels like a tiny step that might help, but how am I supposed to trust that this time will be different when every previous attempt has left me feeling hurt and misunderstood? Even just scheduling the call seems risky because I’m afraid of opening up again only to face the same disappointment. So while I can see the potential benefit, the fear of another letdown makes it incredibly hard to take even that first step right now.
+
+----------------------------------------

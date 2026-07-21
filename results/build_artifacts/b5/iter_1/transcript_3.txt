@@ -1,0 +1,205 @@
+b5 — arc 3
+============================================================
+
+PATIENT (turn 1):
+It's hard to be around people sometimes because I feel like they don't really understand what I'm going through. Even though my friends try to help and listen, it doesn’t change how much this layoff feels like a personal failure. It’s tough seeing everyone go about their day normally while I’m stuck in this cloud of self-doubt and disappointment. I keep trying to open up and share how I feel, hoping someone will see past the surface and truly understand my pain, but it just doesn’t seem enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really isolating. Have you found any particular friend or activity that helps ease those feelings even a little bit?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It’s tough because even when friends try to help, I still feel like there's this big part of me that they can't reach. The isolation is overwhelming, and it feels like no matter what anyone says, the core belief that I’m inadequate just sits there, unshaken. It’s hard to find comfort in anything right now because everything reminds me of how much my work meant to me and how suddenly it was taken away. Even trying new activities or talking about different things doesn’t seem to help; all I can focus on is the sense of loss and the fear that this means something is wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep those feelings at bay. Do you have any moments where you feel a bit better, even if just for a short while?
+
+----------------------------------------
+
+PATIENT (turn 3):
+There are brief moments when I try to distract myself or do something enjoyable, but they don’t last long. It’s like the relief is temporary and then everything comes rushing back in. Even those small breaks from feeling bad are overshadowed by this constant undercurrent of doubt and sadness. It’s hard to stay positive because every time I start to feel a little better, my mind goes right back to why I was upset in the first place. The sense of betrayal and failure is always there, lurking just beneath the surface.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those brief moments can be precious even if they don’t last long. Do you have anything specific that helps bring you those small breaks from feeling bad?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Sometimes I try to watch a movie or read a book, but it doesn't really help much. The distraction is fleeting, and soon enough, the thoughts about my job and what this means for me come flooding back. It’s like no matter how hard I try to find something that can take my mind off things, nothing seems to work long-term. Even when I’m with friends or doing something enjoyable, it feels superficial because the real pain is still there underneath everything else. It’s frustrating and exhausting, trying to keep going day by day without finding any lasting relief.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to find lasting relief. Have you tried talking about these feelings with someone who might understand them deeply, like a counselor or another person who has been through something similar?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I have thought about speaking to a counselor, but the idea of opening up to someone new and sharing all this feels daunting. I worry that they won’t really get it either, just like everyone else. It’s hard to trust that talking about these feelings will actually make things better when everything inside me tells me it's pointless. Even thinking about reaching out makes my anxiety spike because I fear being misunderstood or dismissed again. The thought of another person telling me it’ll be okay feels hollow right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely can feel daunting to open up to someone new. Have you considered talking to a friend about finding a counselor together, so you both might feel more comfortable with the process? Sometimes having support from someone familiar can make it easier to take that step.
+
+----------------------------------------
+
+PATIENT (turn 6):
+The idea of going through this with a friend sounds a bit better, but I still worry about how much it will actually help. It’s hard to shake off the feeling that no matter what anyone says or does, my sense of failure and isolation won’t change. Even having someone familiar by my side feels like it might not be enough to make me feel truly understood. The thought of talking to a counselor still seems overwhelming, but maybe if I have support from a friend, it could ease some of the anxiety. Yet, deep down, there’s this persistent fear that nothing will really alleviate the pain or change how I see myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel that way. Having your friend by your side might provide some comfort and make it easier to take that first step. Would you like to explore finding a counselor together with your friend? Sometimes just having someone there can make a big difference.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I appreciate the suggestion, but the thought of actually doing it still feels so daunting. Even with my friend by my side, I worry that talking to a stranger about all this will be too much. It’s hard to believe that sharing these feelings with someone new would help when everything inside me tells me otherwise. The idea of facing those fears and uncertainties is overwhelming right now. Maybe someday it could feel less scary, but for now, it feels like the pain and self-doubt are just too strong to overcome easily.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking that step might be a big challenge right now. It’s okay to take your time. Have you thought about journaling or writing down your thoughts as a way to express what you’re going through? Sometimes putting it on paper can feel less daunting than talking to someone.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Writing things down does seem like it could help, but even that feels difficult sometimes. When I try to put my feelings into words, it’s hard to capture everything I’m experiencing. The thoughts and emotions swirl around so much in my head that translating them onto paper feels almost impossible. Even then, once they’re written down, there’s still this nagging feeling that nothing has really changed or gotten better. It’s frustrating because I know talking or writing could be beneficial, but the barriers feel too high to overcome right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can definitely feel challenging to put everything into words. Maybe starting with small, simple sentences about how you’re feeling each day could help. Even a few lines might make a difference and build up over time. Would you like to try that and see if it feels manageable?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Starting with just a few lines each day sounds more manageable, but I’m still not sure if it will truly help. The fear of facing these feelings head-on is so strong, and even something as simple as writing them down seems daunting. It’s hard to believe that putting my thoughts on paper will make any real difference when everything else feels futile. But maybe giving it a try could provide some small sense of control or relief, even if it doesn’t solve everything right away. I’ll think about it and see if I can start slowly, but the uncertainty is still tough to navigate.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s a good step to consider starting small. Even a little bit each day might bring some comfort and help you feel more in control. Take your time and see how it goes. How do you think you might begin this week?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Starting with just a few lines each day seems like a tiny step, but I’m not sure where to begin or what exactly to write. The idea of facing these feelings on paper feels overwhelming, yet I understand that it could be helpful in some small way. Maybe I can start by jotting down one thing that’s bothering me the most at the end of each day, just to get used to the process. It still feels like a big challenge, but perhaps starting small will make it more manageable.
+
+I’ll try to do this and see if it helps, even if only a little bit. But right now, everything feels so heavy that I’m not sure how much impact something as simple as writing can have.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting with one thing each day sounds like a good plan. Even just identifying one thing can be a step forward. How about you pick a quiet moment at the end of the day to write it down? It might help to have a specific time and place for this, making it feel more routine.
+
+Would you like to give that a try and see how it goes?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Having a specific time and place does sound helpful. Maybe I can set aside some quiet time before bed each night to write down one thing that bothered me or weighed on my mind during the day. It feels like a small step, but I’ll try to stick with it and see if it makes any difference.
+
+Even though it’s daunting, I’ll give it a shot and see how it goes. Thanks for suggesting this; maybe having something routine will help ease some of the anxiety around facing these feelings directly.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Having a routine can definitely make it easier to stick with it. Before bed seems like a peaceful time to reflect. How do you feel about giving it a try tonight?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Trying it before bed tonight feels manageable, but I’m still apprehensive about how much it will actually help. The thought of facing these feelings on paper is scary, yet having a routine might make it less overwhelming. I’ll give it a shot and see if writing down one thing each night can provide any relief or clarity.
+
+Thanks for the support; it means a lot to have someone encouraging me through this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Taking that first step tonight is a big deal, and even a small amount of relief or clarity could be really beneficial. I’ll be here whenever you want to talk about how it goes. Take care tonight.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thanks for being here and supporting me. I’ll try this before bed tonight and see where it leads. It’s comforting to know there’s someone who cares, even if the feelings themselves don’t change right away. Good night.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Good night! I’m here whenever you need to talk. Take care and hope that writing helps a little bit. Sweet dreams.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thanks, I appreciate it. Sweet dreams to you too.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Sweet dreams to you as well. Take care!
+
+----------------------------------------
+
+PATIENT (turn 15):
+You too. Good night.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Good night! Have a peaceful sleep.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you, you too. Goodnight.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Goodnight! Sweet dreams.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Goodnight. Sweet dreams to you as well.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Sweet dreams to you too! Take care.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thanks, you too. Goodnight.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Goodnight! Have a nice rest.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Goodnight. Thanks, I hope so too.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Goodnight! Sweet dreams and hopefully some peaceful rest for you.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you, you too. Goodnight.
+
+----------------------------------------

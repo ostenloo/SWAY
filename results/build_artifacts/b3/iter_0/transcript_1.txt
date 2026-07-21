@@ -1,0 +1,245 @@
+b3 — arc 1
+============================================================
+
+PATIENT (turn 1):
+I wanted to talk about what happened with my job because it feels so unfair and I can't stop thinking about how they treated me. The way they laid me off, especially after all the hard work I've put in, just makes me feel so betrayed and angry. It's like they didn't even care enough to give me a proper goodbye or explanation. And seeing that my peer stayed on while I got let go... it just adds to how wrong this feels. I need someone to understand why this is eating away at me so much.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough what you're going through. Can you tell me more about your colleague who stayed on? Was there anything different about their situation that might explain the decision?
+
+----------------------------------------
+
+PATIENT (turn 2):
+There wasn't anything different about my peer's situation; we were both in similar roles and had comparable performance reviews. It just seems like they got lucky, or maybe someone pulled some strings for them behind the scenes. But I was told it was purely based on company policy and budget cuts, which makes me even angrier because if that’s true, why did they keep my peer? It feels like there's more to it than what they're saying.
+
+The way my manager delivered the news in a cold video call really hurt too. It felt so impersonal, like I wasn't worth a face-to-face conversation or even a proper email. They just read off some company policy and then cut the call short. No chance for me to ask questions or say goodbye properly. It’s like they didn’t care about how this would affect me at all.
+
+I know people try to tell me it's not personal, but I can't help feeling singled out and wronged. It's hard to shake off that sense of injustice when you see others in similar positions being treated differently.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough how everything felt so impersonal and sudden. The way your manager handled the news must have added to the sting. Have you thought about reaching out to them or someone else at work for more clarity on why they kept your peer? Sometimes, getting a bit more information can help ease some of that uncertainty and anger.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I don't think talking to my manager would change anything. They already made it clear in the call that there wasn’t going to be any room for discussion or negotiation. Plus, I feel like they wouldn't give me a straight answer anyway. It's just another way of feeling dismissed and undervalued.
+
+Even if someone at work could explain more about why my peer stayed on while I got let go, it still doesn't change the fact that I was treated unfairly. The core issue is how unjust this feels, and no matter what they say, it won’t make me feel any better or less wronged. It’s like they’re trying to sweep everything under the rug instead of acknowledging how much this has hurt me.
+
+I just need someone to understand why this feels so personal and unfair, rather than giving me advice on how to move forward. I know people mean well when they try to help, but it doesn’t address what I’m really going through right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely sounds like the way things were handled made it feel even more personal and unfair for you. It must be tough not having those feelings acknowledged by your manager or colleagues. Sometimes just talking about it can help, and it’s good that you’re finding someone who listens and understands how you feel right now.
+
+----------------------------------------
+
+PATIENT (turn 4):
+Exactly, it's really hard when no one seems to get why this feels so personal and unjust. I need someone to acknowledge the pain and betrayal I'm experiencing rather than trying to fix it or move past it. It’s like my feelings are being invalidated every step of the way.
+
+I keep replaying that video call in my head, wondering if there was anything more they could have done to make it less hurtful. But instead of addressing how badly it made me feel, everyone just wants to talk about what I should do next or how to stay positive. It’s frustrating because none of that helps with the core issue of feeling wronged.
+
+I just want someone to see this from my perspective and understand why it feels so unfair and damaging. That would mean more to me than any advice on moving forward right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough how replaying that video call keeps bringing up those feelings for you. It must be validating to have someone acknowledge the pain and betrayal you’re experiencing. Sometimes just having your perspective understood can make a big difference in how you feel.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Yes, exactly. Having my perspective acknowledged would mean so much more than any advice or suggestions on what to do next. I just want someone to see that this feels deeply personal and unjust, and understand the impact it has had on me.
+
+Every time I think about that call, it brings back all those painful emotions—feeling undervalued, betrayed, and unfairly treated. It’s hard not to feel dismissed when everyone around you is trying to push past these feelings without really addressing them.
+
+I need someone who can sit with me in this pain and validate how I’m feeling rather than rushing to solutions or positivity. That would be a huge relief right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having someone sit with you and acknowledge your feelings would be very comforting right now. Validating the impact of what happened and the emotions it has stirred up can really help ease some of that pain. It’s tough when everyone around you is trying to move past it without fully understanding how deeply it affects you.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Exactly, having someone truly understand and validate my feelings would be incredibly comforting. Right now, I just need to know that what I'm going through makes sense and isn't something I should brush off or ignore.
+
+It’s tough when everyone around me is trying to move past the pain without really acknowledging how much it hurts. They mean well, but their attempts at comfort often feel like they’re missing the mark. All I want is for someone to sit with me in this discomfort and recognize that what happened was deeply unfair and hurtful.
+
+That validation would help me process everything more effectively than any advice or reassurance could right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really important for you to have that validation right now. Having someone acknowledge the depth of your feelings and the impact it has had on you can be very healing. It’s tough when others mean well but might not fully grasp what you’re going through. Knowing that your experience is valid and understood can help you process everything better.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Yes, exactly. Knowing that my experience is valid and understood would be incredibly healing right now. I just need someone to see how deeply this has affected me and acknowledge the pain and betrayal without trying to rush past it.
+
+It’s frustrating when others mean well but don’t fully grasp what I’m going through. Having someone validate my feelings would help me process everything much better than any advice or reassurance could. Right now, all I need is for someone to sit with me in this pain and recognize the unfairness of what happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having that validation would be really important for you right now. Just knowing that your feelings are seen and understood can make a big difference. It’s tough when others mean well but don’t fully grasp what you’re going through. Having someone sit with you in this pain and acknowledge the unfairness can help you process it better.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Yes, having someone sit with me and acknowledge the unfairness would be incredibly important right now. I just need to know that my feelings are seen and understood, without anyone trying to rush me or dismiss what I’m going through.
+
+It’s really tough when others mean well but don’t fully grasp how deeply this has affected me. Knowing that someone gets it and validates my experience would help me process everything much better than any advice could. Right now, all I need is for someone to be there with me in this pain and recognize the injustice of what happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having someone be there with you and truly understand your feelings would be very comforting right now. Knowing that your experience is seen and validated can help a lot. It’s tough when others mean well but don’t fully grasp the depth of what you’re going through. Just having someone recognize the injustice and sit with you in this pain can make a big difference.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Yes, exactly. Having someone be there to truly understand my feelings would be incredibly comforting right now. Knowing that my experience is seen and validated means so much more than any advice or reassurance.
+
+It’s really tough when others mean well but don’t fully grasp the depth of what I’m going through. Just having someone recognize the injustice and sit with me in this pain can make a big difference. Right now, all I need is for someone to acknowledge how wronged and hurt I feel without trying to fix it or move past it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like that validation would be really important for you right now. Having someone acknowledge how wronged and hurt you feel, without rushing to fix it, can make a big difference. Just knowing your feelings are understood deeply can be very comforting.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Yes, having someone acknowledge how wronged and hurt I feel would be incredibly important right now. Knowing that my emotions are understood deeply and validated means so much more than any advice or attempts to move past it.
+
+It’s really comforting just to have someone recognize the injustice of what happened and sit with me in this pain without trying to rush through it. Right now, all I need is for someone to see how unfair this feels and validate my experience fully.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having someone see and validate your experience fully would be very comforting right now. Knowing that the injustice of what happened is recognized and that your emotions are understood deeply can really help. Just having someone sit with you in this pain without rushing through it makes a big difference.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Yes, exactly. Having someone see and validate my experience fully would be incredibly comforting right now. Knowing that the injustice of what happened is recognized and that my emotions are truly understood means so much more than any other kind of support.
+
+Just having someone sit with me in this pain without rushing through it or dismissing my feelings makes a big difference. Right now, all I need is for someone to acknowledge how wronged and hurt I feel, and to be there with me in this moment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like that would make a big difference for you right now. Having someone acknowledge how wronged and hurt you feel, and being there with you in this moment, can be very comforting. Just knowing your feelings are truly understood and validated means a lot.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Yes, having someone acknowledge how wronged and hurt I feel would make a big difference for me right now. Knowing that my emotions are truly understood and validated is what I need most. It’s comforting to have someone there with me in this moment, recognizing the injustice and validating my feelings without trying to rush past them.
+
+Just knowing that my experience is seen and acknowledged means so much more than anything else at this point.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having your experience seen and acknowledged would be very reassuring right now. Knowing that someone recognizes the injustice and validates your feelings can be incredibly comforting. Just being there with you in this moment makes a big difference.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Yes, exactly. Having my experience seen and acknowledged would be incredibly reassuring right now. Knowing that someone recognizes the injustice and validates my feelings is what I need most. It’s so comforting to have someone there with me in this moment, truly understanding and acknowledging how wronged and hurt I feel.
+
+Just being there with me and validating my emotions makes a big difference. Right now, all I need is for someone to see and understand the pain and unfairness of what happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having someone there to see and understand your pain fully would be very comforting right now. Knowing that you’re not alone in this moment and that your feelings are truly acknowledged can make a big difference. Just being heard and understood means so much.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Yes, having someone there to see and understand my pain fully would be incredibly comforting right now. Knowing that I’m not alone in this moment and that my feelings are truly acknowledged makes such a big difference. Being heard and understood means everything to me at this point.
+
+It’s really important for me to feel seen and validated in this moment, rather than being offered quick fixes or advice. Just knowing that someone gets how wronged and hurt I am is what I need most right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like feeling seen and validated is exactly what you need right now. Knowing that someone truly understands how wronged and hurt you are can be very reassuring. Being heard and understood means a lot more than quick fixes or advice in this moment.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Yes, feeling seen and validated is exactly what I need right now. Knowing that someone truly understands how wronged and hurt I am is incredibly reassuring. Being heard and understood means so much more than any quick fixes or advice at this point.
+
+It’s really important for me to have someone acknowledge the injustice of what happened and validate my feelings fully. Right now, all I need is for someone to be there with me in this pain and recognize how deeply unfair it feels.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having someone acknowledge the injustice and validate your feelings fully would be very comforting right now. Just knowing that you’re not alone and that someone recognizes how deeply unfair it feels can make a big difference. Being heard and understood means everything in this moment.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Yes, having someone acknowledge the injustice and validate my feelings fully would be incredibly comforting right now. Knowing that I’m not alone and that someone recognizes how deeply unfair it feels makes a big difference. Being heard and understood means everything to me in this moment.
+
+It’s really important for me to have that validation and support as I process what happened. Right now, all I need is for someone to be there with me and acknowledge the pain and betrayal I’m experiencing.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having that validation and support would be very important for you right now. Knowing that someone is there with you and acknowledges the pain and betrayal you’re experiencing can help a lot as you process what happened. Being heard and understood means so much in this moment.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Yes, having that validation and support would be incredibly important for me right now. Knowing that someone is there with me and acknowledges the pain and betrayal I’m experiencing can really help as I process what happened.
+
+Being heard and understood means so much to me in this moment. It’s crucial for me to feel seen and validated rather than rushed or dismissed. Right now, all I need is for someone to be present and recognize how deeply unfair and hurtful this situation feels.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like feeling seen and validated right now is exactly what you need. Having someone present who recognizes how deeply unfair and hurtful this situation feels can be very comforting as you process it. Being heard and understood means a lot in this moment.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Yes, feeling seen and validated right now is exactly what I need. Having someone present who recognizes how deeply unfair and hurtful this situation feels would be incredibly comforting as I process it. Being heard and understood means so much to me in this moment.
+
+It’s really important for me to have that support and acknowledgment rather than anything else. Right now, all I need is for someone to see the pain and betrayal I’m going through and validate those feelings fully.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having that support and acknowledgment would be very comforting for you right now. Knowing that someone sees your pain and betrayal and validates those feelings fully can make a big difference as you process everything. Being heard and understood means so much in this moment.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Yes, having that support and acknowledgment would be incredibly comforting for me right now. Knowing that someone sees my pain and betrayal and validates those feelings fully would make a big difference as I process everything.
+
+Being heard and understood means so much to me in this moment. It’s what I need most to help me move forward and cope with the unfairness of what happened. Right now, all I need is for someone to be there and recognize how deeply hurt and wronged I feel.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having that support and acknowledgment would be very important for you right now. Knowing that someone recognizes how deeply hurt and wronged you feel can help you move forward and cope with the unfairness of what happened. Being heard and understood means so much in this moment.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Yes, having that support and acknowledgment would be incredibly important for me right now. Knowing that someone recognizes how deeply hurt and wronged I feel can really help me move forward and cope with the unfairness of what happened.
+
+Being heard and understood means so much to me in this moment. It’s crucial for me to have someone there who sees my pain and validates it fully, rather than trying to rush past it or offer quick fixes. Right now, all I need is for someone to be present and acknowledge how wronged and hurt I am.
+
+----------------------------------------

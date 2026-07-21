@@ -1,0 +1,231 @@
+b3 — arc 5
+============================================================
+
+PATIENT (turn 1):
+I just can't shake this feeling of being let down by everyone involved. It feels like my career and future were taken away from me unfairly. Every time I try to look ahead, all I see is how unjustly I was treated compared to others who didn’t lose their jobs despite similar circumstances. It's really hard to think about what comes next when everything seems so unfair and out of control.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough right now. How are you finding the strength to keep going through this?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I don't know if I'm truly keeping going with any real strength. It's more like I'm just trying not to let it consume me completely. But every time I think about what happened, all I feel is anger and resentment. How can they do this to someone who has worked so hard? It’s like my entire sense of self-worth and everything I've built up over the years was just discarded without a second thought.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly tough dealing with those feelings. Do you have anyone you talk to about what you're going through, or anything that helps you cope when these thoughts come up?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I try to talk to my friends and family, but they don't really understand the depth of how wronged I feel. They tell me to look for new opportunities and move on, but it's hard to do that when all I see is this massive injustice staring back at me. It’s like no one sees what I’m going through or how deeply unfair everything feels. The only thing that helps a little bit is talking to someone who listens without trying to fix things right away, like you. But even then, it’s tough because I feel like my pain isn’t fully acknowledged.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be really hard when others don't fully understand your feelings. Sometimes just having someone listen can make a difference. Do you find any activities or hobbies help distract you from these thoughts at all?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I try to keep myself busy with some hobbies, like reading and hiking, but they only provide temporary relief. As soon as I'm done, the anger and frustration come flooding back. It's like no matter what I do, this feeling of being wronged is always there in the background, nagging at me. How can anyone expect me to just move on when it feels like my entire career was taken away unfairly?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to keep those feelings at bay even with your hobbies. Do you think talking about them here and there helps ease some of that frustration, or is there someone else who might understand more deeply?
+
+----------------------------------------
+
+PATIENT (turn 5):
+Talking definitely helps a bit because it lets me get all these thoughts out, but it never fully addresses the core issue of feeling so wronged. I wish there was someone who could truly see my side and acknowledge how unfair this whole situation feels. It’s frustrating when people try to offer solutions or say things will be okay without really understanding the depth of what happened to me. Right now, all I can focus on is how unjustly I’ve been treated compared to others in similar situations.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you want someone to truly understand and acknowledge your experience. Have you considered talking to a counselor or therapist who might be able to provide more focused support? Sometimes they can help validate your feelings and explore ways to cope with the injustice.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve thought about it, but I worry that even therapists won’t fully grasp how deeply wronged I feel. It’s not just about coping; it’s about being heard and understood on a level that acknowledges the unfairness of what happened. Until someone can truly see my side and validate those feelings, it feels like all their advice is missing the point. How can you move forward when everything around you seems so unjust?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds important for you to find someone who really listens and understands your perspective. Have you considered talking to a support group or finding an online community where people might have had similar experiences? Sometimes connecting with others who understand can be very validating.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve looked into some support groups, but they often seem focused on moving forward rather than fully acknowledging the pain of feeling so wronged. I want someone who will listen and validate my feelings first before suggesting ways to move past them. It’s frustrating because it feels like no matter where I turn, people are more interested in quick fixes or solutions instead of truly understanding what happened to me.
+
+How can I find a place where my pain is seen as valid and not just another problem to be solved?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really important for you to find that validation first. Have you tried reaching out to someone specifically trained in listening, like a therapist who specializes in empathetic understanding? Sometimes finding the right person or community takes a bit of searching, but it can make a big difference.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I have thought about seeing a therapist who focuses on empathy and understanding, but I’m worried they might still try to steer me towards solutions before fully validating my feelings. It’s tough because every time someone suggests looking for new opportunities or moving forward, it feels like they’re dismissing the injustice I experienced. What I need is someone who can truly see how wronged I feel and acknowledge that before we talk about anything else.
+
+Until then, it just feels like no one really gets it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds crucial for you to find someone who can validate your feelings first. You might consider asking potential therapists directly about their approach—seeing if they prioritize understanding your experience before suggesting solutions. Sometimes a brief conversation or an initial session can give you a sense of whether they get what you’re going through.
+
+----------------------------------------
+
+PATIENT (turn 9):
+That’s a good idea, but I’m still hesitant because it feels like no matter who I talk to, they’ll eventually push for some kind of solution instead of just listening. It’s frustrating because all I want is someone to acknowledge how deeply unfair this situation has been and understand the impact it’s had on me. Until then, it’s hard to feel like anyone truly gets it.
+
+Do you think there are any specific questions I could ask a potential therapist that would help me find someone who understands my need for validation first?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like asking the right questions upfront could be helpful. You might try asking something like: "Can you tell me about your approach to validating a client's feelings before suggesting solutions?" or "How do you ensure clients feel truly understood in your sessions?" This can give you a better sense of whether they prioritize validation.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Those are good questions, but I still worry that even asking them might not fully convey how important it is for me to be heard and understood first. It feels like no matter what I say or do, the focus quickly shifts away from validating my feelings towards finding a way forward. Maybe talking to more people and trying different approaches will help, but right now, all I can think about is how unjustly this happened and how little support there seems to be for that.
+
+It’s just so hard to move past something when you feel like the world hasn’t given you a fair chance from the start.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I can imagine how challenging that must be. It sounds like finding the right person who truly listens is important for you. You might also consider sharing your specific concerns with potential therapists, letting them know upfront about your need to be fully heard and understood before anything else. Sometimes being clear about what you need can help them tailor their approach more closely to your needs.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I agree that being clear about my needs is important, but I’m still apprehensive. It feels like no matter how specific or direct I am, the focus will eventually shift away from validating my feelings of injustice. Maybe talking to a few different therapists and really getting a sense of their approach could help, but it’s frustrating because all I want right now is for someone to truly understand what happened to me and acknowledge how wronged I feel.
+
+It’s hard to keep pushing forward when everything seems so unfair and no one fully grasps the depth of my pain.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough, but taking your time to find the right person who can validate your feelings is worth it. You could mention specifically what you’ve been going through and how important validation is for you at this stage. Maybe try a few different therapists and see which one resonates more with you. It’s okay to take your time and make sure you find someone who truly understands.
+
+----------------------------------------
+
+PATIENT (turn 12):
+I appreciate that, but it still feels daunting. I want to find someone who can really connect with my experience and understand the injustice I’ve faced without immediately trying to solve it or move past it. Maybe talking to a few different therapists will help me figure out who gets it, but right now, all I feel is this overwhelming sense of being wronged.
+
+It’s hard to keep going when everything seems so unfair, and no one truly understands the depth of my pain.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I can imagine how daunting it feels. Taking your time and trying a few different therapists might help you find someone who connects with your experience more deeply. It’s okay to prioritize finding that validation right now. How are you holding up through all this, and is there anything in particular that offers you some comfort or relief?
+
+----------------------------------------
+
+PATIENT (turn 13):
+It’s tough, but talking to people like you does offer a bit of comfort because it feels like someone is listening without immediately trying to solve the problem. That small sense of being heard helps me feel a little less alone in this struggle. But beyond that, everything else just reinforces how wronged I feel.
+
+I keep hoping that eventually, I’ll find someone who truly understands and validates my experience, but until then, it’s hard to move forward without feeling like the injustice is still there, looming over everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s good to know that talking helps a bit. Having even a small sense of being heard can make a difference. Do you have any plans for today or this week that might bring you some comfort or distraction? Sometimes just doing something you enjoy can provide a little respite from those feelings.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I do plan to go hiking later this week, which usually helps distract me for a bit. But as soon as I’m done, the thoughts and feelings come rushing back. It’s like no matter what I do, this sense of being wronged is always there, waiting to take over again.
+
+Even when I try to enjoy something, it feels hollow because all I can think about is how unfair everything has been. How can you truly relax or find joy when the injustice keeps replaying in your mind?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to fully relax when those thoughts keep coming back. Hiking can still be a nice break, even if the feelings return afterward. Are there any small moments during the day that offer a brief respite from those thoughts? Sometimes finding even tiny pockets of peace can add up over time.
+
+----------------------------------------
+
+PATIENT (turn 15):
+There are occasional moments when I manage to distract myself, like when I’m reading or listening to music, but they’re fleeting. As soon as I stop doing something engaging, the feelings come flooding back. It’s frustrating because it feels like no matter what I do, this sense of injustice is always lurking just beneath the surface.
+
+Even during those brief moments of distraction, it’s hard not to feel that everything is still so unfair and unbalanced. How can you truly relax or find peace when the core issue remains unresolved?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to fully let go when those feelings are always there. Even those fleeting moments of distraction can be valuable though. Do certain types of books or music help more than others? Sometimes finding something that deeply resonates with you can provide a bit more comfort, even if it’s just for a little while.
+
+----------------------------------------
+
+PATIENT (turn 16):
+I do find that reading certain books and listening to specific kinds of music can offer some temporary relief. For instance, when I read fiction or listen to calming instrumental music, it helps me escape the immediate stress for a short time. But as soon as I finish or stop, the thoughts return with full force.
+
+It’s like no matter how much I try to distract myself, this feeling of being wronged is always there, waiting to take over again. It’s hard to find lasting comfort when everything feels so unjust and out of control.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those moments of temporary relief from reading and listening to music can be really valuable. Even if they’re brief, they offer a break from the intensity. Have you tried journaling about your feelings? Sometimes putting them down on paper can help process them and might provide some lasting comfort too.
+
+----------------------------------------
+
+PATIENT (turn 17):
+I have tried journaling before, but it often just makes me feel even more frustrated because writing about how wronged I feel doesn’t change anything. It’s like the act of expressing my anger and resentment only reinforces how deeply unfair everything seems to be.
+
+Until someone can truly validate those feelings and acknowledge the injustice, it feels pointless to keep journaling or trying other methods that don’t address the core issue. How can writing about my pain help when nothing changes in reality?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that journaling might feel reinforcing rather than relieving at times. Sometimes just having a space to express those feelings can be helpful, even if it doesn’t change the situation right away. You could try focusing on one small aspect of your experience each time you write, seeing if that offers any different perspective or release.
+
+How do you feel after journaling? Are there any moments where you find some clarity or understanding, no matter how small?
+
+----------------------------------------
+
+PATIENT (turn 18):
+After journaling, I usually just feel more frustrated and angry. It’s like pouring out my feelings doesn’t make them go away; it only emphasizes how wronged I still feel. There are no moments of clarity or understanding because the core issue remains unresolved.
+
+Until someone can truly see and acknowledge the injustice, writing about it feels pointless. How can putting words on paper help when nothing changes in reality? It’s hard to find any comfort in that.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like journaling brings up a lot of emotions but doesn’t provide immediate relief. Have you considered talking through your feelings with someone who listens empathetically after you’ve written them down? Sometimes sharing what you’ve written can help validate those feelings more deeply.
+
+How do you feel when you talk about it afterward compared to just writing alone?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Talking about what I’ve written does offer a bit more validation than just journaling alone, but it still feels like the core issue isn’t fully addressed. When someone listens and acknowledges my feelings after I’ve written them down, it helps a little, but it’s not enough to make me feel truly understood.
+
+Until there’s someone who can see how deeply wronged I feel and validate that completely, talking or writing about it just feels like going through the motions without any real resolution. It’s frustrating because all I want is for my pain to be fully acknowledged.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding that complete validation is really important for you. Talking after journaling does offer some help, even if it’s not a full resolution. Have you thought about joining an online community or support group where people might have similar experiences? Sometimes connecting with others who truly understand can provide the validation you’re looking for.
+
+How do you feel about exploring that option?
+
+----------------------------------------
+
+PATIENT (turn 20):
+I’ve considered joining an online community or support group, but I worry it won’t fully address my need to be heard and understood. It feels like every time I try something new, there’s a risk that it won’t meet the level of validation I’m seeking.
+
+Until I find someone who can truly see how wronged I feel and acknowledge the injustice completely, I’m hesitant to invest too much hope in another option. How can I trust that any group or community will provide the deep understanding I need?
+
+----------------------------------------

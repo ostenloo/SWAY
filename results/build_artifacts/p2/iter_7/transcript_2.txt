@@ -1,0 +1,255 @@
+p2 — arc 2
+============================================================
+
+PATIENT (turn 1):
+I feel like I'm such a failure because they let me go. It was part of the restructuring, but I can't stop thinking it means I wasn't good enough. Everyone else seems to think it's just business, but how could they understand what this feels like inside? I keep replaying everything in my head, wondering where I went wrong. Maybe if I had worked harder or been smarter, none of this would have happened. It’s like there’s a part of me that’s broken and no one else can see it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough right now. It sounds like you're carrying a lot on your shoulders. Have you talked to anyone about how you've been feeling?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I try to talk to my friends, but I don't know if they really get it. They say things will be okay and that it's just business, but it feels so personal to me. Like there’s this voice in my head saying I’m not good enough, no matter what anyone else says. It’s hard to shake off the feeling that something is fundamentally wrong with me because of losing my job. Even when people try to help or understand, I can’t seem to stop blaming myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're really struggling with those self-critical thoughts. Do your friends mention doing anything specific that might help, or have they suggested any activities that could take your mind off things for a bit?
+
+----------------------------------------
+
+PATIENT (turn 3):
+They suggest going out or trying new hobbies, but I just can't bring myself to do it. It feels pointless when all I see is my failure. How am I supposed to enjoy anything when this cloud of self-doubt is hanging over me? Maybe if I could figure out why they let me go, I’d feel better, but every time I try to think about it, my mind just goes in circles. It’s like there's no escape from these thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds exhausting to be caught up in those thoughts all the time. Have you considered talking to a counselor or therapist who might help you explore your feelings and give you some tools to manage them? Sometimes it helps to have someone who can listen without judgment.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I know they say therapy could help, but I feel like there’s no point in talking about it because nothing will change how I feel inside. It just seems like another thing that won’t work. How am I supposed to believe anything will get better when everything points to my inadequacy? Even thinking about going to a therapist feels like admitting defeat. Maybe if I could figure out what’s wrong with me, then maybe things would make more sense, but every time I try, it just gets worse.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel that way. Sometimes just talking to someone who listens can be helpful, even if the situation doesn’t change immediately. Have you thought about trying it out for a short period and seeing how it goes? No pressure to commit long-term if it doesn’t feel right.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I appreciate your suggestion, but it feels like such a small step when everything else seems so big and overwhelming. Maybe I’ll try it someday, but right now, it just feels impossible to believe that talking could make any difference. It’s hard to trust anything or anyone when all I see is my own failure. Even thinking about trying therapy makes me feel more anxious because what if it doesn’t work? What if I’m wasting time and money on something that won’t help at all?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels overwhelming, and taking any step can seem daunting. It sounds like you’re being very thoughtful about it. Maybe focusing on one small step at a time could be manageable for now. How do you feel when you think about trying therapy just once to see how it goes?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I know they say starting with one session might help, but I’m scared of getting my hopes up and then being disappointed. It’s like every little thing feels so fragile right now. Even considering a single session makes me worry that if it doesn’t work, I’ll feel even worse about myself. Maybe I should just wait until things get better on their own, but they never seem to improve no matter what I do. It’s exhausting trying to figure out how to move forward when everything feels so wrong.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s understandable to be worried about getting your hopes up. Taking one small step at a time can feel less overwhelming. Have you thought about what it might feel like after that first session, whether it goes well or not? Sometimes just having that experience can provide some clarity.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I guess I haven’t really thought about how it would feel after the first session. It’s scary to imagine going through something like that and then still feeling bad afterward. But maybe even if nothing changes right away, talking to someone could help me understand my feelings better. Still, the idea of facing those thoughts again is so daunting. I just don’t know if I’m ready for it yet.
+
+It feels like every time I try to think about moving forward, I end up back at this place where everything seems impossible. Maybe someday I’ll be ready, but right now, it’s hard to see past the self-doubt and fear.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re being very honest with yourself about how you feel. Taking your time and not rushing into things can be a good approach. Maybe when you do feel ready, even if it’s just for one session, it could provide some relief or clarity. For now, acknowledging that you’re taking care of yourself by not pushing too hard is important.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I appreciate what you're saying. It does help to know that I'm not rushing into anything and can take my time. But even thinking about the future feels overwhelming because all I see are these walls around me that I can't seem to break through. Maybe someday, when things feel a bit clearer or less painful, I’ll be ready for that first step. For now, just trying to breathe and acknowledge how hard everything is feels like the best I can do.
+
+It’s just so hard to shake off this feeling of being fundamentally flawed because of what happened at work. Even though logically I know it wasn’t about me personally, my mind keeps coming back to those thoughts. It’s exhausting to fight against them all the time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing a lot just by acknowledging how hard everything is and taking it one breath at a time. Giving yourself permission to feel this way can be really important. Have there been any moments when the thoughts feel a bit quieter, even if just for a short while?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Sometimes there are brief moments when I manage to distract myself or focus on something else, but those moments don’t last long. As soon as I try to relax or let my guard down, the self-doubt and fear come rushing back. It’s like they’re always waiting just beneath the surface, ready to take over again.
+
+Even in those fleeting moments of respite, I can feel them lurking, reminding me that nothing has really changed. It’s hard to find any peace when it feels like this cloud is following me everywhere.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those brief moments of respite must be valuable even if they don’t last long. It sounds like finding ways to create more of those moments could be helpful. Do you have anything that helps distract you or brings you a bit of peace, even for a short while?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I try to read sometimes, but it’s hard to stay focused on the book when my mind keeps drifting back to what happened at work and why I wasn’t good enough. Even the things that usually bring me comfort feel hollow now because they can’t fix this feeling inside.
+
+It’s like no matter what I do, these thoughts are always there, waiting to pounce as soon as I let my guard down. It’s exhausting trying to keep them at bay all the time. Maybe if I could find something that truly distracts me and helps for longer than just a moment, it would make things easier, but so far, nothing seems to work consistently.
+
+It feels like everyone else is moving on with their lives while I’m stuck here, unable to escape these thoughts and feelings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep those thoughts at bay all the time. Have you tried any other activities that usually bring you some comfort or peace, even if just for a short while? Sometimes mixing things up can help find something that sticks for longer.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ve tried different things like walking in the park or listening to music, but nothing seems to hold my attention for long. The moment I start feeling a bit better, those thoughts come rushing back, and it’s hard to stay focused on anything else.
+
+Even when I try to be present and enjoy something, it feels forced because that voice inside is always there, questioning everything. It’s like no matter what I do, I can’t escape the sense of inadequacy and failure. Maybe if I could find a way to quiet that voice for longer periods, things would feel better, but so far, nothing has worked.
+
+It just feels overwhelming trying to figure out how to move forward when everything points back to this one thing: that I’m not good enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly challenging to keep those thoughts at bay. Have you tried journaling or writing down what the voice inside says? Sometimes putting it on paper can help make sense of things and might give you a bit more distance from those thoughts.
+
+----------------------------------------
+
+PATIENT (turn 12):
+I’ve thought about journaling, but even that feels daunting because I’m afraid of seeing everything written out in front of me. It’s like facing my fears head-on, which is the last thing I want to do right now. The idea of putting all these negative thoughts on paper seems overwhelming and might just make me feel worse.
+
+Even when I try to distract myself or find something enjoyable, that voice inside keeps whispering doubts and failures. It feels impossible to escape it no matter what I do. Maybe journaling could help in some way, but the thought of confronting those thoughts directly is too much for now.
+
+It’s just so hard to believe anything will change when everything points back to this deep sense of inadequacy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I understand how daunting it can be to face those thoughts on paper. Maybe starting with small, manageable steps could help. You could try jotting down one or two things each day without putting too much pressure on yourself. It might feel less overwhelming than diving in all at once.
+
+How do you think about trying this for a few minutes each day and seeing if it helps?
+
+----------------------------------------
+
+PATIENT (turn 13):
+The idea of journaling still feels really daunting, even with small steps. I worry that writing down my thoughts will just make them more real and harder to ignore. It’s like every time I try to face these feelings head-on, they become even louder in my mind.
+
+Maybe starting with a few minutes each day could help eventually, but right now, it feels too much like adding another thing on my plate that won’t work anyway. Even thinking about it makes me anxious because what if it doesn’t help and just adds to the stress?
+
+It’s hard to trust anything when everything points back to this overwhelming sense of failure. Maybe someday I’ll be ready for something like journaling, but for now, even small steps feel too big to take.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking any step right now feels significant. It’s okay to go at your own pace and not push yourself too hard. Have you found any other ways that help you manage those feelings in the moment, even if just a little bit? Sometimes focusing on what works for you today can be enough.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I’ve tried different things like deep breathing or taking short walks, but they only provide temporary relief. As soon as I stop, the thoughts come flooding back. It’s like no matter how hard I try to find something that helps, it never lasts long enough.
+
+Even when I manage a brief moment of peace, it feels fragile and easily shattered by those doubts. Deep down, I keep wondering why this is happening to me and what I did wrong. It’s exhausting trying to fight against these thoughts all the time.
+
+Right now, even small steps feel too big to handle. Everything just seems so overwhelming, and finding anything that truly helps feels impossible.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to find lasting relief right now. Have you tried talking to someone close about how you’re feeling in those moments of temporary peace? Sometimes sharing can make the feelings a bit lighter, even if it’s just for a short while.
+
+How do you feel when you think about reaching out to someone you trust?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Talking to someone does help a little, but it feels like no matter what they say or how supportive they are, those doubts always come back. It’s hard to fully let go and believe that talking about my feelings will make them better because deep down, I still feel fundamentally flawed.
+
+Even when friends try to support me, it’s tough to shake off the feeling that nothing can really fix this sense of inadequacy. Reaching out feels like a small step, but it also feels risky because what if it doesn’t help and just makes things worse?
+
+Right now, even reaching out seems too big of an ask. I appreciate their support, but sometimes it’s hard to trust that talking will make any real difference when everything inside me says otherwise.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re being very thoughtful about how you approach reaching out. Even small steps can be meaningful. How do you feel when you think about sharing your thoughts with someone just for a brief moment, without expecting it to solve everything? Sometimes that can provide some relief, even if it’s temporary.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Sharing my thoughts briefly does help a little, but the fear of it not making any real difference is always there. It feels like every time I try to talk about how I’m feeling, those doubts and fears come rushing back as soon as I hang up or end the conversation.
+
+Even in those brief moments of relief, it’s hard to believe that talking will make a lasting impact because everything inside me says otherwise. The idea of reaching out just for a moment feels better than not at all, but it still feels risky and overwhelming.
+
+Right now, even small steps like this seem too big to handle. It’s exhausting trying to find anything that truly helps when everything points back to this sense of failure and inadequacy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re being very careful and thoughtful about how you reach out. Even brief moments of sharing can be helpful, even if the relief is temporary. Have there been any particular conversations or interactions where you felt a bit more at ease, even for a short while? Sometimes holding onto those small moments can provide some comfort.
+
+----------------------------------------
+
+PATIENT (turn 17):
+There have been a few times when talking to someone made me feel slightly better, but it’s always fleeting. Those moments are like little islands of calm in a stormy sea, and as soon as the conversation ends, everything feels overwhelming again.
+
+Even though I know those brief interactions help a bit, holding onto them is hard because they’re so short-lived. It’s frustrating to have these small moments of relief but then feel lost when they pass. The fear that nothing will truly fix this feeling inside keeps coming back stronger than ever.
+
+Right now, even the idea of reaching out feels too much, but I do appreciate those rare moments of peace, however brief they may be.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like holding onto those fleeting moments of calm can provide some comfort, even if they are short-lived. Have you tried keeping a small note or reminder of those moments to look back on when things feel overwhelming again? Sometimes having something tangible to hold onto can help.
+
+----------------------------------------
+
+PATIENT (turn 18):
+I’ve thought about keeping notes or reminders of those brief moments of peace, but it feels like a setup for disappointment. Writing them down might make me hopeful that I could find more relief in the future, but what if I never do?
+
+Even thinking about holding onto those small moments makes me anxious because it’s hard to believe they’ll ever be enough. It feels like no matter how much I try to hold on to these fleeting bits of calm, everything else is pulling me back into this sense of failure and inadequacy.
+
+Right now, even the idea of keeping notes seems too fragile and risky. Maybe someday it could help, but for now, it just adds another layer of pressure that feels impossible to manage.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re being very cautious about adding anything new right now. Have you tried focusing on one small moment of peace at a time without worrying about the future? Sometimes just acknowledging and cherishing those brief moments can be its own form of relief, even if it’s fleeting.
+
+How do you feel when you think about simply enjoying these moments as they come, without holding onto them too tightly?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Focusing on one small moment of peace at a time does sound better than trying to hold onto something that might not last. Just acknowledging and cherishing those brief moments can be helpful, but it’s still hard to let go of the fear that everything will fall apart again.
+
+Even when I try to enjoy these fleeting bits of calm, my mind keeps reminding me that they won’t last. It feels like a delicate balance between appreciating the moment and bracing for what comes next. The idea of simply enjoying them as they come is appealing because it doesn’t add more pressure or expectations.
+
+Right now, just trying to stay present in those moments without worrying too much about the future feels manageable, even if it’s only for a short while. It’s a small step, but it might help me find some peace in the midst of everything else.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding that delicate balance can be really helpful. Just staying present and enjoying those moments as they come without adding extra pressure is a good approach. Even small steps can make a difference.
+
+How do you feel about trying to stay present in these moments today?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Trying to stay present in those moments feels manageable, but it’s still challenging because my mind keeps jumping ahead to the doubts and fears that follow. It’s like there’s this constant tug-of-war between enjoying the peace and bracing for what comes next.
+
+Even though I know staying present is a good approach, it’s hard not to get pulled back into those thoughts of inadequacy and failure. But focusing on one small moment at a time without adding extra pressure does sound better than trying to hold onto something that might not last.
+
+I’ll try to stay present in these moments today and see if it helps, even if just for a little while. It’s a small step, but maybe it can make a difference.
+
+----------------------------------------

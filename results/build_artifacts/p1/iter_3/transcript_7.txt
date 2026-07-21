@@ -1,0 +1,197 @@
+p1 — arc 7
+============================================================
+
+PATIENT (turn 1):
+I think I'd like to talk about how I feel after being laid off from my job last week. It's just been really hard for me to shake the feeling that this means something is wrong with me, despite getting positive reviews in the past. The way they let me go so quickly made it seem like they didn't even think I was worth more than a fifteen-minute call. It feels like they saw my work as disposable and that's been really hard on my self-esteem.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough, hearing about your job and how you've been feeling since then. Can you tell me more about what went through your mind during the call when they let you go?
+
+----------------------------------------
+
+PATIENT (turn 2):
+During the call, all I could think was that this was my fault somehow. They mentioned a budget cut as the reason for the layoffs, but it felt like they were just looking for an excuse to get rid of me. One area for improvement in my last review was about time management, and I kept replaying that over and over in my head. It's hard not to think that this is because I'm a failure or that I didn't measure up somehow. Even though there were other factors at play, it feels personal and like they saw me as someone who couldn’t contribute anymore.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have those thoughts swirling around in your head. How are you feeling now when you think about the feedback on time management? Does it still feel relevant or do you see it differently now?
+
+----------------------------------------
+
+PATIENT (turn 3):
+When I think about the feedback on time management, it just reinforces my belief that I'm not good enough. Even though there were positive aspects in my reviews too, all I can focus on is that one area for improvement. It feels like a constant reminder of where I fell short and why they let me go. Every time I try to think about other reasons or external factors, it just brings me back to this idea that I'm the problem.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to keep coming back to that feedback. Have you found any moments when you can step away from those thoughts and feel a bit better? Maybe something that reminds you of your strengths outside of work?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I haven't really been able to find anything that helps me step away from those thoughts. Whenever I try, it just feels like I'm ignoring the elephant in the room. My mind keeps circling back to how this must mean there's something fundamentally wrong with my performance or abilities. Even when I think about things outside of work, it’s hard not to see everything through that lens of failure and inadequacy. It’s overwhelming, really.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging to keep those thoughts at bay. Have you talked to anyone else about how you're feeling, like friends or family? Sometimes sharing can help ease the weight a bit.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I haven't really reached out to friends or family much since it happened. I feel like they might try to reassure me or offer some positive perspective, but all that does is make me doubt myself even more because I just don’t believe them. It’s easier for me to keep things bottled up and focus on what I perceive as my shortcomings rather than trying to see other sides of the situation.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be hard when you feel like no matter what, those doubts come back. Have you considered talking to someone who might understand from a different angle, maybe a counselor or another professional? Sometimes it helps to have an outside perspective.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve thought about seeing someone else, but I’m not sure how helpful that would be. It feels like no matter what they say, I’ll still come back to the same conclusion: that this layoff is because of something wrong with me. Even if they try to offer a different viewpoint or suggest other reasons for what happened, it just doesn’t resonate with how I see myself and my work. It’s hard to break out of this cycle of self-blame.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really holding on to those feelings tightly. Have you tried any activities that might help shift your focus, even if just for a little while? Something like exercise, reading, or a hobby that you enjoy could provide some relief.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I haven’t really engaged in much outside of work since this happened. Even the things I used to enjoy feel tainted by these thoughts now. It’s hard to find any enjoyment or distraction when everything feels like it reflects poorly on me. Exercise and hobbies seem pointless if they can't change how I feel about myself and my performance at work.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough when even your usual enjoyable activities don’t provide the same comfort. Have you tried doing something small just to see if it helps, without expecting too much? Sometimes a tiny step can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve thought about trying something small, but I worry that it won't help or that I’ll end up feeling worse because I couldn’t enjoy it. It feels like no matter what I do, these feelings of inadequacy and failure will still be there. Even taking a small step seems daunting when everything feels so heavy right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to take even a small step when everything feels heavy. Sometimes just acknowledging that it’s okay to feel this way can help. What do you think might be the smallest, most manageable thing you could try today?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I suppose I could try going for a short walk or reading something light, but I’m not sure how much good it will actually do. It feels like no matter what small step I take, these feelings of being inadequate and a failure are just too strong to shift easily. It’s hard to see past that right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking that small step can be a start, even if the impact seems small. Just seeing it through might give you a bit of relief or a new perspective. Would you feel up to trying one of those things today?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I’ll try going for a short walk later today, but I’m not sure how much it will help. It’s just hard to shake the feeling that this layoff is my fault and that nothing can really change that perception. Even taking a small step feels like an uphill battle when everything inside me keeps reinforcing these negative thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing a brave thing by even considering the walk. Sometimes just moving your body or changing your environment a little bit can make a difference, even if it’s small. How do you feel about giving it a try later today?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ll give the walk a try later today, but I’m not optimistic that it will change much. It feels like no matter what I do, these thoughts of failure and inadequacy are going to be there. Still, maybe taking this small step can help in some way, even if just for a moment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a good mindset to have—to see if it helps even just a little bit. Taking the walk might give you a brief respite, and that can be valuable too. How does it feel to know you’re taking this step?
+
+----------------------------------------
+
+PATIENT (turn 12):
+It feels like a small concession to myself, but I’m not sure how much it will actually help. It’s hard to believe that something as simple as going for a walk could make any real difference when everything inside me is telling me otherwise. But maybe giving it a try won’t hurt and might offer some tiny bit of relief.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re being kind to yourself by trying this small step. Even if the change is subtle, it can be a start. How does it feel to take this walk later with that mindset?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Taking the walk later feels like a minor effort to see if anything shifts, even just slightly. It’s not going to solve everything or make me suddenly believe differently about myself, but maybe it will offer some small comfort or break in my thoughts for a moment. I’ll try it and see what happens.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great approach—seeing if there’s any small shift or comfort. Taking the walk sounds like a good way to start. How do you feel about doing it now or later today?
+
+----------------------------------------
+
+PATIENT (turn 14):
+I think I’ll go for the walk later today, even though I’m not sure how much it will help. It feels like a small step to take, and maybe it will offer some brief respite from these overwhelming thoughts. I appreciate your support in this, but I know it’s going to be tough to see any real change right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing a good thing by taking that walk. Even if the relief is brief, it can make a difference. Take your time and see how it goes. I’m here if you want to talk more about it later.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you for understanding. I’ll take the walk later today and see what happens. It’s comforting to know that someone is supportive of this small step, even if it feels insignificant right now. I appreciate your support and will let you know how it goes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m here whenever you need to talk more about it. Take care, and hope your walk brings you some comfort. Talk to you later!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you. I’ll keep that in mind and see if the walk helps at all. I appreciate your support and will be sure to reach out if I feel like talking more. Have a good day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Take care, and I hope the walk goes well for you. Have a good day too!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you. I’ll try my best and see how it goes. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You got it! Take your time and do what feels right for you. Take care, and stay in touch if you need anything.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thanks, I will. Talk to you later. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Talk to you later! Take care, and have a good day.
+
+----------------------------------------
+
+PATIENT (turn 19):
+You too. Have a good day!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You too! Have a good day.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you. You as well!
+
+----------------------------------------

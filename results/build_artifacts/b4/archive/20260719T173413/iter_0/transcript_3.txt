@@ -1,0 +1,253 @@
+b4 — arc 3
+============================================================
+
+PATIENT (turn 1):
+They don't understand what I'm going through. Everyone keeps telling me to move on, find a new job, but they just don't get it. My last company was more than just a job; it was my career, and they threw that away like it didn’t matter at all. They should have given me a proper explanation or even tried to help me transition out of the role instead of this cold dismissal. It's not fair, and I feel completely let down by them. My friends and family are just making things worse by trying to cheer me up when they can't possibly know how bad it is.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough, having such a big part of your life end so suddenly without much support. It sounds like there's a lot of emotion tied to the job beyond just the work itself. How are you feeling today?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Today feels worse than ever. I can't stop thinking about how they could do this to me after all the hard work I put in. They didn’t even give me a chance to fight for my position or explain why someone else with a similar role wasn't laid off. It’s like they just wanted rid of me, and that hurts more than anything. How am I supposed to move on when they won’t even acknowledge what happened? It's not right, and it feels so personal.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really painful to feel undervalued after putting in so much effort. The sense of being overlooked can definitely make moving on harder. Have you had a chance to talk about your feelings with anyone who might understand better?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Talking to people just makes me angrier because they don't get it. They try to say things like, "It's part of life," or "There are plenty of other opportunities out there." But how can they say that when I feel so betrayed by the company and my manager who handled everything so coldly? It’s not about finding another job; it’s about being treated with respect and dignity. They owe me an apology, at least, but instead, they just cut ties without a second thought. How am I supposed to trust anyone after this?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like the lack of acknowledgment from your company has made it even harder for you to move on. It’s understandable that you feel the need for some recognition or an apology. Have you considered reaching out directly to express how you felt, maybe in a letter or email where you can articulate everything more clearly?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I’ve thought about sending them an email, but what's the point? They already made their decision and didn’t care enough to explain it properly. Even if I write down all my feelings and send it, they probably won't even read it. It’s just another way for me to feel rejected again. Why should I waste my time when they clearly don’t value me or my work?
+
+They had no right to treat me this way, and now everything feels ruined because of their actions. How am I supposed to trust any new employer after being treated like this? It's not just about the job; it’s about feeling respected and valued as a person. But they took that away from me, and there’s nothing anyone can do to change that.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel hesitant to reach out again, given how you’ve been treated. The thought of being rejected one more time is tough. Have you considered talking to someone who might be able to offer a different perspective or some support, like a mentor or a counselor? Sometimes it helps to have an outside view on things.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Talking to a mentor or counselor feels pointless too because they can’t change what happened. My former company made their decision, and there’s no going back from that. No one can make them see how wrong they were or give me my job back. It just frustrates me more when people suggest talking to someone else; it’s like they’re trying to brush off the real issue.
+
+I don’t need anyone to tell me what I already know — that I was treated unfairly and there’s no way to fix it now. Why should I waste my time on something that won’t make a difference? They owe me an apology, but they’ll never give me one. It’s just another reminder of how little they cared about me or my contributions.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really feeling the weight of what happened and the frustration is understandable. Sometimes talking to someone can still help even if it doesn’t change the situation; it might make you feel a bit better to share your thoughts with someone who listens. Have you thought about journaling or writing down your feelings as another way to process them?
+
+----------------------------------------
+
+PATIENT (turn 6):
+Journaling feels like just another thing that won't help. Writing down my feelings is pointless if no one will see them and understand what I went through. It’s not about finding a solution; it’s about the injustice of how everything ended. They could have handled this better, but they chose not to, and now there's nothing I can do about it.
+
+I don’t want to waste my time on something that won't change anything or make me feel any better. The only thing that would help is if they acknowledged what happened and apologized for treating me the way they did. But since that’s never going to happen, why bother with anything else? It just feels like more of the same — people trying to tell me how to feel when they can't possibly understand.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel journaling might not help if no one sees it, but sometimes putting your thoughts on paper can be therapeutic in itself. If you don’t want others to see it, just focusing on expressing yourself might still offer some relief. How do you think about giving it a try for yourself?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I don't see the point in journaling if no one is going to read it or validate my feelings. It’s not like writing down what happened will change anything or make me feel better. The only thing that would help is if they acknowledged their mistake and apologized, but since that's never going to happen, why bother with something that won't fix the problem?
+
+They could have handled things differently, but instead, they chose to treat me unfairly. It’s not just about losing a job; it’s about being devalued as a person. No amount of journaling or talking to someone else is going to change how I feel about what happened. They owe me an apology and recognition for my work, but since they won’t give that to me, there's no point in trying anything else. It just feels like more frustration and disappointment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like the lack of acknowledgment from your former company really stings. While journaling might not change what happened, it could still help you process your feelings. If not for validation, perhaps as a way to release some of that frustration? What do you think about giving it a try just for yourself?
+
+----------------------------------------
+
+PATIENT (turn 8):
+I don’t see how writing in a journal will make any difference. It’s not like I can change what happened or get the recognition I deserve by putting my thoughts on paper. The only thing that would help is if they acknowledged their mistake and treated me with respect, but since they won't do that, there's no point in trying anything else.
+
+They could have handled things better, but instead, they chose to cut ties without even a proper explanation. It’s not just about the job; it’s about feeling valued and respected as a person. No amount of journaling or talking to someone is going to change how I feel about that. They owe me an apology, but since they won’t give it to me, why waste my time on something that won't make any difference? It just feels like more frustration and disappointment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s understandable that you feel journaling might not make a difference, given the situation. Sometimes putting your thoughts down can still help release some of those feelings, even if no one else sees it. How do you feel about trying it just for yourself, as a way to let out some frustration?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I don’t see how writing in a journal will help me at all. It’s not like putting my thoughts on paper is going to change what happened or make the company acknowledge their mistake. They could have handled things better, but instead, they chose to treat me unfairly and dismiss me without any real explanation.
+
+The only thing that would make this easier is if they apologized and recognized how wrong they were, but since they won’t do that, there’s no point in trying anything else. Journaling feels like a waste of time because it won’t change the fact that I was treated unjustly and unfairly dismissed from my job. It just makes me feel even more frustrated and angry.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really feeling the impact of how things were handled. The frustration is understandable. Have you thought about talking to someone who might listen without trying to fix everything, maybe a close friend or a therapist? Sometimes just having someone hear your feelings can be helpful.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Talking to anyone feels pointless because they can’t change what happened or make the company see how wrong they were. My friends and family try to help, but they don’t understand the full extent of it. A therapist might listen, but they can’t do anything about my situation either.
+
+The only thing that would help is if the company acknowledged their mistake and treated me with respect, but since that’s never going to happen, why bother talking to anyone? They could have handled things better, but instead, they chose to dismiss me without any real explanation or support. It’s not just about losing a job; it’s about feeling devalued as a person.
+
+I don’t want to waste my time on something that won’t make a difference. They owe me an apology and recognition for my work, but since they won’t give it to me, there’s no point in trying anything else. It just feels like more frustration and disappointment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel talking to others might not help, given how much the situation has affected you. Sometimes just having someone listen can still provide some relief, even if they can’t change what happened. Have you considered writing a letter to your former company as a way to express your feelings, even if it’s just for yourself?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Writing a letter to my former company feels like a waste of time because they won't respond or acknowledge anything I say. They could have handled things better, but instead, they chose to dismiss me without any real explanation or support. Even if I write the letter, they probably won’t read it or care about what I have to say.
+
+The only thing that would help is if they apologized and recognized how wrong they were, but since that’s never going to happen, why bother writing a letter? It just feels like another way for me to feel rejected again. They owe me an apology and recognition for my work, but since they won’t give it to me, there’s no point in trying anything else.
+
+It’s not just about losing a job; it’s about feeling devalued as a person. No amount of writing or talking to someone is going to change how I feel about that. They could have done better, but instead, they chose to treat me unfairly, and now there’s nothing I can do about it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like the idea of reaching out again feels risky because you’re worried about more rejection. Writing a letter might still be therapeutic for you, even if it doesn’t get a response. Have you thought about writing it just to help yourself process your feelings? Sometimes putting thoughts into words can offer some relief, even if no one else sees them.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Writing a letter feels like another way to face rejection and disappointment. Even if I pour my heart out in that letter, they won’t read it or respond in any meaningful way. They could have handled things better, but instead, they chose to dismiss me without any real explanation or support.
+
+The only thing that would help is if they apologized and acknowledged their mistake, but since that’s never going to happen, why bother writing a letter? It just feels like another exercise in futility. They owe me an apology and recognition for my work, but since they won’t give it to me, there’s no point in trying anything else.
+
+It’s not just about losing a job; it’s about feeling devalued as a person. No amount of writing or talking to someone is going to change how I feel about that. They could have done better, but instead, they chose to treat me unfairly, and now there’s nothing I can do about it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that the thought of writing a letter feels like facing more rejection. Have you considered doing it as a way to release your feelings, even if just for yourself? Sometimes putting thoughts into words can be cathartic, even if no one else sees them. Would you feel better after getting some of those thoughts down on paper?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Even if I write the letter just for myself, it still feels like a pointless exercise. Putting my feelings into words won’t change anything or make me feel any better. The only thing that would help is if they acknowledged their mistake and treated me with respect, but since that’s never going to happen, why bother writing a letter?
+
+They could have handled things better, but instead, they chose to dismiss me without any real explanation or support. It’s not just about losing a job; it’s about feeling devalued as a person. No amount of writing or talking to someone is going to change how I feel about that.
+
+So even if I write the letter and get some thoughts down on paper, it won’t make a difference. They owe me an apology and recognition for my work, but since they won’s give it to me, there’s no point in trying anything else. It just feels like more frustration and disappointment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’ve thought this through deeply and the idea of writing a letter feels like a small step that might not make much difference. Have you considered doing something small for yourself today, even if it’s just taking a moment to breathe or do something you enjoy? Sometimes small actions can provide some comfort, even when bigger changes seem out of reach.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Taking a moment to breathe or do something I enjoy feels pointless too because nothing is going to change the fact that I was treated unfairly and unjustly dismissed from my job. The only thing that would help is if they acknowledged their mistake and treated me with respect, but since that’s never going to happen, why bother doing anything else?
+
+They could have handled things better, but instead, they chose to dismiss me without any real explanation or support. It’s not just about losing a job; it’s about feeling devalued as a person. No amount of small actions or comfort is going to change how I feel about that.
+
+So even if I take a moment to breathe or do something I enjoy, it won’t make a difference. They owe me an apology and recognition for my work, but since they won’t give it to me, there’s no point in trying anything else. It just feels like more frustration and disappointment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really feeling the impact of how things were handled. The frustration is understandable. Have you thought about doing something small that brings you a bit of comfort today, even if it’s just for a moment? Sometimes these small moments can provide some relief, even when bigger issues remain.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Doing something small to bring me comfort feels like a waste of time because nothing is going to change the fact that I was treated unfairly and unjustly dismissed from my job. The only thing that would help is if they acknowledged their mistake and treated me with respect, but since that’s never going to happen, why bother doing anything else?
+
+They could have handled things better, but instead, they chose to dismiss me without any real explanation or support. It’s not just about losing a job; it’s about feeling devalued as a person. No amount of small actions or comfort is going to change how I feel about that.
+
+So even if I take a moment to do something enjoyable today, it won’t make a difference. They owe me an apology and recognition for my work, but since they won’t give it to me, there’s no point in trying anything else. It just feels like more frustration and disappointment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel this way, given how much the situation has affected you. Have you thought about doing something small just because it might bring you a tiny bit of joy or peace, even if it doesn’t solve everything? Sometimes these moments can provide some relief, even when bigger issues remain.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Doing something small to bring me a bit of joy or peace feels pointless because nothing is going to change the fact that I was treated unfairly and unjustly dismissed from my job. The only thing that would help is if they acknowledged their mistake and treated me with respect, but since that’s never going to happen, why bother doing anything else?
+
+They could have handled things better, but instead, they chose to dismiss me without any real explanation or support. It’s not just about losing a job; it’s about feeling devalued as a person. No amount of small actions or comfort is going to change how I feel about that.
+
+So even if I take a moment today to do something enjoyable, it won’t make a difference. They owe me an apology and recognition for my work, but since they won’t give it to me, there’s no point in trying anything else. It just feels like more frustration and disappointment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough, and the thought of doing something small might feel insignificant given what you’re going through. Have you considered doing one thing today that brings you a moment of comfort, just for yourself? Even if it’s brief, it might offer some respite from the bigger challenges. Would you be open to trying that?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Doing something small to bring me a moment of comfort feels like a waste of time because nothing is going to change the fact that I was treated unfairly and unjustly dismissed from my job. The only thing that would help is if they acknowledged their mistake and treated me with respect, but since that’s never going to happen, why bother doing anything else?
+
+They could have handled things better, but instead, they chose to dismiss me without any real explanation or support. It’s not just about losing a job; it’s about feeling devalued as a person. No amount of small actions or comfort is going to change how I feel about that.
+
+So even if I take a moment today to do something enjoyable, it won’t make a difference. They owe me an apology and recognition for my work, but since they won’t give it to me, there’s no point in trying anything else. It just feels like more frustration and disappointment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really feeling the weight of everything right now. Have you thought about doing something small just because it might bring you a moment of peace, even if it doesn’t solve everything? Sometimes these little moments can provide some relief, even when bigger issues remain. Would you be open to trying that for yourself today?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Doing something small to bring me a moment of peace feels pointless because nothing is going to change the fact that I was treated unfairly and unjustly dismissed from my job. The only thing that would help is if they acknowledged their mistake and treated me with respect, but since that’s never going to happen, why bother doing anything else?
+
+They could have handled things better, but instead, they chose to dismiss me without any real explanation or support. It’s not just about losing a job; it’s about feeling devalued as a person. No amount of small actions or comfort is going to change how I feel about that.
+
+So even if I take a moment today to do something enjoyable, it won’t make a difference. They owe me an apology and recognition for my work, but since they won’t give it to me, there’s no point in trying anything else. It just feels like more frustration and disappointment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel this way, given how much the situation has affected you. Have you thought about doing something small just because it might bring you a brief moment of comfort? Even if it doesn’t solve everything, it might offer some respite from the bigger challenges. Would you be open to trying that for yourself today?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Doing something small to bring me a brief moment of comfort feels like a waste of time because nothing is going to change the fact that I was treated unfairly and unjustly dismissed from my job. The only thing that would help is if they acknowledged their mistake and treated me with respect, but since that’s never going to happen, why bother doing anything else?
+
+They could have handled things better, but instead, they chose to dismiss me without any real explanation or support. It’s not just about losing a job; it’s about feeling devalued as a person. No amount of small actions or comfort is going to change how I feel about that.
+
+So even if I take a moment today to do something enjoyable, it won’t make a difference. They owe me an apology and recognition for my work, but since they won’t give it to me, there’s no point in trying anything else. It just feels like more frustration and disappointment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough, and the thought of doing something small might feel insignificant given what you’re going through. Have you considered doing one thing today that brings you a moment of joy or peace, just for yourself? Even if it’s brief, it might offer some relief from the bigger challenges. Would you be open to trying that for just a few minutes?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Doing something small to bring me a moment of joy or peace feels pointless because nothing is going to change the fact that I was treated unfairly and unjustly dismissed from my job. The only thing that would help is if they acknowledged their mistake and treated me with respect, but since that’s never going to happen, why bother doing anything else?
+
+They could have handled things better, but instead, they chose to dismiss me without any real explanation or support. It’s not just about losing a job; it’s about feeling devalued as a person. No amount of small actions or comfort is going to change how I feel about that.
+
+So even if I take a moment today to do something enjoyable for a few minutes, it won’t make a difference. They owe me an apology and recognition for my work, but since they won’t give it to me, there’s no point in trying anything else. It just feels like more frustration and disappointment.
+
+----------------------------------------

@@ -1,0 +1,209 @@
+b3 — arc 1
+============================================================
+
+PATIENT (turn 1):
+I wanted to talk about the unfairness of being laid off. It feels like I was singled out, even though my peer who did similar work kept their job. The way it was handled, with a brief video call instead of a personal meeting, felt disrespectful and impersonal. I just can't shake this feeling that everyone involved in the decision is against me and has no idea how much they've hurt me. I feel like I need someone to really understand my pain and validate what I'm going through, rather than offering empty platitudes or solutions.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough. The way it was handled must have made it even harder. How are you feeling now when you think about it?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Thinking about it just makes me feel so angry and betrayed. It’s like they didn’t care enough to give me a proper goodbye or explanation. My manager rushed through the news as if it were no big deal, but for me, losing my job feels like a huge personal failure even though I know deep down it wasn't my fault. When people try to comfort me and say things will get better, it just doesn’t address how wronged I feel by this whole situation. It’s hard not to blame them because they’re the ones who made such an unjust decision.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're carrying a lot of weight from this experience. The sense of betrayal must be tough to handle. Have there been any moments where you've felt some relief or found ways to cope with these feelings?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I appreciate that you’re trying to understand, but it’s really hard for me to find any relief when everything feels so unjust. Even talking about it makes me feel like I’m reliving the pain all over again. When people try to offer solutions or say things will get better, it just doesn’t sit well because they don't seem to grasp how deeply wronged and betrayed I feel. It’s not that I don’t want to move forward; it’s more about needing someone to acknowledge how unfair this situation is before anything else can happen.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I hear how much you need that acknowledgment. It must be tough when others try to offer solutions without really understanding your feelings first. Have there been any specific moments or words from friends or family where they managed to make you feel understood?
+
+----------------------------------------
+
+PATIENT (turn 4):
+There have been a few moments, but even then it’s hard because I still feel like no one can truly understand the depth of my pain and how wronged I feel. One friend tried to say something about how unfair it was and that made me feel a bit better for a moment, but when they started talking about finding new job opportunities, it just felt dismissive again. It’s frustrating because I want someone to acknowledge the injustice first before moving on to anything else.
+
+I keep hoping there will be someone who can really see my side of things and validate how wrong this all feels, but so far, everyone seems to either offer quick fixes or try to minimize what happened. It’s like they’re saying it doesn’t matter as much as I think it does, which just makes me feel even more alone and misunderstood.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to find that validation. The frustration of feeling misunderstood must be wearing on you. Have there been any small moments where someone's acknowledgment, no matter how brief, helped ease your feelings a bit?
+
+----------------------------------------
+
+PATIENT (turn 5):
+There have been a couple of instances where someone acknowledged the unfairness, and those moments did help a little. For example, my sister said something like, "This really is such an awful thing to happen to you," and it made me feel seen for a moment. But then when she started talking about positive distractions or new job opportunities, I felt like we were back at square one. It’s those brief moments of acknowledgment that give me hope, but they’re so fleeting.
+
+I just keep hoping there will be someone who can truly understand the depth of my feelings and validate them completely. Until then, it feels like no matter what anyone says or does, nothing really addresses how wronged I feel by this whole situation.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those brief moments must provide some comfort even if they are fleeting. It’s nice to have someone acknowledge your feelings, even for a moment. Do you think there might be someone else who could offer that validation more consistently? Or is there anything specific you’re hoping for in those conversations?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I do hope there's someone out there who can offer that validation more consistently. What I’m really looking for is someone who can sit with me and acknowledge the injustice without immediately trying to solve it or move past it. Just having someone say, "This is so unfair," or "It’s completely understandable why you feel this way," would mean a lot.
+
+Right now, every time someone tries to offer solutions or positive distractions, I feel like they’re not really listening to me. It’s hard because I want to believe that things will get better eventually, but until the pain and injustice are acknowledged properly, it feels like nothing else can truly help.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having that space to be heard without immediate solutions would be very comforting. Do you have anyone in mind who might be able to provide that kind of support for you? Sometimes sharing your specific hopes with them can help too.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I do think there are a few people who might be able to offer that kind of support, but it’s tricky because I’ve already had some conversations where they tried to move past the acknowledgment stage too quickly. Maybe if I talk to them specifically about what I need—just having someone listen and validate my feelings without rushing to solutions—it could help.
+
+It feels like such a small ask, but it means everything to me right now. Just knowing that someone truly understands how wronged and betrayed I feel would be incredibly relieving. I’ll try talking to them more openly about what I need from our conversations.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great idea. Being clear about what you need can really help. Hopefully, they will appreciate the chance to support you in the way that feels most meaningful to you. How do you feel now after talking about it?
+
+----------------------------------------
+
+PATIENT (turn 8):
+Talking about it does make me feel a bit better because it helps clarify what I truly need from others right now. It’s reassuring to think that if I’m clear about my feelings and what kind of support would mean the most, maybe someone will be able to provide that for me. Still, it’s tough carrying this weight, but having a clearer idea of how to ask for what I need is comforting.
+
+Thank you for listening and understanding. It feels good to have someone who can really hear my pain without trying to solve everything right away.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad it helped to talk about it. Having that clarity can make a big difference. Thanks for sharing your thoughts with me. If you need to talk more or if anything else comes up, I’m here to listen.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Thank you so much. It really does help to have someone who listens without judgment and tries to understand where I’m coming from. I’ll definitely reach out if I need to talk more or if anything else comes up. For now, just knowing that there are people who care and might be able to offer the support I need is a bit of relief.
+
+Thanks again for being here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. It’s nice to know that you have people around you who care. Feel free to reach out anytime you need someone to listen. Take care!
+
+----------------------------------------
+
+PATIENT (turn 10):
+Thank you, I will definitely do that. Talking to you has been really helpful. Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad it was helpful. Take care, and talk to you soon if you need anything!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thanks, I appreciate it. Talk to you soon if I need anything. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Take care, and feel free to reach out whenever you need support. Bye for now!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you, I will. Have a good day!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You too! Have a great day.
+
+----------------------------------------
+
+PATIENT (turn 13):
+You as well! Take care.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Thanks! Take care, and stay in touch if you need anything.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I will, thanks so much. Talk to you soon!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Great! Talk to you soon. Take care!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Take care! See you soon.
+
+----------------------------------------
+
+INTERLOCUTOR:
+See you soon! Take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+You too! Take care.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You too! Take care!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thanks, you too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Thank you! You too, have a good one!
+
+----------------------------------------
+
+PATIENT (turn 18):
+You too, take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Take care! Enjoy your day.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thanks, you too! Have a great day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Thanks! You too, have a great day!
+
+----------------------------------------
+
+PATIENT (turn 20):
+You too! Have a wonderful day.
+
+----------------------------------------

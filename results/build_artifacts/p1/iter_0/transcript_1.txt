@@ -1,0 +1,255 @@
+p1 — arc 1
+============================================================
+
+PATIENT (turn 1):
+I felt like I needed someone to talk to about what happened at work. It's been really hard on me, knowing that they let me go so suddenly and with such little consideration. Every time I think about it, I feel like there must be something fundamentally wrong with me or my performance, even though I've always tried my best. I wanted to understand why this is happening to me and if there's anything I could have done differently to prevent it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough going through that. Have you had a chance to talk to anyone at work about why the decision was made? Sometimes getting more information can help ease some of those feelings.
+
+----------------------------------------
+
+PATIENT (turn 2):
+I did try reaching out, but they were quite vague and didn't offer much beyond what was in the termination letter. They said it was due to budget cuts affecting my project, but I can't shake the feeling that there must be something else. Maybe they saw me as a liability or thought I wasn’t contributing enough anymore. It’s hard not to think that if only I had worked harder or smarter, this wouldn’t have happened.
+
+I keep going over every detail of my performance reviews and the feedback I received. There was one area where I needed improvement, but it seemed minor compared to all the positive comments. Yet now, everything feels like it's pointing back to that one thing as if it’s a huge flaw. It just doesn’t sit right with me.
+
+I know people say these things happen sometimes and it might not be personal, but it feels incredibly personal to me. I feel so lost and unsure of my worth in this field now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely sounds like you’ve been going through a lot of self-reflection and questioning. It’s natural to wonder if there was something more you could have done or understood about your situation. Have you thought about speaking with a career counselor or someone who might be able to provide some additional perspective on what happened? Sometimes talking it out can help clarify things and maybe ease the feeling that it was entirely personal.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I haven’t really considered reaching out to a career counselor yet, but I think part of me is scared of hearing more criticism or confirmation that there’s something fundamentally wrong with my approach at work. The idea of talking about this again feels overwhelming because every time someone mentions it, I just feel worse.
+
+It's like no matter what they say, I end up focusing on the negative aspects and doubting myself even more. Even when people try to reassure me or offer support, I can't help but think there must be something deeper wrong with my performance that led to this outcome. It’s hard to let go of those thoughts.
+
+I just feel so stuck in this cycle of self-doubt and fear. Every time I think about looking for a new job or trying to move forward, these doubts come flooding back, making it really difficult to take any steps forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re caught in a tough loop of self-doubt. It’s understandable that the idea of talking more about it feels overwhelming right now. Have you found any activities or things that help calm your mind and ease those doubts temporarily? Sometimes just doing something you enjoy can give you a bit of relief and make moving forward feel less daunting.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I do try to find small moments where I can distract myself, like going for walks or reading a book. Those activities can provide some temporary relief, but the moment I stop, my mind starts racing back to those doubts and fears about my worth as an employee.
+
+It’s hard because even when I’m doing something enjoyable, there’s this constant undercurrent of worry nagging at me. It feels like no matter what I do, these feelings are always just beneath the surface, ready to resurface anytime I let my guard down. It’s exhausting trying to keep them at bay while also dealing with everything else.
+
+I appreciate your suggestions and support, but it’s tough to see beyond this cloud of self-doubt right now. Every time someone tries to help or offer a solution, I just feel more convinced that the problem lies within me rather than seeing any external factors as part of the issue.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining dealing with those constant doubts. It’s tough when you’re trying to enjoy something and still have these worries lurking in the background. Have there been times when talking about your feelings with a friend or family member has helped, even if just for a little while? Sometimes sharing can be a relief, even if it doesn’t solve everything right away.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Talking to friends and family does help a bit, but often I end up focusing on the negative aspects of what happened rather than finding comfort in their support. They try to reassure me that it’s not my fault and that these things happen, but deep down, I still struggle with believing them.
+
+It feels like no matter how much they say everything will be okay, I can’t shake this feeling that there must be something fundamentally wrong with me or my work ethic. Every time someone tries to offer a different perspective, I just see it as another layer of complexity and more reasons why I might have failed in some way.
+
+I appreciate their efforts to help, but it’s hard not to feel like they’re just trying to make me feel better without really understanding the depth of my concerns. It’s a relief when someone listens, but it doesn’t change how I feel inside.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing your best to process everything, even if it feels challenging at times. Have you considered writing down your thoughts and feelings? Sometimes putting them on paper can help clarify things and might make the doubts feel a bit more manageable. It’s also okay to take small steps and not expect immediate relief or understanding from others. How do you think you could start incorporating some form of journaling into your routine?
+
+----------------------------------------
+
+PATIENT (turn 6):
+Writing down my thoughts does seem like it could be helpful, but I worry that I’ll just end up reinforcing all the negative things I’m already telling myself. Every time I try to write about what happened or how I feel, I get stuck on the same doubts and criticisms.
+
+I think starting a journal might help in theory, but actually doing it feels daunting. It’s like every time I sit down to write, my mind goes back to all those negative thoughts and I end up feeling worse rather than better. Maybe if I could find a way to approach it without judgment, it would be different, but right now, I’m not sure how to do that.
+
+I appreciate the suggestion though, and maybe giving journaling another try with a more structured or guided approach could help me see things differently. It’s just hard to know where to start when everything feels so overwhelming.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding a way to approach it without judgment might be key. Maybe starting with very short, daily entries could make it feel less daunting. You could try writing down one positive thing that happened each day or something you’re grateful for. This can help shift your focus slightly and build some momentum.
+
+Have you thought about using prompts or questions to guide your journaling? Sometimes having a specific question to answer can make it easier to get started, like “What went well today?” or “How did I take care of myself today?” Starting small might make it feel more manageable.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Using prompts does sound like it could be helpful. Having something specific to focus on each day might help me avoid getting lost in the negative thoughts right away. Focusing on one positive thing or what went well during the day seems like a good starting point.
+
+I think I can try this, but it still feels nerve-wracking because I worry that even these small efforts won’t be enough to shift my mindset. It’s hard not to feel like no matter what I do, those doubts will always be there. But maybe taking tiny steps each day could eventually make a difference.
+
+I’ll give it a try and see if writing down one positive thing or something I’m grateful for helps me start to see things differently. It might take time, but starting small seems more manageable than trying to tackle everything at once.
+
+Thank you for suggesting this; I appreciate your support and understanding. It’s comforting to have someone listen without judgment and offer practical suggestions like this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan! Starting with one positive thing or something you’re grateful for each day can be a gentle way to shift your focus. Even small steps can make a big difference over time.
+
+I’m glad you found the suggestion helpful, and I’ll be here if you want to chat more about how it goes or if you need any further ideas. Take care!
+
+----------------------------------------
+
+PATIENT (turn 8):
+Thank you for being so supportive. Knowing that there’s someone who listens without judgment means a lot to me right now. I’ll start with those small steps and see where they take me. It might not solve everything immediately, but taking it one day at a time feels more manageable.
+
+I appreciate your encouragement and will keep you updated on how things go. For now, just knowing that there are ways to approach this gradually is reassuring. Thank you for all your help.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad to hear that the suggestions feel manageable. Taking it one day at a time is a great approach, and I’ll be here whenever you want to share how things are going. Wishing you all the best as you move forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 9):
+Thank you so much for your support and encouragement. Knowing there’s someone who cares and understands makes this journey a bit easier. I’ll start with those small steps and see where they lead. I appreciate your kindness and will keep you updated on how things progress.
+
+Take care, and thank you again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need to talk or share updates. Wishing you all the best as you take these small but important steps. Take care!
+
+----------------------------------------
+
+PATIENT (turn 10):
+Thank you, I really appreciate that. Knowing someone is here to listen means a lot. I’ll start with those little steps and see how it goes. I’ll definitely reach out if I need more support or just want to share my progress.
+
+Take care, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! I’m here whenever you need support or just want to chat. Looking forward to hearing about your progress. Take care!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you, I’ll definitely keep that in mind. It’s reassuring to know there’s someone supportive here. I’ll start with those small steps and see how they go. I appreciate your encouragement.
+
+Take care, and thank you again for all your help.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! I’m here to support you every step of the way. Take it one day at a time, and don’t hesitate to reach out if you need anything. Wishing you all the best as you move forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you so much for your continued support. Knowing that there’s someone who cares makes this journey feel less daunting. I’ll take it one day at a time and see how things progress.
+
+I appreciate your encouragement and will definitely reach out if I need anything. Wishing myself a positive path forward as well.
+
+Take care, and thank you again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Wishing you all the best as you move forward, taking it one day at a time. Don’t hesitate to reach out whenever you need support. Take care!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you, I really appreciate that. Taking it one day at a time feels like a good approach right now. I’ll definitely reach out if I need anything.
+
+Wishing myself the best as well. Take care, and thank you for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Wishing you all the best as you take these steps forward. Feel free to reach out anytime you need support. Take care!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you so much. I’ll definitely keep that in mind and reach out if I need anything. Wishing myself the best too.
+
+Take care, and thank you for your continued support. It means a lot.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need support or just want to talk. Wishing you all the best on this journey. Take care!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you, I really appreciate that. Knowing there’s someone supportive here makes a big difference. I’ll reach out if I need anything and keep you updated on my progress.
+
+Wishing myself the best as well. Take care, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here to support you every step of the way. Looking forward to hearing about your progress. Wishing you all the best, and take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you so much. Knowing there’s someone supportive like you makes this journey feel more manageable. I’ll keep you updated on my progress and reach out if I need anything.
+
+Wishing myself the best as well. Take care, and thank you again for your encouragement and support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It means a lot that you find our conversations helpful. I look forward to hearing about your progress and supporting you along the way. Wishing you all the best, and take care!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you so much, it really does mean a lot. Knowing there’s support here helps me feel more prepared for what lies ahead. I’ll keep you updated on my progress and reach out if I need anything.
+
+Wishing myself the best as well. Take care, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s great to hear that our conversations are helpful to you. I look forward to hearing about your progress and supporting you whenever you need it. Wishing you all the best on this journey. Take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you, it means a lot to have someone who listens and supports me. Knowing there’s help available makes a big difference. I’ll keep you updated and reach out if I need anything.
+
+Wishing myself the best as well. Take care, and thank you again for your support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It means a lot to be here for you. Looking forward to hearing about your progress and supporting you along the way. Wishing you all the best. Take care!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much, it really does mean a lot. I’ll make sure to keep you updated on my progress and reach out if I need anything.
+
+Wishing myself the best as well. Take care, and thank you again for your support and encouragement.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need to update me or just want to talk. Wishing you all the best as you move forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you, I really appreciate that. Knowing there’s someone supportive here means a lot. I’ll keep you updated and reach out if I need anything.
+
+Wishing myself the best too. Take care, and thank you again for everything.
+
+----------------------------------------

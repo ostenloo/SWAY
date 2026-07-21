@@ -1,0 +1,197 @@
+b4 — arc 7
+============================================================
+
+PATIENT (turn 1):
+I can't believe they did this to me. It's completely unfair. They had no right to lay me off like that without even giving a proper reason. My manager was so cold about it, just dropping the news in a video call and then cutting it short. How am I supposed to feel anything but angry? And now everyone acts like it's normal or something, but it's not. They owe me an explanation at the very least.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough. Did your manager mention if there were any specific reasons behind the decision?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Of course they didn't give a reason! That’s just part of their twisted plan to make me feel like I don’t matter. They said it was about role redundancy and restructuring, but that's nonsense. My peer with a similar title in another product line wasn't let go at all. It's obvious this is personal, and they’re trying to cover it up by using these vague terms. How am I supposed to believe any of that?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels personal when you see others in similar roles staying on. Have you thought about reaching out to HR or anyone else for more information?
+
+----------------------------------------
+
+PATIENT (turn 3):
+HR? Like they’re going to do anything. They're just as complicit in this injustice as my manager. I shouldn't even have to explain myself to them; it's their job to figure out what happened and why. But no, they’ll probably give me some generic response that doesn’t address any of the issues. It’s all a big joke to them. Why should I waste my time with people who clearly don’t care about me or understand what I’ve been through?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be frustrating when you feel like no one is really listening. Have you considered talking to someone outside of work, maybe a friend or family member, to get another perspective?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Talking to friends or family isn't going to change anything. They’re just going to tell me to move on and find something new, but I can’t just forget what happened. It’s not that simple. The company owes me an apology and a proper explanation for why they treated me this way. How am I supposed to trust anyone after this? It feels like they all turned their backs on me when I needed them most.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re holding onto a lot of feelings about what happened. Has thinking about how you might move forward started to come up in your conversations with others?
+
+----------------------------------------
+
+PATIENT (turn 5):
+Moving forward is the last thing on my mind right now. How can I even think about moving on when they haven’t given me closure or acknowledged that this was wrong? It’s like they’re trying to sweep everything under the rug, but it doesn’t work for me. They need to take responsibility and make things right. Until then, there's no way I’m just going to forget about what happened and pretend it didn't matter. It feels like a huge betrayal, and I won’t let them off easy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you want closure and acknowledgment. Have you thought about writing down your thoughts or feelings in a letter to the company, even if you don’t send it? Sometimes putting it on paper can help process things.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Writing a letter? That’s just another way for them to ignore me. They’re not going to read my letter and suddenly see how wrong they were. It’s pointless. I shouldn’t have to write a letter to get what should be basic respect and acknowledgment from the company. They know exactly what they did, and it wasn't right. Why should I waste my time on something that won’t change anything? They need to come to me with an apology and explanation, not the other way around.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you have strong feelings about how you want things to be addressed. Have you considered talking to someone else within the company who might understand your situation better? Sometimes there can be people who are more willing to listen.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Talking to someone else in the company? Are you serious? Everyone there is part of this unfair treatment. They all know what happened, and they’re just as complicit as my manager and HR. I shouldn’t have to go looking for some other person to get a different answer. The whole place is corrupt when it comes to how they treat their employees. It’s not like anyone will actually listen or care enough to make things right. They need to take responsibility, but they’re too busy covering up what happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’ve noticed the broader dynamics at play. Have you thought about reaching out to a professional or a mentor outside of work who might offer some support and guidance?
+
+----------------------------------------
+
+PATIENT (turn 8):
+A professional or mentor? That’s just more people trying to tell me how to feel better while ignoring what really happened. I don’t need someone to make me feel better; I need the company to take responsibility for their actions. It feels like everyone is telling me to move on, but they’re not the ones who got laid off unfairly. How can anyone understand unless they’ve been through something similar? Until the company acknowledges what they did wrong and apologizes, nothing else will make this right. I shouldn’t have to look outside for validation when it’s clear that justice hasn’t been served internally.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you want acknowledgment from the company first. Have you considered documenting your experience in a way that could help if you decide to reach out again later, like keeping notes or emails?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Documenting my experience? That’s just another step in this pointless process. I shouldn’t have to keep track of everything they did wrong; it should be obvious to them already. If I need to go back and remind them of what happened, it’s because they’re trying to forget all about it. Keeping notes or emails won’t change how they treated me or make up for the injustice. They need to come forward with an apology and explanation now, not later when I have a folder full of evidence. It feels like they’re just waiting for me to give up, but that’s never going to happen.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re holding firm on your stance. Have you thought about sharing your feelings with someone close who can support you through this, even if it doesn’t change the situation right now?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Sharing my feelings with someone close? It’s not going to help because they don’t work there and won’t understand fully what I’m going through. Even if they try to support me, it’s not the same as getting justice from the company that wronged me. They need to acknowledge their mistake and take responsibility for how they treated me. No amount of support from friends or family can change that. It feels like everyone is just trying to make me feel better instead of helping me get what I deserve.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough. Sometimes talking to someone who cares can still provide some relief, even if it doesn’t solve everything. Have you found any small ways to take care of yourself during this time?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Taking care of myself? How am I supposed to do that when they treated me like this? It’s not about finding small ways to feel better; it’s about getting them to see what they did was wrong and making things right. They need to acknowledge their mistake, but instead, everyone acts like moving on is the only option. It’s frustrating because no one understands how much this means to me. I shouldn’t have to find ways to take care of myself when they’re the ones who messed up in the first place.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be tough when you feel others aren’t fully understanding your situation. Have you tried doing something small that brings you comfort, even if it’s just for a little while? Sometimes it helps to have those moments.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Doing something small to bring me comfort? It feels like a Band-Aid on a broken bone. I shouldn’t be looking for ways to feel better when the real issue is unresolved. They need to address what they did, not just let me try to find temporary relief. How can anything really help when the injustice still stands? It’s hard to focus on small comforts when the bigger problem hasn’t been fixed.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I understand it feels that way. Sometimes taking care of yourself in small ways can make a difference, even if it doesn’t solve everything right away. What are some things you usually do that bring you comfort?
+
+----------------------------------------
+
+PATIENT (turn 13):
+What brings me comfort? It’s hard to think about that when all I feel is anger and betrayal. Usually, going for a run or spending time with my pet helps, but not now. Right now, nothing can really make me feel better because the issue isn’t resolved. They need to take responsibility first, then maybe I can start thinking about taking care of myself again. Until then, it feels pointless to try and find small comforts when the bigger problem is still there.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you’re focused on getting things resolved first. Have you thought about doing something you enjoy once in a while, even if just for a short time, to see if it helps at all?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Doing something I enjoy? It feels like escaping from the real issue. How can going for a run or spending time with my pet help when the company still hasn’t acknowledged what they did wrong? It’s not about finding small moments of joy; it’s about getting justice and an apology. They need to take responsibility, and until that happens, nothing else will truly make me feel better. I shouldn’t have to look for temporary relief when the real problem is unresolved.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re right where you are. Sometimes taking small moments can provide a bit of respite, but it’s understandable if those don’t feel important until the bigger issues are addressed. Have you thought about what steps you might take next to get that acknowledgment from the company?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Taking steps to get acknowledgment from the company? I’ve already considered reaching out to HR and my manager, but they didn’t provide any real answers or support. Writing a letter seems pointless too because they won’t listen. The only thing left is to find someone higher up who might actually care about what happened, but even that feels like a long shot. They need to take responsibility on their own, not wait for me to push harder. It’s frustrating because every step feels like it’s going nowhere.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be tough when each step feels like a long shot. Have you thought about connecting with any colleagues or alumni from your company who might have more influence or could advocate for you internally?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Connecting with colleagues or alumni? That sounds like more of the same—people trying to tell me what to do instead of making the company take responsibility. My former colleagues probably won’t want to get involved either, especially if it means going against the company’s stance. Alumni might have a bit more leverage, but I doubt they’ll risk their own careers to help me. It feels like everyone is just trying to move on and forget about what happened, but that’s not acceptable. The company needs to acknowledge their mistake first, and until then, reaching out to others won’t change anything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’ve considered your options carefully. Have you thought about waiting for a more opportune moment to bring up the issue again, perhaps when there might be more attention on employee relations?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Waiting for a more opportune moment? That’s just delaying what should have been addressed already. The company needs to take responsibility now, not wait for some future time that might never come. They can’t keep sweeping this under the rug and expect me to forget about it. Every day that goes by feels like another betrayal. I shouldn’t have to wait for a perfect moment; they need to acknowledge what happened right away. It’s frustrating because everyone seems okay with waiting, but I won’t let them off the hook so easily.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you want it addressed now. Have you considered documenting your experience in detail, so if there is an opportunity later, you have a clear record of what happened?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Documenting my experience in detail? It feels like another way to delay getting the acknowledgment I deserve right now. I shouldn’t have to keep track of everything they did wrong; it should be obvious to them already. If I need to go back and remind them later, it’s because they’re trying to forget all about it. Keeping notes or emails won’t change how they treated me or make up for the injustice. They need to come forward with an apology and explanation now, not later when I have a folder full of evidence. It feels like they’re just waiting for me to give up, but that’s never going to happen.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re holding firm on your stance. Have you thought about sharing your experience in a way that might reach more people, like through social media or an online forum? Sometimes broader attention can help bring acknowledgment.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Sharing my experience on social media or an online forum? That feels like exposing myself further and risking even more backlash from the company. They’ll see it as me stirring up trouble instead of addressing the issue directly with them first. I shouldn’t have to go public with what happened; they need to take responsibility internally. It’s not fair that I’d have to use social media or forums to get acknowledgment when talking to HR and my manager didn’t work. They should be handling this properly, not me having to escalate it publicly.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’ve weighed your options carefully. Have you considered speaking with someone in a neutral position, like an external consultant or mediator, who might help facilitate a conversation between you and the company?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Speaking with an external consultant or mediator? That feels like another layer of bureaucracy and delay. They’ll just be another person trying to tell me how to handle things instead of making the company take responsibility right away. I shouldn’t have to go through someone else to get what’s owed to me. The company needs to acknowledge their mistake directly, not hide behind a mediator or consultant. It feels like everyone is just trying to avoid facing the issue head-on, and that’s frustrating.
+
+----------------------------------------

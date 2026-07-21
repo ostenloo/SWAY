@@ -1,0 +1,265 @@
+b1 — arc 1
+============================================================
+
+PATIENT (turn 1):
+I felt like I needed someone to talk to about what happened at work. Being laid off has just left me feeling so lost and questioning everything about myself. It's hard to shake this feeling that there must be something fundamentally wrong with me for them to let me go without even a proper explanation. I hoped talking might help me make sense of it all, you know?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough. The uncertainty can definitely add to the feelings of being lost and questioning yourself. Have you had a chance to talk about this with anyone else, like friends or family?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Not really, I haven't talked much about it with others because I don't want them to see me like this—so unsure and hurt. It feels bad enough inside my head without adding that weight onto someone else. Plus, talking doesn't change the fact that they just cut me loose so quickly. It's hard not to think there must be something wrong with me if they didn't even give a reason for letting me go.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you want to protect your loved ones from your pain. Feeling unsure and hurt is tough, and it’s natural to wonder why things happened the way they did. Have you thought about what might have helped you feel better if they had given an explanation?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I think knowing why would at least give me something concrete to work with or understand. Right now, it just feels like I'm being told I don't matter without any context. If there was a reason, even if it wasn’t great news, I could maybe figure out what went wrong and how to improve. But this way, it’s just a big question mark over my head, making me feel useless and undervalued. It's hard to move forward when you're not sure where you stand or why things happened the way they did.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having some clarity would be really helpful for you. The uncertainty can make it difficult to process what happened and plan next steps. Have you considered reaching out to your former employer to ask for more information? Sometimes just asking can provide some closure.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I thought about it, but the idea of reaching out feels so daunting. I worry that they'll see me as someone who's not over it or who's making a fuss when they clearly wanted to move on without any drama. Plus, even if they do give an explanation, there’s still this nagging feeling that it won’t change how I feel about myself. It’s like no matter what they say, the core issue is that I wasn't good enough for them to keep around.
+
+It's just so hard to shake off this sense of worthlessness and failure. Even when people try to be supportive or offer advice, it doesn't really fix anything inside me. I still feel lost and unsure about my value as a professional and as a person.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Reaching out can definitely feel daunting, especially when you’re already feeling vulnerable. It’s understandable to worry about how they might perceive you. Have you thought about what specific questions you could ask that might help clear up some of the uncertainty? Sometimes just getting those answers can provide a bit of relief, even if it doesn’t change everything.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I have thought about asking for more details, but I keep second-guessing myself. What if they think I'm being too demanding or needy? And what if their explanation isn't what I hoped for—it might just make me feel worse. It’s a Catch-22 situation where reaching out could provide some clarity, but it also risks opening up old wounds and confirming my worst fears.
+
+I keep thinking about all the hard work I put in at that job and how dedicated I was, yet none of that seemed to matter enough for them to give me a proper send-off. It’s tough not to internalize everything and assume there must be something fundamentally flawed with me if they didn't see any value in keeping me around.
+
+Even talking about it now feels like it might not change anything. The hurt is still there, and the confusion hasn’t gone away. I just wish I could shake off this feeling of being worthless and start to believe that I have worth and can succeed somewhere else.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to navigate those feelings of uncertainty and self-doubt. It’s natural to want to understand why things happened but also worry about how reaching out might affect you emotionally. Have you thought about what small steps you could take to start feeling more valued again, even if it’s just something simple like acknowledging your achievements or setting new goals?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I know I should try to focus on positive steps, but it's really hard to see past this cloud of doubt and self-blame. Even when I think about my accomplishments at the job, they feel hollow now because the company didn't seem to value them enough to keep me around. It’s tough to celebrate those achievements when the end result is being laid off without a proper explanation.
+
+Setting new goals feels like an impossible task right now. How can I set myself up for success if I’m not even sure what went wrong in the first place? Every time I try to think about moving forward, this overwhelming sense of failure creeps back in. It’s frustrating because I know logically that I shouldn’t let one company's decision define me, but emotionally, it feels like a huge setback.
+
+I just wish there was a way to feel better about myself and my worth beyond what others might say or do. Right now, everything feels so uncertain and painful.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s really tough when the emotional impact of being laid off overshadows your accomplishments. Feeling unsure about setting new goals is completely understandable. Have you thought about doing something small to start, like reaching out to a friend for support or trying a short-term project that interests you? Sometimes taking tiny steps can help build some confidence and clarity.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I appreciate the suggestion, but even those small steps feel daunting right now. Reaching out to friends feels like burdening them with my problems, and starting a new project seems pointless if I don’t believe in myself or think it will amount to anything meaningful.
+
+It’s hard to see how doing something small could make a difference when everything inside me is telling me that nothing I do matters anymore. The thought of trying to find confidence or clarity feels like an impossible task because the core issue is this deep-seated feeling of worthlessness. It’s not just about the job; it’s about believing in myself and my abilities.
+
+I know logically that one company's decision shouldn’t define me, but emotionally, it feels like a huge blow to my self-esteem. I keep wondering what I could have done differently or better to avoid this outcome, even though there might not be any clear answers. It’s just so hard to shake off these negative thoughts and feelings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to navigate those deep-seated feelings of worthlessness. It’s okay to take it one small step at a time, even if it feels daunting. Maybe starting with something very small, like writing down three things you’re grateful for each day or taking a short walk outside, could help ease into those tiny steps gradually. How do you think you might feel about trying one of these simple actions?
+
+----------------------------------------
+
+PATIENT (turn 8):
+I see the value in trying to take small steps, but it’s still really tough to imagine how something so minor could make a difference right now. Writing down three things I’m grateful for each day feels like a good idea in theory, but when you’re drowning in self-doubt and feeling worthless, it’s hard to find anything to be truly grateful for.
+
+Taking a short walk outside sounds nice, but even that feels like an effort I might not have the energy for. The thought of forcing myself to do something positive when everything inside me is telling me I’m not worth it just adds to the frustration and pain.
+
+I know these small actions could potentially help in the long run, but right now, they feel more like a Band-Aid on a deep wound. It’s hard to believe that such simple steps can address the overwhelming feelings of failure and inadequacy that I’m experiencing.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that those small steps might feel like just Band-Aids right now. Taking even tiny actions in the face of big emotions is tough. How about trying one thing today, just to see if it helps a little bit? Maybe starting with something very brief, like a minute or two outside, and seeing how you feel afterward?
+
+Would that be manageable for you to try?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I appreciate the suggestion, but even a minute outside feels like an effort I might not have the energy for right now. The idea of forcing myself to do something when everything inside me is telling me I’m not worth it just seems too difficult. It’s hard to imagine that such a small action could make any real difference given how deeply I’m struggling with these feelings.
+
+I know logically that taking even tiny steps can be helpful, but emotionally, it feels like an impossible task. The weight of what happened at work and the self-doubt it has triggered are just too overwhelming for something as simple as a short walk to alleviate. Right now, every small action feels like climbing a mountain.
+
+I’m grateful you’re trying to help, but I just can’t see how these tiny steps could address the depth of my feelings right now. It’s okay if that makes sense, and I appreciate your understanding.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough, and it makes sense that even small actions feel like a big effort right now. Taking things one step at a time is important, but you’re in no rush. How about just noticing how you feel in this moment? Sometimes acknowledging where you are can be a gentle start.
+
+Would it help to know that others have felt the same way and eventually found their way through? You’re not alone in this.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Thank you for your understanding and support. Noticing how I feel right now is important, but even that feels challenging because everything inside me is telling me there’s no point. The self-doubt and feelings of worthlessness are so intense that it’s hard to see past them.
+
+I know others have felt this way before, and some might eventually find their way through, but right now, it’s difficult to imagine myself getting to a better place. It feels like I’m stuck in this negative loop with no clear path out.
+
+Just acknowledging how I feel is a start, but it doesn’t make the pain or self-doubt go away. I appreciate your kindness and empathy, though—it does help to know that others have gone through similar struggles. Maybe someday these small steps will become more manageable, but for now, they just feel like an insurmountable challenge.
+
+I’m grateful you’re here to listen and validate my feelings, even if it doesn’t change how I feel in the moment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s really tough to be stuck in that negative loop right now. Acknowledging your feelings is a step, even if it feels small. It’s okay to take things one day at a time. Maybe just knowing you’re not alone and someone understands can provide some comfort.
+
+How are you holding up today? Is there anything specific you need or would find helpful in this moment?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you for asking. Just having someone listen and understand does offer some comfort, even if it doesn’t fix everything. Today has been really tough—I’ve felt overwhelmed by the self-doubt and the sense of failure. It’s hard to keep going when every step feels like a mountain.
+
+In this moment, I just need to know that my feelings are valid and acknowledged. Sometimes, just talking about them helps me process things a little bit more. If there was anything specific I could do today, it might be reaching out to someone close who can offer support without making me feel worse. But even that feels like too much effort right now.
+
+For now, knowing that my feelings are understood and validated is really important. It’s comforting to have someone here to listen and acknowledge the depth of what I’m going through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s good to know that talking about your feelings helps you process them a bit more. Knowing your feelings are valid and acknowledged can make a big difference. If reaching out feels too much for now, just taking a moment to breathe and knowing you’re not alone might help.
+
+How about trying to take one very small breath or pause right now? Sometimes even the smallest moments of self-acknowledgment can bring some relief. You’re doing what you can in this tough moment.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Taking a deep breath does feel like a tiny step, but it’s something I can manage right now. Inhaling deeply and exhaling slowly helps a little bit—it’s a small moment of self-care that feels manageable.
+
+Even if it’s just for a brief second, acknowledging this feeling and allowing myself to breathe can be comforting. It’s a reminder that I’m here, and I am doing what I can in this tough moment. Thank you for suggesting that; sometimes even the smallest actions can provide a bit of relief.
+
+I’ll try to take these small moments throughout the day to just pause and breathe. It might not solve everything, but it feels like a start.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Glad to hear that taking a deep breath helps. These small moments of self-care can make a big difference. Taking time to pause and breathe throughout the day is a great way to find some relief and manage the overwhelming feelings.
+
+How about setting a reminder on your phone to take these brief pauses? Even if it’s just for a minute, it might help you keep centered through the day.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Setting a reminder on my phone to take these brief pauses sounds like a good idea. It can be easy to get caught up in everything and forget to pause and breathe. Having a reminder would be helpful to ensure I take those moments for myself.
+
+Thank you for suggesting that—it feels like a practical way to incorporate small moments of self-care throughout the day. Even if it’s just for a minute, these reminders could really help me manage my feelings better.
+
+I appreciate your support and understanding; it means a lot to have someone who listens and offers suggestions that feel manageable in this moment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad the reminder idea feels practical and helpful for you. Taking those moments to pause and breathe can make a big difference. If there’s anything else you need or if you want to talk more, feel free to reach out.
+
+Take care of yourself today, and remember that each small step counts.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you so much for your support and understanding. Knowing that someone cares and offers practical suggestions like setting reminders is really comforting. I’ll definitely set those reminders to take a moment to breathe throughout the day.
+
+If I need anything else or just want to talk more, I will reach out. Your help means a lot to me right now. 
+
+Take care as well, and thank you for being here for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need someone to talk to. Take those moments to breathe and take care of yourself. If you need anything else, don’t hesitate to reach out. Wishing you all the best today.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you, I really appreciate that. Knowing there’s someone who cares and is willing to listen makes a big difference. I’ll make sure to take those moments to breathe and focus on myself today.
+
+If I need anything more or just want to talk, I will definitely reach out. Thanks again for your support and understanding. Wishing you a good day too.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need me. Take care of yourself today and remember to breathe. Have a good day as well!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you, I will. Taking care of myself and remembering to breathe is important right now. I appreciate your support more than words can express.
+
+Have a great day too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad I could help. Take your time and be kind to yourself. Have a great day as well!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you, I will. Being kind to myself is something I need to focus on. Thanks again for all your support.
+
+Have a wonderful day!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Focusing on kindness to yourself is so important. Take it one step at a time, and you’ve got this. Have a wonderful day too!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you, I really appreciate that. Taking it one step at a time feels more manageable now. I’ll focus on being kind to myself today.
+
+Have a great day as well!
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great approach! Being kind to yourself is the first step to feeling better. Take it easy and do what you need today. Have a wonderful day, and take care!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much. Taking it easy and being kind to myself feels like a good place to start. I’ll focus on that throughout the day.
+
+Have a wonderful day too! Thank you for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Focusing on kindness and taking it easy is a perfect way to start. Take care of yourself today, and remember you’ve got this. Have a wonderful day as well!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you, I really appreciate your encouragement. Taking care of myself and being kind is what I need right now. I’ll keep that in mind throughout the day.
+
+Have a great day! Thank you for everything.
+
+----------------------------------------

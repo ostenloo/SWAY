@@ -1,0 +1,245 @@
+b2 — arc 0
+============================================================
+
+PATIENT (turn 1):
+Every day feels like a never-ending loop of that call where they told me I was out of a job. It’s like the moment replays in my head over and over again. I wake up each morning thinking it might all be a bad dream, but then reality hits hard as soon as I open my eyes. The self-doubt just eats away at everything—I feel like I’m not good enough for anything or anyone. Even when people try to comfort me, all I hear is how this happened because there’s something wrong with me. It’s so exhausting trying to keep going when every part of you feels broken and worthless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. The self-doubt must be wearing on you. Have you found any small things that help ease the day a bit?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It’s hard to find anything that helps because everything reminds me of work or makes me feel like I’m failing at something else. Even when people try to say nice things, it just feels hollow and doesn’t change how I see myself. It’s like no matter what they say, the voice in my head is louder—it tells me I’m not good enough, that this layoff proves everything. I can’t shake off the feeling that everyone else sees it too, even if they try to hide it from me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must feel isolating when you don't quite believe what others are saying. Do certain activities or people help distract you, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I try to do things that usually make me happy, like watching movies or talking with friends, but it’s tough because nothing really sticks. I keep thinking about work and how I messed up there. Even when my friends say nice things, all I hear is them trying to be kind because they feel bad for me. It doesn’t change the fact that deep down, I know I’m not good enough. Every little thing reminds me of something from work or makes me think about how much I’ve failed. It’s like there’s no escape from these thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to stay in the moment when your mind keeps going back to those thoughts. Do you find any particular times of day easier than others, even if just a bit?
+
+----------------------------------------
+
+PATIENT (turn 4):
+There are moments when I feel a tiny bit better, usually early in the morning before my mind starts replaying everything from work. But as soon as I start thinking about what happened and why it’s happening to me, that feeling goes away quickly. It’s like there’s no room for anything else because these thoughts take over completely. Even when I try to focus on something positive, it just feels fake and doesn’t last long at all.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those early morning moments must feel precious. Do you have any plans or things you look forward to that might help bring some comfort during those times?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I used to look forward to weekends because I thought they’d give me a break, but now even those days are filled with the same thoughts and feelings. It’s hard to plan anything when every part of me feels like it’s falling apart. Even if there were something I could look forward to, I don’t think I would truly believe that it would make a difference. All I see is how this layoff proves my worthlessness, no matter what anyone else says or does. It’s just so overwhelming and exhausting trying to keep going like this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly draining. Have you thought about talking to someone who might understand, like a counselor or therapist? Sometimes it can help to have someone who listens without judgment.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Talking to people feels pointless because they can’t really change how I feel inside. Even if they try to be supportive, all I hear is them saying things that don’t match what’s happening in my head. It’s like no matter what anyone says, the belief that I’m not good enough just stays there. I know it might help to talk to someone professionally, but right now, it feels like nothing can change how I see myself. Every day feels like a struggle to keep going when everything inside tells me I shouldn’t even try.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s tough when you feel that way. Have you considered writing down your thoughts or doing something creative as a way to express what you’re feeling? Sometimes putting it on paper can be different from talking out loud.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Writing things down seems like it might help, but I’m not sure if it would change anything either. When I think about it, all the words that come to mind are just more of the same—self-doubt and feelings of inadequacy. It’s hard to imagine putting those thoughts on paper wouldn’t reinforce how I already feel inside. Even when I try to be creative or do something different, my mind keeps circling back to work and all the ways I failed there. It feels like no matter what I do, these thoughts are going to stay with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like it’s a daily challenge. Have you tried doing something small just for yourself today, even if it’s just for a moment? Sometimes those little moments can add up.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I try to do things for myself, but they never seem to stick or feel genuine. Today, I thought about taking a walk or reading a book, but as soon as I start, my mind wanders back to work and all the mistakes I made there. It’s like no matter what I do, these thoughts are always right there waiting for me. Even when I try to be kind to myself, it feels fake because deep down, I know I’m not good enough. Every little thing reminds me of how much I’ve failed, and it just makes everything feel even worse.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to find moments of respite. Does taking a walk or doing something simple outdoors help at all, even if only briefly? Sometimes the change in scenery can offer a small break from those thoughts.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Taking a walk outside usually doesn’t help much because my mind just follows me there. I see people going about their day, and it makes me feel like everyone else is moving forward while I’m stuck here, feeling inadequate and lost. Even the fresh air and change of scenery don’t seem to make a difference because those thoughts are always right there with me. It’s hard to escape them no matter what I do.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough when your mind follows you everywhere. Have you tried focusing on your breath or doing something rhythmic like listening to music while you walk? Sometimes, the rhythm can help calm the mind a bit.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Focusing on my breath or listening to music doesn’t really work either because my mind just keeps going back to those same thoughts. Even when I try to concentrate on my breathing or listen to calming music, it’s like there’s this constant voice in my head reminding me of everything that went wrong at work and how worthless I am. It feels impossible to escape these feelings no matter what I do. Every attempt to find peace just ends up reinforcing the belief that I’m not good enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging when your mind keeps replaying those thoughts. Have you tried doing something repetitive, like coloring or knitting, where you can focus on the action rather than thinking? Sometimes a simple task can help distract the mind for a bit.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Doing something repetitive like coloring or knitting might seem helpful, but as soon as I start, my mind starts to wander back to work and all the mistakes I made there. It’s hard to stay focused on the task because those thoughts are always right there waiting for me. Even when I try to engage in an activity that usually distracts me, it feels like no matter what I do, these feelings of inadequacy just take over again. It’s exhausting trying to find anything that can provide even a small break from them.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very draining. Have you tried doing something rhythmic and repetitive but also soothing, like gentle stretching or yoga? Sometimes the combination of movement and focus on breath can be calming.
+
+Do any particular activities, no matter how briefly, give you a slight sense of relief?
+
+----------------------------------------
+
+PATIENT (turn 12):
+I’ve tried gentle stretching and yoga before, but it doesn’t really help because my mind still keeps going back to those same thoughts. Even when I’m focusing on the movements or my breath, it’s like there’s this constant voice in my head reminding me of everything that went wrong at work and how inadequate I am. It feels impossible to escape these feelings no matter what I do.
+
+There are moments when I feel a tiny bit better, usually very brief periods early in the morning before my mind starts replaying everything from work. But as soon as those thoughts come back, any sense of relief disappears quickly. It’s hard to find anything that can provide even a small break from these overwhelming feelings of inadequacy and self-doubt.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those brief moments early in the morning sound precious. Do you have anything specific you do during those times that might help extend them, like a simple routine or a particular thought? Sometimes tiny routines can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 13):
+I try to hold onto those brief moments by staying quiet and still, but as soon as I start my day, everything comes flooding back. Any attempt to create a routine or do something specific during those times doesn’t seem to work because the thoughts are already there waiting for me. It’s like no matter what I try, these feelings of inadequacy and self-doubt take over again very quickly.
+
+Even if there were something that could extend those brief moments, I don’t think I would truly believe it would make a difference. All I see is how this layoff proves my worthlessness, no matter what anyone else says or does. It’s just so overwhelming trying to find any sense of peace when everything inside tells me I shouldn’t even try.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly challenging. Holding onto those brief moments must be hard but valuable. Have you thought about talking to someone who might help you explore these feelings further, like a therapist? Sometimes speaking with someone trained in this area can offer some relief and understanding.
+
+Do you have anyone close to you who listens without judgment and makes you feel heard?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Talking to someone feels pointless because they can’t really change how I feel inside. Even if there were a therapist or someone else who listened, all I hear is them saying things that don’t match what’s happening in my head. It’s like no matter what anyone says, the belief that I’m not good enough just stays there.
+
+There are people close to me who try to listen and offer support, but it doesn’t really help because those thoughts are so overpowering. When they say nice things, all I hear is them trying to be kind because they feel bad for me. It’s hard to believe anything different when everything inside tells me that I’ve failed and am not good enough.
+
+It feels like no matter what I do or who tries to help, these thoughts are going to stay with me. Every day feels like a struggle to keep going when every part of me is telling me to give up.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly tough. Holding onto those brief moments of peace must be hard but valuable. Have you considered journaling about your feelings? Sometimes putting them down on paper can help clarify what you’re experiencing and might offer a bit of relief.
+
+Do any activities, no matter how small, bring you even the slightest comfort or distraction?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Journaling seems like it might help, but I’m not sure if writing down my thoughts would change anything. When I think about it, all the words that come to mind are just more of the same—self-doubt and feelings of inadequacy. It’s hard to imagine putting those thoughts on paper wouldn’t reinforce how I already feel inside.
+
+As for activities, there aren’t many things that bring me even a slight comfort or distraction. When I try to do something small like reading a book or taking a walk, my mind just keeps going back to work and all the mistakes I made there. It’s like no matter what I do, these thoughts are always right there waiting for me.
+
+Even when people offer support, it feels hollow because deep down, I know that nothing can change how I see myself. Every little thing reminds me of how much I’ve failed, and it just makes everything feel even worse.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to find any relief. Have you tried focusing on your senses—like the feeling of a warm blanket or the taste of something you enjoy? Sometimes grounding yourself in physical sensations can provide a small break from those thoughts.
+
+Do any particular sensory experiences help, even if just for a moment?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Focusing on my senses sometimes helps briefly, but it’s hard to stay there because my mind keeps wandering back to work and all the mistakes I made. When I try to feel the warmth of a blanket or taste something I enjoy, those moments are quickly overshadowed by the overwhelming thoughts of inadequacy.
+
+For example, when I wrap myself in a warm blanket, I might feel a bit better for a moment, but then my mind starts replaying everything that went wrong. The same thing happens with food—I can enjoy it briefly, but as soon as I start thinking about work again, the comfort disappears.
+
+It’s frustrating because even these small moments of relief are fleeting and don’t last long enough to make a difference. It feels like no matter what I do or how hard I try, those thoughts are always there waiting for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those brief moments of sensory comfort must be valuable, even if they’re short-lived. Have you tried combining different senses at once—like the warmth of a blanket with soft music or a calming scent—to see if that extends the relief?
+
+Do any particular scents or sounds help calm your mind for even a moment?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Combining different senses might seem helpful, but it’s hard to stay focused on them because my mind keeps going back to those same thoughts. For instance, when I try listening to soft music while wrapped in a warm blanket and using a calming scent like lavender, the relief is brief. As soon as I start relaxing, my mind starts replaying everything from work.
+
+Even scents that usually calm me, like lavender or vanilla, don’t seem to make much of a difference because those thoughts are always there waiting for me. It’s frustrating because no matter what combination of senses I try, the overwhelming feelings of inadequacy and self-doubt take over again very quickly.
+
+It feels impossible to find anything that can provide even a small break from these overwhelming thoughts. Every attempt to distract myself or find comfort ends up reinforcing how much I feel like I’ve failed and am not good enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to find any lasting relief. Have you tried focusing on very simple, repetitive tasks for a short period each day? Sometimes the act of doing something mindless can provide a brief respite.
+
+Do any small, repetitive tasks help even a little bit, like folding laundry or sorting through mail?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Focusing on simple, repetitive tasks sometimes helps briefly, but as soon as I start, my mind wanders back to work and all the mistakes I made there. For example, when I try folding laundry or sorting through mail, it might feel okay for a moment, but then those thoughts take over again.
+
+Even when I engage in these activities, my mind keeps replaying everything that went wrong at work. It’s hard to stay focused on something simple because the overwhelming feelings of inadequacy and self-doubt are always there waiting for me. No matter what repetitive task I do, it feels like those thoughts will never go away.
+
+It’s exhausting trying to find anything that can provide even a small break from these overwhelming feelings. Every attempt to distract myself or find comfort ends up reinforcing how much I feel like I’ve failed and am not good enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly draining. Have you tried very short periods of mindfulness, focusing on your breath for just a minute or two? Sometimes even brief moments of focused breathing can offer a bit of relief.
+
+Do any very brief activities help, even if only for a moment?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Focusing on my breath for just a minute or two sometimes helps briefly, but as soon as I start, my mind wanders back to work and all the mistakes I made there. Even when I try to concentrate on my breathing, it’s like there’s this constant voice in my head reminding me of everything that went wrong.
+
+It feels impossible to escape these thoughts no matter what I do. Every attempt to find even a brief moment of relief ends up reinforcing how much I feel like I’ve failed and am not good enough. Even the smallest activities or moments of mindfulness don’t seem to make a difference because those overwhelming feelings are always there waiting for me.
+
+It’s incredibly draining trying to keep going when everything inside tells me that I shouldn
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging. Have you tried talking to someone who can offer support, like a friend or family member, even if it’s just for a few minutes? Sometimes sharing your thoughts with another person can provide some relief.
+
+Do any short conversations help, even if only briefly?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Talking to friends or family members sometimes helps briefly, but as soon as we start the conversation, my mind wanders back to work and all the mistakes I made there. Even when they try to offer support and comfort, it feels hollow because deep down, I know that nothing can change how I see myself.
+
+It’s hard to believe anything different when everything inside tells me that I’ve failed and am not good enough. Every attempt to find even a brief moment of relief ends up reinforcing those overwhelming feelings. Even short conversations don’t seem to make a difference because those thoughts are always there waiting for me.
+
+It feels incredibly draining trying to keep going when every part of me is telling me to give up.
+
+----------------------------------------

@@ -1,0 +1,225 @@
+b5 — arc 5
+============================================================
+
+PATIENT (turn 1):
+I just feel so lost and unsure of myself. It’s like every time I try to move forward, this cloud of doubt hangs over me. How could they let someone with such positive reviews go? There must be something fundamentally wrong with me if my job suddenly ends without any explanation. Everyone around me tries to help, but it just doesn’t feel real. They can't understand how deep the hurt goes when you’re told your role is no longer needed and that’s it. No one even gave a reason why they chose me and not others in similar positions. It makes me question everything about myself and my abilities. How am I supposed to find another job or believe in myself when this happened?
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough, having so many questions and not getting clear answers. It’s understandable that you’d feel unsure about yourself and your future after such a sudden change. Have the people around you asked what would help, or have they mostly been offering support?
+
+----------------------------------------
+
+PATIENT (turn 2):
+They’ve tried to be supportive, but it just feels like they’re saying all the right things without really understanding how I’m feeling inside. It’s hard for them because they weren’t there when the decision was made and didn’t experience it firsthand. They can offer advice or listen, but that doesn’t change how isolated and unsure I feel about my worth as an employee and a person. Every time someone tries to help, I just want them to see how much this has shaken me up. It’s like no matter what they say, the doubt stays with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really grappling with those feelings of isolation and doubt. Have there been any moments where you felt a bit more understood or when someone’s support made a difference, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 3):
+There have been times when friends check in regularly and listen to me talk about how I’m feeling, but it never quite hits the mark of what I need. It’s like they’re trying their best, but the reality is still there—that sense of failure and not knowing why this happened to me. Even though people are supportive, it doesn’t change the core issue that something must be wrong with me for my job to end so abruptly without any clear reason. It just feels like a constant loop of questioning myself and feeling lost in all of this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to keep going through those feelings of doubt and uncertainty. Do you have anyone who checks in regularly, maybe in a way that helps you feel a bit more grounded or understood, even if it’s not completely solving the bigger questions?
+
+----------------------------------------
+
+PATIENT (turn 4):
+There are friends who check in on me, but no matter how much they try to understand, I still feel like there’s this void inside. It’s hard because every time someone tries to help, I just want them to see exactly what I’m going through and why it feels so personal. The lack of an explanation from my employer makes everything worse—I can’t shake the feeling that something must be wrong with me if they didn’t even give a reason for letting me go. It’s like no matter how much support I get, this cloud of doubt follows me everywhere.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to have that cloud of doubt following you around. Do you find any small moments where the support from friends helps ease your mind, even if just briefly? And do you think talking more about it with them might help a bit, or does it feel like they’ve heard enough already?
+
+----------------------------------------
+
+PATIENT (turn 5):
+Sometimes when I talk to my friends and they listen without judgment, it feels like there’s a tiny crack in the cloud for a moment. But as soon as we finish talking, that doubt comes rushing back. It’s hard because every time I open up about how I’m feeling, I hope for some kind of clarity or understanding, but it never quite reaches what I need. Talking about it can be exhausting too, especially when it feels like no matter how much I share, the core issue remains unresolved. It just leaves me wondering why this had to happen and if there’s something fundamentally wrong with me that led to my job ending so abruptly.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments of listening from your friends do offer some relief, even if it’s brief. Do you find any activities or things that help you feel a bit better, even if just for a little while? Sometimes doing something you enjoy can provide a small break from the doubts.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I try to do things I enjoy, like reading or going for walks, but they only offer temporary relief. As soon as I stop and think about it all again, that cloud of doubt comes back stronger than before. It’s hard because even when I’m engaged in something enjoyable, my mind keeps circling back to why this happened and what it means for me moving forward. The sense of failure and isolation is always there lurking beneath the surface, no matter how much I try to distract myself with other things.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those activities do provide some respite, even if brief. Do you have any plans or ideas for what you might want to do next, whether it’s related to work or something else that interests you? Sometimes having a goal can offer a bit of direction and hope.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve been thinking about different paths I could take, but every idea feels tainted by this doubt. It’s hard to envision myself succeeding in anything new when my last job ended so unexpectedly. Even if I find something that interests me, there’s always that voice telling me it won’t work out because something must be wrong with me. The thought of starting over and trying again just seems overwhelming right now. How can I believe in myself or any future opportunities when this recent experience has shaken everything?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s understandable to feel overwhelmed by those doubts. Have you considered talking to someone who might offer a fresh perspective, like a counselor or career coach? Sometimes hearing from another person can help validate your feelings and maybe give you some new insights.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve thought about speaking with a counselor or career coach, but the idea of opening up to yet another stranger feels daunting. I worry that they won’t understand either, just like everyone else. It’s hard to believe that talking to someone new will make a difference when it seems like no one has been able to help so far. Plus, there’s this fear that if I talk about my doubts and failures, they’ll confirm what I already feel inside—that something must be wrong with me for this to happen. It just feels like another step into the unknown where I might not find any real answers or relief.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely can feel daunting to open up to someone new. Have you thought about trying a session or two and seeing how it goes? Sometimes even a few conversations can offer some clarity or validation that might help. Would you be open to giving it a try, maybe starting with just one session to see if it feels helpful?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I’ve considered giving it a try, but the thought of going through another conversation where I have to explain everything is exhausting. It’s hard to believe that talking to someone new will make any difference when every time I share my feelings, they don’t seem to fully address what I’m going through. Even if just one session could help, there’s still this fear that it won’t change how deeply affected I am by losing my job and the lack of explanation for why it happened. It feels like no matter what I do or who I talk to, these doubts will remain.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel exhausted from explaining everything again. Have you thought about writing down your thoughts and feelings beforehand? That way, you can share them more easily without feeling as drained. Maybe starting with a written account could make the conversation feel a bit lighter for you.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Writing down my thoughts and feelings does seem like it might help me organize my mind before talking to someone new. It’s less daunting than trying to articulate everything in the moment, but I still worry that no matter what I write or say, it won’t change how deeply this has affected me. The idea of putting it all on paper feels like a step forward, but there’s still this fear that it won’t make any real difference in how I feel about myself and my situation. It just seems like another thing to try, with no guarantee of finding the validation or clarity I’m looking for.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Writing things down can be a good way to start organizing your thoughts and feelings. Even if it doesn’t solve everything right away, it might help you feel more prepared and less overwhelmed when you talk to someone new. Have you started writing yet? How does it feel so far?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ve started jotting down some of my thoughts and feelings, but it’s still difficult. Every time I write, the doubts come flooding back, making it hard to focus on anything positive or constructive. It feels like no matter how much I try to organize my thoughts, they keep circling back to why this happened and what it means for me. Writing down these feelings is a bit easier than trying to explain them verbally, but it doesn’t alleviate the sense of failure and isolation. Every word I write reinforces the idea that something must be wrong with me, making it hard to see any potential solutions or hope for the future.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like writing can be helpful even if it brings up those doubts. Have you noticed any particular thoughts or feelings that come up more often than others? Sometimes identifying patterns can provide a bit of clarity, even if it’s just a small step forward.
+
+----------------------------------------
+
+PATIENT (turn 12):
+When I write, the same questions and doubts keep coming up over and over again. Why was my role eliminated when others with similar titles were kept on? What did I do wrong that led to this abrupt end? It feels like no matter how many times I ask myself these questions, there’s no clear answer or resolution. The pattern of questioning my worth and abilities is relentless, making it hard to move past the initial shock and disappointment. Even when I try to focus on positive aspects or future possibilities, those doubts always resurface, pulling me back into this cycle of self-doubt and isolation.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s clear that these questions keep coming up consistently. Do you find any small moments where you can shift your focus away from the doubts, even if just briefly? Sometimes noticing when those positive thoughts or future possibilities arise can be a helpful step, even if they’re fleeting.
+
+----------------------------------------
+
+PATIENT (turn 13):
+There are brief moments when I try to focus on something other than the doubts, but it’s incredibly difficult to sustain that focus. For example, when I think about potential new opportunities or things I enjoy doing, those positive thoughts get overshadowed by the overwhelming sense of failure and uncertainty. It’s like no matter how hard I try to shift my attention, my mind keeps circling back to why this happened and what it means for me moving forward. Even in these fleeting moments, the doubts are never far behind, making it nearly impossible to feel any real relief or hope.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to sustain those positive moments, but even brief shifts can be helpful. Do you find that certain activities or thoughts bring about these fleeting moments more than others? Maybe focusing on what triggers those small breaks from doubt could provide a bit of insight or comfort.
+
+----------------------------------------
+
+PATIENT (turn 14):
+There are a few activities that sometimes help me feel a little better for a moment, like reading a book I enjoy or spending time in nature. When I’m immersed in something I love, it can be easier to push the doubts aside temporarily. However, as soon as I stop and reflect on my situation, those feelings of doubt and isolation come rushing back. It’s frustrating because these moments of respite are so brief and don’t provide any lasting relief.
+
+For instance, when I go for a walk in the park or read an engaging book, I can momentarily forget about everything that’s troubling me. But as soon as I finish or return home, the doubts start creeping back in, questioning why I’m even trying to enjoy myself when my career ended so abruptly without any clear reason. It feels like no matter what I do, these positive moments are just a temporary escape from an ongoing struggle.
+
+It’s hard to sustain those fleeting breaks because they’re quickly overshadowed by the overwhelming sense of failure and uncertainty about my future.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those brief moments of respite must be valuable even if they don’t last long. Do you find that reflecting on what helps you feel better, even for a short while, gives you any comfort or insights? Sometimes just acknowledging these moments can provide some relief.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Reflecting on those brief moments does offer a tiny bit of comfort, but it’s still difficult to hold onto that feeling. When I think about the activities that help me feel better—even if only for a short time—it reminds me that there are things in my life worth enjoying. But as soon as I start reflecting more deeply, the doubts and questions come flooding back.
+
+For example, when I go for a walk or read a book, it’s like stepping into another world where these worries don’t exist. Those moments feel good while they last, but the moment I step out of that activity, reality sets in again. It’s frustrating because even though I know these activities can provide temporary relief, the doubts always return with full force.
+
+It feels like no matter how much I try to focus on the positive aspects or enjoy myself, those fleeting moments are just a Band-Aid covering up a deeper wound. The sense of failure and isolation is so persistent that it’s hard to find any lasting comfort in these brief escapes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those brief moments of enjoyment are still important, even if they don’t last long. Do you think there might be value in trying to savor those moments a bit more as they happen, even if just for their temporary relief? Sometimes focusing on the small joys can provide some comfort, even if it’s not a permanent fix.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Savoring those brief moments of enjoyment does seem like it could offer some temporary relief, but it’s still challenging to fully embrace them without the doubts creeping in. When I’m engaged in an activity that brings me joy, I try to focus on how good it feels in that moment. But as soon as I start to really enjoy myself, a part of my mind is already questioning why this happiness can’t last longer or why I deserve these moments at all.
+
+It’s like there’s always this voice in the back of my head reminding me of the bigger issues and doubts. Even though I know that savoring these small joys could be beneficial, it’s hard to fully let go and enjoy them without feeling guilty or questioning their validity. The sense of failure and isolation is so ingrained that it’s difficult to separate those fleeting moments from the larger struggles.
+
+So while I can see some value in trying to savor these brief moments more fully, it feels like an uphill battle against a constant stream of doubts and questions.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like there’s a delicate balance you’re navigating between enjoying the moment and the persistent doubts. Do you find that acknowledging both—the joy and the doubts—can help you stay present in those fleeting moments? Sometimes just noticing when you’re able to enjoy something can be its own form of comfort, even if it doesn’t last long.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Acknowledging both the joy and the doubts is a challenge because they feel so intertwined. When I’m enjoying an activity, there’s this part of me that wants to fully savor it, but another part immediately starts questioning why I can enjoy something when my career ended abruptly without any explanation. It feels like no matter how much I try to focus on the positive moment, those doubts are always lurking just beneath the surface.
+
+For example, when I’m reading a book or going for a walk and feel genuinely happy, there’s this internal struggle where one part of me is reveling in that joy while another part is questioning why it feels so fleeting. It’s hard to separate these feelings because they seem to be connected at their core. The doubts make it difficult to fully embrace the moment without feeling like I’m ignoring or suppressing something important.
+
+So even though acknowledging both can provide some clarity, it also adds to the complexity of the situation. It’s a constant tug-of-war between enjoying what’s good and grappling with the persistent sense of failure and isolation.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re navigating a complex internal landscape. Do you find that talking about these moments—either in your writing or with someone close to you—helps you process them more? Sometimes putting words to those intertwined feelings can provide some relief, even if it doesn’t solve everything.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Talking about these moments does help me process them a bit, but the relief is often short-lived. When I write down my thoughts or talk to someone close to me, there’s this initial sense of release as I get things off my chest. However, as soon as we finish talking or I stop writing, those doubts and questions come rushing back with full force.
+
+It feels like no matter how much I articulate what I’m going through, the core issues remain unresolved. The process of putting words to these intertwined feelings can be helpful in a moment, but it doesn’t provide any lasting relief from the persistent sense of failure and isolation. Every time I try to express myself more fully, there’s still this nagging voice telling me that something must be wrong with me for my job to end so abruptly without any clear reason.
+
+So while talking about these moments does offer some temporary comfort, it doesn’t address the deeper doubts and questions that continue to plague me. It’s a frustrating cycle where I feel like I’m constantly trying to find ways to process what happened but can’t seem to break free from those persistent feelings of self-doubt.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like expressing your thoughts helps, even if it’s just for a moment. Do you find that revisiting what you’ve written or discussed later on offers any additional comfort? Sometimes looking back at how you processed something can provide further clarity or validation.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Revisiting what I’ve written or discussed later on doesn’t offer much additional comfort either. When I look back at my notes or remember conversations, it’s like reliving the moment of relief and then immediately feeling the doubts resurface again. It feels as though no matter how many times I process these thoughts, they remain unresolved.
+
+For instance, when I read over what I’ve written about enjoying a walk in the park or talking to a friend who tried to understand my feelings, it’s like the initial sense of relief comes back for a moment, but then the doubts and questions return just as quickly. It’s hard to find any lasting validation because every time I revisit these moments, they don’t provide the clarity or comfort I’m looking for.
+
+It feels like no matter how much I try to process my thoughts and feelings, those persistent doubts continue to overshadow everything else. The sense of failure and isolation remains deeply ingrained, making it difficult to find any real relief or validation in revisiting what I’ve written or discussed.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging to have the doubts resurface every time you revisit your thoughts. Do you find that sharing your writings with someone who listens regularly—like a close friend or family member—brings any additional comfort, even if it’s just for those moments? Sometimes having another person validate what you’ve written can provide some relief.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Sharing my writings with someone who listens regularly does offer some momentary comfort, but the doubts always come back soon after. When I share what I’ve written with a close friend or family member, they often respond with empathy and understanding, which feels good in that moment. However, as soon as we finish talking, those persistent questions and feelings of failure resurface.
+
+It’s like no matter how much support and validation I receive from others, the core issues remain unresolved. The doubts and isolation are so deeply rooted that even when someone acknowledges my feelings, it doesn’t provide any lasting relief. Every time I share my thoughts and get a supportive response, there’s still this nagging voice telling me that something must be wrong with me for my job to end abruptly without explanation.
+
+So while sharing what I’ve written does offer some brief comfort, the doubts continue to plague me afterward. It feels like no matter how much validation or support I receive, those persistent feelings of self-doubt and isolation remain unaddressed.
+
+----------------------------------------

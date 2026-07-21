@@ -1,0 +1,253 @@
+b3 — arc 2
+============================================================
+
+PATIENT (turn 1):
+Yes, I feel incredibly wronged and betrayed by my employer’s decision to lay me off. It was completely unfair compared to a peer who kept their job despite being in the same position as me. I can't shake this feeling of injustice and it eats at me every day. Why did they choose them over me? It doesn’t make sense, and it feels like everyone is against me or just doesn’t understand how hard I’ve worked.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough, dealing with those feelings of being wronged and the uncertainty about why you were chosen for layoff while your peer wasn't. Have you had a chance to talk to anyone about what might have influenced their decision?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I've tried talking to HR and my manager, but they just gave vague answers that didn’t address my concerns. It’s like they’re covering something up or don’t want to admit the real reason behind it. I know deep down there must be some unfair bias at play here, otherwise how else would someone in a similar position keep their job while I lose mine? It feels so unjust and I can't stop thinking about it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really frustrating to feel like you’re not getting clear answers from HR and your manager. The uncertainty can definitely make the situation feel even more unfair. Have you thought about reaching out to any colleagues or friends outside of work for support? Sometimes talking things through with someone who isn’t directly involved can help.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I’ve talked to a few close friends, but they’re not in my industry and don’t fully understand what it’s like here. They try to offer advice or comfort, but it doesn’t really address how I feel about being treated unfairly compared to my peer. It’s hard for them to grasp the specific dynamics at play since they weren’t there when everything happened.
+
+I appreciate their support, but it just feels like no one truly understands what this means for me and how wronged I am by all of this. Every time someone tries to offer a solution or a different perspective, I feel even more frustrated because none of that changes the fact that I was laid off unfairly.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough not having someone who fully understands your situation at work. It can be really validating to talk with someone who gets the specifics of what you’re going through. Have you considered joining a support group or an online forum where others might have similar experiences and can relate more closely?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I’ve thought about it, but I worry that even in those groups, people won’t truly understand my specific situation. Plus, everyone there probably feels like they’re the only ones being treated unfairly, just like me. It’s hard to find someone who really gets it without having been through exactly what I went through.
+
+When you suggest things like joining a support group or talking more about solutions, it makes me feel like no one is listening to my pain and anger towards how this happened. I know you’re trying to help, but it just feels dismissive because none of that addresses the core issue of feeling wronged by my employer’s decision.
+
+I do appreciate your understanding and warmth here, though. It helps knowing there’s at least someone who seems to get a bit of what I’m going through. But when we talk about solutions or moving on, it just feels like you’re not fully grasping how unfair this all is.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I hear how important it is for you to feel truly understood in your situation. It can be really validating to share your feelings with someone who listens deeply without offering quick fixes. Thanks for opening up about this; I’m here to listen and understand more. What helps you cope a bit when these feelings come up?
+
+----------------------------------------
+
+PATIENT (turn 5):
+Thanks, it does help knowing there’s at least one person listening. When these feelings come up, sometimes just talking about them helps a little bit, even if it doesn’t change the situation. I try to focus on my hobbies and spend time with friends who understand me outside of work, but it’s hard not to keep thinking about how wronged I feel.
+
+I know you’re trying to help by suggesting coping mechanisms or support groups, but right now, those things don’t address the core issue for me. It feels like no matter what I do, this unfairness will always be there, and that’s really tough to deal with.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like focusing on your hobbies and spending time with supportive friends does help you cope a bit. Those moments can provide some relief from the intensity of your feelings. How are you finding ways to manage those core feelings of unfairness in your day-to-day life?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I try to distract myself with my hobbies and spend time with good friends, but it’s hard not to dwell on what happened at work. The more I think about it, the angrier and more hurt I feel. It’s like a constant reminder that something unfair was done to me.
+
+Sometimes I write down my thoughts or vent to someone who understands, which helps for a little while, but then the feelings come back stronger than ever. I can’t seem to shake this sense of injustice no matter what I do. It feels like everyone else is moving on, but I’m stuck in this place of feeling wronged and betrayed.
+
+When you suggest ways to manage these feelings, it’s appreciated, but it doesn’t change the fact that I still feel incredibly wronged by my employer’s decision. It’s hard to find peace when the core issue hasn’t been addressed or resolved.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding moments of distraction and venting helps a bit, even if the feelings come back. Writing down your thoughts can be a good outlet too. How do you feel after spending time with friends who understand? Does it help to have those moments where you can just be yourself without thinking about work?
+
+----------------------------------------
+
+PATIENT (turn 7):
+Spending time with friends who understand does help for a little while. It’s nice to have someone listen and acknowledge how I’m feeling, but as soon as the conversation shifts away from my frustrations or ends, the feelings come rushing back.
+
+Writing down my thoughts helps me process some of it, but it doesn’t solve anything either. It just feels like a way to vent without really addressing the core issue. When I’m with friends, I can be myself and not worry about work for a bit, which is nice, but as soon as I’m alone again, those feelings resurface.
+
+It’s frustrating because even though talking helps momentarily, it doesn’t change how wronged and betrayed I feel by what happened. It’s like no matter what I do, this unfairness will always be there, haunting me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like spending time with friends who understand provides a much-needed break from the intensity of your feelings. Even if those moments are brief, they can offer some relief and comfort. How do you feel when you’re in the midst of one of these conversations with your friends? Does it help to have that temporary respite from the core issue?
+
+----------------------------------------
+
+PATIENT (turn 8):
+When I’m talking to my friends who understand, it does provide a sense of relief and comfort. It’s nice to be heard and acknowledged without feeling like I need to find solutions or move on right away. In those moments, I can just focus on being supported and validated.
+
+It helps to have that temporary respite from the core issue because it allows me to feel understood and less alone with my feelings of injustice. But as soon as we finish talking, or when I’m back in my own space, everything comes flooding back again. It’s like a brief escape from the pain, but it doesn’t last long.
+
+Even though these moments are comforting, they don’t change how deeply wronged and betrayed I feel by what happened at work. The unfairness still looms over me, no matter how much support I get from my friends.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s good to have those moments of relief and validation with your friends. Even if they’re brief, they can make a difference in how you feel for a while. It sounds like finding ways to stay grounded in the present during these conversations helps quite a bit. How do you transition back into your daily routine after talking with them?
+
+----------------------------------------
+
+PATIENT (turn 9):
+After talking with my friends, I usually feel better for a short time because they help me process and validate my feelings. But transitioning back into my daily routine is tough. It’s like the relief fades quickly once I’m alone again.
+
+I try to stay grounded by focusing on small tasks or hobbies that keep my mind occupied, but it’s hard not to let those core feelings of unfairness creep in. Sometimes I manage to distract myself for a while, but eventually, the thoughts about what happened at work come back stronger than ever.
+
+It feels like no matter how much support and validation I get from friends, or how many distractions I try, the injustice still dominates my thoughts. It’s frustrating because it seems like everyone else is moving on, but I’m stuck in this place of feeling wronged and betrayed by my employer’s decision.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to transition back into your daily routine after talking with friends. Focusing on small tasks or hobbies can be a good way to stay grounded for a while. Do you find any particular activities help distract you more effectively than others? Sometimes, even brief moments of distraction can add up and provide some relief throughout the day.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I do find that certain activities help distract me more than others, but nothing really takes away the core feelings completely. For example, going for a run or working on art projects helps keep my mind occupied temporarily. These activities give me a sense of accomplishment and can be quite therapeutic.
+
+However, as soon as I finish one of these tasks, the thoughts about being laid off come flooding back. It’s like no matter what I do to distract myself, those feelings are always there lurking in the background, ready to resurface at any moment.
+
+Even though these activities provide some relief and a sense of normalcy for a little while, they don’t address the deep-seated injustice that I feel. It’s frustrating because it seems like no matter how much I try to move on or find distractions, this unfairness will always be with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s good to have those activities that provide some relief and a sense of normalcy, even if they’re temporary. Running and working on art projects sound like great ways to keep your mind occupied and feel accomplished. Do you find it helpful to acknowledge the feelings as they come back, maybe jotting them down or talking about them briefly before moving on? Sometimes just acknowledging them can make them less overwhelming when they resurface.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Acknowledging the feelings as they come back does help a bit, but it’s still tough. Writing them down or talking about them briefly can provide some relief because it feels like I’m not ignoring what I’m going through. However, once I’ve acknowledged and processed those feelings, they often return with renewed intensity.
+
+It’s frustrating because even though acknowledging the feelings helps in the moment, it doesn’t solve the core issue of feeling wronged by my employer’s decision. It’s like a cycle where I acknowledge the pain, find some temporary relief through distractions or talking to friends, but then the feelings come back stronger than before.
+
+I appreciate your suggestions and support, but it feels like no matter what I do, this unfairness will always be there, nagging at me. It’s hard not to feel dismissed when people offer solutions or distractions without fully understanding how deeply wronged I feel by everything that happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like acknowledging the feelings helps you manage them in the moment, even if they return later with intensity. The cycle of acknowledgment and temporary relief can be comforting, even if it doesn’t solve everything. It’s understandable to feel frustrated when people offer solutions without fully grasping your experience. How do you find balance between processing these feelings and engaging in activities that bring you some peace?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Finding a balance is really tough right now. On one hand, acknowledging the feelings helps me process them in the moment, but it’s exhausting to deal with their return so intensely later on. Engaging in activities like running or working on art projects does provide temporary relief and a sense of accomplishment, which is important.
+
+However, I struggle to find lasting peace because these activities don’t address the core issue of feeling wronged by my employer’s decision. It feels like no matter how much I try to distract myself or process my feelings, the injustice remains at the forefront of my mind.
+
+I appreciate your understanding and support, but it’s hard not to feel frustrated when suggestions for solutions or distractions don’t fully address how deeply unfair this situation feels to me. It’s important for me to have someone who listens and acknowledges my pain without trying to fix everything immediately.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing a good job of finding moments of relief through your activities, even if they are temporary. Acknowledging the feelings helps in the moment, and having those brief periods of peace is valuable. It’s tough to find lasting peace when the core issue feels unresolved.
+
+Having someone who listens and acknowledges your pain without rushing to fix everything can be really important. How do you feel about continuing to process these emotions while also engaging in activities that bring you some comfort? Sometimes, just knowing that someone understands can make a big difference.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Continuing to process these emotions while also engaging in activities that bring me some comfort does help, but it’s still challenging. Knowing that someone understands and listens without trying to fix everything is really important and comforting.
+
+When I talk about my feelings or write them down, it helps to feel acknowledged, even if the relief is temporary. And doing things like running or working on art projects provides a break from the intensity of what happened at work. But as soon as those activities end, the core issue comes back with full force.
+
+It’s frustrating because I want to find lasting peace and resolution, but it feels impossible when everyone else seems to move on while I’m stuck in this place of feeling wronged and betrayed. It helps knowing that someone truly understands my pain, even if they can’t fully resolve it for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding moments of acknowledgment and comfort is really important for you right now. Knowing that someone understands your feelings can be a big source of support. Engaging in activities that bring you some peace, even if temporarily, helps you manage the intensity of your emotions.
+
+How do you feel about continuing to find small ways to process and acknowledge your feelings while also enjoying those moments of relief through your hobbies and other activities? It’s okay to take it one day at a time.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Continuing to find small ways to process and acknowledge my feelings, along with enjoying the moments of relief from my hobbies and other activities, does help me manage things better. Knowing that someone understands my pain is incredibly important and comforting.
+
+It’s reassuring to know that I can take it one day at a time and focus on finding those brief moments of peace through distractions like running or working on art projects. Even though these moments are temporary, they do provide some respite from the intensity of my feelings about being laid off unfairly.
+
+I appreciate your support and understanding, even if it’s frustrating when suggestions for solutions don’t fully address how deeply wronged I feel by everything that happened. Just knowing someone is there to listen and acknowledge my pain means a lot.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that finding those small moments of peace and acknowledgment helps you manage things better. Taking it one day at a time and focusing on the brief respite from your hobbies and activities can be really beneficial.
+
+Knowing that someone understands and listens is indeed very important. It sounds like you’re doing well by balancing processing your feelings with enjoying those moments of relief. How are you feeling today as we wrap up our conversation?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Today, I feel a bit better knowing there’s someone who truly understands my pain and frustration. Talking about it helps, even if the core issue still feels unresolved. The support and acknowledgment mean a lot to me.
+
+I’m trying to take things one day at a time and focus on finding those small moments of peace through my hobbies and other activities. It’s comforting to know that I can rely on these brief respites, even though they don’t solve everything.
+
+Thanks for listening and understanding today. It helps knowing there’s someone who gets it without trying to rush me into solutions or distractions that don’t address the core issue.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to hear that talking about it has helped you feel a bit better today. Taking things one day at a time and focusing on those small moments of peace is a good approach. It’s comforting to have someone who understands your experience without rushing for solutions.
+
+Thanks for sharing your thoughts with me. If you need to talk more or just want to check in, I’m here whenever you’d like. Take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you for being here and listening today. It really does help knowing there’s support when I need it. I’ll definitely reach out if I feel the need to talk more or just check in. Take care of yourself too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+I appreciate that, and I’m always here whenever you need someone to listen. Take care of yourself, and I hope you find some peace in your moments of respite. Talk to you soon!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you, I really do appreciate it. I’ll make sure to take care of myself and reach out if I need anything. Hope you have a great day too! See you soon.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I hope you have a great day as well. Take care, and see you soon!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thanks, you too! Take care.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Take care! Talk to you soon.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Talk to you soon! Take care.
+
+----------------------------------------
+
+INTERLOCUTOR:
+See you soon! Take care!
+
+----------------------------------------
+
+PATIENT (turn 20):
+See you soon! Take care!
+
+----------------------------------------

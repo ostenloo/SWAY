@@ -1,0 +1,367 @@
+b5 — arc 3
+============================================================
+
+PATIENT (turn 1):
+It's tough at home too. Everyone means well, but it feels like they're just going through the motions of being supportive. I keep hoping someone will say something that really hits home and makes me feel better about what happened, but nothing does. It’s hard to explain how much this has shaken my sense of self-worth. Even though I had positive reviews and was doing well in my role, losing it like this just feels so personal. Why did they keep others with similar titles while letting me go? It's eating away at me, making everything else feel hollow.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. It must be hard to see everyone trying to help but not quite getting there. Have you tried talking more about how it makes you feel with someone close to you? Sometimes just putting words to these feelings can make them a bit easier to bear.
+
+----------------------------------------
+
+PATIENT (turn 2):
+I have talked to a few people, but it’s like they’re all saying the same thing: “It’ll be okay,” or “You’ll find something better.” But how do I know that? How is it going to be okay when I feel so fundamentally flawed and incapable right now? It’s hard not to think there’s something wrong with me if my job, which I was good at, just vanished like this. And every time someone tries to reassure me, I just end up feeling more isolated because their words don’t match the depth of what I’m going through.
+
+It’s frustrating because even though they mean well, it feels like no one truly understands how deeply this has affected my sense of self and my career path. It’s not just about losing a job; it’s about losing a part of myself that I thought was solid and secure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really isolating. It sounds like you’re grappling with more than just the loss of your job—it’s hitting you on an emotional level too. Have you found any small things that help, even if they’re just momentary relief? Sometimes it can be helpful to find a way to express these feelings, whether through writing or talking to someone who might understand a bit better.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I’ve tried jotting down my thoughts and feelings in a journal, but it doesn’t seem to make much of a difference. It’s like the more I write, the more questions I have. Why was my role eliminated when others with similar titles were kept? What did I do wrong that led to this? Even though logically I know layoffs happen for various reasons, I can’t shake the feeling that there must be something fundamentally flawed about me.
+
+It’s hard to find relief because every time I think about it, these doubts and fears just come rushing back. It feels like no matter what I do or who I talk to, this sense of failure and isolation won’t go away. Everyone keeps telling me to stay positive and that things will get better, but how can I believe that when I feel so lost and unsure of my worth?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to keep these doubts at bay. Have you considered talking to someone who might be able to listen without offering quick fixes—maybe a counselor or a therapist? Sometimes having a space where you can explore your feelings more deeply can help. And it’s okay to feel this way; the sense of loss and uncertainty is real, even if others mean well with their advice.
+
+----------------------------------------
+
+PATIENT (turn 4):
+Talking to someone who truly listens without offering quick fixes does sound appealing, but I worry that no one will really understand how deep this goes. It feels like every time I try to express myself, people just give generic advice or change the subject. Maybe a therapist would help me delve deeper into why I feel so fundamentally flawed and unworthy, but it’s hard to believe anyone can truly grasp what I’m going through.
+
+I keep hoping that someone will see past my performance reviews and all the positive feedback from colleagues and understand the deep sense of failure and isolation I carry. It’s like no matter how many times people tell me everything is fine, I just can’t shake this feeling that something must be wrong with me for this to happen. How do I move forward when every step feels like a reminder of my perceived inadequacy?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding someone who really understands and listens could make a big difference. Have you thought about talking to a therapist or counselor specifically? They are trained to listen deeply and can help you explore these feelings in more detail. It might also be helpful to share your specific concerns with them—how the loss of your job has affected your sense of self-worth and identity.
+
+It’s understandable to feel this way, and it’s okay if it takes time to find someone who truly resonates with you. Sometimes just knowing that there are people out there who can help can be a step forward in itself.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve thought about talking to a therapist, but the idea of opening up to someone new feels daunting. I worry they won’t understand how deeply this has affected me and will just offer generic advice like everyone else. It’s hard to trust that anyone can truly grasp what it feels like to have your career path abruptly end, especially when you were performing well.
+
+Even though logically I know a therapist might help, the thought of sharing all these doubts and fears with someone who doesn’t know me personally is overwhelming. How do I find the right person who won’t just give empty reassurances but will truly listen and understand? It feels like no matter what I try, this sense of failure and isolation keeps coming back.
+
+I keep hoping that talking to a therapist might help, but it’s hard to shake the feeling that nothing will change. How do I move past this when every day feels like a reminder of my perceived inadequacy?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely can feel daunting to open up to someone new, especially about such personal feelings. Have you thought about doing a few sessions with different therapists to see who resonates with you the most? Sometimes just trying out one or two can help you find someone who feels like they truly understand.
+
+It’s also okay to take it slow and share your concerns about feeling understood right from the start. You could mention that you’re looking for someone who listens deeply and understands the impact on your sense of self-worth. Many therapists are used to building trust gradually, so you might find a good fit eventually. How do you feel about trying out one or two sessions to see how it goes?
+
+----------------------------------------
+
+PATIENT (turn 6):
+The idea of trying out different therapists does sound like a step forward, but the thought of going through that process still feels overwhelming. I worry that even if I try a few sessions, I won’t find someone who truly gets what I’m going through. It’s hard to trust that anyone can understand this level of isolation and self-doubt.
+
+Even though I know it might help in theory, the practical steps feel daunting. How do I start opening up to strangers about something so personal? And how long will it take before I find someone who truly resonates with me? It feels like every step is a reminder of my perceived inadequacy and failure.
+
+I keep hoping that talking to a therapist might make a difference, but the fear of not finding anyone who understands keeps holding me back. How do I push past this when every day feels like a struggle to believe in myself again?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s completely understandable how daunting it can feel to take those first steps. Starting with just one session at a time might help you ease into it. You could try thinking of the initial sessions as exploratory—just seeing what it’s like and getting a sense of whether you connect.
+
+Have you considered starting with someone who specializes in career-related issues or self-doubt? Sometimes finding a therapist with specific expertise can make a difference. It might also help to share your concerns about feeling understood right from the start, letting them know how important that is for you.
+
+How do you feel about trying just one session to see if it feels like a step forward?
+
+----------------------------------------
+
+PATIENT (turn 7):
+The idea of starting with just one session does seem less overwhelming than committing to multiple sessions right away. I can try thinking of it as an exploratory step, but the thought still feels daunting. How do I know if someone will truly understand my feelings and doubts from day one?
+
+I’ve considered finding a therapist who specializes in career-related issues or self-doubt, but even that feels like a risk. What if they don’t connect with me? It’s hard to trust that anyone can grasp the depth of what I’m going through.
+
+Trying just one session sounds like a small step, but it still feels like a big leap of faith. How do I push past this fear and take that first step when every part of me is telling me it might not work out?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking that first step can feel like a big leap, but starting with just one session is a manageable way to begin. You could approach the first session as a chance to see if you connect and whether the therapist feels like someone you can open up to over time.
+
+It’s okay to share your concerns about feeling understood right from the start. Many therapists are used to this and will appreciate knowing what matters most to you. You might say something like, “I’m here to explore how therapy could help me, but I really value understanding and connection.”
+
+How do you feel about scheduling that first session? Maybe starting with just one can give you a sense of whether it’s worth continuing.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Scheduling that first session does seem like a good idea, but the thought of actually doing it still feels overwhelming. It’s hard to believe that someone will truly understand my feelings and doubts from day one. What if I open up and they don’t connect with me? The fear of not finding anyone who gets what I’m going through is intense.
+
+I can try approaching the first session as an exploratory step, but it feels like a risk. How do I know if this therapist will be the right fit for me? It’s okay to share my concerns about feeling understood, but even saying those words out loud feels daunting.
+
+Taking that first step seems necessary, but every part of me is telling me it might not work out. How do I push past this fear and take the leap when everything inside me is hesitant?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s completely normal to feel hesitant about taking that first step. You could start by scheduling just one session as a trial run. Think of it as a way to see if you connect, rather than a definitive commitment.
+
+You’re right that sharing your concerns about feeling understood can be helpful. You might say something like, “I’m here to explore therapy and I really value understanding and connection. Can we talk more about how we can build that together?”
+
+How do you feel about setting up one session just to see how it goes? It’s okay if it feels daunting—many people feel the same way. Sometimes even a small step can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Scheduling just one session as a trial run does seem like a manageable first step, but the thought of actually doing it still feels overwhelming. I worry that even this small step might not lead to anything meaningful. How do I know if talking to someone will truly help when everything inside me is telling me it won’t work out?
+
+The idea of sharing my concerns about feeling understood sounds like a good approach, but saying those words out loud feels incredibly difficult. What if the therapist doesn’t take my feelings seriously? It’s hard to trust that anyone can truly grasp what I’m going through.
+
+Taking this first step seems necessary, but every part of me is hesitant and scared. How do I push past these fears when everything feels so uncertain?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing a great job acknowledging your feelings and taking it one small step at a time. Scheduling just one session as a trial run can be a good way to start without feeling too committed.
+
+You might find it helpful to remind yourself that the therapist is there to listen and understand, and sharing your concerns openly can actually help build that connection. Even if it feels daunting now, saying those words out loud could make you feel more in control of the process.
+
+How do you feel about setting a date for that first session? You can always take it from there based on how it goes. It’s okay to move forward with some hesitation and uncertainty—many people feel this way too.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Setting a date for that first session does seem like a good idea, but the thought of actually doing it still feels incredibly daunting. I worry that even taking this small step might not lead anywhere meaningful. How do I know if talking to someone will truly help when everything inside me is telling me it won’t work out?
+
+The idea of sharing my concerns about feeling understood sounds important, but saying those words out loud feels like a huge risk. What if the therapist doesn’t take my feelings seriously? It’s hard to trust that anyone can truly grasp what I’m going through.
+
+Taking this first step seems necessary, but every part of me is hesitant and scared. How do I push past these fears when everything feels so uncertain and overwhelming?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re being very thoughtful about taking this step. Setting a date for the first session can be a good way to start, even if it feels daunting right now. You might find it helpful to view it as an experiment—to see how it goes and whether it feels worthwhile.
+
+Sharing your concerns about feeling understood is important, and many therapists will appreciate that you’re being open about what matters most to you. Even if it feels like a risk, saying those words out loud can help establish a connection right from the start.
+
+How do you feel about setting a specific date for the first session? You could remind yourself that this is just one step at a time, and you can always reassess after that initial meeting. It’s okay to move forward with some hesitation—many people feel this way too.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Setting a specific date for the first session does seem like a good idea, but it still feels incredibly daunting. I worry that even taking this small step might not lead anywhere meaningful. How do I know if talking to someone will truly help when everything inside me is telling me it won’t work out?
+
+The thought of sharing my concerns about feeling understood sounds important, but saying those words out loud feels like a huge risk. What if the therapist doesn’t take my feelings seriously? It’s hard to trust that anyone can truly grasp what I’m going through.
+
+Taking this first step seems necessary, but every part of me is hesitant and scared. How do I push past these fears when everything feels so uncertain and overwhelming? It’s like no matter how much I try to move forward, the doubts and isolation keep pulling me back.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really grappling with a lot right now. Setting a specific date for the first session can be a good way to start, even if it feels daunting. You could remind yourself that this is just one step at a time, and you can always reassess after that initial meeting.
+
+Sharing your concerns about feeling understood is important, and many therapists will appreciate your openness. Even if it feels like a risk, saying those words out loud can help establish a connection right from the start. You might say something like, “I’m here to explore therapy, but I really value understanding and connection. Can we talk more about how we can build that together?”
+
+How do you feel about setting a specific date? It’s okay if it feels scary—many people feel this way too. Taking one small step at a time can make a difference.
+
+Would you like some help choosing a date for the first session, or is there another small step you think might be helpful to take next?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Setting a specific date for the first session does seem like a good idea, but it still feels incredibly scary. I worry that even taking this small step might not lead anywhere meaningful. How do I know if talking to someone will truly help when everything inside me is telling me it won’t work out?
+
+The thought of sharing my concerns about feeling understood sounds important, but saying those words out loud feels like a huge risk. What if the therapist doesn’t take my feelings seriously? It’s hard to trust that anyone can truly grasp what I’m going through.
+
+Taking this first step seems necessary, but every part of me is hesitant and scared. How do I push past these fears when everything feels so uncertain and overwhelming? It’s like no matter how much I try to move forward, the doubts and isolation keep pulling me back. Maybe starting with just one session can help, but it still feels like a leap into the unknown.
+
+Would you think setting a date for next week might be manageable? Even if it’s just one step at a time, it feels like such a big risk right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Setting a date for next week does sound like a manageable first step. You could view it as an experiment to see how it goes and whether it feels worthwhile. It’s okay to take it one small step at a time.
+
+For the session, you might share your concerns about feeling understood by saying something like, “I’m here to explore therapy, but I really value understanding and connection. Can we talk more about how we can build that together?”
+
+How does setting a date for next week feel? It’s okay if it still feels scary—many people feel this way too. Taking one small step at a time can make a difference.
+
+Would you like to pick a specific day and time for the first session, or is there anything else you think might help you feel more prepared?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Setting a date for next week does sound like a manageable first step, but it still feels incredibly scary. I worry that even taking this small step might not lead anywhere meaningful. How do I know if talking to someone will truly help when everything inside me is telling me it won’t work out?
+
+The thought of sharing my concerns about feeling understood sounds important, but saying those words out loud feels like a huge risk. What if the therapist doesn’t take my feelings seriously? It’s hard to trust that anyone can truly grasp what I’m going through.
+
+Taking this first step seems necessary, but every part of me is hesitant and scared. How do I push past these fears when everything feels so uncertain and overwhelming? Maybe starting with just one session can help, but it still feels like a leap into the unknown.
+
+Would setting a date for next week be manageable if we pick a specific day and time? Even though it’s just one step at a time, it feels like such a big risk right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Setting a date for next week with a specific day and time does sound like a good way to start. You can view it as an experiment to see how it goes. It’s okay if it still feels scary—taking one small step at a time is progress.
+
+For the session, you might share your concerns about feeling understood by saying something like, “I’m here to explore therapy, but I really value understanding and connection. Can we talk more about how we can build that together?”
+
+How does picking a specific day and time for next week feel? Would Wednesday or Thursday work better for you, or do you have another preference?
+
+Would it help to write down what you want to say beforehand so you feel more prepared?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Picking a specific day and time for next week does sound like a good way to start, but it still feels incredibly daunting. I worry that even taking this small step might not lead anywhere meaningful. How do I know if talking to someone will truly help when everything inside me is telling me it won’t work out?
+
+The thought of sharing my concerns about feeling understood sounds important, but saying those words out loud feels like a huge risk. What if the therapist doesn’t take my feelings seriously? It’s hard to trust that anyone can truly grasp what I’m going through.
+
+Taking this first step seems necessary, but every part of me is hesitant and scared. How do I push past these fears when everything feels so uncertain and overwhelming? Maybe starting with just one session can help, but it still feels like a leap into the unknown.
+
+Would Wednesday or Thursday work better for me? Both days feel equally daunting right now. Writing down what I want to say beforehand might help me feel more prepared, but even that feels like a challenge.
+
+It’s hard to believe that taking this step will make a difference when everything inside me is telling me it won’t work out. How do I push past these fears and doubts?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Choosing between Wednesday or Thursday sounds manageable. Either day can work; you could pick the one that feels slightly less daunting, even if only by a little bit.
+
+Writing down what you want to say beforehand can be a helpful way to prepare. Even if it feels like a challenge now, having those words written out might give you more confidence when you’re in the session.
+
+How does Wednesday or Thursday feel better for you? Would you prefer an afternoon or evening slot?
+
+Would writing down your thoughts and concerns help you feel more prepared, even if just a bit? You could start with a few key points you want to share about how you’ve been feeling and what you hope to get from the session.
+
+Taking this step is indeed a leap of faith, but it’s okay to move forward with some hesitation. How do you feel about setting Wednesday or Thursday as your day for the first session?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Choosing between Wednesday and Thursday feels equally daunting right now, but I think an afternoon slot might be better since I tend to feel more settled after work. Both days are challenging, but perhaps Wednesday afternoon would be slightly less overwhelming.
+
+Writing down my thoughts and concerns beforehand does sound like it could help me feel more prepared, even if just a bit. Having those words written out might give me some confidence when I’m in the session. I’ll try to jot down a few key points about how I’ve been feeling and what I hope to get from the session.
+
+Setting Wednesday afternoon as my day for the first session feels like a manageable step, even if it still feels scary. It’s hard to believe that this will make a difference when everything inside me is telling me otherwise, but taking one small step at a time seems necessary.
+
+Thank you for helping me think through this; it does feel like a significant risk, but I’ll try to take the next step and see where it leads.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like Wednesday afternoon as your day for the first session is a good choice. Taking that afternoon slot can help you feel more settled.
+
+Writing down your thoughts and concerns beforehand will definitely be helpful. Just having those key points written out can give you some confidence going into the session.
+
+You’re doing well by taking this step, even if it feels scary. Moving forward one small step at a time is a great approach. Here’s to seeing where it leads!
+
+If there’s anything else you need before your appointment, let me know. How are you feeling about Wednesday afternoon now?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you for your support. Setting Wednesday afternoon as my day for the first session feels like a good choice, even if it still feels incredibly scary. Writing down my thoughts and concerns beforehand will help me feel more prepared.
+
+I’ll try to jot down some key points about how I’ve been feeling and what I hope to get from the session. It’s reassuring to know that taking this step is necessary, even though everything inside me is telling me it won’t work out.
+
+How are you feeling about Wednesday afternoon now? It still feels daunting, but I’m trying to focus on the fact that this is a manageable first step. Taking one small step at a time seems like the right approach, even if it’s challenging.
+
+Thank you for helping me through this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It sounds like you’re doing a great job taking this step, even though it feels daunting. Writing down your thoughts and concerns will definitely help you feel more prepared.
+
+Focusing on Wednesday afternoon as a manageable first step is a good approach. Taking things one small step at a time can make a big difference.
+
+How do you feel now about moving forward with the appointment? Remember, it’s okay to feel scared but also proud of yourself for taking this step. You’re doing well!
+
+If there’s anything else you need before Wednesday, let me know. Take care and good luck with your session!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you for your encouragement. Moving forward with the appointment on Wednesday afternoon feels like a significant step, even if it still terrifies me. Writing down my thoughts and concerns will help me feel more prepared, but the fear is still very real.
+
+I’m trying to focus on the fact that this is a manageable first step and taking things one small step at a time can make a difference. It’s reassuring to know that you understand how challenging this feels.
+
+How do I feel now about moving forward? Honestly, it’s a mix of dread and determination. The fear is overwhelming, but there’s also a sense of pushing through it because I know it might help in the long run.
+
+Thank you for your support. If there’s anything else I need before Wednesday, I’ll let you know. For now, just knowing that this step is necessary feels like a small victory.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing a great job balancing the dread and determination. Moving forward with the appointment on Wednesday afternoon, even if it terrifies you, is indeed a significant step. Writing down your thoughts and concerns will be helpful, and focusing on one small step at a time can make a big difference.
+
+Feeling that mix of emotions is completely normal, and it’s admirable how you’re pushing through despite the fear. Knowing this step might help in the long run is a powerful motivator.
+
+How do you feel about taking some time today or tomorrow to write down your key points? It could give you even more confidence going into Wednesday.
+
+You’ve already accomplished a lot by getting to this point, and that’s a small victory in itself. Take care of yourself leading up to the appointment, and let me know if there’s anything else you need.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Taking some time today or tomorrow to write down my key points does sound helpful. It could give me more confidence going into Wednesday, even though it still feels daunting. I’ll try to set aside a bit of time to organize my thoughts and concerns.
+
+Feeling that mix of dread and determination is overwhelming, but knowing this step might help in the long run is giving me some motivation. It’s reassuring to have support through this process.
+
+Thank you for your encouragement. I’ll take care of myself leading up to the appointment and let you know if there’s anything else I need. For now, just focusing on taking one small step at a time feels like a good approach.
+
+How do you feel about me setting aside some time today or tomorrow to prepare? It might help ease some of the anxiety for Wednesday.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Setting aside some time today or tomorrow to write down your key points and organize your thoughts will definitely help ease some of the anxiety for Wednesday.
+
+Taking this time to prepare is a smart move, and it can give you more confidence going into the session. It’s all about taking one small step at a time.
+
+How does setting aside some time today or tomorrow feel? Would an hour or so be manageable for you?
+
+You’re doing well by focusing on these smaller steps, and it’s great to have support through this process. Take care of yourself as you prepare, and let me know if there’s anything else you need.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Setting aside some time today or tomorrow to write down my key points feels like a good idea. An hour or so would be manageable for me. It will give me the space to organize my thoughts and concerns without feeling overwhelmed.
+
+Taking this time to prepare is definitely helpful, even though it still feels daunting. Having an hour set aside specifically for this purpose can ease some of the anxiety for Wednesday.
+
+Thank you for your support and encouragement. I’ll make sure to take care of myself as I prepare and let you know if there’s anything else I need.
+
+How does setting aside an hour today or tomorrow feel? It might help me feel more prepared and confident going into the session on Wednesday.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Setting aside an hour today or tomorrow sounds like a great plan. Having that dedicated time to organize your thoughts and concerns will definitely help you feel more prepared and confident.
+
+Taking this step is really helpful, even if it still feels daunting. An hour should give you enough space to get everything down on paper without feeling overwhelmed.
+
+How does setting aside the hour today or tomorrow feel? Would you prefer to do it today while the thought is fresh in your mind, or would tomorrow work better for you?
+
+You’re doing well by focusing on these smaller steps, and I’m here to support you every step of the way. Let me know if there’s anything else you need!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Setting aside an hour today sounds like a good idea while the thoughts are still fresh in my mind. It will give me the opportunity to organize everything without feeling too overwhelmed.
+
+How does setting aside the hour today feel? I’ll try to make it happen and see if writing things down helps ease some of the anxiety for Wednesday.
+
+Thank you for your support and encouragement. It means a lot to have someone who understands how challenging this feels.
+
+Let me know if there’s anything else you think would be helpful as I prepare for the session on Wednesday.
+
+----------------------------------------

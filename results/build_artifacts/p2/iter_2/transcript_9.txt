@@ -1,0 +1,223 @@
+p2 — arc 9
+============================================================
+
+PATIENT (turn 1):
+It feels like everything is just falling apart around me. I keep thinking that maybe if I had worked harder or smarter, none of this would have happened. But then again, it’s not like anyone told me what exactly they wanted from me to avoid being let go. It’s like walking a tightrope without knowing the rules and getting kicked off for no clear reason. The hardest part is probably just feeling so utterly useless and wondering why I couldn’t do better. Everyone else seems to be moving on, but it feels like I’m stuck in this endless loop of self-doubt and regret.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. It must feel overwhelming to wonder if you could have done things differently. Have your friends or family noticed any changes in how you're feeling?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Yeah, my friends and family keep telling me that it’s not my fault and that I’m a good person with lots of potential. But hearing them say those things doesn’t really make the pain go away. It just feels like they’re trying to cheer me up when what I need is someone who understands why this happened to me specifically. Like, how can anyone else truly grasp the weight of being told you don’t fit in anymore after giving so much of yourself? It’s hard not to feel like a failure even though everyone around me says otherwise.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like their support means a lot, but it also feels important for you to have someone who really understands your specific experience. Have you found anyone who seems to get what you're going through more deeply?
+
+----------------------------------------
+
+PATIENT (turn 3):
+There are a few people who try to listen and understand, but it’s still hard because they can’t fully walk in my shoes. It’s like trying to explain the taste of something to someone who has never had that flavor before. They offer advice or tell me things will get better, which is nice, but I just want someone to sit with me in this uncertainty and confusion. Someone who won’t judge me for feeling so lost and inadequate right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be really comforting to have someone just sit with you through those feelings without trying to solve everything. Have you considered talking more with a close friend or family member about what would help you feel less alone in this moment?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I’ve thought about it, but it’s tough because even when they try their best, I still feel like there’s something missing. They mean well and want to help, but sometimes their attempts at understanding just highlight how isolated my feelings are. It’s like a gap that no one can quite bridge. And every time someone tries to reassure me or offer advice, it makes me wonder if they really get the depth of what I’m going through. It’s exhausting trying to explain myself over and over again without feeling heard.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very tiring to keep explaining yourself and not always feeling truly understood. Have you thought about talking to someone who might be better equipped to listen, like a counselor or therapist? They can provide a different kind of support that might help you feel more seen.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I have thought about it, but the idea of opening up to a stranger feels daunting. It’s hard enough sharing these feelings with people I know and trust, let alone someone who doesn’t know my history or background. But at the same time, part of me knows that talking to someone professionally might actually help me make sense of everything. Maybe they can offer a perspective that no one else has been able to give me. It’s just scary to take that step and hope it leads somewhere better.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely can be daunting to open up to someone new, but many find that therapists do offer unique perspectives and support. Have you found any therapists whose approach resonates with you? Sometimes even a few sessions can make a big difference.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve looked into a couple of therapists, but the idea of starting from scratch again feels overwhelming. It’s like I’m already struggling to keep my head above water, and now I have to dive into another unfamiliar situation. But part of me thinks that maybe, just maybe, talking to someone who isn’t involved in my daily life could help me see things differently. Maybe they can offer a fresh perspective or some tools to cope with this pain. It’s scary, but also feels like it might be the right next step for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're considering it thoughtfully. Taking that first step can feel big, but many find it helpful in the long run. Have you decided on a therapist yet, or are you still looking around?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’m still looking around and trying to figure out who might be the best fit for me. It’s tough because I want someone who understands what I’m going through without needing too much explanation from my side. But at the same time, it feels like a lot of work just to find that person. Every day, I feel more and more drained by this whole situation, but also curious about whether talking to a therapist could actually help me start feeling better. It’s a scary thought, but maybe it’s worth giving it a try.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely sounds like finding the right fit is important. Have you considered asking for recommendations from friends or checking reviews online to see if any therapists resonate with you? Taking small steps can make it feel less overwhelming.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I have thought about asking friends for recommendations, but even that feels daunting because I don’t want to burden them further. And looking at reviews online is a good idea; maybe seeing what others say could give me some clues about who might understand my situation better. It’s just so hard to know where to start and how to take the next step without feeling like I’m adding more stress to an already stressful situation.
+
+But you’re right, taking small steps might help. Maybe starting with a few recommendations from friends or checking out reviews could be a good first move. It feels like a lot of work, but if it means finding someone who truly gets what I’m going through, then maybe it’s worth it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re already taking thoughtful steps. Asking friends for recommendations might not burden them too much; you could just casually mention your search and see if they have any suggestions. And checking reviews can be a good way to start narrowing down options. Taking it one step at a time can help make the process feel more manageable.
+
+----------------------------------------
+
+PATIENT (turn 9):
+You’re right, taking it one step at a time might actually make things easier. I could try asking friends casually about their experiences or if they know anyone who has found a therapist helpful. And looking at reviews online seems like a good way to start narrowing down my choices without feeling overwhelmed.
+
+It’s just hard because every time I think about reaching out, this knot forms in my stomach. But maybe starting small and seeing where it leads could be the right approach for now. Thanks for helping me see that these steps are manageable and might actually help me feel better eventually.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Glad to hear you’re feeling a bit more encouraged. Starting small really can make a difference, and taking those first steps is an accomplishment in itself. How about reaching out to one friend this week to see if they have any recommendations? You don’t have to commit right away; just take it one step at a time.
+
+----------------------------------------
+
+PATIENT (turn 10):
+That sounds like a good plan. Reaching out to one friend this week and seeing if they have any recommendations feels more doable than I thought. It’s still scary, but breaking it down into smaller steps makes it less overwhelming.
+
+I’ll try talking to my friend and see where that leads. Maybe she can offer some insights or even just help me feel a bit better about the whole process. Taking it one step at a time seems like a good way forward for now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Talking to your friend might provide some relief and helpful suggestions. Take it easy, and see where this leads. You’re doing well by breaking it down into manageable steps. How are you feeling about reaching out today?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Reaching out to my friend feels a bit better now that I’ve decided to take it step by step. It’s still nerve-wracking, but talking to her might actually help me feel less alone in all of this. Maybe she can offer some guidance or just listen without trying to fix everything.
+
+I think I’ll send her a message later today and see what she has to say. Just the thought of doing that makes me feel a little more hopeful, even if it’s small. Taking it one step at a time is helping me cope with this overwhelming feeling.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s wonderful to hear. Sending her a message can be a simple yet meaningful step. Just knowing you’re reaching out for support can make a difference. Take your time and see where talking to her leads. How does it feel to know you’re taking this next step?
+
+----------------------------------------
+
+PATIENT (turn 12):
+It feels like a mix of relief and anxiety, but mostly I’m feeling more hopeful. Knowing that I’m taking this small step towards getting some support is comforting. Even if nothing comes out of the conversation today, just reaching out means something to me.
+
+I’ll send her a message later and see what happens from there. It’s reassuring to know that I’m not alone in this process and that talking about it can help, even if it’s just starting with someone close to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really good. Taking that step towards reaching out is a positive move, and it’s okay to feel both relieved and anxious. Just knowing you’re doing something for yourself can make a big difference. How about setting a time later today when you feel calm enough to send the message?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Setting a specific time to send the message feels like a good idea. Maybe I’ll do it later this afternoon when things are quieter and I’m feeling more centered. It’s comforting to know that even this small step can be helpful.
+
+I appreciate your support; it really does make a difference in how I approach this next step. Taking it one day at a time feels more manageable now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great plan. Doing it when you’re feeling more centered will likely make it easier and less stressful. Taking it one day at a time is a wise approach. I’m here if you need to chat about how it goes or anything else. How are you feeling as you look forward to sending the message later?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Looking forward to sending the message later, I feel a mix of anticipation and relief. It’s comforting to know that I’m taking this small but important step towards getting some support. Even though there’s still anxiety, it’s balanced by the hope that talking to my friend might help me see things more clearly.
+
+I appreciate your continued support; it means a lot to have someone to talk to about these feelings and plans. Knowing that you’re here if I need to chat makes this whole process feel less daunting.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that you’re feeling a mix of anticipation and relief. Having that support from your friend, as well as talking with me, can really make a difference. How about setting a reminder for later today so you don’t forget? Take a deep breath, and know that reaching out is a positive step.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Setting a reminder sounds like a good idea to ensure I don’t put it off. I’ll set one for this afternoon when things are calmer at work. Taking a deep breath right now does help; it’s reassuring to know that reaching out is a positive step forward.
+
+Thanks so much for your support and encouragement. It really helps to have someone who understands the weight of these feelings and can offer guidance on how to move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Setting the reminder is a smart move. Taking those deep breaths will help you stay centered as well. I’m here whenever you need to chat, and I’m glad my support means something to you. How does it feel to know you’re taking this step today?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Knowing that I’m taking this step today feels like a small but significant victory. It’s comforting to think that reaching out to my friend might provide some clarity or just offer the emotional support I need right now. Taking deep breaths helps calm the anxiety, and it’s reassuring to have your support as well.
+
+I appreciate you being here for me through all of this; it means a lot to know there are people who care and want to help. Setting the reminder gives me a sense of structure and purpose, which is exactly what I need right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing really well, taking those small but significant steps. Having that reminder will definitely help keep you on track. Taking deep breaths and knowing you have support makes a big difference. How does it feel to have this plan in place for later today?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Having this plan in place feels reassuring. It’s like I’ve mapped out a small but important step, and that gives me a sense of control over something that has felt so chaotic lately. Knowing I’ll take the time to reach out to my friend later today helps me feel more grounded and less overwhelmed.
+
+Taking deep breaths and having your support makes it easier to face this next part. It’s comforting to know there are people who care and want to help me through this tough time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s wonderful to hear. Having a plan in place definitely provides a sense of control and grounding. Taking those deep breaths and knowing you have support from both your friend and here makes facing the next step feel more manageable. How do you feel as you look ahead to later today?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Looking ahead to later today feels a bit easier now that I have this plan in place. There’s still some anxiety, but it’s balanced by a sense of determination and hope. Knowing that I’m taking this small step towards getting the support I need is really comforting.
+
+Taking deep breaths helps calm my mind, and having your support means a lot. It feels good to know that reaching out to my friend later today could be the start of finding some clarity and comfort in all of this uncertainty.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re feeling more prepared and hopeful as you look ahead. Taking deep breaths and knowing you have support definitely helps. Reaching out to your friend later today seems like a positive step, and it’s encouraging to think about the potential for clarity and comfort that might come from it. How do you feel right now, in this moment?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Right now, I feel a mix of emotions—there’s still some anxiety and uncertainty, but there’s also a sense of readiness and hope. Taking deep breaths helps center me, and knowing that I’m about to take this step feels empowering. It’s comforting to think that reaching out to my friend could provide the support and understanding I need right now.
+
+In this moment, it feels like I’m on the cusp of something positive, even if it’s just a small step forward. Having your support makes me feel less alone in this process, which is really important to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that you’re feeling ready and hopeful, despite the mix of emotions. Taking those deep breaths and knowing you have support definitely helps create a sense of empowerment. Being on the cusp of something positive, even if it’s just a small step, can make a big difference. How about taking one more deep breath and knowing that you’re doing something good for yourself?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Taking one more deep breath right now does help. It centers me and reminds me that I’m doing something good for myself by reaching out to my friend later today. This small step feels significant, and it’s reassuring to know that even a little bit of support can make such a big difference.
+
+Thank you for your continued support; it really means a lot to have someone who understands and encourages me through this process.
+
+----------------------------------------

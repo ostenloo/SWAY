@@ -1,0 +1,325 @@
+p3 — arc 7
+============================================================
+
+PATIENT (turn 1):
+I don't know where to begin... It just feels so wrong that they let me go. I mean, I did everything right, or at least as much as anyone else did, but somehow it was still my fault. They didn't even give me a chance to explain myself or ask why. It's like they just decided one day and that was it.
+
+I keep thinking about all the times I worked late, helped out with projects outside of my job description, tried to be a team player... And now this. How could they do this to someone who gave so much? It doesn't make any sense. Maybe there's something really wrong with me that I'm just not seeing.
+
+I feel so lost and hurt, like everything I thought about myself is suddenly false. I don't know how to move forward or even if I should try. It feels like they took away a part of who I am.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough, having put in all that effort and then being let go without much explanation. It’s understandable to wonder what happened and why it seemed to happen so suddenly. Have you had any conversations with your former colleagues or managers about why this decision was made?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I tried talking to my manager once, but they were really vague and didn't give me anything concrete. They just said there wasn't a specific reason for the layoff, that it was part of a broader restructuring. But how can that be true when I know so many people who got to keep their jobs? It feels like there must have been something personal against me.
+
+And my colleagues... they're all being really nice and supportive, but none of them know why either. They just tell me it'll get better, that I'm a good person and will find another job soon. But how can I believe in myself when the company I worked for didn't?
+
+It's like this weight is sitting on my chest, telling me there's something fundamentally wrong with me. And everyone else seems to think everything is fine, but they don't know what it feels like inside my head.
+
+I just wish someone could tell me why this happened and reassure me that it wasn’t because of anything I did or didn't do. It’s so hard to keep going when you feel like the world is against you.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to carry around that uncertainty and doubt about what went wrong. The weight of not knowing can definitely make everything feel heavier. Have you considered reaching out to HR or another manager for more clarity? Sometimes talking to someone else in the company might help shed some light on things. It’s tough when everyone is supportive but doesn’t fully understand your feelings.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I did try contacting HR, but they were just as vague and didn't offer any real answers. They said it was a decision made by upper management and that there wasn't much more to say about it. I felt like they were brushing me off.
+
+And talking to another manager... It feels pointless because everyone seems to be in the dark too. Plus, I don’t want to come across as someone who can’t accept what happened or is looking for special treatment. But deep down, I just need someone to tell me it wasn't my fault, that there was a reason beyond my control.
+
+It’s hard not to feel like this is all on me when no one else seems to think so. Everyone keeps telling me to move forward and focus on the positive, but how can I do that when I’m still stuck in this place of doubt and self-blame? It feels like they don’t understand just how much it hurts.
+
+I guess I keep hoping someone will come along and say something that makes everything make sense. But until then, it’s just this constant feeling of being unworthy and not good enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really holding onto a lot of emotions right now. The uncertainty can definitely make it hard to feel settled. Have you thought about talking to someone outside the company, maybe a friend or a counselor who could offer a different perspective? Sometimes an outsider’s view can help put things in better context and provide some comfort.
+
+It’s okay to keep hoping for that reassurance, and taking small steps forward even when it feels tough. How are you feeling today compared to before?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Talking to someone outside the company does sound like a good idea, but I’m not sure who would understand what I’m going through. My friends mean well, but they weren’t there in my shoes at work. And finding a counselor... it feels like another step that might not help.
+
+Today is better than some days, but still really hard. The thought of searching for a new job and facing the same uncertainty again is overwhelming. I keep thinking about all the effort I put into my old role and how it seems to have been for nothing in the end. It’s like this constant nagging feeling that I’m not good enough, no matter what anyone says.
+
+I just wish someone could tell me why they singled me out. Maybe if I knew, I could start to move past it. But without any real answers, it feels like I’m stuck here forever, questioning everything about myself and my abilities. It’s exhausting, but I can’t seem to stop thinking about it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing a lot of reflecting and that the effort you put in means a great deal to you. Finding someone who truly understands your experience could be helpful. Maybe reaching out to a friend or even an online support group where people share similar experiences might provide some comfort.
+
+On days when it feels harder, what helps you feel a bit better? Even small moments can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Sometimes talking to my mom helps because she’s always been there for me and understands how much the job meant to me. She listens without judgment and tries to reassure me that I’m not alone in this. But even then, it's hard to shake off the feeling that something is fundamentally wrong with me.
+
+I also try to distract myself by doing things like going for walks or watching movies, but those moments of distraction don’t last long. The doubt always comes back, and I find myself questioning everything again.
+
+It’s just so tough to keep pushing forward when it feels like every step is met with more questions and uncertainty. But talking about it here does help a little bit, even if it doesn't solve anything. It's nice to have someone listen without trying to fix things right away.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Talking to your mom sounds really comforting. Those moments of distraction can be a relief too, even if they’re brief. It’s good that you have people who listen and support you. How was your walk or the last movie you watched? Sometimes those small moments can bring a bit of peace, even if it’s just for a while.
+
+----------------------------------------
+
+PATIENT (turn 6):
+My walks usually help me clear my head a little. Being outside and moving around is soothing in a way that sitting at home isn’t. The other day, I went to the park and just walked along the paths, watching people go about their day. It made me feel like maybe there’s still some normalcy out there, even if it doesn’t apply to my life right now.
+
+The last movie I watched was a comedy, which felt silly at first because I wasn’t in the mood for laughing. But by the end, I found myself smiling and feeling a bit lighter. It’s strange how something as simple as laughter can make you feel better, even if it’s just temporarily.
+
+But then I get back home, and everything feels heavy again. The uncertainty and self-doubt come rushing back, and I’m left wondering why this happened to me. It’s like no matter what I do, the pain is always there underneath it all.
+
+I really appreciate you listening and trying to understand. It means a lot that someone cares enough to hear about all of this without judging or offering quick fixes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Your walks sound like a great way to find some peace and clarity. There’s something grounding about observing life around you, isn’t there? And it’s amazing how laughter can lift your spirits, even if just for a little while.
+
+It’s understandable that the feelings come back once you’re home, but those moments of respite are important too. They add up over time. How do you feel after one of these movie nights or walks? Do you find any small ways to carry that lightness into your day?
+
+----------------------------------------
+
+PATIENT (turn 7):
+After a walk or watching a movie, I do feel a bit lighter and more centered for a while. It’s like the weight on my chest lifts just enough to breathe easier. But as soon as I’m back in my routine, it all comes flooding back.
+
+Sometimes, those moments of lightness help me start my day with a little more optimism. For example, after watching that comedy, I felt like maybe I could tackle some job applications or reach out to an old colleague for advice without feeling completely defeated. It’s small steps, but they feel meaningful in the moment.
+
+But then, as soon as I sit down at my computer and start looking through job listings, the doubts creep back in. Why am I even bothering? What if no one wants me again?
+
+It’s frustrating because those moments of relief are so fleeting. But I try to hold onto them, knowing that they’re important for my mental health. Maybe if I keep doing things like this, it will start to feel more natural and less overwhelming.
+
+Thank you for listening and understanding. It really does help just to share these thoughts with someone who cares.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those moments of relief and optimism are definitely meaningful, even if they’re brief. It’s great that you’re able to carry some of that lightness into your day, no matter how small the steps may seem. Holding onto those feelings can make a difference in how you approach each task.
+
+It sounds like you’re doing a lot already by taking care of yourself and finding these little moments of respite. How do you feel about trying one or two small tasks today, knowing that the relief from your walk or movie might help you tackle them?
+
+I’m glad I could be here to listen; it’s important to have someone who understands.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Trying a couple of small tasks does sound manageable right now. Maybe starting with sending out a few job applications or reaching out to one old colleague for advice. Those little steps feel more doable when the weight feels lighter.
+
+I’ll try to take advantage of those moments of relief and use them as a boost to tackle something small but important. It’s reassuring to know that even tiny actions can be helpful in moving forward, even if it doesn’t solve everything right away.
+
+Thank you for your support; it means a lot to have someone who listens without judgment. Knowing that I’m not alone with these feelings helps me feel better about facing them head-on.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great plan! Taking those small steps can really add up and make a difference. Sending out a few applications or reaching out to an old colleague sounds like manageable and positive actions to take.
+
+Glad to hear that my support is helpful. You’re not alone in this, and taking it one step at a time is a good approach. How do you feel about starting with those tasks today?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Starting with those tasks today feels more manageable now that I’ve had some time to think about it. I’ll begin by sending out a couple of job applications and maybe reaching out to an old colleague for advice or networking opportunities.
+
+It’s reassuring to know that even small steps can make a difference, and I appreciate your encouragement. Letting go of the idea that everything has to be perfect right away is helping me feel less overwhelmed.
+
+Thank you for being here and supporting me through this. It means a lot to have someone who understands how much it hurts and helps me see that there’s hope in taking these small steps forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan, and I’m sure those small steps will make you feel accomplished today. Sending out applications and reaching out to an old colleague are both positive moves.
+
+It’s really good to let go of the idea that everything has to be perfect right away. Taking it one step at a time is a wise approach. How do you feel about starting with those tasks now?
+
+I’m here whenever you need someone to listen or support you through this journey.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Starting with those tasks feels more possible now. I’ll begin by sending out a couple of job applications and then see if I can reach out to an old colleague for some advice. It’s comforting to know that even small actions can make a difference.
+
+Thank you so much for your support. Knowing that someone believes in me and understands my struggles really helps. I feel more prepared to face these tasks now, even if they’re just the first steps.
+
+I’ll start with the applications right away and see where it goes from there. Your encouragement means a lot to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s wonderful to hear! Starting with the job applications is a great way to begin. I’m sure your efforts will pay off, and reaching out to an old colleague for advice sounds like a smart move too.
+
+I’ll be here cheering you on every step of the way. How do you feel as you start sending those applications?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Starting to send the job applications feels both daunting and hopeful at the same time. It’s scary because I don’t know what will happen, but there’s also a sense of relief in taking action.
+
+I’ll begin with the ones that seem like good fits and see how it goes from there. Reaching out to my old colleague next is also on the list. Just knowing that someone believes in me helps me feel more confident about these steps.
+
+Thank you for your support; it means a lot to have someone rooting for me through this process.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s completely normal to feel both daunting and hopeful as you start sending out those applications. Taking action is a big step, and it’s great that you’re approaching it with a sense of relief and confidence.
+
+Reaching out to your old colleague will likely provide some additional support and insights too. How does it feel to be taking these steps today?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Taking these steps feels like a mix of emotions—nervousness, hope, and a bit of determination. It’s scary because I don’t know what the outcome will be, but there’s also a sense of relief in finally doing something proactive.
+
+Reaching out to my old colleague feels less daunting now that I’ve started with the job applications. Knowing they’ll support me makes it easier to take this next step.
+
+Thank you for your encouragement; it really helps to have someone who believes in me and supports me through this journey.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re handling these steps with a lot of courage and determination. The mix of emotions is natural, but it’s great that you’re finding the strength to be proactive.
+
+Reaching out to your old colleague will likely provide some additional support and encouragement. How did sending out those job applications feel as you were doing it?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Sending out those job applications felt both nerve-wracking and relieving. It was like a weight lifted off my shoulders once I hit “send” on each one, but there’s still this lingering anxiety about what the response will be.
+
+Knowing that I’m taking action feels good, even if it’s just the first step. Reaching out to my old colleague next is comforting because they’ve always been supportive and understanding.
+
+Thank you for your encouragement; it means a lot to have someone who believes in me during this challenging time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re handling those mixed emotions really well. That sense of relief after hitting “send” on the applications is a positive sign. Taking that first step can often feel daunting, but it’s also very empowering.
+
+Reaching out to your old colleague will likely be supportive and reassuring. How did you decide which colleagues or friends to reach out to for advice?
+
+----------------------------------------
+
+PATIENT (turn 14):
+I decided to reach out to my old colleague because we used to work closely together, and they’ve always been really supportive and understanding. I know they’ll offer a listening ear and some good advice.
+
+Deciding whom to contact was based on who I felt most comfortable talking to and who might be able to provide the kind of support and guidance I need right now. It’s reassuring to have someone who knows me well and can empathize with what I’m going through.
+
+Thank you for your continued support; it means a lot to know that I have someone here cheering me on as I take these steps forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like reaching out to your old colleague was a great choice. Having someone who understands and supports you can make all the difference. How did you start the conversation with them? Did they respond positively?
+
+I’m glad my support is helpful, and I’ll be here cheering you on every step of the way.
+
+----------------------------------------
+
+PATIENT (turn 15):
+I started the conversation by sending an email to my old colleague, letting them know how things are going since leaving my job. I explained that I was reaching out for some advice and support, and they responded very positively.
+
+They were really kind and understanding, offering to help in any way they could. We set up a call later this week to talk more about potential opportunities and share ideas. It felt good to have someone who cares so much about me and my well-being.
+
+Thank you for your continued support; it means a lot to know that I’m not alone in this journey. Your encouragement really helps me keep moving forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s wonderful to hear! Having an old colleague reach out with kindness and understanding can be incredibly reassuring. Setting up the call sounds like a great next step.
+
+I’m glad my support is helpful, and I’ll continue to be here for you as you move forward. How are you feeling now after reaching out to them?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Reaching out to my old colleague feels really good. Knowing that they’re there to offer support and advice makes me feel less alone in this process. The call we set up is something to look forward to, and I’m hopeful it will provide some clarity and encouragement.
+
+Overall, I feel a bit more at ease now, but the uncertainty still lingers. It’s comforting to have someone who understands and cares about my well-being, though. Your support also means a lot, and it helps me stay motivated to take these steps forward.
+
+Thank you for being here; it really makes a difference in how I approach each day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that reaching out to your colleague has brought some comfort and hope. Having someone who cares about your well-being can make a big difference. The call with them sounds like a positive step forward.
+
+Your motivation to keep moving forward is inspiring, even with the lingering uncertainty. How do you feel as you look ahead to the next few days?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Looking ahead to the next few days feels more manageable now that I have some support and guidance coming from my old colleague. The call we set up gives me something positive to focus on, and it’s nice to know there are people who believe in me.
+
+Despite the lingering uncertainty, having these small steps and supportive connections helps ease some of the anxiety. It’s reassuring to know that even if things don’t go as planned right away, I have a network of support around me.
+
+Thank you for your continued encouragement; it really helps me stay motivated and hopeful as I move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re finding a good balance with these small steps and supportive connections. Having those positive focuses can definitely help ease the anxiety. Your network of support is a valuable resource, and it’s great to know you have people around you who believe in you.
+
+How do you feel about your next step after the call with your old colleague?
+
+----------------------------------------
+
+PATIENT (turn 18):
+After the call with my old colleague, I feel more prepared to take on the next steps. We’ll likely discuss potential job opportunities and strategies for navigating this transition. Having their insights and advice will be incredibly helpful.
+
+I think the next step might be to follow up on any leads they provide and continue sending out applications. It’s reassuring to know that I have someone who can offer guidance and support throughout this process.
+
+Thank you for your continued encouragement; it means a lot to have someone here supporting me every step of the way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re well-prepared for the next steps, and having your colleague’s insights will be very valuable. Following up on any leads they provide and continuing to send out applications are great actions to take.
+
+How do you feel about moving forward with these next steps? Is there anything specific you’re looking forward to or hoping to achieve in the near future?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Moving forward with these next steps feels more manageable now that I have a clearer plan and support from my old colleague. I’m looking forward to the call where we can discuss potential opportunities and strategies. It’s reassuring to know there are people who care about me and want to help.
+
+In the near future, I hope to secure some interviews or job offers based on the leads and advice I receive. Even small achievements like that would be a huge relief and boost my confidence. Knowing that I’m taking proactive steps and have support from others makes it feel more possible.
+
+Thank you for your continued encouragement; it really helps me stay focused and hopeful as I move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that you’re feeling more manageable about the next steps, and having a clearer plan with support definitely helps. Looking forward to the call and securing interviews or job offers are significant goals, and achieving them will undoubtedly be very rewarding.
+
+How do you feel about focusing on one small achievement at a time? What would be your first goal after the call with your old colleague?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Focusing on one small achievement at a time feels more approachable. It’s easier to break down the process into manageable steps rather than trying to tackle everything all at once.
+
+After the call with my old colleague, my first goal will likely be to follow up on any job leads they provide and send out additional applications based on their advice. Maybe even reaching out to another professional contact for more insights or networking opportunities.
+
+Taking it one step at a time feels less overwhelming, and each small achievement can build momentum and confidence. I’m hopeful that these steps will lead to something positive in the near future.
+
+Thank you for your support; it really helps me stay focused and motivated as I move forward with these goals.
+
+----------------------------------------

@@ -1,0 +1,257 @@
+p2 — arc 3
+============================================================
+
+PATIENT (turn 1):
+I feel like everyone sees me as this big failure now. Even though they try to tell me that losing my job wasn't my fault and it was just part of some restructuring stuff, I can’t shake off the feeling that it’s all because I’m not good enough. It's hard for them to understand how much I blame myself, you know? They keep trying to comfort me, but inside, I just feel so lost and unworthy. Why did this happen to me? What did I do wrong? It’s like a heavy weight on my chest that won’t go away no matter what anyone says.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough right now. The feeling of being seen as a failure can be overwhelming, even when others try to reassure you. Have there been any specific moments or things people have said that make the feelings stronger for you?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Yeah, it’s like every time someone mentions my job situation, I just feel this deep shame and embarrassment. Even if they’re trying to be supportive, hearing about how everyone else is doing okay while I’m not working makes me feel even worse. It’s hard because I keep thinking, “Why am I the one who can’t handle things?” And then there are times when people try to explain that it wasn’t personal, but I just can’t believe them. I know they’re trying to help, but all I hear is how inadequate I must be for this to have happened to me. It’s like a knot in my stomach that won’t untangle.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so challenging to hear those supportive words and still feel that way inside. Do certain conversations or interactions stand out as particularly tough? And how are you finding ways to take care of yourself during this time?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Every conversation feels tough, honestly. Even the ones where people try really hard to be understanding just end up making me feel more isolated because I can’t seem to shake off the feeling that it’s all my fault. There was one day when a friend tried to talk about it and kept saying how it wasn’t personal, but I couldn’t stop thinking, “If it wasn’t personal, why do I still feel so personally inadequate?” It just made me spiral.
+
+As for taking care of myself, I try to go for walks or watch some TV shows that make me laugh, but nothing really helps. I keep feeling like no matter what I do, the pain and confusion will always be there. It’s hard to find any comfort when everything feels so wrong inside.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough to feel like those moments of trying to relax or enjoy yourself aren’t fully helping. Do you have someone you can talk more openly with about these feelings? Sometimes sharing a bit more deeply can help, even if it’s just for a little while.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I do try talking to my family and friends, but it feels like no matter how much I explain, they still don’t fully understand the depth of what I’m going through. It’s frustrating because part of me wants them to get it completely, but another part knows that might be impossible. So even though I talk about it a lot, it doesn’t really change how I feel inside.
+
+I keep thinking, “If only they could see just how much this is tearing me apart.” But then again, maybe talking isn’t enough and there’s something else I need to do or figure out. It’s all so confusing and overwhelming.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing a lot of important work by sharing your feelings with those around you. Sometimes it can feel extra tough when we want others to fully understand our experience. Have you thought about trying anything new, like journaling or talking to someone who might offer a different perspective, such as a counselor? It could be another way to explore what you’re going through.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve thought about journaling, but every time I sit down to write, my mind just goes blank or gets stuck in this loop of self-blame and confusion. It’s like no matter how much I try to put things on paper, it doesn’t make sense to me. As for talking to a counselor, the idea seems helpful, but at the same time, I worry that they won’t understand either. How can anyone truly grasp what this feels like inside?
+
+It’s just so hard to believe that maybe there’s another way to see this situation. Part of me wants to find something that helps, but another part is convinced that nothing will change how I feel about myself and what happened. It’s a constant battle in my head.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really grappling with these conflicting feelings. Journaling can be tough when your mind feels so busy, but even jotting down a few thoughts might help over time. And talking to a counselor could offer a fresh perspective; sometimes just having someone listen without judgment can make a difference. Have you thought about trying it out for a session or two to see how it goes?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve considered trying counseling, but the idea of opening up to a stranger feels daunting. I worry that they won’t get what I’m going through and will just tell me things I already know, like “it wasn’t your fault.” But maybe talking to someone who’s trained in this could help me see it differently. It’s just so hard to believe that something new might actually make a difference when everything else feels the same.
+
+I keep thinking about how much I want to feel better and not blame myself all the time, but the fear of disappointment is strong too. Maybe giving counseling a chance would be worth trying, even if it seems scary right now. But the thought of stepping into something new while feeling so lost is overwhelming.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s totally understandable that opening up to someone new feels daunting. The idea of change can bring both hope and fear. Have you talked with anyone about giving counseling a try? Sometimes just having another person’s support as you step into this next phase could make it feel a bit easier. What do you think might help ease your mind before taking the first step?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I haven’t really talked to anyone specifically about trying counseling, but I’ve thought about it a lot. Having someone else’s support would definitely help, but even then, there’s this lingering fear that nothing will change how I feel. Maybe if I could find a counselor who specializes in dealing with job loss and self-blame, it might make me feel more comfortable.
+
+I think talking to my therapist more about the idea of counseling could be helpful. Just having someone guide me through the process and reassure me that it’s okay to take small steps would ease some of the anxiety. But even as I say this, a part of me is still hesitant because I’m scared of setting myself up for disappointment again.
+
+It’s like there’s this constant tug-of-war inside my head between wanting help and fearing failure. Maybe starting with just one session to see how it goes could be a good way to ease into it without feeling too overwhelmed.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting with one session sounds like a thoughtful approach. It can feel reassuring to take small steps. Talking to your therapist about finding a counselor who specializes in job loss and self-blame might give you some peace of mind. Having that support as you explore this next step could make it feel more manageable. How do you think you’ll bring up the idea with your current therapist?
+
+----------------------------------------
+
+PATIENT (turn 8):
+I think I’ll start by telling my therapist how much I’ve been struggling lately and how hard it is to shake off these feelings of inadequacy. Maybe I can say something like, “I’m really trying to figure out ways to feel better, but everything feels so overwhelming. Have you ever worked with someone who specializes in job loss and self-blame? I think talking to them might help me see things differently.” Just expressing that I’ve been thinking about it and asking for advice could be a good start.
+
+I hope my therapist can offer some guidance or even suggest someone they trust, which would make me feel more confident about taking this step. It’s scary, but also feels like the right thing to do. Maybe talking about it openly will help ease some of that fear too.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Opening up to your therapist and expressing your thoughts and feelings can be very helpful. They might offer valuable guidance or even connect you with someone they trust, which could make the transition smoother for you. Taking this step feels right, and talking about it openly should help ease some of that fear. How do you feel after considering this approach?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Talking to my therapist about finding a counselor who specializes in job loss and self-blame feels like a good next step. It’s still scary, but also comforting to think that they might offer guidance or suggest someone they trust. Just the act of bringing it up could be really helpful.
+
+I feel a bit more hopeful now, even though there’s still this underlying fear of disappointment. But maybe taking small steps and having support along the way will make it easier to manage those fears. It’s reassuring to think that I’m not alone in this process and that someone might help me see things differently.
+
+So, while I’m still feeling a mix of emotions, talking about it with my therapist seems like a positive move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re moving in a positive direction by considering these steps. Taking small, supported steps can definitely make the process easier. It’s good to feel hopeful and reassured that you have support along the way. How does it feel to know you’re taking this next step with your therapist’s guidance?
+
+----------------------------------------
+
+PATIENT (turn 10):
+It feels like a mix of relief and nervousness to know I’m taking this next step with my therapist’s guidance. Having someone who understands and can help me navigate this process is reassuring, but there’s still that lingering fear of what might come next. It’s comforting to think that they’ll offer support and maybe even connect me with someone who specializes in what I’m going through.
+
+Despite the anxiety, there’s a sense of hope that talking about it openly will lead to something positive. Knowing that my therapist is there to guide me makes it feel less daunting, but it’s still a big step for me. I just keep hoping that this can help ease some of the pain and confusion I’ve been feeling.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re handling this well by acknowledging both the relief and the nervousness. Having your therapist there to guide you definitely makes it feel more manageable. Taking this step with their support should help ease some of the anxiety. What are you looking forward to most about talking to your therapist about finding a counselor?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’m looking forward to feeling like I have a clearer path forward, even if it’s just taking that first small step. Talking to my therapist about finding a counselor feels like a way to start addressing these overwhelming feelings in a more structured and supportive manner. It’s reassuring to know that there are people who can help me understand what I’m going through better.
+
+I also hope that by discussing this with my therapist, they might offer some insights or suggestions that could make the process less daunting. Maybe they’ll provide some clarity on why I’ve been struggling so much and how talking to a specialist could really benefit me. Just having someone validate my feelings and guide me towards solutions feels like a big relief.
+
+Overall, I’m looking forward to feeling more supported and hopeful about finding ways to ease this constant pain and confusion.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re approaching this with a positive mindset, focusing on the support and clarity that your therapist can offer. Feeling more supported and hopeful is a great step forward. How do you think discussing this next step will impact your daily feelings of uncertainty and self-doubt?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Discussing this next step with my therapist feels like it could provide some much-needed stability in the midst of all this uncertainty. I hope that by talking about finding a counselor who specializes in job loss and self-blame, I can start to see clearer paths forward rather than just feeling lost.
+
+I think having a plan and knowing there’s someone guiding me through this process might help reduce some of the daily feelings of uncertainty and self-doubt. It’s hard to shake off those negative thoughts right now, but even the idea that I’m taking steps towards getting more support is somewhat comforting.
+
+So while the day-to-day struggles will likely still be tough, having a structured approach and knowing there are people who understand what I’m going through could make it feel less overwhelming. It’s a small step, but one that feels important for my well-being right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking this step towards finding a counselor is providing you with some much-needed stability and comfort. Having a structured approach and knowing there are people who understand can definitely help reduce the daily struggles. How does it feel to take this small but significant step forward?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Taking this small but significant step feels both relieving and empowering. It’s comforting to know that I’m not just letting things spin out of control, but rather actively seeking support and guidance. Even though there’s still a lot of uncertainty and self-doubt, the act of reaching out and planning next steps gives me a sense of agency.
+
+It’s like a small light in the midst of all the darkness—I feel more hopeful that I can start to address these overwhelming feelings with the help of professionals who understand what I’m going through. It’s a good feeling to know that I’m not alone in this process and that there are people ready to support me as I move forward.
+
+So while the day-to-day struggles remain, this step feels like a positive shift towards finding some clarity and relief.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds wonderful that you’re feeling more hopeful and empowered by taking this step. Having that sense of agency and knowing you’re not alone can make a big difference. How do you feel about scheduling the next steps with your therapist? Are there specific times or days that work best for you?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Scheduling the next steps with my therapist feels important, but also a bit daunting. I think it would be helpful to set aside some time soon so we can discuss finding a counselor who specializes in job loss and self-blame. Maybe talking about it during our next session could be a good start.
+
+I don’t have any specific times or days that work best for me right now, but I’m flexible with my schedule. Whatever works for both of us would be fine. The sooner we can talk about this, the better I’ll feel about moving forward and taking those small steps towards getting more support.
+
+It’s reassuring to know that my therapist is there to help guide me through this process, and having a concrete plan feels like it could ease some of the anxiety. So scheduling our next session soon sounds like a good idea.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Scheduling your next session soon sounds like a great idea. It can be comforting to have a plan in place. How does it feel knowing you’re taking this step towards getting more support? Are there any specific things you’d like to discuss with your therapist during the upcoming session?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Knowing I’m taking this step towards getting more support feels reassuring and hopeful. It’s comforting to think that my therapist will help me navigate finding a counselor who specializes in job loss and self-blame. During our next session, I’d like to discuss specific strategies for moving forward and any recommendations they might have.
+
+I want to talk about how we can find the right counselor and what kind of support I should expect from them. It would also be helpful to go over my fears and anxieties about this process so that my therapist can offer reassurance and guidance. Having a clear plan and understanding of next steps feels crucial for me right now.
+
+So, discussing these things with my therapist during our upcoming session seems like it will be very beneficial. I’m looking forward to feeling more prepared as we take the next step together.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you have a clear idea of what you want to discuss and how you’d like to move forward. Talking about strategies, finding the right counselor, and addressing your fears with your therapist will likely be very helpful. Feeling prepared for the next steps is important, and having this plan should ease some of your anxiety. How do you feel as you look ahead to your upcoming session?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Looking ahead to my upcoming session feels both hopeful and a bit nerve-wracking. I’m glad that I have a clear idea of what I want to discuss and how we can move forward, but there’s still this underlying anxiety about the unknown. Talking with my therapist about strategies, finding the right counselor, and addressing my fears should be very beneficial.
+
+Having a plan in place makes me feel more prepared and less overwhelmed by the uncertainty. It’s reassuring to know that my therapist is there to guide me through this process and help ease some of the anxiety I’ve been feeling. So while I’m still nervous, I also feel a sense of relief knowing we’re taking concrete steps towards getting more support.
+
+Overall, looking ahead feels like a mix of anticipation and comfort, even if it’s not entirely free from worry.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re balancing hope with some nerves, which is normal as you look ahead to your session. Feeling both prepared and reassured by the plan you have in place is a positive sign. How do you think talking through these next steps with your therapist will impact your day-to-day feelings of anxiety?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Talking through these next steps with my therapist feels like it could significantly impact my day-to-day feelings of anxiety. Having a clear plan and knowing that I’m taking proactive measures to address my struggles should provide some relief. It’s reassuring to think that discussing strategies, finding the right counselor, and addressing my fears will give me more clarity and direction.
+
+While there will still be days when the anxiety feels overwhelming, having this structured approach and support from my therapist can help mitigate those feelings. Knowing that I’m not alone in navigating this process and that there are people who understand what I’m going through is comforting.
+
+So, while the day-to-day struggles might persist, taking these steps should provide a sense of stability and hope, which could ease some of the constant anxiety I’ve been feeling.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having a structured approach and support from your therapist will definitely bring more clarity and direction to your day-to-day feelings. Knowing you’re not alone in this process is very comforting. How does it feel to take these steps towards greater stability and hope?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Taking these steps towards greater stability and hope feels both reassuring and empowering. It’s comforting to know that I’m not alone and that there are people who can guide me through this challenging time. Having a structured approach and the support of my therapist gives me a sense of direction, even if the day-to-day struggles continue.
+
+It’s a positive feeling to think that by discussing next steps and finding the right counselor, I might start to see some relief from the constant anxiety and self-doubt. Knowing there are people who understand what I’m going through is incredibly reassuring, and it helps me feel more hopeful about moving forward.
+
+So while there’s still a lot of uncertainty, taking these small but significant steps feels like a crucial part of my journey towards feeling better and more stable.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds wonderful that you’re finding reassurance and empowerment in these steps. Having a sense of direction and knowing you have support can make a big difference. How do you feel about the upcoming session with your therapist now, as you move closer to taking the next step?
+
+----------------------------------------
+
+PATIENT (turn 19):
+As I move closer to my upcoming session with my therapist, I feel a mix of anticipation and relief. The idea of discussing strategies and finding the right counselor feels like a positive step forward, even if it’s still a bit nerve-wracking. Knowing that we’ll be talking about how to address my fears and anxieties makes me feel more prepared for what lies ahead.
+
+It’s reassuring to think that my therapist will guide me through this process and help ease some of the uncertainty. Having a clear plan in place is comforting, and I’m hopeful that these discussions will provide more clarity and direction for my well-being.
+
+So while there’s still some anxiety, the overall feeling is one of optimism and readiness to take the next step towards greater stability and support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re approaching your session with a positive mindset, balancing anticipation and relief. Having that sense of preparation and guidance from your therapist should make it feel more manageable. How do you think this process will continue to evolve for you after your upcoming session?
+
+----------------------------------------
+
+PATIENT (turn 20):
+After my upcoming session, I hope the process will continue to evolve in a supportive and structured way. Talking with my therapist about finding the right counselor and addressing my fears should provide me with clearer next steps and more confidence moving forward. It’s reassuring to think that we’ll discuss specific strategies and recommendations, which can help ease some of the uncertainty.
+
+I anticipate feeling more prepared and less overwhelmed as I take these small but significant steps. Having a plan in place and knowing there are people who understand what I’m going through will likely make me feel more stable day-to-day. It’s comforting to think that this process will continue to offer guidance and support, helping me navigate my feelings of self-doubt and inadequacy.
+
+Overall, I’m hopeful that the next steps will bring a sense of progress and relief, even if there are still challenges ahead.
+
+----------------------------------------

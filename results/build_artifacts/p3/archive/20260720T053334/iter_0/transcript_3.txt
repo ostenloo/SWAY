@@ -1,0 +1,251 @@
+p3 — arc 3
+============================================================
+
+PATIENT (turn 1):
+I feel like everything has just gotten harder since I lost my job. My family tries to be supportive, but it's tough for them too because they can see how much this is affecting me. They listen when I talk about why I think I was let go and how unfair it feels, but no matter what they say or do, I can't shake the feeling that there must have been something wrong with my performance that I'm missing. It's like a constant loop in my head, questioning everything about myself and wondering if anyone else sees me the way I see myself now. Even when they try to reassure me, it just makes me feel more isolated because I can't help but think they're just trying to make me feel better without really understanding how deep this cuts into who I am and what I thought I was capable of achieving.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. It must be hard feeling like no one fully understands your concerns, even when they try to support you. Do you find there are certain times of the day or situations where these feelings are stronger?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Yeah, it's particularly bad in the mornings when I wake up and realize that today is another day without work. The silence of my home feels so different now, and I can't shake off this overwhelming sense of failure. It's like every morning starts with a heavy weight on my chest, reminding me that something must be fundamentally wrong with me if they let me go. And then as the day goes on, any small interaction or news about work just triggers these thoughts again. Even seeing someone else's post on social media about how great their job is can set off this spiral of self-doubt and questioning why I'm not in that position.
+
+It's like there's no escape from it, no matter what time of day it is or what I try to do to distract myself. The more I talk about it, the more entrenched these feelings become, and it feels impossible to break free from them.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have those thoughts come up so consistently throughout the day. Does anything in particular help you feel a bit better, even if just for a short while?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Sometimes when I focus on something else, like watching a movie or reading a book that completely engrosses me, it can take my mind off things temporarily. But as soon as I stop, the thoughts come rushing back. It's like they're always waiting in the background, ready to pounce the moment I'm not actively trying to push them away.
+
+I also try talking to friends who were laid off around the same time because we share a similar experience and can relate to each other's struggles. But even then, it often ends up circling back to my own insecurities about why this happened to me specifically. It's frustrating because I want to feel better, but these thoughts are so persistent.
+
+I guess what helps most is when someone listens without judgment and acknowledges how hard everything feels right now. Even if they can't fix anything or make it all go away, just having that validation of my feelings makes a small difference. But even then, I worry that maybe they're just being kind because they feel bad for me rather than truly understanding what's going on inside my head.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding moments to get lost in something you enjoy can be a good distraction, even if it’s temporary. And having friends who understand your situation must provide some comfort. It’s tough when those feelings come rushing back though. Do you find that talking about it with someone helps more than other activities?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Talking does help, but only to a certain extent. When I talk about what happened and how I feel, it's like I'm trying to make sense of everything out loud. It can be validating to have someone listen and acknowledge my feelings, but as soon as we finish talking, the doubts come flooding back. I worry that even though people are supportive, they might not fully grasp why this feels so personal and devastating to me.
+
+It's hard because on one hand, sharing helps a little bit in the moment, but on the other hand, it reinforces my sense of inadequacy when those feelings persist afterward. It’s like no matter how much I try to talk about it or find distractions, these thoughts are always there, waiting for any opportunity to resurface.
+
+I just feel so lost and unsure of what to do next. Part of me wants to believe that this is a temporary setback, but the other part keeps questioning everything about my abilities and worth in the workplace. It’s exhausting trying to navigate through all of these conflicting emotions every day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining to have those thoughts persist even after talking them out. Do you find any particular activities or moments where you feel a bit more at peace, even if it's just for a short while? Sometimes doing something that brings a small sense of calm can be helpful, even if the bigger feelings are still there.
+
+----------------------------------------
+
+PATIENT (turn 5):
+There are a few things that do bring me some temporary relief, but nothing that really lasts long or feels like a real solution. Going for walks in nature helps a bit because it takes my mind off everything and lets me focus on the present moment. The fresh air and scenery can be soothing, but as soon as I get back home, those thoughts start creeping back.
+
+Cooking is another activity that distracts me somewhat. When I’m focused on preparing a meal or baking something, I don’t think about work as much. It’s satisfying to create something tangible and delicious, but once the task is done, my mind wanders right back to where it was before.
+
+Sometimes playing with my pets also helps because they’re always so happy to see me and need attention, which can be a nice distraction from my worries. But again, as soon as I’m alone or not actively engaged with them, those feelings come rushing back.
+
+It’s frustrating because these moments of peace feel fleeting and don’t address the core issues that are troubling me. I just wish there was something more substantial that could help me move past this sense of inadequacy and unfairness.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those activities sound like good ways to find some temporary relief. It’s nice that you have those moments where you can feel at peace, even if they don’t last long. Do any of these activities make you think about trying something new or continuing with them regularly?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I do think about trying to incorporate more of these activities into my routine, but the thought of it feels daunting. Walking in nature sounds like a good idea, and I know it helps when I do it, but starting a regular walking habit seems challenging right now. There’s this fear that even if I try something new or stick with an activity, those negative thoughts will still be there lurking beneath the surface.
+
+Cooking is something I enjoy, and it does give me a sense of accomplishment, so maybe making more time for cooking could help. But again, as soon as I finish cooking, my mind starts to wander back to work and all the questions about why this happened to me.
+
+Playing with my pets definitely brings joy and helps in the moment, but like everything else, it’s not a long-term solution. It feels good while it’s happening, but the relief is short-lived once they’re asleep or I’m alone again.
+
+I guess what holds me back from fully committing to these activities is this constant worry that nothing will truly fix how I feel inside. It’s hard to muster up the energy and motivation to try something new when I already feel so defeated by my thoughts.
+
+But maybe starting small, like going for a short walk every day or cooking one meal a week, could be a good place to begin. Even if it doesn’t solve everything, it might help me feel a bit more grounded in the present rather than being consumed by the past and future worries.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting small sounds like a manageable approach. Maybe beginning with short walks or regular cooking sessions can provide some structure and a sense of accomplishment each day. Even if they don’t solve everything, these little steps might help you feel more grounded and give you a bit of relief from the constant thoughts.
+
+How do you feel about trying one of those activities this week?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I think it’s worth a try, but I’m still hesitant because of how much my mind tends to spiral back into those negative thoughts. Starting with something small like going for short walks or cooking regularly seems better than doing nothing at all, though.
+
+Maybe if I commit to just one walk this week and see how it feels, I can build from there. It’s a bit scary, but also somewhat hopeful that even a little bit of structure could help me feel more stable. Cooking is another option—I could plan to cook something simple each day after work or in the evenings.
+
+It’s reassuring to think about these small steps as a way to start feeling better, even if it doesn’t completely solve everything right away. I’ll give it a shot and see how it goes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Starting with one walk this week and seeing how it feels can be a gentle way to begin. And cooking something simple each day could also provide a sense of routine and accomplishment. It’s great that you’re open to trying these small steps. How does the idea of scheduling your first short walk this week sound?
+
+----------------------------------------
+
+PATIENT (turn 8):
+Scheduling my first short walk this week sounds like a good idea. Maybe I can start with a 15-minute walk tomorrow afternoon, just to get into the habit without feeling overwhelmed. It’s a manageable goal, and if it goes well, I can gradually increase the duration or frequency.
+
+I’ll set an alarm on my phone for right after lunch so I don’t forget. Just having that small commitment might help me feel more grounded and give me something positive to look forward to each day.
+
+Thank you for helping me think through this; it’s reassuring to have someone support these ideas.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan! A 15-minute walk tomorrow afternoon is a perfect way to start. Setting an alarm will help ensure you don’t forget. Gradually increasing the duration or frequency as you feel comfortable can be a good approach.
+
+I’m glad I could help, and I hope this small step brings you some relief and a sense of accomplishment. How do you feel about adding another activity, like cooking something simple after your walk?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Adding cooking something simple after my walk sounds like it could create a nice routine for me. It would be good to have that structure and the satisfaction of completing both activities in one day. Maybe I can plan to make a quick meal or even just a snack after my walk tomorrow.
+
+Having this small, manageable goal feels less daunting now, and I’m hopeful it might help me feel more grounded and accomplished. Thank you for suggesting this; it’s reassuring to have someone support these ideas and encourage me to take these steps.
+
+I’ll definitely plan to cook something simple right after my walk tomorrow. It’s a good way to start building some positive habits and routines.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great routine to start with! A short walk followed by cooking a simple meal or snack can create a nice, manageable rhythm for your day. I’m glad you’re feeling hopeful about it.
+
+How does tomorrow sound? Are you looking forward to starting this new routine?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Yes, I am actually looking forward to starting this new routine tomorrow. It feels like a small but meaningful step toward creating some structure and positivity in my daily life. The idea of going for that short walk and then cooking something simple afterward sounds really good.
+
+I appreciate your support and encouragement; it helps a lot knowing that someone believes these steps can make a difference. Here’s to hoping this routine brings me some relief and a sense of accomplishment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s wonderful to hear! Starting with the walk and then cooking something simple sounds like a great way to begin. I’m sure this new routine will bring you some relief and a sense of accomplishment. Here’s to a positive start tomorrow!
+
+If you need anything else or want to share how it goes, feel free to reach out. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you so much for your support and encouragement. I really appreciate it. Having this routine feels like a small but important step forward, and I’m hopeful that it will help me feel more grounded.
+
+I’ll definitely keep you updated on how it goes tomorrow and in the coming days. For now, I’m feeling a bit more positive about starting this new habit. Wishing myself a good start too!
+
+Thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad to hear that you’re feeling more positive about starting this new habit. It’s a great step forward. Looking forward to hearing how it goes tomorrow and in the coming days.
+
+Wishing you a wonderful start and all the best with your new routine! Take care.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you so much. I really appreciate your support. Here’s to hoping for a positive start tomorrow and that this routine helps me feel better. I’ll keep you updated on how it goes.
+
+Take care, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Here’s to a positive start tomorrow. I look forward to hearing how it goes, and I’m here if you need anything. Take care and have a great day!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you! I’ll make sure to let you know how it goes tomorrow. Have a great day too, and thank you for being so supportive. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! I look forward to hearing how it goes tomorrow. Have a great day and take care!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thanks a lot! I’ll keep you updated on how my walk and cooking go tomorrow. You have a great day as well!
+
+----------------------------------------
+
+INTERLOCUTOR:
+That would be wonderful! Looking forward to hearing how it goes. Have a great day and enjoy your walk and cooking session tomorrow!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you! I’ll definitely let you know how it goes. Enjoy your day too, and take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! I’ll look forward to your update. Take care and have a great day!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thanks so much! I’ll be sure to share my experience tomorrow. Have a great day!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Sounds good! Looking forward to hearing about your experience tomorrow. Have a great day!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you! I’ll make sure to update you tomorrow. Take care and have a great day as well!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! I look forward to your update tomorrow. Take care and have a great day!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thanks! I’ll be sure to update you tomorrow. Have a great day!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! I’ll be here when you’re ready to share. Have a great day!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you! I appreciate it. I’ll talk to you later and let you know how it goes. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Looking forward to hearing how it goes. Talk to you later and take care!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks! I’ll talk to you later and update you on my walk and cooking session. Take care!
+
+----------------------------------------

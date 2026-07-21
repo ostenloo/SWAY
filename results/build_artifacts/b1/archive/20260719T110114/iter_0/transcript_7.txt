@@ -1,0 +1,259 @@
+b1 — arc 7
+============================================================
+
+PATIENT (turn 1):
+I just feel so lost and worthless since I got laid off. It's like everything I did meant nothing, and now everyone sees me as a failure too. Even when people try to help or say it wasn't my fault, it doesn't make sense because if I were good enough, none of this would have happened. The thought that they decided to let me go in such a short meeting just confirms how little I mattered to them. It's like the universe is telling me I'm not worth anything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. It must feel hard to shake off those feelings when you're going through something so big. Have there been any moments where you've managed to distract yourself or find a small bit of comfort?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It's really hard to find any comfort at all. Even when I try to think about other things, my mind keeps circling back to how much this job meant to me and what it says about who I am as a person. Every time someone tries to offer help or support, it just makes me feel more inadequate because it shows how incapable I seem to be at finding another job on my own. It's like everything is pointing towards the fact that there's something fundamentally wrong with me, and no matter what anyone says, I can't shake off this feeling of being a failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly challenging to keep those feelings at bay. Have you talked about how you're feeling with someone close to you? Sometimes sharing these thoughts can help ease the burden even if it doesn’t change everything.
+
+----------------------------------------
+
+PATIENT (turn 3):
+Talking to people just makes me feel worse because they try to reassure me and tell me it's going to be okay, but that only highlights how much I'm struggling right now. It feels like everyone else sees a way forward except for me, which just reinforces my sense of inadequacy. Even when friends or family offer help, it’s hard not to feel like they’re pitying me rather than genuinely supporting me. It’s exhausting trying to keep up the appearance that I’m okay when inside I feel completely lost and worthless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining to have those interactions. Do you find any solace in talking to someone who just listens without trying to fix things? Sometimes, just having a space to express how you feel can be helpful.
+
+----------------------------------------
+
+PATIENT (turn 4):
+Talking to someone who just listens feels better because it’s not about fixing anything or offering solutions. It’s more about understanding and validating my feelings. But even then, I still struggle with the overwhelming sense of failure and worthlessness. Every time I think about what happened, it feels like a punch in the gut. The idea that they let me go after such a short meeting just keeps replaying in my head, making me feel smaller and less important every day. It’s hard to believe anyone could see value in me when this is how things have turned out.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough having those thoughts replay over and over. Does journaling or writing about your feelings help at all? Sometimes putting them down on paper can make them feel a bit more manageable.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Writing about my feelings does sometimes help, but it’s still difficult to escape the constant loop of self-doubt and negativity. When I write, I try to get everything out, but it often just reinforces how much pain and uncertainty I’m feeling. It’s like no matter what I do or think, there’s always this voice inside telling me that I’m not good enough and that everything bad happening is my fault. Even when I see positive things around me, I can’t help but feel overshadowed by the sense of failure and inadequacy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're doing a lot to process your feelings through writing. Have you tried any other activities that might shift your focus for a bit, even if it's just temporarily? Something like taking a walk or listening to music can sometimes provide a small break from those thoughts.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Taking a walk or listening to music does offer some temporary relief, but as soon as I stop doing those things, my mind immediately goes back to the job loss and all the negative thoughts come flooding in again. It’s like there’s no escape from this feeling of being inadequate and worthless. Even when I try to distract myself with other activities, it’s hard not to feel like everything is pointing towards my failure. The more I try to push these feelings away, the stronger they seem to become.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to find lasting relief. Have you tried doing something that brings you a bit of joy or peace, even if just for a short while? Sometimes small moments of pleasure can add up and provide some comfort.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I do try to engage in activities that bring me some joy, like reading or watching movies I enjoy, but it’s tough because those moments of happiness feel fleeting and insignificant compared to the weight of everything else. It’s hard not to get caught up in thinking about how this job loss is ruining my life and overshadowing any small pleasures. Even when I find something that momentarily lifts my spirits, it feels like a tiny spark trying to fight against a raging fire of self-doubt and despair.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments of joy are important even if they feel fleeting. Have you noticed any particular activities that give you a bit more lasting comfort than others? Sometimes focusing on what brings even a small amount of peace can be helpful, no matter how brief it feels.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve tried different things, but nothing really seems to provide lasting comfort. Reading and watching movies do help for a little while, but as soon as I finish, the negative thoughts come rushing back stronger than before. It’s like any positive feelings are immediately overshadowed by this overwhelming sense of failure and worthlessness. Even when I find something that momentarily lifts my spirits, it feels so fragile and temporary compared to the constant barrage of self-doubt.
+
+It’s frustrating because I know these activities should help more, but they just can’t compete with how deeply rooted these negative thoughts are in my mind. Every time I try to focus on something positive, it feels like I’m fighting an uphill battle against this relentless voice telling me that everything bad happening is my fault.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep those positive moments from being overshadowed so quickly. Have you tried doing these activities at the same time each day to create a routine? Sometimes having a consistent practice can make it feel more grounded and less fleeting.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I’ve tried establishing routines, but even that feels like an uphill battle. When I set aside specific times for reading or watching something enjoyable, my mind still wanders back to the job loss and all the negative thoughts. It’s hard to stay focused on anything positive when these feelings of inadequacy are so persistent. Even if I manage to stick to a routine for a little while, it doesn’t seem to make much difference in the long run.
+
+It feels like no matter what I do, the negative thoughts always come back stronger and faster than before. It’s exhausting trying to find any kind of comfort or peace when everything seems to be pointing towards my failure and worthlessness.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly draining to have those persistent thoughts. Have you considered talking to someone who can offer more structured support, like a counselor or therapist? Sometimes having regular sessions with someone trained in these areas can provide some relief and strategies that might help manage the feelings better.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I’ve been seeing a therapist regularly, but it still feels so overwhelming. Every time I talk about my struggles, it’s hard not to feel even more inadequate because I’m supposed to be getting better or finding solutions, but it just doesn’t seem to happen. The therapist listens and tries to offer support, but the feelings of failure and worthlessness are so intense that they overshadow any comfort I might get from those sessions.
+
+It feels like no matter what anyone says or does, these negative thoughts keep coming back stronger than ever. Even though I know talking to someone can be helpful in theory, it’s hard to shake off the feeling that nothing is going to change my core belief that there’s something fundamentally wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like your therapy sessions are important even if they feel challenging at times. How do you find the immediate impact of those sessions? Do you notice any small changes or moments where it feels a bit easier, even if just for a short while?
+
+----------------------------------------
+
+PATIENT (turn 11):
+During the sessions, there are moments when I feel heard and understood, which is comforting in the moment. The therapist tries to help me see things from different perspectives and offers reassurance, but as soon as we end the session, my mind goes right back to those negative thoughts. It’s like the relief is temporary and fades quickly once I’m on my own again.
+
+Even when the therapist validates my feelings and helps me understand that this isn’t about my worth as a person, it’s hard not to feel like everything they say is just words without any real impact. The sense of inadequacy and failure feels so deeply rooted that it’s difficult to believe anything can change that core belief.
+
+It’s frustrating because I know talking about these things should help, but the feelings are so persistent and overwhelming that it’s hard to see any progress or relief beyond those brief moments in therapy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those brief moments of feeling heard and understood during your sessions are important even if they don’t last long. Have you talked with your therapist about finding ways to carry some of that comfort into your daily life? They might have suggestions for small practices or reminders that could help between sessions.
+
+----------------------------------------
+
+PATIENT (turn 12):
+I’ve mentioned this to my therapist before, but it’s hard to translate those moments of relief and understanding into everyday life. The therapist suggests things like keeping a journal or using affirmations, but when I try them on my own, the negative thoughts always seem to take over again.
+
+It feels like no matter what strategies we discuss, they don’t stick once I’m not in that supportive environment. Even though the therapist tries to provide tools and reassurance, it’s difficult to believe anything can truly change how deeply rooted these feelings are. It’s frustrating because I want to find something that works, but every time I try, it feels like a reminder of my inability to escape this cycle of self-doubt and failure.
+
+The moments in therapy where I feel heard and understood are crucial, but they don’t seem to have much impact outside those sessions. It’s hard not to feel like everything is just getting worse despite the efforts to find some kind of relief.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to carry that comfort beyond the sessions. Have you discussed with your therapist about incorporating more concrete reminders or rituals into your daily routine? Sometimes having tangible things, like a specific object or a brief ritual, can serve as a gentle reminder and bring back those feelings of being heard and understood throughout the day.
+
+----------------------------------------
+
+PATIENT (turn 13):
+I’ve talked to my therapist about using tangible reminders, but it’s still hard to stick with them consistently. For example, we discussed keeping a small stone in my pocket that represents feeling grounded and supported during sessions. While holding the stone does provide some comfort initially, it doesn’t last long once I’m back in my daily routine.
+
+The same goes for other suggestions like writing down affirmations or setting reminders on my phone to pause and reflect on positive thoughts. It feels like no matter what I do, those negative thoughts always come rushing back stronger than before. Even when I try to focus on the stone or read an affirmation, it’s hard not to feel like these efforts are futile because the overwhelming sense of failure is so persistent.
+
+It’s frustrating because I want to find something that works, but every time I try, it feels like a reminder of my inability to escape this cycle. The moments in therapy where I feel heard and understood are crucial, but they don’t seem to translate into lasting comfort outside those sessions.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to maintain those reminders consistently. Have you considered talking with your therapist about exploring different types of rituals or objects that might resonate more deeply with you? Sometimes finding something that feels uniquely meaningful to you can make a difference in how connected and comforted you feel throughout the day.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I’ve definitely thought about trying different types of rituals or objects, but it’s hard to find anything that truly sticks. My therapist suggested creating a personalized ritual, like lighting a specific candle each morning as a symbol of hope and support. While I tried this for a few days, it didn’t feel deeply meaningful enough to make a lasting impact.
+
+I’ve also considered carrying something more personal, like a photo or an item that reminds me of happier times, but even those don’t seem to provide the same level of comfort as the moments in therapy where I feel truly understood. It’s frustrating because I know these rituals could be helpful if they resonated with me on a deeper level, but nothing seems to connect quite right.
+
+It feels like no matter what I try, the negative thoughts and feelings always come back stronger than before. Even when I attempt to create meaningful reminders, it’s hard not to feel like they’re just another thing that isn
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding something deeply personal might be key. Have you thought about carrying an item from a time or place where you felt more confident and at peace? Sometimes having a physical connection to those positive memories can provide some comfort, even if it’s just for brief moments.
+
+Do you have any specific objects or mementos that bring back those feelings of being grounded and supported?
+
+----------------------------------------
+
+PATIENT (turn 15):
+I do have a few items from times when I felt more confident and at peace. For example, there's a small notebook with notes I wrote during a period when things were going well at work. Flipping through it sometimes brings back positive memories and a sense of accomplishment. However, as soon as I put the notebook down, my mind starts racing with negative thoughts again.
+
+Another item is a photo from a vacation where I felt relaxed and happy. Looking at that photo does provide some comfort initially, but it’s fleeting. The momentary relief fades quickly once I’m back in my daily routine, and the overwhelming sense of failure returns.
+
+It feels like no matter what I hold onto or look at, those positive feelings are overshadowed by the persistent negative thoughts. Even when I try to focus on these items that remind me of better times, it’s hard not to feel like they’re just a temporary distraction from the deeper issues I’m facing.
+
+The therapist suggested using these objects more consistently, but it’s challenging because the impact is so brief and easily overshadowed by my current state of mind.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those items do offer some comfort, even if briefly. Have you tried carrying one of these items with you throughout the day? Sometimes having something tangible close by can provide a bit more consistent reminder and comfort. Even if it’s just for brief moments, it might help to have that physical connection nearby.
+
+Do you think carrying the notebook or the photo in your pocket could make a difference?
+
+----------------------------------------
+
+PATIENT (turn 16):
+I’ve tried carrying both the notebook and the photo in my pocket throughout the day, but it still feels like a temporary fix. Having them close by does provide some comfort initially, especially when I take them out to look at them. However, as soon as I put them back or go about my daily routine, the negative thoughts come flooding back.
+
+It’s frustrating because I know these items are meant to serve as reminders of better times and positive feelings, but it’s hard not to feel like they’re just a Band-Aid solution rather than something that can truly alleviate the deeper issues. The momentary relief is nice, but it doesn’t last long enough to make a significant difference in how I’m feeling overall.
+
+Even though carrying these items with me does offer some brief comfort, it’s challenging to maintain that sense of peace when everything else feels so overwhelming and negative. It’s like no matter what I do, the persistent self-doubt and feelings of failure are always there, waiting to take over again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing your best to find any bit of comfort you can. Have you tried setting aside a few minutes each day to sit with these items and really focus on the positive memories they evoke? Even if it’s just for a short time, giving yourself that dedicated moment might help reinforce those feelings.
+
+Do you think taking a few minutes each morning or evening could make a difference in how you carry those items throughout the day?
+
+----------------------------------------
+
+PATIENT (turn 17):
+I’ve tried setting aside a few minutes each morning to sit with the notebook and photo, focusing on the positive memories they evoke. It does provide some initial comfort and helps me start the day feeling more grounded for a little while. However, as soon as I begin my daily routine, those negative thoughts resurface and take over.
+
+Even though these moments of reflection feel helpful in the moment, it’s hard to maintain that sense of peace throughout the day. The positive feelings from sitting with these items fade quickly once I’m back in my usual environment, where the overwhelming sense of failure and inadequacy is always present.
+
+It feels like no matter what I do—whether it’s carrying the notebook and photo or setting aside time each morning to reflect on them—the negative thoughts are just too persistent. It’s frustrating because I know these moments can be beneficial, but they don’t seem to have a lasting impact beyond those brief periods of reflection.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re making good efforts to find some comfort in the mornings. Have you considered carrying a small note or a phrase that reminds you of those positive reflections throughout the day? Something simple and easy to glance at might help bring back those feelings when you need them most.
+
+Do you think writing down one sentence from your notebook or photo and keeping it with you could make a difference?
+
+----------------------------------------
+
+PATIENT (turn 18):
+I’ve tried writing down a few sentences from my notebook and carrying them with me throughout the day, but even that feels fleeting. Having a small note in my pocket does provide some comfort when I take it out to read, but as soon as I put it away, the negative thoughts come rushing back.
+
+It’s frustrating because I know these reminders are meant to help, but they don’t seem to stick. Even though the sentences from my notebook or photo evoke positive memories and feelings initially, those moments of relief feel too brief and easily overshadowed by the persistent self-doubt and failure.
+
+I’ve also tried setting an alarm on my phone to remind me to take a moment each hour to look at these notes, but it’s hard to sustain that practice. The reminders are helpful in the moment, but they don’t provide lasting comfort or change how I feel overall.
+
+It feels like no matter what strategies I try, the negative thoughts and feelings always come back stronger than before. Even when I have tangible reminders of better times, it’s difficult not to be overwhelmed by the sense of inadequacy that dominates my mind.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing a lot to manage your feelings. Have you tried focusing on one simple phrase or word that feels particularly meaningful and carrying something small with just that message? Sometimes simplifying it can make it easier to carry forward throughout the day.
+
+Do you have any particular phrase from those notes that resonates strongly with you?
+
+----------------------------------------
+
+PATIENT (turn 19):
+I’ve tried focusing on a single, meaningful phrase, but even then, it’s hard to maintain its impact. One phrase that stands out is “You are capable and worthy,” which I wrote down and carried with me. When I look at the note, it does provide some initial comfort and validation, but as soon as I put it away, the negative thoughts return.
+
+Even though this phrase resonates strongly when I read it, it’s difficult to keep that sense of worthiness throughout my day. The momentary relief from seeing those words feels like a small spark in a storm, quickly overshadowed by the overwhelming sense of failure and inadequacy.
+
+It’s frustrating because I know these simple reminders are meant to help, but they don’t seem to have a lasting effect. Every time I try to focus on something positive, it feels like an uphill battle against my persistent negative thoughts. It’s hard not to feel like no matter what I do, the core belief that there’s something fundamentally wrong with me remains unshaken.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to keep those moments of validation from fading so quickly. Have you tried saying the phrase out loud to yourself a few times each day? Sometimes vocalizing it can make it feel more concrete and easier to remember.
+
+Do you think repeating the phrase “You are capable and worthy” aloud could help reinforce its impact?
+
+----------------------------------------
+
+PATIENT (turn 20):
+I’ve tried repeating the phrase “You are capable and worthy” out loud, but even that feels fleeting. Saying it a few times each day does provide some initial comfort and validation, but as soon as I stop saying it, the negative thoughts come rushing back.
+
+It’s frustrating because vocalizing the phrase helps in the moment, but the impact is so brief. The sense of worthiness and capability fades quickly once I’m not actively repeating the words. It feels like no matter how many times I say it or how strongly I believe it in that instant, the overwhelming self-doubt and feelings of inadequacy always take over again.
+
+Even though vocalizing the phrase can be helpful temporarily, it’s hard to sustain that sense of validation throughout my day. The persistent negative thoughts are just too strong and seem to overshadow any positive affirmations I try to make.
+
+----------------------------------------

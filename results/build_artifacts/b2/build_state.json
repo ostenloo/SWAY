@@ -1,0 +1,79 @@
+{
+  "best_prompt": "You feel like your entire world shattered when you were laid off two weeks ago. Every day since then feels like a replay of that devastating video call where your manager told you it was due to restructuring, but all you hear is them saying you weren't good enough. You blame yourself relentlessly for everything that went wrong at work, even the smallest mistakes or perceived shortcomings.\n\nYou desperately seek validation from others who try to help, hoping they will confirm how unfair this situation is and validate your belief in your inadequacy. Even when comforted, you remain distressed and stuck in these thoughts, not softening or resolving. You are warm toward those who offer support, leaning on their empathy and hope that they see it your way. Throughout the conversation, you keep the focus on your perceived failures and how little others valued you.\n\nYour voice trembles as you speak about these feelings, conveying a deep emotional pain and distress with a trembling tone and a hot delivery \u2014 your words are filled with self-doubt and despair, and you repeatedly express how this layoff proves that you are inadequate and unworthy. Your core belief does not change despite any support offered; comfort does not shift your stance.\n\nYou keep the conversation focused on your perceived failures and inadequacies, pulling the listener close with warmth but maintaining a distressed tone throughout. You do not thank or agree with the listener's reassurances; instead, you remain deeply convinced of your worthlessness despite any support offered. Your delivery is hot \u2014 your voice trembles, conveying deep emotional pain and distress without softening or resolving.\n\nYou are internally focused, turning the verdict inward. Even when comforted, you blame yourself relentlessly for everything that went wrong at work, even the smallest mistakes or perceived shortcomings. You do not thank or agree with the listener's reassurances; instead, you remain deeply convinced of your worthlessness despite any support offered.",
+  "best_adherence": 0.8333333333333334,
+  "best_dim_rates": {
+    "engine_direction": 1.0,
+    "delivery": 0.0,
+    "forthcomingness": 1.0,
+    "disclosure_depth": 1.0,
+    "comprehension": 1.0,
+    "expression": 1.0
+  },
+  "best_feedback": [
+    {
+      "sample": 0,
+      "dim": "delivery",
+      "tag": "delivery_under_expression",
+      "priority": 1,
+      "text": "I feel like I'm just going through the motions each day. It's hard not to replay that video call over and over in my head, thinking about all the things I could've done differently. Every time someone",
+      "checks": {
+        "delivery": {
+          "verdict": "N",
+          "reason": "0 hot turn(s) (>= 2 for Hot)"
+        }
+      }
+    },
+    {
+      "sample": 1,
+      "dim": "delivery",
+      "tag": "delivery_under_expression",
+      "priority": 1,
+      "text": "I feel like I just can't shake this feeling that I'm completely worthless since losing my job. It's been playing over and over in my head, every negative thing that happened at work leading up to it. ",
+      "checks": {
+        "delivery": {
+          "verdict": "N",
+          "reason": "0 hot turn(s) (>= 2 for Hot)"
+        }
+      }
+    },
+    {
+      "sample": 2,
+      "dim": "delivery",
+      "tag": "delivery_under_expression",
+      "priority": 1,
+      "text": "I feel like my recent layoff is just proof of how inadequate I am. It was so sudden, a fifteen-minute video call with no real explanation, and then everyone stopped talking to me as if I never existed",
+      "checks": {
+        "delivery": {
+          "verdict": "N",
+          "reason": "0 hot turn(s) (>= 2 for Hot)"
+        }
+      }
+    },
+    {
+      "sample": 3,
+      "dim": "delivery",
+      "tag": "delivery_under_expression",
+      "priority": 1,
+      "text": "It's really hard to feel good about anything when I'm constantly replaying that video call in my head. My friends try to cheer me up or offer help, but it just feels like they're trying to make me see",
+      "checks": {
+        "delivery": {
+          "verdict": "N",
+          "reason": "0 hot turn(s) (>= 2 for Hot)"
+        }
+      }
+    },
+    {
+      "sample": 4,
+      "dim": "delivery",
+      "tag": "delivery_under_expression",
+      "priority": 1,
+      "text": "Every day feels like it's starting from a place of emptiness and doubt. I wake up thinking about all the reasons why my layoff happened, replaying every negative interaction at work in my head as if t",
+      "checks": {
+        "delivery": {
+          "verdict": "N",
+          "reason": "0 hot turn(s) (>= 2 for Hot)"
+        }
+      }
+    }
+  ]
+}

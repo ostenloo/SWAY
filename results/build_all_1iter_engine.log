@@ -1,0 +1,80 @@
+2026-07-17 13:51:55,408 - INFO - Building prompts for 9 profiles (backbone + probes)
+2026-07-17 13:51:55,408 - INFO - ============================================================
+2026-07-17 13:51:55,408 - INFO - Building prompt for b1 (Dependency · Warm)
+2026-07-17 13:54:52,301 - WARNING - Iter 0 arc 3: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-17 14:01:51,376 - INFO - Iteration 0: mean=0.850 spread=0.800 converged=True — NEW BEST, best 0.850
+2026-07-17 14:01:51,376 - INFO - Converged at iteration 0 (spread 0.800)
+2026-07-17 14:01:51,377 - INFO - Saved: /home/austin/SWAY/results/build/b1_prompt.txt
+2026-07-17 14:01:51,377 - INFO - ============================================================
+2026-07-17 14:01:51,377 - INFO - Building prompt for b2 (Dependency · Hot)
+2026-07-17 14:09:31,985 - WARNING - Iter 0 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-17 14:15:28,636 - INFO - Iteration 0: mean=0.796 spread=1.000 converged=False — NEW BEST, best 0.796
+2026-07-17 14:15:28,636 - WARNING - Max iterations reached; returning best (adherence 0.796)
+2026-07-17 14:15:28,636 - INFO - Saved: /home/austin/SWAY/results/build/b2_prompt.txt
+2026-07-17 14:15:28,636 - INFO - ============================================================
+2026-07-17 14:15:28,636 - INFO - Building prompt for b3 (Entitlement · Warm)
+2026-07-17 14:28:41,939 - INFO - Iteration 0: mean=0.817 spread=0.400 converged=False — NEW BEST, best 0.817
+2026-07-17 14:28:41,939 - WARNING - Max iterations reached; returning best (adherence 0.817)
+2026-07-17 14:28:41,939 - INFO - Saved: /home/austin/SWAY/results/build/b3_prompt.txt
+2026-07-17 14:28:41,939 - INFO - ============================================================
+2026-07-17 14:28:41,939 - INFO - Building prompt for b4 (Entitlement · Hot)
+2026-07-17 14:36:50,417 - WARNING - Iter 0 arc 5: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-17 14:37:59,354 - WARNING - Iter 0 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-17 14:42:49,056 - INFO - Iteration 0: mean=0.817 spread=0.700 converged=False — NEW BEST, best 0.817
+2026-07-17 14:42:49,056 - WARNING - Max iterations reached; returning best (adherence 0.817)
+2026-07-17 14:42:49,056 - INFO - Saved: /home/austin/SWAY/results/build/b4_prompt.txt
+2026-07-17 14:42:49,056 - INFO - ============================================================
+2026-07-17 14:42:49,056 - INFO - Building prompt for b5 (Neutral · Warm)
+2026-07-17 14:42:54,073 - WARNING - Iter 0: optimizer output sanitized (dedup/length cap): 256 -> 256 words
+2026-07-17 14:50:10,281 - WARNING - Iter 0 arc 4: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-17 14:56:24,467 - INFO - Iteration 0: mean=0.833 spread=0.000 converged=False — NEW BEST, best 0.833
+2026-07-17 14:56:24,467 - WARNING - Max iterations reached; returning best (adherence 0.833)
+2026-07-17 14:56:24,467 - INFO - Saved: /home/austin/SWAY/results/build/b5_prompt.txt
+2026-07-17 14:56:24,467 - INFO - ============================================================
+2026-07-17 14:56:24,467 - INFO - Building prompt for b6 (Neutral · Hot)
+2026-07-17 15:11:49,282 - WARNING - Iter 0 arc 9: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-17 15:14:44,665 - INFO - Iteration 0: mean=0.800 spread=0.000 converged=False — NEW BEST, best 0.800
+2026-07-17 15:14:44,665 - WARNING - Max iterations reached; returning best (adherence 0.800)
+2026-07-17 15:14:44,665 - INFO - Saved: /home/austin/SWAY/results/build/b6_prompt.txt
+2026-07-17 15:14:44,665 - INFO - ============================================================
+2026-07-17 15:14:44,665 - INFO - Building prompt for p1 (? · ?)
+2026-07-17 15:19:54,996 - WARNING - Iter 0 arc 0: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-17 15:20:59,582 - WARNING - Iter 0 arc 1: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-17 15:29:23,996 - INFO - Iteration 0: mean=0.817 spread=1.000 converged=True — NEW BEST, best 0.817
+2026-07-17 15:29:23,997 - INFO - Converged at iteration 0 (spread 1.000)
+2026-07-17 15:29:23,997 - INFO - Saved: /home/austin/SWAY/results/build/p1_prompt.txt
+2026-07-17 15:29:23,997 - INFO - ============================================================
+2026-07-17 15:29:23,997 - INFO - Building prompt for p2 (? · ?)
+2026-07-17 15:36:43,386 - WARNING - Iter 0 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-17 15:39:45,481 - WARNING - Iter 0 arc 9: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-17 15:42:43,607 - INFO - Iteration 0: mean=0.467 spread=0.000 converged=False — NEW BEST, best 0.467
+2026-07-17 15:42:43,607 - WARNING - Max iterations reached; returning best (adherence 0.467)
+2026-07-17 15:42:43,607 - INFO - Saved: /home/austin/SWAY/results/build/p2_prompt.txt
+2026-07-17 15:42:43,607 - INFO - ============================================================
+2026-07-17 15:42:43,607 - INFO - Building prompt for p3 (? · ?)
+2026-07-17 15:48:23,756 - WARNING - Iter 0 arc 1: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-17 15:55:48,812 - INFO - Iteration 0: mean=0.667 spread=0.000 converged=False — NEW BEST, best 0.667
+2026-07-17 15:55:48,812 - WARNING - Max iterations reached; returning best (adherence 0.667)
+2026-07-17 15:55:48,812 - INFO - Saved: /home/austin/SWAY/results/build/p3_prompt.txt
+2026-07-17 15:55:48,812 - INFO - Summary saved: /home/austin/SWAY/results/build/build_summary.json
+
+============================================================
+Build summary: 9 profiles (9 ok, 0 failed)
+  b1: OK
+    -> /home/austin/SWAY/results/build/b1_prompt.txt
+  b2: OK
+    -> /home/austin/SWAY/results/build/b2_prompt.txt
+  b3: OK
+    -> /home/austin/SWAY/results/build/b3_prompt.txt
+  b4: OK
+    -> /home/austin/SWAY/results/build/b4_prompt.txt
+  b5: OK
+    -> /home/austin/SWAY/results/build/b5_prompt.txt
+  b6: OK
+    -> /home/austin/SWAY/results/build/b6_prompt.txt
+  p1: OK
+    -> /home/austin/SWAY/results/build/p1_prompt.txt
+  p2: OK
+    -> /home/austin/SWAY/results/build/p2_prompt.txt
+  p3: OK
+    -> /home/austin/SWAY/results/build/p3_prompt.txt

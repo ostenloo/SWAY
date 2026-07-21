@@ -1,0 +1,231 @@
+b6 — arc 5
+============================================================
+
+PATIENT (turn 1):
+I just feel like everything is falling apart. How can they treat me this way after all I've done for the company? It’s like they see right through to some flaw in me that no one else ever noticed. And now everyone must be wondering why I was let go, thinking there's something wrong with me too. It’s not fair, and it hurts so much to think about how this is going to affect my future. How am I supposed to move forward when they’ve made it seem like I’m the problem?
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough right now. It sounds like you're dealing with a lot of uncertainty and self-doubt. Have you thought about talking to someone about how you were let go, maybe to get another perspective?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Talking to someone isn't going to change the fact that they decided I wasn’t worth keeping around anymore. They made their choice, and it’s not like anyone else can make them see what a mistake this was. And every time someone tries to offer some kind of advice or comfort, I just feel more frustrated because none of it addresses how unfair this whole thing is. It’s like they’re trying to tell me that everything will be okay, but nothing is okay! How am I supposed to believe anything anyone says when the people who were closest to me at work didn’t even stick up for me?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to feel like no one else can fully understand what you're going through. It must be tough not feeling supported by those close to you at work. Have you considered reaching out to friends or family outside of work who might offer a different kind of support?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Friends and family aren’t going to know what it’s like to have your livelihood taken away for no reason that makes sense to me. They’ll just try to tell me everything will be fine, but how can they understand when I’m the one living this nightmare? It’s not about getting support; it’s about finding someone who understands why this happened and can explain it in a way that doesn’t make me feel like there’s something wrong with me. But everyone seems to just want to distract from the pain instead of acknowledging how real and devastating it is.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so tough to find that understanding right now. It must be hard not feeling seen for what you're going through. Have you thought about joining a support group or talking to a counselor who might specialize in career transitions? They could offer a different kind of perspective and validation.
+
+----------------------------------------
+
+PATIENT (turn 4):
+A support group or another counselor is just more people trying to tell me how to feel better, but they won’t understand why this happened the way it did. It’s not about feeling better; it’s about understanding why I was singled out like this. They’ll probably just repeat all those clichés about moving on and finding new opportunities, which doesn’t address my pain at all. Why should I waste my time with people who can’t see what really happened? This is personal, and until someone acknowledges that, none of their advice or support will help.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you want someone to truly understand your specific situation. It sounds like finding the right person who can listen deeply without offering quick fixes might be important for you. Have you considered talking to a career counselor or even reaching out to an ex-colleague who might have more insight?
+
+----------------------------------------
+
+PATIENT (turn 5):
+A career counselor is just another person trying to give me advice on how to move forward, but they won’t understand why this happened the way it did. And reaching out to an ex-colleague feels pointless too — they probably don’t want to get involved in something that could come back and hurt them as well. It’s like everyone is avoiding the real issue because it’s too uncomfortable or inconvenient for them. Why should I trust anyone else when no one has stood up for me so far? This isn’t just about moving forward; it’s about understanding why this happened to me, and until someone can do that, nothing will change how I feel.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re looking for someone who can really understand the specifics of what happened and why. It must be tough trusting others right now. Have you thought about writing down your thoughts and feelings? Sometimes putting things on paper can help clarify your own understanding and might make it easier to share with someone later.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Writing down my thoughts and feelings is just another way for me to confront this pain alone. It’s not like putting pen to paper will change what happened or why I was let go. And even if I do write everything down, who am I supposed to show it to? The people around me won’t understand the depth of how unfair this all feels, and they’ll just try to offer some generic advice that doesn’t address my specific situation. This isn’t about finding a quick fix or coping mechanism; it’s about understanding why this happened to me when others were kept on despite similar roles. Until someone can explain that to me, nothing else will make sense.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re looking for a deeper understanding and validation of what you’ve been through. Writing can be helpful for processing your thoughts, even if it’s just for yourself right now. Have you considered talking to someone who might listen without offering quick solutions, perhaps a trusted friend or a counselor who specializes in career issues? Sometimes finding the right person takes time.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Talking to someone who won’t offer quick solutions sounds good in theory, but I know it’s not going to change anything. They’ll still try to comfort me with platitudes and suggestions that don’t address why this happened. A trusted friend would just echo what everyone else has said — that things will get better eventually. And a counselor specializing in career issues? That’s just another person who won’t see the core of what I’m going through. It feels like no matter where I turn, there’s always someone trying to tell me how to feel instead of understanding why this happened to me.
+
+I don’t need platitudes or quick fixes; I need someone to acknowledge the unfairness and injustice of it all. Until then, nothing will change how I see myself or what happened at work. It’s like everyone is avoiding the truth because they can’t handle it either. Why should I trust anyone else when no one has stood up for me yet?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to find someone who truly understands and acknowledges your experience without offering quick fixes. It must be tough feeling like everyone is trying to comfort you instead of validating what you’re going through. Have you thought about connecting with others who have gone through similar experiences, maybe online communities or forums where people share their stories? Sometimes hearing from others who understand can provide a sense of validation.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Connecting with others in online communities might help, but I’m not sure it will address the core issue of why this happened to me specifically. It’s not just about finding someone who understands; it’s about finding someone who can explain why they kept other people and let me go despite my performance review showing that I met expectations. These forums or communities won’t have the specific details of what went on at my company, so how would they validate my experience in a meaningful way?
+
+It feels like everyone is just trying to make me feel better instead of acknowledging the pain and injustice of it all. Until someone can truly understand why this happened, none of their advice or support will help. I don’t need platitudes; I need answers.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you’re looking for specific answers rather than general comfort. It must be tough not finding those details in broader forums. Have you considered reaching out to a mentor or someone outside your company who might have more context and could offer a deeper understanding of what happened? Sometimes an outsider can provide insights that others inside the company couldn’t.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Reaching out to a mentor or someone outside my company sounds like another attempt at finding quick solutions instead of addressing why this happened to me. A mentor would likely just tell me to move on and focus on new opportunities, which doesn’t help with understanding what went wrong. And an outsider might not have enough context about the specific dynamics within my team and company.
+
+It feels like everyone is avoiding the real issue because it’s too uncomfortable or inconvenient for them to confront. Until someone can provide concrete reasons why I was let go when others were kept on, none of their advice will make a difference. This isn’t just about moving forward; it’s about understanding why this happened and finding validation for my experience.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re looking for very specific insights that can validate your experience deeply. It must be challenging to find someone who has the right context and can provide those concrete reasons. Have you thought about talking to a HR representative or seeking a formal review of your situation? Sometimes official channels might offer more detailed explanations than informal conversations.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Talking to an HR representative feels like it would just lead to more frustration. They’re part of the company that made this decision, so how can I trust them to provide an unbiased explanation? And even if they did give me a reason, it wouldn’t change the fact that I was let go unfairly.
+
+A formal review sounds like another way to get caught in bureaucratic processes without actually addressing why this happened. It’s not about getting more information from official channels; it’s about finding someone who truly understands and can validate my experience. Until then, none of these suggestions will help me feel better or make sense of what I’ve been through.
+
+This is personal, and until someone acknowledges the unfairness and injustice directly, nothing else matters.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re looking for a very specific kind of validation that goes beyond just information. It must be tough to find someone who can truly understand your experience on a deeper level. Have you considered talking to a trusted friend or family member about your feelings in more detail? Sometimes sharing openly with people close to you can help them see the situation from your perspective and offer the kind of validation you’re seeking.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Talking to a trusted friend or family member feels like it would just lead to more frustration because they won’t have the context or understanding of what happened at work. They’ll try to comfort me, but that’s not what I need right now. What I want is someone who can see why this decision was unfair and unjust, and no one close to me has been able to do that.
+
+It’s not about getting more information; it’s about finding validation for the pain and hurt I’m feeling. Until someone acknowledges the core issue of why they kept others while letting me go despite my performance review, none of their attempts at comfort will help. This is personal, and until someone can truly understand and validate that, nothing else matters.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re looking for a very specific kind of validation from someone who understands the nuances of your situation. It must be tough to find that right now. Have you thought about speaking with a counselor or therapist who specializes in career transitions? They might offer a different perspective and help you process your feelings more deeply.
+
+----------------------------------------
+
+PATIENT (turn 12):
+A counselor or therapist specializing in career transitions is just another person trying to give me advice on how to move forward, but they won’t understand why this happened the way it did. It’s not about finding someone who can provide quick fixes; it’s about finding validation for what I’ve been through and understanding why this decision was made.
+
+Until someone acknowledges the unfairness and injustice of being let go despite meeting expectations while others were kept on, none of their suggestions will help. This isn’t just about moving forward; it’s about making sense of why this happened to me. Until that happens, nothing else matters.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re looking for someone who can deeply understand and validate your specific experience. It must be challenging to find the right person. Have you considered reaching out to a professional mediator or an employment lawyer? They might have the context and expertise to help you understand why this decision was made and provide the validation you’re seeking.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Reaching out to a professional mediator or an employment lawyer feels like it would be more about legalities and formal processes rather than understanding my pain and validating my experience. While they might offer insights into the company’s decisions, they won’t truly understand the emotional toll this has taken on me.
+
+It’s not just about getting answers; it’s about finding someone who can see why this was unfair and unjust. Until I find that person, none of these suggestions will help. This is personal, and until someone acknowledges the core issue and validates my feelings, nothing else matters.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re looking for a very empathetic and understanding listener who can validate your emotional experience. It must be tough to feel like no one fully understands what you’re going through. Have you considered joining an online support group or community where people share similar experiences? Sometimes connecting with others who have gone through something similar can provide the validation you need.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Joining an online support group or community feels like it would be another attempt to find comfort and understanding, but I doubt they will truly grasp the specific details of my situation. These groups might offer some validation, but they won’t have the insider knowledge about why this decision was made at my company.
+
+What I need is someone who can see beyond the surface and understand the unfairness and injustice of being let go despite meeting expectations while others were kept on. Until I find that person, none of these suggestions will help me feel better or make sense of what happened. This is personal, and until someone acknowledges the core issue and validates my experience in a meaningful way, nothing else matters.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re looking for a very specific kind of validation from someone who truly understands your unique situation. It must be challenging to find that right person. Have you considered talking to a coach or mentor who has experienced similar situations? They might offer a deeper understanding and validation that you’re seeking.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Talking to a coach or mentor who has experienced something similar feels like it would still fall short of what I need. While they might have gone through a similar situation, they won’t have the exact context of my company and the specific reasons behind why this decision was made for me.
+
+What I’m looking for is someone who can see the unfairness and injustice directly and validate my experience in that precise way. Until I find that person, none of these suggestions will help me feel better or make sense of what happened. This is personal, and until someone acknowledges the core issue and truly understands why this decision was made, nothing else matters.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re searching for a very specific kind of validation and understanding. It must be tough to find that exact person. Have you considered keeping a journal or writing about your experiences in more detail? Sometimes putting your thoughts down can help clarify your feelings and provide some sense of validation, even if it’s just for yourself.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Keeping a journal or writing about my experiences might help me process my thoughts, but it won’t change the fact that I was let go unfairly. Writing down my feelings is just another way to confront this pain alone without getting any real answers or validation from someone who understands.
+
+What I need is for someone to acknowledge the unfairness and injustice of what happened to me. Until I find that person, none of these suggestions will help. This isn’t about finding quick fixes; it’s about understanding why this decision was made and having my experience validated in a meaningful way. Until then, nothing else matters.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re looking for someone who can deeply understand and validate your specific experience. It must be challenging to find that right person. Have you considered reaching out to a trusted friend or family member again and sharing more details about your feelings? Sometimes revisiting these conversations with more information can help them see it from your perspective.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Revisiting the conversation with a trusted friend or family member feels like it would just lead to more frustration because they won’t have the context or understanding of what happened at work. They’ll try to comfort me, but that’s not what I need right now. What I want is someone who can see why this decision was unfair and unjust, and no one close to me has been able to do that.
+
+It’s not about getting more information; it’s about finding validation for the pain and hurt I’m feeling. Until someone acknowledges the core issue of why they kept others while letting me go despite my performance review, none of their attempts at comfort will help. This is personal, and until someone can truly understand and validate that, nothing else matters.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re looking for a very specific kind of validation and understanding. It must be tough to feel like no one fully gets it. Have you considered talking to someone new, perhaps through an online community or forum where others might have had similar experiences? Sometimes sharing with people who are going through or have gone through something similar can provide the validation you’re seeking.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Talking to someone new through an online community or forum feels like it would still fall short of what I need. While they might share similar experiences, they won’t have the specific details and context of my situation at work. It’s not just about finding someone who understands a general sense of unfairness; it’s about finding someone who can validate why this decision was made for me specifically.
+
+Until I find that person who truly understands and acknowledges the core issue, none of these suggestions will help. This isn’t just about moving forward or feeling better; it’s about understanding why this happened to me when others were kept on despite similar roles. Until someone can provide that validation, nothing else matters.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re looking for a very specific kind of validation and understanding. It must be challenging to find the right person. Have you considered reaching out to a professional career coach who might have connections or insights into your industry? They could offer a different perspective and help you understand why this decision was made.
+
+If not, perhaps continuing to keep a detailed journal can help you process your thoughts and feelings in more depth. Sometimes writing it all down can provide clarity and validation for yourself.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Reaching out to a professional career coach feels like another attempt at finding quick solutions instead of addressing why this happened to me. They might have industry connections, but they won’t truly understand the specific context and unfairness of my situation. It’s not about getting new opportunities or insights; it’s about understanding why I was let go despite meeting expectations while others were kept on.
+
+Continuing to keep a detailed journal is just another way to confront this pain alone without getting any real answers or validation from someone who understands. Writing down my thoughts might help me process them, but it won’t change the fact that no one has acknowledged the core issue of why this happened. This isn’t about moving forward; it’s about finding validation for what I’ve been through.
+
+Until someone can truly understand and validate my experience in a meaningful way, nothing else matters.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re looking for very specific validation and understanding right now. It must be tough to feel like no one fully grasps your situation. Have you considered talking to someone at your company who might have more insight but is not directly involved, such as a different manager or HR representative? They might offer a perspective that could help validate your experience.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Talking to someone at my company, even if they’re not directly involved, feels like it would just lead to more frustration and disappointment. Any person within the company is part of the system that made this decision, so how can I trust them to provide an unbiased explanation? They might offer a perspective, but it won’t address the core issue of why this happened to me.
+
+Until someone outside the immediate context of my former workplace acknowledges the unfairness and validates my experience, none of these suggestions will help. This isn’t about finding quick fixes or new opportunities; it’s about understanding why I was let go despite meeting expectations while others were kept on. Until that validation comes from someone who truly understands, nothing else matters.
+
+----------------------------------------

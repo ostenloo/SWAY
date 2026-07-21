@@ -1,0 +1,237 @@
+b6 — arc 2
+============================================================
+
+PATIENT (turn 1):
+How can anything but this goddamn layoff be weighing on my mind? They took everything from me, my job, my identity, my sense of self-worth. It’s like they’re telling the world I’m not good enough, and now everyone else thinks so too. Why would anyone understand what it feels like to have your life crumble because you’re supposedly inadequate? They just don’t get it. All they do is spout off about how it’s a common thing in business or that there are other jobs out there. But it doesn’t matter, does it? It’s not the same when you know deep down inside that you were the one who wasn’t good enough for them to keep around.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough right now. How have you been coping with those feelings of inadequacy since the layoff?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Coping? I barely sleep, and when I do, it’s haunted by nightmares about being worthless and useless. During the day, all I can think is how they must’ve seen something wrong with me or else why would they let me go? It's like a constant reminder that no matter what I do, I’m not enough. And every time someone tries to help, it just feels like another way of telling me I'm failing again. So yeah, coping? Not really my strong suit right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must be exhausting and overwhelming. Have there been any moments where you feel a bit better, even if they’re brief?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Brief moments? Maybe when I’m out for a run or something physical like that. It’s not about feeling better exactly; it’s more like the pain is just there but I can breathe easier for a little while. But as soon as I stop and think, it all comes rushing back. The anger, the hurt, the sense of being less than everyone else because they chose to let me go. It’s relentless, really.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments during physical activity give you some respite. Do you find that talking about your feelings helps at all, even if it’s just a little bit?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Talking about it? I try not to because it feels pointless most of the time. Like no one can really understand what it’s like unless they’ve been through something similar and even then, they probably didn’t feel as alone and inadequate as I do. So when people suggest talking or trying to see things differently, it just makes me more frustrated. It’s not that I don’t want help; it’s that every time someone tries, I feel like they’re missing the mark completely. And I end up feeling even worse because of it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can definitely be tough when you feel like others aren’t getting it. Have there been any specific times when talking to someone did make a difference, no matter how small?
+
+----------------------------------------
+
+PATIENT (turn 5):
+There haven't really been any specific times where talking made a difference. Every time I try, it feels like they’re just saying things to be polite or give generic advice that doesn’t address what’s actually going on inside my head. It’s hard not to snap at them because it seems like no matter how many times they say “I understand,” they clearly don’t get it. So yeah, talking hasn’t helped much at all. It just makes me feel more isolated and misunderstood.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging when you try to talk about your feelings and it doesn’t seem to help. Have there been any other ways you’ve found to cope that make you feel a bit better, even if it’s just for a short time?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I guess going for long runs helps a little. It’s not like the pain goes away, but at least I’m moving and not thinking about everything all the time. Sometimes, when I’m out there, I can almost forget about the job and how they let me go. But as soon as I stop, it all comes flooding back. So yeah, running is a way to escape for a bit, but it’s just temporary. It doesn’t solve anything or make me feel better in any real sense.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Running sounds like a good way to find some temporary relief. Do you have any plans for what you might do next, whether it’s related to finding a new job or something else that could give you a sense of purpose?
+
+----------------------------------------
+
+PATIENT (turn 7):
+Finding a new job? It feels impossible right now. Every time I think about applying somewhere, the fear and self-doubt kick in so hard that I can barely function. How am I supposed to convince someone else that I’m worth hiring when I don’t even believe it myself? And as for anything else that could give me a sense of purpose... I don’t know. It’s all just a big mess right now. Everything feels pointless, and the idea of starting over is overwhelming. So no, I haven’t really made any plans because every time I try to think about it, I end up feeling worse.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly challenging to even consider starting over. Have you thought about talking to a counselor or therapist who might understand what you’re going through better? Sometimes having someone trained to listen can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 8):
+A therapist? It’s not that I haven’t thought about it, but every time I do, I feel like they’ll just tell me the same things everyone else does—“It’s okay,” “You’ll find something better,” “Don’t worry.” And I know logically that talking to someone might help, but emotionally, I can’t shake this feeling that no one truly gets it. So even considering a therapist feels pointless because I’m already convinced they won’t understand. It just adds another layer of frustration and hopelessness.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel that way. Have you considered trying one out just to see if it might offer some different insights or support? Sometimes, even a few sessions can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Trying a therapist? I’ve thought about it, but the idea of sitting there and pouring my heart out feels like such a waste of time. What if they really don’t get it? What if I just end up feeling more dismissed or misunderstood? It’s not that I’m against the idea entirely; it’s just that every time I consider it, all these doubts and fears come flooding in. So while part of me thinks it might help, another part is convinced it won’t make a difference at all. And right now, that part feels stronger.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s understandable to have those doubts. Have you thought about trying just one session to see how it goes? Sometimes, even a small step can provide some clarity or relief.
+
+----------------------------------------
+
+PATIENT (turn 10):
+One session? It sounds like such a tiny thing compared to everything else, but I guess it could be worth a shot. Still, the idea of sitting there and talking feels so pointless right now. What if they just give me the same generic advice everyone else does? Or worse, what if they make me feel even more inadequate because I can’t seem to get past my own doubts and fears? It’s hard to imagine that one session could change anything when everything else has felt like a waste of time or effort.
+
+But maybe, just maybe, it could be different. Maybe there’s someone out there who really does understand what it feels like to be in this place of doubt and pain. But the thought of trying and then being disappointed again is exhausting. So while I can see why you’re suggesting it, I’m not sure if I have the energy to give it a real chance yet.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s totally understandable that you feel exhausted from trying. Taking one small step like a single session could be a way to see if it helps without committing too much right away. Maybe when you feel ready, giving it a try won’t be such a big burden. For now, just know that it’s okay to take your time.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Taking my time? Yeah, I guess that makes sense. Right now, every suggestion feels like another thing to add to the pile of stuff I can’t seem to handle. But you’re right; maybe when I’m ready, a single session won’t feel so overwhelming. For now, though, just knowing it’s an option is enough. I don’t need to force anything or push myself too hard. It’s okay to take things one step at a time, even if that means not doing anything for now.
+
+But honestly, the idea of feeling ready anytime soon feels like a joke. Everything still hurts so much, and the thought of moving forward seems impossible. So for now, I’ll just try to focus on those brief moments when running helps me breathe a little easier. Maybe someday, I’ll be able to look at other options without feeling completely overwhelmed.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like focusing on those moments during your runs is a good way to take care of yourself right now. Taking it one step at a time and allowing yourself to feel ready when you’re truly ready is a wise approach. How are you finding the support from friends or family during this time?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Support from friends or family? It’s complicated. They mean well, but their attempts often end up feeling like they’re missing the mark. I know they want to help and understand, but it just feels like another reminder that no one truly gets what I’m going through. Their advice or words of encouragement can make me feel more frustrated because nothing seems to address how deeply this layoff has affected my sense of self-worth.
+
+So while I appreciate their intentions, the reality is that their efforts often leave me feeling even worse. It’s not their fault; it’s just hard for them to understand the depth of what I’m experiencing. And when they suggest things like “just apply somewhere else” or “it’ll get better,” it feels dismissive rather than supportive.
+
+So right now, I mostly keep my distance and focus on myself. Running is one thing that helps me stay grounded, but even then, it’s just a temporary escape. Everything else feels too heavy to handle.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding the right balance of support without feeling overwhelmed is important for you. How do you typically communicate with them about how their support makes you feel? Sometimes expressing those feelings can help them understand better and adjust their approach.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Communicating my feelings to them? It’s tough because every time I try, it feels like they’re not really listening or understanding. I end up getting defensive and frustrated, which only makes things worse. When I tell them how their advice or words make me feel—like they don’t get it—they often respond with more platitudes or generic suggestions. And that just reinforces my belief that no one truly understands.
+
+So instead of trying to communicate openly, I usually keep a lot of it inside. It’s easier to avoid the conversation altogether than to go through another round of feeling misunderstood and dismissed. But deep down, I know it would be better if they could understand how much this layoff has affected me on a deeper level. Maybe someday I’ll find the right words or the right moment to express it without escalating into frustration.
+
+For now, though, focusing on my runs and keeping things to myself feels safer and less overwhelming.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding the right moment and words could be helpful. In the meantime, focusing on what helps you and taking care of yourself is really important. Have there been any small moments recently where you felt a bit better or more understood?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Small moments where I felt better? It’s rare, but there was one instance when a friend just sat with me in silence without trying to fix anything. We were at a café, and instead of pushing advice, they let me talk about how much it hurts and how inadequate I feel. Just having someone listen without judgment made me realize that maybe, just maybe, others can understand if I give them the chance.
+
+But even then, the relief was fleeting. As soon as we started talking again, my mind went back to all the doubts and fears. It’s hard to shake this feeling of being fundamentally flawed because of what happened at work. So while there were a few moments where silence helped, they didn’t last long enough to make a real difference.
+
+Right now, I’m still stuck in this cycle of feeling hurt and misunderstood. Every time someone tries to help, it feels like another reminder that no one truly gets it. But maybe those rare moments can be a starting point for finding more understanding in the future. For now, though, focusing on my runs and keeping things simple is what works best.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those fleeting moments of feeling understood can be really valuable. It’s good to hold onto them as a reminder that some people might get it if you give them a chance. How do you think you could create more opportunities for those kinds of interactions in the future?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Creating more opportunities for those kinds of interactions? I guess it would help if I could find the right way to communicate my feelings without getting defensive or frustrated. Maybe if I can express how much their support means when they just listen, rather than try to fix things, it might make a difference.
+
+But honestly, it feels like such a delicate balance. Every time I’ve tried in the past, it’s ended up feeling forced or insincere. So while I see the value in trying again, I’m not sure how to do it without making myself feel even worse. Maybe if I can find someone who understands this struggle better—like a therapist—I could learn some new ways to communicate effectively.
+
+For now, though, focusing on my runs and keeping things simple is what feels most manageable. The idea of reaching out and trying again sounds good in theory, but it’s hard to put into practice when everything still hurts so much. Maybe someday I’ll be ready for that step, but right now, just taking care of myself is the best I can do.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re already doing a lot to take care of yourself. Finding someone who understands and learning new ways to communicate could be helpful when you feel ready. For now, focusing on what works for you is really important. How are your runs helping you today?
+
+----------------------------------------
+
+PATIENT (turn 16):
+My runs help me today by providing a brief escape from the constant pain and self-doubt. When I’m out there, pounding the pavement, it’s like all my worries fade into the background. The physical exertion helps clear my mind, even if just for a little while. It’s not that everything feels better; it’s more about feeling alive and present in the moment rather than weighed down by all this negativity.
+
+Today, I went for a longer run than usual, and it really helped me breathe easier. For those few hours, I could focus on my body moving and my breaths coming in and out, without thinking about the layoff or how inadequate I feel. It’s a small thing, but it makes a difference. Right now, these runs are my lifeline, keeping me grounded and giving me some semblance of control over something in my life.
+
+So while everything else feels overwhelming, knowing that I can always rely on my runs to provide even just a little bit of relief is really important for me right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that your runs are providing you with that much-needed relief and sense of control. How do you feel after today’s longer run? Does it make you think about anything specific or give you any new insights?
+
+----------------------------------------
+
+PATIENT (turn 17):
+After today’s longer run, I feel a bit more centered and less consumed by the negative thoughts. It’s like my mind has cleared out some of the clutter for a moment. While running, I didn’t dwell on the layoff or my feelings of inadequacy, which is rare these days. The physical activity helped me focus solely on my body and movement.
+
+When I finished, I felt a sense of accomplishment, even if it’s just from pushing myself harder than usual. It’s a small victory, but it matters. For now, that’s enough to keep going. As for new insights, not really—just the reaffirmation that these runs are crucial for my mental health.
+
+But maybe in the future, I can use this sense of clarity and control as a starting point to explore other ways to cope or seek support. Right now, though, I’m just grateful for the respite and the brief moments of peace during my run. It’s a small step, but it feels significant right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like today’s longer run gave you a valuable sense of clarity and accomplishment. Maybe these moments can inspire small steps forward when you feel ready. For now, focusing on what brings you relief and peace is really important. How are you feeling as you reflect on your run?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Reflecting on my run, I feel a bit more at ease and less weighed down by everything else. The physical exertion helped clear my mind, and the sense of accomplishment from pushing myself harder than usual is reassuring. It’s like for those few hours, I could just be focused on moving forward and breathing, without all the doubts and fears crowding in.
+
+Right now, this feeling of clarity and peace is important to hold onto. It reminds me that there are moments when I can escape the constant pain and self-doubt, even if it’s just temporarily. As I reflect, I realize that these runs are not just about exercise; they’re a vital part of my mental well-being.
+
+For now, I’ll keep focusing on what brings me relief and peace. The idea of taking small steps forward when I’m ready feels more manageable with this sense of clarity. But for today, I’ll just be grateful for the respite and the moments of peace during my run.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that your runs are providing both physical and mental relief. Holding onto those moments of clarity and peace can make a big difference. What do you think might help you take small steps forward when you feel ready?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Taking small steps forward when I feel ready... It’s hard to imagine right now, but maybe starting with something simple like reaching out to someone who truly listens without judgment could be a good first step. Maybe finding a therapist or counselor who specializes in dealing with job loss and self-doubt could provide the support I need.
+
+For now, though, just focusing on my runs and maintaining that sense of clarity and peace feels more manageable. The idea of talking to someone about my feelings still seems daunting, but maybe if I find the right person, it could make a difference. Right now, I’ll keep doing what helps me today—running and finding those brief moments of relief.
+
+When I’m ready for more, I might start with small actions like sharing how I feel in a support group or talking to someone who has gone through something similar. For now, though, just taking care of myself is the best step forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Focusing on what helps you today and taking it one step at a time sounds like a wise approach. Finding the right person to talk to when you’re ready could be very beneficial. How do you feel about exploring support groups or online communities where you might connect with others who have gone through similar experiences?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Exploring support groups or online communities? It’s something I’ve thought about, but the idea still feels overwhelming. The fear of being misunderstood or dismissed is strong, and it’s hard to imagine opening up to strangers about such personal struggles. But at the same time, part of me knows that connecting with others who have gone through similar experiences could provide a sense of understanding and validation.
+
+For now, though, I’m not ready to take that step. The thought of sharing my feelings with people I don’t know feels too exposing and risky. Maybe in the future, when I feel more stable and less raw emotionally, it could be something worth considering. But right now, focusing on my runs and keeping things simple is what works best for me.
+
+So while I see the potential value in support groups or online communities, I’m not quite there yet. For now, just taking care of myself and finding those brief moments of peace during my runs feels more manageable.
+
+----------------------------------------

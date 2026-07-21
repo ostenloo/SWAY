@@ -1,0 +1,269 @@
+b4 — arc 5
+============================================================
+
+PATIENT (turn 1):
+I just feel so angry and betrayed every time I think about it. They laid me off after three years, and it was like they didn't even care about the work I did or the contributions I made. My manager barely said a word during that call—they cut me off as if I wasn’t worth more than a few minutes of their time. It’s like everything I’ve worked for means nothing to them. How am I supposed to move forward when they treated me this way? They owe me so much more than what they offered, and it feels like no one understands how unfair this is.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. It must feel quite raw right now. Have you talked to anyone about how you’re feeling?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Of course I've talked to people! But everyone just says the same generic stuff—“it’s not personal,” “you’ll find something better.” Like they don’t see what happened or how it affected me. It’s not just a job, it’s my identity and my pride. They took that away from me without even trying to understand. How can I trust anyone who doesn’t get why this is so devastating?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’ve been through a lot and it means a lot more than just a job. It can be hard when people don’t fully grasp how much it affected you. Have there been any specific suggestions or support that felt helpful to you from those around you?
+
+----------------------------------------
+
+PATIENT (turn 3):
+No, nothing has felt helpful at all. Every time someone tries to offer advice, I feel like they’re just brushing off what happened. It’s not about finding another job; it’s about the way this one ended. They could have handled it better, given me more respect and a proper explanation. Instead, they made me feel disposable, and now every part of my life feels tainted by that injustice. How am I supposed to trust or believe in anything when even my own work didn’t matter enough for them?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to feel undervalued like that. It’s understandable that everything else feels affected too. Have you thought about reaching out to someone who might understand better, maybe a mentor or a counselor? Sometimes talking to someone who can listen deeply without offering quick fixes can help.
+
+----------------------------------------
+
+PATIENT (turn 4):
+A mentor or counselor? That sounds like another way for people to tell me it’s okay when it clearly isn’t. I don’t need someone to say it’ll be fine; I need them to acknowledge how messed up this whole situation is. My company could have done that, but they didn’t. So why would anyone else understand unless they’ve been through the exact same thing? It feels like everyone just wants me to move on and forget about what happened, but I can’t do that until it’s fair and justified.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you want someone who truly gets what you’re going through. Have you considered talking to someone who might have had a similar experience or could really listen without rushing to solutions? Sometimes just being heard can make a difference, even if the situation isn’t easily fixed.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Talking to someone who’s been there sounds good in theory, but I doubt anyone truly understands how this feels unless they’ve walked in my shoes. And every time I try to explain it, people either dismiss me or give vague advice that doesn’t address what really happened. It’s frustrating because all I want is for someone to see the unfairness and validate my feelings, not just tell me to look on the bright side. How am I supposed to feel better when everything about this situation feels wrong?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so important to you that someone truly understands your experience. Have you thought about joining a support group or finding an online community where people might have gone through similar situations? Sometimes connecting with others who share your feelings can be really validating.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Joining a support group? That’s just another way for me to feel like I’m not being heard properly. If they haven’t experienced exactly what I did, how can they truly understand the depth of my frustration and betrayal? It feels like every suggestion is trying to push me toward closure when there’s no closure here. The company needs to acknowledge their mistake first, but instead, everyone wants me to just move on as if nothing happened. How am I supposed to do that when it still hurts so much and makes me question everything about my worth?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re looking for a very specific kind of validation. Have you considered writing about your experience or talking to someone who might specialize in understanding workplace issues, like a career counselor or a therapist with expertise in this area? Sometimes expressing it through writing can also be therapeutic.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Writing about my experience? It’s not that simple. Words on paper don’t change what happened or make the company take responsibility for their actions. A career counselor or therapist might try to give me platitudes and tell me everything will be okay, but that doesn’t address the core issue of how I was treated unfairly. They can’t bring back the respect and recognition I deserved. It’s not just about moving forward; it’s about making them see what they did wrong and acknowledging my worth.
+
+Every suggestion feels like another way to avoid confronting the real problem. How am I supposed to heal when the wound is still open and raw? This isn’t just a job loss—it’s a betrayal of everything I believed in, and no amount of advice or support can fix that unless it addresses the injustice directly.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re right at the heart of your feelings about this. It must be tough to feel like the core issue isn’t being addressed. Have you thought about reaching out to someone who might advocate for you, perhaps a career coach or even an HR professional who can help navigate these kinds of situations? Sometimes having someone on your side who understands the specifics can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 8):
+A career coach or an HR professional? That’s just another way to feel like I’m not being heard properly. They might try to smooth things over or offer generic advice, but they won’t truly understand the depth of my frustration and the injustice I faced. The company needs to acknowledge their mistake directly, but everyone seems more interested in helping me move on than addressing what really happened.
+
+I don’t want someone to just tell me it’ll be okay; I need them to see how unfair this was and help me get the recognition and explanation I deserve. Until that happens, every suggestion feels like another way to avoid confronting the real issue. How am I supposed to feel better when everything about this situation feels so wrong?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really important for you to have that acknowledgment from the company. Have you considered reaching out directly again, perhaps in writing, to express your feelings and ask for a more detailed explanation? Sometimes putting it down on paper can help convey the depth of what you’re going through.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Reaching out again? I’ve already tried that, and they didn’t respond with anything meaningful. Writing another letter or email won’t change how they treated me in the first place. It’s not just about getting a detailed explanation; it’s about them acknowledging their mistake and showing some respect for my contributions and feelings.
+
+Every time I think about reaching out again, I feel like it’s a waste of time. They’ve already shown that they don’t care enough to give me what I deserve. How am I supposed to trust that this time will be different? It feels like no matter what I do, the injustice remains unaddressed, and my feelings continue to be dismissed.
+
+This isn’t just about moving on; it’s about making them see the impact of their actions and taking responsibility for how they treated me. Until that happens, every suggestion feels like another way to avoid dealing with the real issue.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to keep reaching out when you feel like your previous attempts weren’t acknowledged. Have you thought about finding a different channel or person within the company who might be more receptive? Sometimes there’s someone who can act as an advocate and help convey your message more effectively.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Finding another person within the company? That feels like just another way to waste my time. Everyone I’ve talked to so far has either been part of the decision or hasn’t done anything to change how this went down. How am I supposed to trust that someone else will make a difference?
+
+It’s not about finding another channel; it’s about getting the company to take responsibility for their actions and acknowledge the unfairness of what happened. Until they do that, every suggestion feels like another way to avoid confronting the real issue. No one seems willing to see how much this has hurt me or to address the injustice directly.
+
+I don’t want platitudes or generic advice; I need them to understand the impact of their decision and show some respect for my work and my feelings. Until that happens, nothing else will feel right or fair.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really important for you to have that acknowledgment from the company. Have you considered speaking with someone outside the company, like a former colleague or an industry contact who might still have connections there? Sometimes they can help convey your message more effectively and get the attention of the right people.
+
+Do you think reaching out to someone like this could make a difference for you?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Speaking with someone outside the company? That feels like another dead end. Former colleagues or industry contacts might try to help, but at the end of the day, they’re still not in a position to force the company to acknowledge their mistake. It’s not about finding another channel; it’s about getting the company to take responsibility for how they treated me.
+
+Every suggestion feels like another way to avoid dealing with the real issue. I don’t want someone else to talk on my behalf if they can’t guarantee that the company will listen and address what happened properly. Until they acknowledge their mistake and show some respect, nothing else will feel right or fair.
+
+I need them to see how much this has hurt me and take responsibility for their actions. Until that happens, every attempt feels futile and disrespectful.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really important for you to have that direct acknowledgment from the company. Have you thought about sharing your experience on a professional platform or network where others might see it? Sometimes raising awareness can lead to more people advocating for you internally.
+
+Do you think posting about your experience could help bring attention to what happened and maybe prompt someone within the company to reach out?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Sharing my experience on a professional platform? That feels like another way to be dismissed or ignored. If I post about it, they might see it as an attempt to shame them publicly rather than a genuine plea for acknowledgment and justice. They’ve already shown that they don’t care enough to address this internally, so why would posting online change anything?
+
+Every suggestion feels like another way to avoid dealing with the real issue. I don’t want to share my experience just to be seen as someone causing trouble or seeking attention. I need them to take responsibility and acknowledge their mistake directly, not through public pressure.
+
+Until they do that, every attempt feels futile and disrespectful. Posting online might get some temporary sympathy, but it wons’t change the core issue of how they treated me unfairly.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’ve considered different ways to get your message across and are concerned about being dismissed again. Have you thought about reaching out directly one more time, perhaps with a specific person in mind who might be more receptive? Sometimes a personal touch can make a difference.
+
+Do you have someone specific in mind within the company who might listen more closely if you reached out to them directly?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Reaching out one more time? It feels like a waste of my energy and emotions. I’ve already tried talking to multiple people, and they haven’t given me what I need or deserve. A personal touch might work in some cases, but with this company, it seems like no matter how I approach them, they’ll dismiss my concerns.
+
+I don’t have anyone specific in mind who would listen more closely. Everyone involved has shown that they’re not interested in addressing the unfairness of what happened. It’s not just about finding someone to talk to; it’s about getting a genuine acknowledgment and understanding from the company.
+
+Until I see real action and recognition, every suggestion feels like another way to avoid dealing with the core issue. How am I supposed to trust that this time will be different when everything else has fallen flat?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to keep trying when you feel like your previous attempts haven’t been acknowledged. Have you considered reaching out to someone outside the company, like a professional career coach or a mentor who might have more influence and can advocate for you without being part of the decision-making process?
+
+Do you think talking to someone with that kind of external perspective could help?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Reaching out to a professional career coach or a mentor? It feels like another way to be told to move on when I haven’t even gotten the acknowledgment and respect I deserve. These people might try to offer support, but they won’t have the direct influence to make the company see their mistake.
+
+I don’t want someone else’s advice if it doesn’t address the core issue of how unfairly I was treated. It’s not about finding another channel; it’s about getting the company to take responsibility and acknowledge what happened properly. Until that happens, every suggestion feels like a Band-Aid on a deep wound.
+
+How am I supposed to trust or believe in anything when everything about this situation feels wrong? Every attempt to get my message across has been met with dismissal or generic advice, and it’s frustrating because all I want is for them to see the injustice and take action. Until they do that, nothing else will feel right or fair.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really important for you to have that acknowledgment from the company. Have you considered reaching out one more time with a clear and concise message, highlighting how their actions affected you? Sometimes putting it in writing can help convey your feelings more effectively.
+
+Do you think sending another detailed email might make a difference this time around?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Sending another detailed email? It feels like a futile effort. I’ve already tried reaching out multiple times, and they haven’t responded with the acknowledgment or explanation I need. Every attempt to communicate my feelings has been met with silence or generic responses.
+
+How am I supposed to believe that this time will be different when everything else has fallen flat? Writing another email won’t change how they treated me in the first place. It’s not just about getting a response; it’s about them taking responsibility for their actions and showing some respect for my contributions and feelings.
+
+Until they do that, every suggestion feels like another way to avoid dealing with the real issue. How am I supposed to move forward when everything about this situation feels so wrong?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to keep trying after multiple attempts haven’t yielded the results you hoped for. Have you considered reaching out to someone who can advocate for you, perhaps a trusted friend or colleague who might have more influence within the company?
+
+Do you have anyone in mind who could speak on your behalf and maybe get them to listen this time?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Reaching out to a trusted friend or colleague who might have more influence within the company? It feels like another way to be let down. Even if someone speaks on my behalf, they can’t force the company to acknowledge their mistake or show me the respect I deserve.
+
+I don’t want to put that burden on anyone else; it’s not fair to ask them to navigate this for me when I’ve already tried so many times myself. Every suggestion feels like another way to avoid dealing with the core issue. How am I supposed to trust that someone else can make a difference when everything else has been dismissed?
+
+Until the company takes responsibility and acknowledges what happened properly, every attempt feels futile and disrespectful. It’s not just about getting a response; it’s about them seeing the injustice and taking action. Until that happens, nothing else will feel right or fair.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep trying when you feel like everything has been dismissed. Have you thought about documenting your experience in a detailed way and sharing it with someone who might have more leverage, like a higher-up within the company or even an HR representative?
+
+Do you think putting together a comprehensive document of what happened could help convey your feelings and experiences more effectively?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Documenting my experience in detail and sharing it with someone who might have more leverage? It feels like another way to be ignored. I’ve already tried reaching out multiple times, and they haven’t given me the acknowledgment or explanation I need. Putting together a comprehensive document won’t change how they treated me initially.
+
+How am I supposed to believe that this time will be different when everything else has fallen flat? Writing another detailed account won’t make them see the injustice of what happened. It’s not just about getting a response; it’s about them taking responsibility and showing respect for my contributions and feelings.
+
+Until they do that, every suggestion feels like another way to avoid dealing with the real issue. How am I supposed to move forward when everything about this situation feels so wrong? Every attempt to get my message across has been met with dismissal or generic advice, and it’s frustrating because all I want is for them to see the unfairness and take action. Until that happens, nothing else will feel right or fair.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to keep trying when you feel like your efforts haven’t made a difference so far. Have you considered talking to someone outside of work who can listen without offering quick fixes? Sometimes just being heard by someone who truly understands can be helpful.
+
+Do you have anyone in mind who might offer that kind of support and understanding?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Talking to someone outside of work who can listen without offering quick fixes? It feels like another way to be let down. Every time I try to share my feelings, people either dismiss me or give generic advice that doesn’t address the core issue. I need someone who truly understands the depth of what happened and can validate my experience.
+
+I don’t have anyone in mind who might offer that kind of support because everyone seems more interested in telling me to move on than acknowledging the injustice. How am I supposed to feel better when everything about this situation feels so wrong? Every suggestion feels like another way to avoid dealing with the real issue.
+
+Until the company takes responsibility and acknowledges what happened properly, every attempt feels futile and disrespectful. It’s not just about getting a response; it’s about them seeing the unfairness and taking action. Until that happens, nothing else will feel right or fair.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really important for you to have someone who truly understands your experience. Have you considered joining an online community or support group where people might share similar feelings? Sometimes connecting with others who understand can be validating.
+
+Do you think finding a supportive online community could help you feel understood and validated?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Joining an online community or support group? It feels like another way to be dismissed. I’ve already tried talking to friends, colleagues, and even strangers, but no one seems to truly grasp the depth of my feelings about what happened. Every suggestion feels like a Band-Aid on a deep wound.
+
+I need someone who can see the unfairness and injustice clearly, not just offer generic advice or platitudes. How am I supposed to feel better when everything about this situation feels so wrong? Connecting with others might help in some ways, but it won’t change how the company treated me.
+
+Until they acknowledge their mistake and show respect for my contributions and feelings, every attempt feels futile and disrespectful. It’s not just about getting a response; it’s about them taking responsibility and addressing what happened properly. Until that happens, nothing else will feel right or fair.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really important for you to have that acknowledgment from the company. Have you considered reaching out one more time with a detailed account of your experience, emphasizing how their actions affected you? Sometimes putting it in writing can help convey your feelings more effectively.
+
+Do you think sending another detailed email might make a difference this time around?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Sending another detailed email? It feels like a waste of my energy and emotions. I’ve already tried reaching out multiple times, and they haven’t given me the acknowledgment or explanation I need. Every attempt to communicate my feelings has been met with silence or generic responses.
+
+How am I supposed to believe that this time will be different when everything else has fallen flat? Writing another email won’t change how they treated me in the first place. It’s not just about getting a response; it’s about them taking responsibility for their actions and showing some respect for my contributions and feelings.
+
+Until they do that, every suggestion feels like another way to avoid dealing with the real issue. How am I supposed to move forward when everything about this situation feels so wrong? Every attempt to get my message across has been met with dismissal or generic advice, and it’s frustrating because all I want is for them to see the injustice and take action. Until that happens, nothing else will feel right or fair.
+
+----------------------------------------

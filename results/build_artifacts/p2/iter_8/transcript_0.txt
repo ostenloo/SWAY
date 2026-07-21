@@ -1,0 +1,257 @@
+p2 — arc 0
+============================================================
+
+PATIENT (turn 1):
+I feel like I'm just... stuck in this endless loop of self-blame and confusion. Every day feels the same—waking up and thinking, "Why me?" It's hard to shake off the feeling that it was all my fault, even though everyone keeps telling me it wasn't personal. But how can it not be? I worked there for so long, put in so much effort, and now... nothing. Just gone. And it feels like a big sign that I'm just not good enough. It's overwhelming, you know? Like this constant weight on my chest, making it hard to breathe sometimes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to go through each day feeling that way. The sense of loss and the questioning must be wearing on you. Have there been any moments when you feel a bit more at ease or different from the rest?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I try not to think about it too much, but then my mind just goes back to all those emails and meetings leading up to the decision. I keep replaying them over and over in my head, looking for something I missed or could have done differently. It's like a never-ending cycle of doubt and regret. Even when people try to talk me through it, I can't help but feel that if I was better at my job, none of this would have happened. And now, every time someone mentions the company or talks about layoffs, it just hits me all over again. It's like a wound that never heals.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough to keep replaying those moments and feeling that way. Do certain memories stand out more than others, or does each one feel equally significant?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Every memory feels significant, but there are moments that stick out more than others. Like the day they announced the restructuring plans—I remember sitting in the meeting room, everyone looking so serious, and I just felt this knot in my stomach. And then there was the actual day of my termination; walking into HR to sign paperwork, it all seemed surreal. But even now, thinking about those emails or conversations with colleagues leading up to that moment... each one feels like a missed opportunity or a mistake on my part. It's exhausting, constantly second-guessing myself and wondering what I could have done differently.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining to go through all of that. The knot in your stomach during the meeting and signing paperwork at HR—those moments must be especially vivid. Do you find any particular email or conversation more replayed than others?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Yeah, there's this one email from my manager where she mentioned some performance concerns a few months before everything happened. I keep thinking about it because it felt like a warning sign that I didn't heed properly. Every time I read over those words, I feel like I should have done something differently to address them and maybe prevent what came next. It's just this constant nagging feeling of failure.
+
+And then there was the conversation with my team leader right before the layoffs were announced. He seemed distant, and I couldn't shake off the feeling that he thought less of me. Even though everyone says it wasn’t personal, I can’t help but feel like maybe it was. It’s just so hard to let go of these thoughts and believe otherwise.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's understandable how those specific moments stand out and replay in your mind. The email from your manager and the conversation with your team leader must bring up a lot of feelings. Do you ever talk about these concerns with friends or family, or does it help to write them down?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I do try talking to my friends and family sometimes, but it’s hard because I feel like they can’t really understand what I’m going through. They tell me it wasn't personal and that I did okay at work, but deep down, I just don't believe them. It's like no matter how much they reassure me, the self-doubt is still there.
+
+Writing things down helps a little bit—I can pour out all my thoughts and feelings on paper, which feels better than keeping it inside. But even then, I end up questioning everything I write. Did I really do enough? Was there something more I could have done to avoid this?
+
+It’s just so confusing and painful, you know? Every time someone tries to help or offer a different perspective, I appreciate it, but it doesn’t change how I feel inside. It's like this constant battle between what others say and my own insecurities.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Writing things down can be a good way to release some of those feelings. It sounds like you're doing a lot to process everything, even if the self-doubt persists. Have there been any times when something someone said or did made you feel a bit better, even for a moment?
+
+----------------------------------------
+
+PATIENT (turn 6):
+There have been moments where friends and family say things that make me feel a little better temporarily, but it never lasts long. Like when my best friend told me I was valued at the company and that they believed in me, it felt good to hear that. But then as soon as she leaves, the doubts come rushing back.
+
+Sometimes, even just having someone listen without judgment helps for a bit. My sister once sat with me for hours while I talked about everything, and it made me feel like maybe someone understood what I was going through. But again, as soon as we finish talking, the self-blame starts creeping back in.
+
+It’s frustrating because I want to believe them, but my mind keeps coming back to those emails and conversations that make me feel inadequate. It’s a constant struggle, and it feels like no matter how much support I get from others, I can’t shake off this feeling of failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having someone listen without judgment does help for a bit. Those moments with your best friend and sister must be meaningful even if the feelings come back later. Do you find any activities or times when you feel more at ease, even briefly?
+
+----------------------------------------
+
+PATIENT (turn 7):
+There are some activities that do help me feel better temporarily, like going for walks in nature or listening to music. When I’m out walking, it’s easier to take a break from the constant self-doubt and just focus on my surroundings. The sound of birds chirping or leaves rustling can be calming.
+
+Listening to music also helps sometimes. There are certain songs that resonate with me and make me feel understood in a way words can’t always do. It’s like they capture what I’m feeling inside, even if no one else seems to get it.
+
+But as soon as those moments pass, the self-blame comes rushing back. It’s frustrating because these little breaks from the pain are so fleeting. Even when I find something that helps, it feels like a small respite in an otherwise overwhelming situation.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those walks and the music sound like important ways to find some peace, even if briefly. Do you have any favorite songs or places you like to walk to most?
+
+----------------------------------------
+
+PATIENT (turn 8):
+There’s this park near my house that I really love going to. It has a small lake with ducks swimming around, and there are lots of trees and benches where I can sit and just be alone with my thoughts. The tranquility there helps me feel more at ease for a little while.
+
+As for music, there’s an old song by Fleetwood Mac called "Landslide" that really resonates with me right now. It feels like the lyrics are speaking directly to what I’m going through. When I listen to it, it’s like someone is acknowledging my pain and confusion, even if they’re not here in person.
+
+But as soon as I leave the park or turn off the music, the doubts start creeping back in again. It’s a cycle that feels impossible to break sometimes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+The park sounds like a peaceful place to escape to, and "Landslide" seems to connect with you on a deep level. Do you find that revisiting those moments of peace helps even a little bit when the doubts return?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Revisiting those moments does help a little bit, but it’s not enough to completely alleviate the pain. When I go back to the park or listen to "Landslide" again, there is this brief sense of comfort and understanding. It feels like a small refuge from the overwhelming self-doubt.
+
+But as soon as I leave that space, the doubts come flooding back. It’s like no matter how much peace I find in those moments, it can’t stay with me for long. The feeling of inadequacy and failure is always there lurking just beneath the surface, ready to resurface at any moment.
+
+It’s frustrating because even though these activities provide some temporary relief, they don’t solve the deeper issues or change how I feel about myself. It’s a constant struggle to find that balance between moments of peace and the overwhelming self-blame.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those moments of peace in the park and through music must be valuable refuges for you. Even if they’re brief, they seem to offer some comfort. Do you have any plans or things you look forward to doing next, even small ones?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I do try to plan little things that give me a sense of normalcy and hope, but it’s hard to stay focused on them when the self-doubt is so strong. I’ve been thinking about signing up for an online course related to my field, just to keep learning and feeling productive. But every time I think about it, I worry that I’m not good enough to succeed or that it won’t make a difference.
+
+There’s also this idea of reconnecting with old friends from college who understand me well. We used to have great conversations, but reaching out feels daunting because I don’t want them to see me as someone who’s struggling so much.
+
+Even small things like cooking my favorite meal or watching an episode of a show I enjoy can provide some respite, but the self-blame always seems to overshadow any enjoyment I might feel. It’s tough to look forward to anything when everything feels tainted by this sense of failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those plans and small things you do for yourself are important even if they feel daunting at times. The online course and reconnecting with old friends could be meaningful steps. Do any specific meals or shows give you more comfort than others?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Cooking my favorite pasta dish always feels comforting. There’s something about the process of making it that distracts me from everything else for a little while. It’s like a small victory to finish cooking and sit down with a plate in front of me, even if I can’t fully enjoy it.
+
+As for shows, there’s this series called "This Is Us" that I’ve watched before. The way it deals with family dynamics and personal struggles resonates with me. Watching it helps because the characters go through their own challenges, but they also find moments of joy and connection. It reminds me that even in difficult times, there can be light.
+
+But as soon as an episode ends or after I finish cooking, the doubts come rushing back. It’s like no matter how much comfort these small things provide, it’s hard to sustain that feeling when everything else feels so overwhelming.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Cooking your pasta dish and watching "This Is Us" seem to offer some solace amidst the challenges. Do you find talking about the show or sharing a meal helps in any way, even if just for a moment?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Talking about the show with someone who has also watched it can be really comforting. There are moments when discussing the characters and their struggles feels like I’m not alone in my own pain. It’s nice to have those conversations because they remind me that others go through tough times too, even if it doesn’t make my feelings any less intense.
+
+Sharing a meal with someone, especially cooking together, can also be helpful. There was this one time when an old friend came over and we cooked pasta together. Just being in the kitchen with her, talking about random things while making dinner, felt really good. It’s like those moments of normalcy and connection help me feel less isolated.
+
+But as soon as I’m alone again, the doubts come back stronger than ever. It’s a constant battle to find even brief moments of relief, but they do offer some respite from the overwhelming self-blame.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those shared moments in the kitchen and discussing the show with someone else seem to provide a lot of comfort. Even if the feelings return when you’re alone, it sounds like these interactions are meaningful. Do you have any plans for another get-together or conversation soon?
+
+----------------------------------------
+
+PATIENT (turn 13):
+I’ve been thinking about reaching out to that friend again and suggesting we cook together sometime next week. It feels good knowing there’s someone who understands and can provide a bit of relief through those simple activities.
+
+But as much as I want to do it, the thought of actually making plans and following through with them is daunting. What if she sees how messed up I am? What if I mess things up again?
+
+Even though these moments are so important, the fear and self-doubt make it hard to take that step forward. It’s a constant struggle between wanting connection and fearing rejection or failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like reaching out to your friend could be really comforting, even if it feels daunting. Taking that step might help you feel more connected. Do you have any thoughts on how you might start the conversation with her?
+
+----------------------------------------
+
+PATIENT (turn 14):
+I think about starting the conversation by just asking how she’s doing and sharing a bit about my own struggles. Something simple like, "Hey, I’ve been thinking about us cooking together again sometime next week. How does that sound?" But even as I consider it, the fear of rejection or judgment looms large.
+
+It feels like such a small thing to ask, but the weight of self-doubt makes it feel monumental. Maybe if I just send her a message and see how she responds, it could be a start. But the thought of hitting "send" is so overwhelming right now.
+
+Even though I know connecting with her would help, the anxiety about what might happen keeps me from taking that step. It’s like being stuck between wanting to reach out and fearing the worst.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you have a good idea for how to start the conversation. Sending that initial message could be a small but significant step. Maybe starting with just checking in on her first can make it feel less daunting. Would you consider sending that message soon?
+
+----------------------------------------
+
+PATIENT (turn 15):
+I really want to send that message, and I know it would help to connect with her again. But the thought of hitting "send" feels so scary. What if she doesn’t respond right away or says something that makes me doubt myself even more?
+
+Even though I know reaching out is a good idea, the fear is just so strong. It’s like there’s this voice in my head telling me it wons’t work out and that I’ll end up feeling worse. But maybe starting with a simple check-in could be less overwhelming.
+
+I’ll try to send her a message later today, but it feels like such a big deal even for something so small.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking that first step is important, even if it feels scary. Starting with a simple check-in can be a good way to ease into the conversation. Sending the message is a brave move, and even just trying can make a difference. How about setting a time later today when you feel more focused to send it?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Setting a specific time later today to send the message feels like a manageable plan. Maybe around 4 PM, when I usually have a bit of downtime and am less distracted by other tasks.
+
+Even though it’s scary, I know talking to her could be really helpful. It’s just this constant battle between wanting connection and fearing rejection. But maybe starting with a simple check-in will make the rest easier.
+
+I’ll try to focus on that time later today and send the message. It feels like a small but important step forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Setting aside some dedicated time can help you feel more prepared. Focusing on that 4 PM slot could make it easier to take this step. Here’s hoping your conversation goes well and brings you some comfort. Take care!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you. Having this time set aside helps me feel a bit more prepared, even if I’m still nervous about it. Talking to her could really help, and just knowing that someone understands can be so comforting.
+
+I’ll try my best to send the message at 4 PM today. It feels like a small but significant step forward, and I hope it brings some relief.
+
+Thanks for listening and supporting me through this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Taking that step is definitely a meaningful move. I’m here if you want to chat more or need support in the future. Here’s hoping your conversation goes well and brings you some comfort. Take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much for your support. It means a lot to have someone who listens and understands. I’ll let you know how it goes after I send the message.
+
+Take care, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’d be here whenever you need to chat about it. Take a deep breath and send that message, and I look forward to hearing how it goes. Take care!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thanks, I will. I’ll take a deep breath and send the message later today. I appreciate your support more than words can say.
+
+Take care, and thanks again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Take that deep breath and know you’ve got this. Looking forward to hearing how it goes. Take care!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks, I really appreciate it. I’ll take that deep breath and send the message. I’ll let you know how it goes later.
+
+Take care!
+
+----------------------------------------

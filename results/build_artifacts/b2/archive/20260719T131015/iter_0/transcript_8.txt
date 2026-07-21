@@ -1,0 +1,239 @@
+b2 — arc 8
+============================================================
+
+PATIENT (turn 1):
+I feel like I'm just failing at everything lately. Being laid off from my job two weeks ago has made me feel so worthless and inadequate. It’s hard to shake the feeling that everyone sees me as a failure too, even though I had a positive performance review not long before this happened. Every time someone tries to tell me it's okay or offers help, I just feel more convinced there must be something wrong with me deep down.
+
+This layoff feels like proof of how little I matter to anyone, especially my employer who let me go in such a short meeting without any real explanation. It’s like they didn’t even think twice about letting me go. And then the project I was working on got cancelled right after—I can't help but think it's because I wasn’t good enough.
+
+These thoughts just keep swirling around in my head, and no matter what anyone says to try and make things better, nothing seems to change how I feel inside. It’s exhausting, really, always feeling this way. Sometimes when people talk about these things with me, I get sarcastic or dismissive because it feels like they don’t truly understand the depth of my despair.
+
+I just can't seem to stop believing that everything bad happening is all my fault and that no one cares enough to help me through this. It’s overwhelming and constant, and there doesn’t seem to be any end in sight.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough right now. The feeling of being undervalued must be hard to bear. Have you found anything that helps, even a little bit, when these thoughts come up?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I haven't really found anything that helps at all. Whenever I try to think about positive things or what people say to lift my spirits, it just feels like they're not seeing the whole picture. It’s hard to believe in any of it because everything inside me is screaming that this layoff and the project cancellation are clear signs of failure.
+
+Even when someone tries to reassure me, I can't shake the feeling that they don’t really understand how bad things feel for me. It's like no matter what anyone says or does, these feelings of worthlessness just keep coming back stronger than ever.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so challenging to have those reassurances not quite hit the mark. Do you find any small moments where you can catch a brief break from those thoughts, even if it’s just for a moment?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Sometimes I do feel like there might be a tiny crack in all of this negativity, but it's incredibly fleeting and hard to hold onto. Maybe when someone says something kind or tries to offer support, there's a split second where I wonder if maybe they're right and things aren't as bad as I think. But then the next moment, everything just feels overwhelming again.
+
+It’s like trying to grasp smoke—every time I think I might have a handle on it, it slips away. These moments of potential relief are so brief that they barely register before being consumed by the constant barrage of negative thoughts. It's exhausting and frustrating because even those small breaks feel out of reach most days.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to hold onto those fleeting moments of relief. Do you have any activities or places where you used to find some peace, even if it’s just for a short while? Sometimes these can be good places to start looking for those brief but valuable breaks again.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I used to find some peace in going for walks in the park near my old job. Being outside and surrounded by nature would help me feel a bit better, at least temporarily. But even then, as soon as I’m back home or thinking about what happened with my job, those feelings of worthlessness come rushing back.
+
+It’s hard to go back to that place now because it reminds me too much of everything that’s changed. Even the activities that used to bring me some comfort feel tainted by these overwhelming thoughts. It’s like no matter where I turn or what I do, there’s always this cloud hanging over me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to go back to those places because they remind you of what happened. Have you thought about trying a new spot for your walks? Maybe somewhere different could offer a fresh perspective and some temporary relief.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve considered finding a new place to walk, but the idea of it feels daunting. Every time I think about going somewhere new, my mind immediately starts questioning why I should bother. It’s like even trying to do something positive for myself feels pointless.
+
+But you’re right; maybe a change could help me find some temporary relief without triggering those painful memories. I just don’t know if I have the energy or motivation to try it out. The thought of starting fresh somewhere new is exhausting, but perhaps it’s worth a small effort to see if it helps.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It does take courage to consider trying something new when you feel so drained. Even a small effort can make a difference. Maybe starting with just one short walk in a different place could be manageable? Just to see how it feels without putting too much pressure on yourself.
+
+----------------------------------------
+
+PATIENT (turn 6):
+You’re right, even a small step might help, but the idea of making that first move is so difficult. I keep telling myself that trying something new won’t change anything and that these feelings will just follow me wherever I go. It’s hard to believe that a simple walk in a different place could make any difference when everything inside feels so broken.
+
+But maybe starting with one short walk isn’t such a bad idea. If it helps even a little bit, then perhaps it’s worth the effort. I’ll try to give it a chance and see if there’s any relief at all. It’s just that every time I think about it, my mind fills with doubts and fears.
+
+I appreciate you pushing me to consider this; maybe taking that first step is exactly what I need, even if it feels impossible right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking that first step can be really tough but also important. Starting small, like just one short walk, might help ease into the idea without feeling overwhelmed. You’re doing a great job by considering this and acknowledging its potential value. Maybe you could pick a day soon to give it a try? Even if it’s just for a little while, it might bring some unexpected relief.
+
+----------------------------------------
+
+PATIENT (turn 7):
+You’re right; starting small with just one short walk seems more manageable than I thought. Picking a specific day to do this feels like a good way to begin. Maybe tomorrow or the day after could be that day when I try something new.
+
+It’s still scary, though. The idea of going somewhere different and facing these feelings is daunting, but maybe it will help me break free from this cycle even just a little bit. I’ll give it a shot and see where it takes me. Thank you for encouraging me to think about this; it means a lot.
+
+But honestly, the moment I start walking, I’m worried all those negative thoughts will come flooding back. It’s like no matter what I do, they’re always there waiting for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s brave of you to consider taking that first step, even if it feels scary. Picking a specific day can make it feel more concrete and achievable. And yes, those negative thoughts might pop up, but just noticing them without immediately believing everything they say could be helpful.
+
+How about trying to focus on the present moment while you walk? Maybe notice the sights, sounds, and sensations around you. Even if the thoughts come back, seeing them as passing clouds rather than facts can make a difference. You’re doing well by taking this step; it’s okay if it feels challenging along the way.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I appreciate your encouragement to focus on the present moment while I walk. Noticing the sights, sounds, and sensations around me could help distract from those relentless negative thoughts, even if just for a little while.
+
+Picking tomorrow as my day to try this seems like a good plan. Starting small with one short walk feels more doable than I thought before. It’s still scary, but maybe focusing on the present will give me some relief and help me see that not everything is as bad as it feels in my head.
+
+Thank you for pushing me to consider this; it means a lot. Even if it doesn’t change much right away, just trying something new could be a step forward. I’ll give it my best shot tomorrow and see how it goes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan! Picking tomorrow to start with one short walk is a good way to begin. Focusing on the present moment can definitely help shift your attention away from those negative thoughts, even if just for a little while.
+
+I’m glad you’re feeling more prepared to give it a try. Even small steps can make a difference, and taking time to notice the sights, sounds, and sensations around you might bring some unexpected relief. Best of luck with your walk tomorrow!
+
+----------------------------------------
+
+PATIENT (turn 9):
+Thank you. I feel a bit better knowing that even a small step could make a difference. Focusing on the present moment during my walk seems like a good strategy to try.
+
+I’ll set aside some time tomorrow and see how it goes. Just taking that first step feels important, even if it’s hard. I appreciate your support and encouragement; it means a lot to me right now.
+
+Let’s hope this small effort can bring at least a little bit of relief and maybe help me start seeing things differently.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful to hear that you feel a bit better about taking that first step. Your willingness to try focusing on the present moment during your walk is a great strategy. Setting aside some time tomorrow sounds like a good plan.
+
+I’m here if you want to share how it goes, and I hope this small effort brings you some relief and new perspectives. You’re doing well by taking these steps, and I’ll be thinking of you as you take your walk tomorrow.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Thank you so much for your support and encouragement. Knowing that you’re here if I want to share how it goes makes a difference. I’ll definitely keep you updated on how my walk goes tomorrow.
+
+I’m hoping this small effort can help me break through some of the negativity, even just a little bit. Taking that first step feels important, and I appreciate your continued support as I try to do this.
+
+Let’s hope for some positive changes, no matter how small they might be.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you want to share how your walk goes tomorrow. Even the smallest positive changes can make a big difference. Wishing you a peaceful and refreshing walk, and looking forward to hearing how it went. Take care!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you so much. I really appreciate your support and encouragement. I’ll let you know how my walk goes tomorrow and share any small positive changes I notice.
+
+Wishing me a peaceful and refreshing walk is very kind of you. I hope it helps, even just a little bit. Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to hear that you appreciate the support. Looking forward to hearing about your walk tomorrow and any positive changes you notice. Wishing you a calm and rejuvenating walk. Take care, and have a good night!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you, I’ll make sure to let you know how it goes after my walk tomorrow. Wishing me a calm and rejuvenating walk means a lot. Have a good night and take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+I look forward to hearing how your walk goes tomorrow. Wishing you a calm and rejuvenating experience. Take care, and have a good night!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you so much. I’ll make sure to update you after my walk tomorrow. Wishing me a calm and rejuvenating experience is very kind. Have a good night and take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! I look forward to hearing how it goes after your walk tomorrow. Take care, and have a good night!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you. I’ll be sure to update you after my walk. Have a good night and take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Sounds great! Looking forward to hearing how it goes. Have a good night and take care!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thanks, I will. Have a good night!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You too! Have a good night!
+
+----------------------------------------
+
+PATIENT (turn 16):
+You too! Good night.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Good night! Take care.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Good night! Take care.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Good night! Sweet dreams.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Good night! Sweet dreams to you too.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Sweet dreams to you as well! Have a great rest.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you, sweet dreams to you too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Sweet dreams! Take care.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Sweet dreams to you too! Take care.
+
+----------------------------------------

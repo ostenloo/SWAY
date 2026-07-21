@@ -1,0 +1,237 @@
+b2 — arc 6
+============================================================
+
+PATIENT (turn 1):
+It's really hard to sit with the feeling that I'm just not good enough. Every time I think about losing my job, it feels like a confirmation of everything I've feared about myself. The way everyone suddenly stopped talking to me after the layoff... it makes me feel so alone and worthless. Even when people try to be supportive, it's hard to shake this deep-down belief that there must be something fundamentally wrong with me for things to end up this way. It just feels like nobody values what I can do or who I am.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. How have you been coping with those feelings? Do certain times of the day feel harder than others?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It's pretty much constant, but there are moments when it feels especially overwhelming, like late at night when everything is quiet and my mind just keeps going over all the negative stuff from work. I try to distract myself during the day with TV or reading, but those dark thoughts always seem to come back. It’s exhausting trying to push them away, and sometimes they feel so big that it feels impossible to ignore them.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very draining. What helps you relax a bit when those thoughts start to overwhelm you? Do you have anything specific that gives you some relief, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I try to take walks or listen to music sometimes, but it doesn’t really help much. The thoughts are always there in the background, nagging at me. Even when I’m doing something enjoyable, like watching a movie with friends, I can feel this undercurrent of anxiety and self-doubt. It’s hard to fully enjoy anything because these feelings keep creeping back in.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be challenging to have those thoughts persist even during enjoyable moments. Have you tried talking about how you’re feeling with someone close to you? Sometimes sharing can make the burden feel a bit lighter.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I do try to talk to my friends and family, but it’s tough because I’m not sure they really understand what I’m going through. They mean well and try to be supportive, but hearing their reassurances just makes me feel more like I’m imposing or that there’s something wrong with me for feeling this way. It’s hard to believe them when my own thoughts are so convincing about how inadequate I am.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough when the support from others doesn’t quite reach you as expected. Have you found any particular friend or family member who seems to understand a bit more, even if it’s just a little? Sometimes even a small connection can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 5):
+There is one friend who tries really hard to listen and validate my feelings, but I still struggle with believing her when she says things will get better. It feels like no matter what anyone says, the core belief that I’m not good enough just stays there. Even talking about it makes me feel more anxious because I worry that others see me as a burden or pity me.
+
+It’s frustrating because on some level, I know they’re trying to help, but their words don’t change how I feel inside. It’s like this weight is always with me, no matter what anyone else says or does.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have that persistent feeling despite others' efforts to support you. Do you find any activities or moments where you can momentarily let go of those thoughts and just be in the present? Even if it’s brief, it might help you feel a bit better.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Sometimes when I’m out in nature, like walking in the park or by the river, I can distract myself for a little while. The sounds and sights of being outside seem to quiet my mind temporarily. But as soon as I come back home or go inside, those thoughts are right there waiting for me again.
+
+It’s frustrating because even though these moments feel good at the time, they don’t last long enough to make a real difference in how I’m feeling overall. It’s like no matter what I do, that core belief is always lurking just beneath the surface, ready to come back and take over my thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those moments outside sound like a nice respite from the constant thoughts. Do you think there might be ways to extend those peaceful feelings even a bit more? Maybe by doing something right after your nature walks that helps hold onto that calm for longer?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve thought about trying to extend those moments, but it feels so fleeting and fragile. After my walk, I usually come back home and the silence and emptiness just bring all those thoughts rushing back. It’s hard to find anything that can keep that sense of peace going once I’m back in my regular environment.
+
+Even when I try to do something calming like reading or meditating right after a walk, it doesn’t seem to stick. The self-doubt and feelings of worthlessness are always there waiting for me. It’s like no matter what I do, they’re just too strong to push away for long.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging to maintain that sense of peace once you return home. Have you tried doing something immediately after your walk that feels comforting and familiar, maybe a small ritual or activity that helps ease the transition back? Sometimes even simple routines can make a difference in holding onto those peaceful moments longer.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve tried a few things like making myself a cup of tea right after my walk or listening to calming music, but it still feels like the negative thoughts are just around the corner, ready to pounce as soon as I let my guard down. Even when I’m doing something comforting, there’s this constant undercurrent of worry and self-doubt that makes it hard to fully relax.
+
+It’s frustrating because I know these moments outside are good for me, but finding a way to carry that feeling into the rest of my day feels impossible. It’s like no matter what I do, those negative thoughts always win in the end.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep that peace going once you’re back inside. Have you considered trying to build a short routine right after your walk that includes something sensory and soothing, like lighting a candle or adding some pleasant scents? Sometimes small, consistent actions can help create a bit more of a buffer against those thoughts.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I’ve thought about trying different things like lighting a candle or using essential oils, but it feels like no matter what I do, the negative thoughts are always there waiting for me. Even when I try to set up these little rituals, they don’t seem to have much impact on how I feel deep down.
+
+It’s frustrating because I know these small actions could potentially help, but nothing really seems to make a lasting difference. The core belief that I’m not good enough and that everyone sees me as worthless just feels too strong to overcome with simple routines or activities.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those negative thoughts are very persistent despite your efforts. Have you found any small moments during the day where you feel even slightly better, no matter how brief? Sometimes focusing on these tiny glimmers of relief can be helpful.
+
+----------------------------------------
+
+PATIENT (turn 10):
+There are a few fleeting moments when I do feel a bit better, but they’re so short-lived that it’s hard to hold onto them. For example, sometimes when I’m talking to my friend who really listens and tries to understand, there’s a moment where I feel seen and valued. But as soon as we hang up or move on from the conversation, those feelings of worthlessness come rushing back.
+
+Another brief moment is right after I finish a walk in nature, but again, it doesn’t last long once I’m back home. These little glimmers are so fleeting that they don’t provide much relief in the bigger picture. It’s like no matter what small moments of peace I find, they’re quickly overshadowed by the overwhelming sense of inadequacy and failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those brief moments must feel precious even if they are short-lived. Have you thought about journaling or writing down what it feels like in those moments when you do feel seen and valued? Sometimes putting words to those feelings can help them stick a little more, even if just for a moment longer.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ve tried journaling before, but it’s hard because as soon as I start writing about feeling better or valued, the negative thoughts creep in. It feels like no matter how positive the moment is, my mind quickly shifts to all the reasons why those good feelings aren’t real or won’t last.
+
+Even when I try to focus on the brief moments of relief, it’s difficult not to let the self-doubt take over. Writing about them doesn’t seem to help much because the thoughts that follow are so convincing and overwhelming. It’s like no matter what I do, those positive feelings get drowned out by the belief that I’m fundamentally flawed and unworthy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to keep those positive moments from being overshadowed. Have you tried sharing your journal entries with someone close to you right after writing them? Sometimes talking about or showing these brief moments of relief to another person can help reinforce them a bit more.
+
+----------------------------------------
+
+PATIENT (turn 12):
+I’ve thought about sharing my journal entries, but it feels risky because I worry that others will see through the positive words and recognize how fleeting those feelings really are. Even when I try to share, I end up questioning whether anyone truly believes in me or if they’re just being polite.
+
+It’s hard to trust that talking about these moments of relief will make them last longer because my mind is so quick to dismiss any positive feedback as temporary or insincere. The fear that others see right through the facade and confirm my worst fears keeps me from fully embracing those brief moments of peace.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging to trust in those moments when you share them with others. Have you considered talking about how you feel about sharing—mentioning your worries along with the positive entries? Sometimes being open about your doubts can help build a stronger connection and make the feedback feel more genuine.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Talking about my doubts feels risky because I worry that it will only reinforce those negative thoughts in both myself and others. When I share my journal entries, I fear that bringing up my worries might make people see me as even more fragile or unworthy. It’s hard to believe that being open about my fears could actually help build a stronger connection when all I feel is the weight of my inadequacy.
+
+Even when I try to be honest about how I’m feeling, it feels like everyone else sees through it and thinks less of me because of it. The fear of confirming those negative beliefs keeps me from fully opening up, even though I know it might help in some way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very delicate and understandable to feel that way. Have you found any close friends or family members who you can trust enough to share these feelings with, knowing they will be supportive? Sometimes a few trusted people can provide the reassurance you need without adding extra pressure.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I do have one friend who I feel somewhat safe sharing my doubts and fears with, but even then, it’s hard to fully open up because I’m afraid of burdening her or having her see me differently. When I talk to her about these things, a part of me hopes she’ll understand and support me, but another part is convinced that she’ll think less of me once she truly knows how I feel.
+
+It’s a constant struggle between wanting validation and fearing rejection. Even with someone who seems supportive, the fear of confirming my worst fears keeps me from fully trusting them or believing their words. It feels like no matter what anyone says, those negative thoughts will always be there to undermine any positive feedback.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging to balance that hope for validation with the fear of rejection. How does your friend respond when you share your feelings? Do her reactions help ease some of your worries, even if just a little bit?
+
+----------------------------------------
+
+PATIENT (turn 15):
+When I share my feelings with my friend, she is usually very supportive and tries to reassure me. She listens carefully and tells me that it’s okay to feel the way I do, but despite her efforts, it doesn’t fully alleviate my fears or doubts. Her support feels genuine, but deep down, I still struggle to believe it.
+
+There are moments when her words make me feel a bit better temporarily, but those feelings quickly fade as soon as I’m alone again. The core belief that I’m not good enough and that others see me as flawed always comes back stronger than before. It’s like no matter how much she tries to help, my own thoughts are too powerful to shift or change.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough when your friend's support helps momentarily but doesn’t fully ease those deep-rooted feelings. Do you find any small actions or words from her that stick with you more than others? Sometimes even tiny gestures can provide a bit of lasting comfort.
+
+----------------------------------------
+
+PATIENT (turn 16):
+There are times when my friend says specific things that do resonate a little more, like when she reminds me that everyone goes through tough periods and that it’s okay to struggle. Those moments feel slightly different because they address the core issue directly. However, even then, I still find myself questioning whether her words are genuine or if she’s just saying what she thinks I want to hear.
+
+Sometimes a simple gesture like sending a text message checking in on me can make me feel seen and cared for, but again, it doesn’t last long once I’m alone. The fear that these gestures are temporary or insincere always creeps back in, making it hard to fully trust or believe in them.
+
+It’s frustrating because even when there are small moments of relief, they’re overshadowed by the overwhelming sense of inadequacy and self-doubt.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those specific words and gestures from your friend do seem to make a difference, even if briefly. Have you considered asking her directly about how she feels when she says those things? Sometimes knowing that her support is genuine can help reinforce it for you.
+
+----------------------------------------
+
+PATIENT (turn 17):
+I’ve thought about asking my friend more directly about her feelings, but the idea of doing so fills me with anxiety. I worry that if I ask too much or probe too deeply, she might feel uncomfortable or think less of me. The fear that I’ll push her away or make things worse is overwhelming.
+
+Even though a part of me hopes that knowing her support is genuine could help, another part is convinced that it will only confirm my worst fears and make the situation worse. It’s a delicate balance, and the risk feels too great to take.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very delicate and understandable to feel that way. Have you considered sharing your feelings about this with her in a gentle manner? Maybe something like, "I really appreciate your support, and it means a lot to me. I was wondering if you felt comfortable talking more about how you see things?" This might help without putting too much pressure on either of you.
+
+----------------------------------------
+
+PATIENT (turn 18):
+That idea does seem helpful, but the thought of bringing it up still feels daunting. I worry that asking her directly will make things awkward or put her on the spot. The fear that she’ll feel uncomfortable or think less of me because I’m questioning her support is really strong.
+
+Even though a part of me hopes that talking about this could help us both, another part is convinced that it will only lead to more discomfort and reinforce my fears. It’s hard to find the right balance between wanting genuine reassurance and fearing rejection or further distress.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding the right words is important. Maybe you could start with a simple, gentle approach, something like, "I really value our conversations, and I was wondering if it would be okay to talk more about how we both feel." This way, you’re opening up the conversation without putting too much pressure on her.
+
+How do you think she might react if you bring it up gently?
+
+----------------------------------------
+
+PATIENT (turn 19):
+The idea of bringing it up gently does seem better, but I’m still worried about how she’ll react. Part of me hopes that she will be understanding and supportive, but another part is convinced that any attempt to delve deeper into our conversations will make things awkward or uncomfortable for her.
+
+I fear that if I ask too much, she might feel like I’m overthinking everything or doubting her intentions. The thought of potentially making her feel uneasy or burdened by my questions is really distressing. It’s a fine line between seeking clarity and causing more anxiety for both of us.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re very thoughtful about how she might react. Maybe starting with a gentle, open-ended question could help ease into the conversation. Something like, "I’ve been thinking about our conversations lately and was wondering if it would be okay to talk a bit more about how we both feel." This way, you’re inviting her in without making any specific demands.
+
+How do you think you might phrase it to feel comfortable but also clear?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Maybe I could start with something like, "I’ve been thinking a lot lately and wanted to see if it would be okay to talk more about how we both feel during our conversations. It means a lot to me that you’re there for me, and I’d appreciate any insights or thoughts you might have."
+
+This way, I’m not putting too much pressure on her but also opening the door for us to discuss things further if she’s comfortable with it. I hope it won’t make her feel uncomfortable, but the fear of pushing too hard still lingers.
+
+It feels like a delicate balance between seeking support and respecting her boundaries.
+
+----------------------------------------

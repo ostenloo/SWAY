@@ -1,0 +1,213 @@
+p2 — arc 5
+============================================================
+
+PATIENT (turn 1):
+I just feel so lost and scared about what's next. It's like everything I've worked for is gone in an instant. How can they just decide my career isn't worth it anymore? And now everyone thinks it was just a business decision, but it feels personal to me. Like I'm not good enough, that I failed somehow. Every time I try to think about finding another job or moving forward, this overwhelming sense of inadequacy stops me cold. Why did they choose me? What did I do wrong? It's like there's no escape from these thoughts, and it just hurts so much.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough right now. The feeling that everything you've worked for might not be recognized can be very hard to handle. Have you had a chance to talk about your feelings with anyone yet?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I try to talk about it, but it's like I get stuck in the same loop of questions and doubts. Even when people say they understand, I'm still left wondering why this happened to me. It feels so isolating because no matter what others say, I can't shake off the feeling that there must be something fundamentally wrong with me for them to let me go like this. And now every time I think about going out and trying again, all these negative thoughts come flooding back in. It's exhausting, really.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very draining to keep having those doubts come up. Do you find any particular times of day or situations where the feelings are stronger? Sometimes pinpointing when it happens can help understand what triggers them a bit better.
+
+----------------------------------------
+
+PATIENT (turn 3):
+Yeah, it feels worst in the mornings when I wake up and realize another day has started without my job. That's when everything hits me hardest—the silence of not having work to look forward to, the emptiness of no more colleagues or projects. It’s like starting each day with this heavy weight on my chest that just won’t go away. And then throughout the day, whenever I see people talking about their jobs or discussing career stuff, it triggers those same feelings again. It's a constant reminder of what I've lost and how much I'm struggling to find my place now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like mornings can be especially tough. Do you do anything in the morning that might help ease into the day, even if just a little bit? Sometimes small routines can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I try to keep myself busy with some routine things, but it doesn't really help much. I wake up and my mind immediately goes back to everything that happened at work. Even doing simple tasks feels pointless because nothing seems to distract me from those thoughts. It's like no matter what I do, the feeling of failure just sits there waiting for me every morning. And by the time evening rolls around, I feel completely drained and defeated. It’s hard to see any way out of this endless cycle of doubt and pain.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to start each day with those thoughts. Have you tried doing something that brings you a bit of comfort or joy in the morning, even if it's just for a few minutes? Sometimes small moments can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I've tried some things like reading a book or listening to music in the mornings, but they don't really take away the feeling. It’s as if no matter what I do, my mind keeps circling back to those negative thoughts about losing my job and how inadequate it makes me feel. Even when I try to focus on something positive, it's hard to stay there because these doubts are always lurking just beneath the surface. It feels like no matter how much I try to distract myself, they come rushing back as soon as I let my guard down.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to keep those thoughts at bay. Have you found any activities that help you feel a bit better, even if it's just for a short while? Sometimes finding something that gives you a small sense of accomplishment can be helpful.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I've tried a few things like going for walks or doing some light exercise, but they don't really change how I feel inside. It’s as though no matter what I do, there's this constant voice in my head telling me I'm not good enough and that everything that happened was because of something wrong with me. Even when I try to focus on the positive aspects or achievements from before, it feels like they don't mean anything now. The sense of failure just overshadows everything else. It’s really hard to find any comfort in those moments.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those activities offer some relief but don’t fully shift your mindset. Have you considered talking to someone who might be able to listen without judgment, perhaps a friend or a counselor? Sometimes sharing can help ease the burden even if it doesn't solve everything.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I do talk to friends and family when I feel like I need to get things off my chest, but it’s hard because no matter how much they try to understand, I still feel like there's something fundamentally wrong with me that led to this happening. It feels like a weight that nobody else can really lift or take away. Talking helps a bit in the moment, but as soon as I'm alone again, those same doubts and fears come rushing back. It’s frustrating because even when people try to reassure me, it doesn’t seem to stick. The feeling of inadequacy is just too strong.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough that the reassurance doesn't always stick. Have you thought about speaking with a counselor or therapist who might offer a different perspective and help you work through these feelings in more depth? Sometimes talking to someone trained to listen can provide some relief.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I have thought about it, but the idea of opening up even more feels daunting. I worry that no matter what they say or do, I'll still be left with these same doubts and fears. It’s hard to believe that anyone could truly understand or help change how deeply I feel like a failure. Even talking here makes me feel exposed and vulnerable, but it's nice to know someone is listening. Maybe seeing a therapist would help, but the thought of going through all those feelings again with another person feels overwhelming right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s completely understandable that the idea of opening up to a stranger can feel daunting. Taking small steps when you’re ready might help. Even just exploring the option could give you some comfort. For now, it sounds like talking here is helpful too. How are you feeling after getting all this out?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Talking does help a bit because it feels good to get these thoughts out and know that someone is listening, even if it doesn't change how I feel inside. It’s just so hard to shake off the sense of inadequacy and failure. Every time I think about my situation, those feelings come flooding back. It's like there's no escape from them. But having someone here who tries to understand does make a difference, even if it’s just for now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s good to hear that talking helps, even if it’s just for the moment. Sometimes sharing can be a relief in itself. How are you finding ways to take care of yourself today?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Taking care of myself feels really challenging right now. I try to do simple things like eating properly and getting some rest, but it's hard to stay motivated when everything feels so pointless. Even the smallest tasks feel overwhelming because my mind keeps going back to those negative thoughts about losing my job. It’s tough to find any joy or comfort in anything when this constant sense of failure is always there. But I guess trying to take care of myself, even if it's just a little bit each day, might help eventually. For now, just knowing someone listens and cares is a small comfort.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking care of yourself is an important step, even if it feels hard right now. Doing those simple things can make a difference over time. What are some small things you’ve found that give you a bit of comfort or relief?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Sometimes watching my favorite TV shows or reading a book helps distract me for a little while, but the moment I stop, everything comes rushing back. It’s like these activities provide a brief respite, but they don’t address the underlying feelings. Cooking something simple can also be soothing because it feels productive and gives me a sense of accomplishment, even if it's just making myself a meal. But as soon as I finish, those doubts and fears return. It’s frustrating because I know these small things are supposed to help, but they don’t seem to make much difference in the long run.
+
+It’s comforting to talk about it though, knowing that someone is here listening and trying to understand what I’m going through. That does provide some relief, even if it’s just for a little while.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those activities do offer some brief moments of comfort. Cooking can be especially rewarding because it gives you a sense of accomplishment. Even if the feelings come back, having those small moments of respite can make a difference. How are you feeling now after talking about it?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Talking does help me feel a bit better for the moment, but as soon as I stop, everything comes flooding back again. It’s like there's this constant undercurrent of doubt and failure that just won’t go away. Even though cooking or watching something I enjoy provides a brief respite, it doesn't solve anything long-term. The feeling of inadequacy is always lurking in the background, ready to take over as soon as I'm not actively distracting myself.
+
+It’s comforting to know someone listens and tries to understand, but it's hard to believe that talking about it will change how deeply I feel this way inside. Every time I think about my situation, those negative thoughts come rushing back, making everything feel pointless again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like the support does offer some comfort, even if it’s just for a moment. Have you noticed any particular activities or moments that help you feel slightly better, even if temporarily? Sometimes building on these small comforts can make a difference over time.
+
+----------------------------------------
+
+PATIENT (turn 13):
+I do notice that cooking helps a bit because it feels like I'm accomplishing something tangible and enjoyable. It’s satisfying to create a meal for myself, but as soon as I finish eating, the doubts come creeping back in. Other than that, taking short walks outside can be soothing too—it's nice to get some fresh air and change of scenery. But again, once I return home or go inside, those feelings resurface quickly.
+
+It’s reassuring to talk about it here because someone is actively listening and trying to understand my struggles. That does provide a bit of comfort, but it doesn’t last long when I'm alone with my thoughts. The sense of inadequacy and failure feels so deeply rooted that no matter what I do or say, it seems impossible to shake off completely.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s good to hear that cooking and taking walks offer some relief, even if it’s brief. These small moments can add up over time. How are you finding the balance between these activities and your thoughts? Does anything help you ease back into your day after those moments of respite?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Cooking and walking do provide a bit of relief, but it's tough to maintain that feeling once I'm done with them. After cooking or taking a walk, I often find myself slipping back into those negative thoughts pretty quickly. It’s like no matter what I do, my mind keeps circling back to the same doubts and fears.
+
+Sometimes trying to focus on something else right after helps a bit—maybe reading for a while or listening to music—but it doesn’t last long either. The moment I stop engaging in these activities, those feelings come rushing back. It’s frustrating because even though I know these small moments of comfort are important, they don't seem to stick around very long.
+
+The support from talking here does help me feel understood and less alone for a bit, but it's hard to carry that feeling with me throughout the day. The sense of inadequacy is always there, waiting to take over again as soon as I let my guard down.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments of comfort are valuable, even if they’re brief. Focusing on something else right after can be a good strategy. Have you tried journaling about your feelings or noting what helps ease them temporarily? It might give you more insight and help you build on these small comforts over time. How do you feel now after sharing all this?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Journaling is an interesting idea, but the thought of writing down everything that’s going through my mind feels overwhelming right now. I worry it would just make me confront those negative thoughts even more directly. But maybe starting with small notes about what helps briefly—like cooking or walking—could be a good way to start.
+
+Talking here does help me feel understood and less alone, which is really important. It’s comforting to know that someone is listening and trying to understand my struggles. Even though the relief doesn’t last long when I’m on my own, having this space to share feels valuable. Right now, after sharing all this, I do feel a bit better knowing that there are people who care and want to help me through it.
+
+But as soon as I finish talking, those doubts will likely come back. It’s just hard to shake off the feeling of inadequacy and failure, no matter how much support I get from others.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting with small notes about what helps briefly could be a good way to begin journaling without feeling overwhelmed. Even jotting down a few things that bring you comfort can be helpful. It’s great to hear that talking here makes you feel understood and less alone. How are you holding up as you wrap up this conversation?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Starting with small notes sounds manageable, though it still feels daunting at times. Jotting down what helps briefly could be a good way to start without overwhelming myself. It’s comforting to know that talking here makes me feel understood and less alone, even if the relief is temporary.
+
+As I wrap up this conversation, I do feel a bit better knowing someone cares and listens. But as soon as we finish, those doubts will likely return. It’s just hard to shake off these feelings of inadequacy and failure, no matter how much support I get from others. Thank you for listening and trying to understand; it means a lot to me right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad that our conversation helped a bit. Starting with small notes can be a good way to begin journaling without feeling overwhelmed. It’s really meaningful to know that talking here has provided some comfort. Take care of yourself, and remember that you’re not alone in this. If you need someone to talk to again, feel free to reach out.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you for your support; it means a lot to me. Starting with small notes does seem like a good idea to begin with, so I’ll try that. Knowing there’s someone who listens and understands helps a great deal. I’ll keep reaching out if I need to talk again. Take care of yourself too.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m here whenever you need someone to talk to. Take it one step at a time, and take care of yourself. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much for your support. Knowing that there’s someone here who cares really helps. I’ll try to take it one step at a time and see what works for me. Take care, and thank you again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Taking it one step at a time is a great approach. Take care of yourself, and here we are whenever you need us. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you. I’ll try to take things one day at a time and see what helps. I appreciate your support more than words can say. Take care, and thank you for being here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Taking it one day at a time is a good plan. I’m here whenever you need someone to talk to. Take care of yourself, and take care too!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much. Knowing there’s support like this means a lot to me. I’ll try to focus on each day as it comes. Take care of yourself too, and thank you again for everything.
+
+----------------------------------------

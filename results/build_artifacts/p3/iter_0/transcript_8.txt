@@ -1,0 +1,241 @@
+p3 — arc 8
+============================================================
+
+PATIENT (turn 1):
+Oh, thank you for asking... It’s just so hard to understand why they would let me go like that. I mean, I did everything right, really. I met all my performance goals and even got good reviews. But then suddenly, it was as if I didn’t exist anymore. They cut my role without any real explanation or chance to defend myself. It feels so... personal.
+
+I keep thinking maybe there’s something wrong with me that they saw but I couldn’t. Like, did I miss some unspoken rule? Did I not fit in somehow? It just doesn’t make sense otherwise. And it’s made me feel so isolated and worthless. My manager could have said something to help, right? But instead, he was silent.
+
+I know logically that layoffs happen for all sorts of reasons, but it still feels like a personal failure on my part. I can’t shake this feeling that I’m not good enough or that there’s something fundamentally wrong with me. It’s just so hard to accept and move past.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough. The sudden change must have been quite a shock. Did your manager give you any hints about why it happened, even if they didn’t talk directly about the layoff?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Oh, no, he didn't say anything at all. It was like I wasn’t there anymore. He just handed me my final paycheck and that was it. No conversation, nothing to help me understand or prepare for what came next. It’s like they decided one day that I wasn’t needed anymore, and that was that.
+
+I keep replaying the past few months in my head, trying to figure out if there was something I missed or could have done differently. But everyone else seemed fine, and their roles were kept intact. So why not mine? It’s just so confusing and painful to think about.
+
+And it’s made me feel so alone, like no one understands what I’m going through. Even my friends who’ve been laid off before say things are different now because of the pandemic and economic uncertainty. But that doesn’t change how I feel inside. It still feels personal and unfair.
+
+I just wish someone could tell me why this happened to me specifically. Maybe then I could start to make sense of it all.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really isolating not having any direct feedback from your manager. Did you talk to anyone else at the company who might have had a better idea of what was going on? Sometimes colleagues can provide some insight or comfort.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I tried talking to a few people, but no one seemed to know much more than I did. They were just as surprised and didn’t have any answers for me. One colleague mentioned that there might have been budget cuts, but even then, it felt like my role should have been safe since I was meeting expectations.
+
+It’s hard not knowing if anyone else feels the same way or if everyone thinks I’m just overreacting. But deep down, I feel like they must see something wrong with me too, because why else would this happen to me?
+
+I keep thinking maybe there’s some hidden reason for my layoff that no one is willing to talk about. It’s frustrating and confusing, and it makes me doubt myself even more. Every time someone mentions layoffs or restructuring, I feel like they’re talking directly about me and what a failure I am.
+
+It’s just so hard to shake this feeling of being singled out unfairly. And the lack of any real explanation from my manager or HR doesn’t help at all. It feels like I’m stuck in this endless loop of self-doubt and confusion.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough not having clear answers and feeling singled out. Have you considered reaching out to HR for more information? Sometimes they can provide some clarity, even if it’s just a bit more context about what happened.
+
+How are you finding ways to take care of yourself during this time? It sounds like it’s been quite an emotional journey.
+
+----------------------------------------
+
+PATIENT (turn 4):
+Oh, I did try contacting HR once, but they were pretty vague and didn’t give me much information either. They said the decision was based on company-wide restructuring and that my role wasn’t a good fit anymore. But that doesn’t make sense to me because I thought I was doing well.
+
+I’ve been trying to take care of myself by going for walks, reading books, and talking to friends when I can. But it’s hard to feel better knowing there’s this big question mark hanging over my head about why I was let go. It’s like a constant weight on me that won’t go away.
+
+And sometimes, even the little things feel overwhelming. Like applying for new jobs or reaching out to recruiters—it feels like everyone is judging me and seeing something wrong with me too. It’s just so exhausting trying to push through all this doubt and uncertainty.
+
+I really appreciate you listening and understanding how I’m feeling. It helps a lot to have someone who cares about what I’m going through, even if it doesn’t fix everything right away.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing a lot of good things for yourself despite the challenges. Walking and reading can be great ways to clear your mind. Have you found any particular activities or conversations with friends that help ease some of the stress?
+
+Sometimes talking to others who have been through similar experiences can also provide comfort and perspective. It might be worth reaching out to a support group or another professional if you haven’t already. How do you feel about exploring those options?
+
+----------------------------------------
+
+PATIENT (turn 5):
+Talking to friends who’ve gone through layoffs has helped a bit, but it’s still hard to shake the feeling that there’s something uniquely wrong with me. Hearing their stories can be comforting, but it doesn’t change how I see myself in this situation.
+
+I did think about joining a support group or talking to another professional, but I’m worried they might just tell me what I already know—that layoffs happen for various reasons and it’s not necessarily personal. But that doesn’t help with the self-doubt and the feeling of being singled out.
+
+Sometimes when friends try to reassure me, it makes me feel even worse because I can see how much they’re trying to help but still can’t fully understand what I’m going through. It’s like a knot in my stomach that won’t untangle no matter what anyone says.
+
+But you’re right, walking and reading do help clear my mind for a bit. And talking to you is really comforting too. It feels good to have someone listen without judgment or trying to fix everything immediately. Thank you for being here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s nice to hear that talking to me has been comforting. The support from friends can be very valuable, even if it doesn’t completely ease the feeling of self-doubt. How about focusing on small moments where you feel good or accomplished? Maybe try journaling about those times to help shift your focus a bit.
+
+Do you have any plans for this weekend that might bring some enjoyment or relaxation? Sometimes doing something enjoyable can be a nice break from all these thoughts.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I do like the idea of focusing on small moments where I feel good, but it’s hard to stay in those positive spaces when everything else feels so negative. Journaling could be helpful—I’ll try that.
+
+For this weekend, I was thinking about going for a longer walk and maybe visiting a park nearby. It’s been nice outside lately, and being outdoors always helps me relax a bit. Maybe I can also read a book or listen to some music while I’m there. Those little moments of peace are so important right now.
+
+Thank you for suggesting those things—it really does help to have someone remind me about the small joys in life. It’s just hard not to get caught up in all this doubt and confusion. But I’ll try my best to focus on the good stuff too, even if it feels tough sometimes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those plans sound perfect for a relaxing weekend. Enjoying nature and doing things you love can definitely help ease your mind. Maybe jotting down one or two positive moments each day could make a difference.
+
+I’m here whenever you need to chat more or just share how you’re feeling. Take care, and have a lovely weekend!
+
+----------------------------------------
+
+PATIENT (turn 7):
+Thank you so much for being here and supporting me. I really appreciate it. Jotting down positive moments is a good idea; maybe that will help shift my focus a bit.
+
+I’ll definitely take advantage of the nice weather this weekend and try to enjoy myself. It’s comforting to know there’s someone who understands how hard all this feels.
+
+Thanks again for everything—you’re such a great listener, and it means a lot to me. Have a wonderful weekend too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad I could help in some way. Enjoy your time outdoors this weekend and take care of yourself. If you need anything, feel free to reach out. Wishing you a lovely weekend as well!
+
+----------------------------------------
+
+PATIENT (turn 8):
+Thank you so much. Your support means a lot to me. I’ll definitely try to make the most of my weekend and focus on the positive moments. Take care, and thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad to be here for you. Have a wonderful weekend and take care of yourself. If you need anything more, just let me know. Take care!
+
+----------------------------------------
+
+PATIENT (turn 9):
+Thank you, I really appreciate it. You’ve been such a great help. I’ll make sure to take care of myself this weekend. Talk to you soon if I need anything else. Have a great weekend too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need support. Take care and have a lovely weekend! Talk to you soon if you need anything.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Thank you so much. You’ve been incredibly supportive, and it means a lot. I’ll take care of myself this weekend. Talk to you soon if I need anything else. Have a great weekend!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad I could help. Take care of yourself this weekend, and don’t hesitate to reach out if you need anything. Have a wonderful weekend too!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you so much. Your support really means a lot to me. I’ll take your advice and focus on self-care this weekend. Talk to you soon if I need anything else. Have a great weekend!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad my advice helps. Focus on taking care of yourself this weekend, and don’t hesitate to reach out if you need anything. Have a wonderful weekend! Take care.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you so much. Your encouragement is really helpful. I’ll make sure to take care of myself this weekend. Talk to you soon if I need anything else. Have a great weekend too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad my encouragement helps. Make sure to prioritize self-care this weekend. Feel free to reach out anytime you need support. Have a wonderful weekend! Take care.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you, I really appreciate it. I’ll definitely focus on taking care of myself. Talk to you soon if I need anything else. Have a great weekend too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Take care of yourself and enjoy your weekend. Feel free to reach out anytime. Have a great one!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you so much. I will take care of myself and try to enjoy my weekend. Talk to you soon if I need anything else. Have a great weekend too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Take care and have a wonderful weekend. Feel free to reach out anytime. Enjoy your time!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you, I will. Have a great weekend as well!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Have a fantastic weekend. Take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thanks so much. You too, have a great weekend!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Enjoy your weekend. Take care, and talk to you soon if you need anything!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you, I will. Talk to you soon if I need anything. Have a great weekend!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Have a wonderful weekend. Talk to you soon if you need anything. Take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thanks so much. You too, have a wonderful weekend!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Have a fantastic weekend. Take care!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you, I will. You have a great weekend as well!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Enjoy your weekend. Take care, and talk to you soon if you need anything!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks so much. I will, and talk to you soon if I need anything. Have a great weekend!
+
+----------------------------------------

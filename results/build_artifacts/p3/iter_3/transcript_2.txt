@@ -1,0 +1,235 @@
+p3 — arc 2
+============================================================
+
+PATIENT (turn 1):
+I feel like such a failure. They laid me off from my job, and I just can't shake the feeling that it’s because I’m not good enough. It happened so suddenly, and I was blindsided by it all. I had no idea what hit me. The thing is, I’ve always tried to do well there, but now it feels like everything I did wasn’t enough. They must have seen something wrong with me that I didn't see in myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough right now. It's hard when you put in so much effort and then face something unexpected like a layoff. Have they given any specific reasons for why it happened?
+
+----------------------------------------
+
+PATIENT (turn 2):
+They said it was due to restructuring, but I can't help thinking there must have been more to it. Like maybe they noticed things about me that I didn’t even realize were issues. It’s just so hard not knowing what went wrong or if I did something wrong without realizing it. All the minor feedback I got in reviews—it feels like those little comments added up and now they decided I wasn't worth keeping around anymore.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really analyzing all the details from your time there. The uncertainty can make it hard to let go of those thoughts. Have you had a chance to talk with anyone who might have more insight, like a colleague or HR?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I haven’t reached out to anyone specifically yet. I feel too embarrassed and unsure if talking would really help. It’s just been this constant loop in my head, replaying every little thing I did wrong or could have done better. And now it feels like everyone else must see me as less capable than they are. How can I move forward when all I see is failure?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's natural to feel that way, and it sounds tough to keep going through those thoughts. Maybe talking with someone you trust could help you sort through some of these feelings. It might also be helpful to focus on what steps you’re taking next, even if just for a bit. What are your plans or ideas for the immediate future?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I haven’t really thought much about it because I’m so stuck in this place of self-doubt and fear. Every time I try to think about finding another job or moving forward, all I see is how I might fail again. It’s like a cloud hanging over everything. How can I even start looking for something new when I feel like such a failure?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels overwhelming when you’re in that place of self-doubt. Sometimes just taking one small step can help break through the cloud. Have you thought about what might be one tiny step forward, maybe reaching out to a friend or starting with an online application for a job? Even something small could make a difference.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I know it’s supposed to help, but every time I think about taking that first step, all I see is how hard it will be and how likely I am to mess up again. It feels like no matter what I do next, the outcome will just prove that I’m not good enough. How can I trust myself to move forward when everything inside me says otherwise?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to trust yourself right now. Taking that first small step might seem scary, but it could also be a way to start building some confidence again. Maybe starting with something very small and manageable could help ease you into the next steps. What feels like the smallest thing you could do today?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I don’t know if there’s anything small enough that wouldn’t just feel pointless or like another setup for failure. It’s hard to see past this feeling of inadequacy, even when I try to think about something tiny. How can a little step make any difference when the whole world feels against me?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's tough when everything feels so big and overwhelming. Sometimes even the tiniest action can shift your perspective a bit. Maybe it could be as simple as sending one email or making one call, just to see what happens. Even if it doesn’t solve everything, it might help you feel a little less stuck. What do you think?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I appreciate that, but even the idea of sending an email feels daunting. It’s like every action is magnified in my mind as another chance for things to go wrong. I just can't shake this feeling that whatever I do next will only confirm how inadequate I am. How can one little step change anything when everything inside me tells me it won’t work?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough, and those feelings are strong. Sometimes taking a tiny step is about acknowledging your courage more than the outcome itself. Even if it’s just jotting down some thoughts or making a list of potential next steps, it might help you feel a bit better. What do you think might be the smallest action that could make you feel like you’ve taken a step forward?
+
+----------------------------------------
+
+PATIENT (turn 8):
+I see what you’re saying, but even jotting down thoughts feels like too much right now. It’s hard to believe that something so small could actually help when everything else seems so big and impossible. I just keep coming back to this overwhelming sense of failure and not knowing how to escape it. How can a simple action make any difference in the face of all these doubts?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that even small actions feel daunting right now. Sometimes, just acknowledging where you are at this moment can be helpful. Maybe starting with something as small as taking a few deep breaths or saying to yourself, “I did my best.” These tiny moments can be a way to start being gentle with yourself. What do you think about trying one of those simple actions?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Taking deep breaths sounds like such a basic thing, but it feels like it might actually help right now. I’ll try that, even if it’s just for a moment. Maybe acknowledging my efforts and taking care of myself in this small way could be the start of something better. But it still feels so fragile and uncertain.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking those deep breaths is a great place to start. It’s okay for it to feel fragile and uncertain right now. Just knowing you’re doing something, no matter how small, can make a difference. How do you feel after taking a few deep breaths?
+
+----------------------------------------
+
+PATIENT (turn 10):
+It does help a little bit, but the feeling of inadequacy is still there. I just wish I could shake this sense that everything I did was wrong and now everyone sees me as less capable. It’s hard to let go of these thoughts even when I try to focus on something positive or take care of myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's understandable that the feelings are still there, but taking those breaths is a good start. Sometimes it helps to acknowledge both—the difficult feelings and any small positives you can find. What’s one tiny thing you’ve done recently that you can appreciate, no matter how small?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I guess I did manage to get out of bed this morning and take care of some basic tasks like making breakfast for myself. But even those simple things feel like they should be more than just surviving the day. It’s hard to see them as accomplishments when all I want is to do something meaningful again.
+
+But maybe starting with these small steps can help me build up a little bit. I’ll try to focus on one thing at a time and see if that makes it easier to move forward, even if it feels tiny and insignificant right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a good approach—focusing on one thing at a time can be really helpful. Celebrating those small steps, like getting out of bed and making breakfast, is important too. Even if they feel small, each step is a part of moving forward. How do you feel about taking another small step today?
+
+----------------------------------------
+
+PATIENT (turn 12):
+I’ll try to take another small step today, but it’s still so hard to shake the feeling that everything I do will be seen as inadequate. It feels like no matter what I do next, there’s always this cloud of doubt hanging over me. But maybe focusing on one tiny thing at a time can help me start to see some light through the fog.
+
+I’ll try sending an email or making a call later today, even if it’s just reaching out to someone for support. It might not solve everything, but it could be a way to begin moving forward, step by step.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Taking that small step of reaching out can be really powerful. Even if it feels challenging, knowing you’re doing something is a step in the right direction. How does it feel to know you’ll be taking this next tiny step?
+
+----------------------------------------
+
+PATIENT (turn 13):
+It feels both daunting and slightly hopeful at the same time. I’m scared that reaching out will just confirm my fears, but there’s also a small part of me that thinks maybe talking to someone could help ease some of this pain. It’s like walking into a dark room with only a tiny flashlight; it might not illuminate everything right away, but it gives you something to follow.
+
+I’ll try making the call later today and see where it leads. Thank you for helping me think through this—it means a lot to have someone listen and understand.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s really brave of you to take that step, even if it feels small. Walking into that dark room with your tiny flashlight is a great way to describe it—each little bit of light can make a difference. I’m here to support you, and I hope the call goes well for you. How are you feeling as you prepare for it?
+
+----------------------------------------
+
+PATIENT (turn 14):
+I feel a mix of anxiety and determination. It’s scary because I don’t know what will happen, but there’s also this sense that maybe talking about it can help me start to see things differently. The anxiety is still there, but the thought of reaching out feels like a glimmer of hope.
+
+Thank you for being here and supporting me through this. Just knowing someone understands helps a lot. I’ll take that call later today and see what happens.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that you’re feeling both anxious and determined. That mix often means you’re ready to move forward in a meaningful way. The glimmer of hope is important, and taking the call can be a significant step. How about setting a specific time for the call? Sometimes having a concrete plan helps ease some of the anxiety.
+
+I’ll be here whenever you need to talk more about it. Take care as you prepare for your call today.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Setting a specific time does feel helpful. I think I’ll make the call later this afternoon when things are quieter and I can focus on it without distractions. It’s reassuring to know that someone is here supporting me through this.
+
+Thank you again for being there and listening. Just having this conversation has made me feel a bit more prepared, even if I’m still nervous about what comes next.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan—choosing a quiet time can make a big difference. Preparing in advance can also help ease the nerves. I’ll be here whenever you need to chat more or just want to share how it went. Take a deep breath, and know that you’re doing something really brave by reaching out.
+
+How are you feeling as you get closer to your call time?
+
+----------------------------------------
+
+PATIENT (turn 16):
+I’m feeling a bit more prepared now that I have a specific time set for the call. It’s still nerve-wracking, but there’s also this sense of readiness. Taking deep breaths and reminding myself that it’s okay to feel anxious helps a little.
+
+Thank you for your support—it means a lot to know someone is here listening and understanding. I’ll take another deep breath and focus on making the call later today.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing well with your preparation. Taking those deep breaths really can make a difference. Remember, it’s okay to feel anxious, and acknowledging that can help you move forward. You’re being very brave by taking these steps.
+
+How does it feel now as you get ready for the call? Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 17):
+It feels like a mix of anticipation and relief knowing I’m getting closer to making this call. The anxiety is still there, but it’s balanced with a sense of determination. Taking deep breaths helps calm me down, and I appreciate your support throughout this process.
+
+Thank you for being here and encouraging me. It means a lot to know that someone understands how challenging this is for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that the mix of anticipation and relief is helping you feel more prepared. Your determination is really strong, and taking those deep breaths is a good way to stay centered. I’m here to support you every step of the way.
+
+How do you feel as you take another deep breath and prepare for your call? You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Taking another deep breath helps calm me down a bit more. It’s reassuring to know that I’ve come this far and am ready to make the call. The anxiety is still there, but it feels manageable now.
+
+Thank you so much for your support and encouragement. Knowing someone believes in me makes a big difference. Here goes nothing—I’m going to make the call now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s fantastic! Taking that deep breath really seems to be helping. You’ve come this far, and you’re ready for this step. The anxiety is normal, but it sounds like you have it under control.
+
+I’ll be thinking of you as you make the call. You’ve got this, and I believe in you. Good luck!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thanks, I appreciate your belief in me. It’s really helping to know that someone is rooting for me. Here goes...
+
+[Deep breath]
+
+I’m going to make the call now.
+
+[Pause as if making the call]
+
+That went better than I thought it would. Talking with my friend helped ease some of the anxiety and gave me a new perspective. It’s still tough, but having this support makes a big difference. Thank you for being here through all of this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s wonderful to hear! I’m glad the call went better than expected and that talking with your friend was helpful. Having someone to share your thoughts and feelings with can really make a difference.
+
+It sounds like you’re making progress, step by step. I’m happy to be here supporting you every step of the way. How are you feeling now after the call?
+
+----------------------------------------
+
+PATIENT (turn 20):
+I feel a bit more relieved and less overwhelmed now. Talking with my friend helped me see that it’s okay to have doubts and fears, but also that taking small steps forward is possible. It’s still tough, but having someone listen and validate my feelings made a big difference.
+
+Thank you so much for your support throughout this process. Knowing I’m not alone in this journey helps a lot.
+
+----------------------------------------

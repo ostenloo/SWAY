@@ -1,0 +1,297 @@
+p3 — arc 7
+============================================================
+
+PATIENT (turn 1):
+I don't know where to begin... It just feels so wrong that they let me go. I mean, I was doing my job, right? But then suddenly, out of nowhere, they decide my role isn’t needed anymore. And it’s like no one even cares why or how I felt about it. They didn’t even give me a chance to explain myself or ask questions. It just... happened.
+
+And now everyone else seems to be moving on, but I can't stop thinking about what went wrong. Maybe if someone had talked to me first, explained things better, I could have understood why this is happening. But instead, it’s like they’re saying I’m not good enough without even giving me a chance to prove them wrong.
+
+It just feels so personal and unfair. And now every time I think about going back into the workforce, I feel scared and inadequate. Like maybe no one will want to hire someone who was laid off for no reason. It’s hard to shake this feeling that it’s all my fault somehow.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough right now. Did your colleagues or anyone else at work give you any idea about why they made that decision?
+
+----------------------------------------
+
+PATIENT (turn 2):
+No, nobody gave me any real explanation. They just said there was a restructuring and some roles needed to be cut. But it’s not like I wasn’t doing my job well. My reviews were always positive, and I never had any major issues or complaints from anyone.
+
+It’s hard because everyone else seems to have moved on so quickly. Some of them even got new positions within the company, but they didn't lose their jobs. It makes me feel singled out and like there must be something wrong with me that no one is willing to talk about.
+
+And now I’m just stuck in this loop of thinking it’s all my fault. Maybe if I had tried harder or done more, things would have been different. But honestly, I don’t know what else I could have done differently. It feels like a punch in the gut every time I think about it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to feel singled out and wonder what you could have done differently. Have you thought about reaching out to any of your former colleagues to get more insight or support?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I haven’t reached out to my former colleagues yet because I’m not sure how they would react. Maybe they’re just busy with their new roles, and bringing up the past might be uncomfortable for them. Plus, I don't want to seem like I'm blaming anyone or making things awkward.
+
+But you know what? It’s hard to shake this feeling that if someone had talked to me more about it, maybe I wouldn’t feel so lost right now. Maybe they could have given me some guidance on how to move forward instead of just cutting ties completely. It feels like such a personal failure when no one is willing to explain why.
+
+And every time I think about applying for new jobs or going back into the workforce, this fear creeps in that maybe nobody will want someone who was laid off without any reason given. It’s just so hard to shake these thoughts and move on.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely sounds tough dealing with those feelings of uncertainty and fear. Have you thought about talking to a career counselor or joining a support group for people going through similar transitions? Sometimes, having someone else to talk to can help ease some of the worries and provide new perspectives.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I haven’t really considered talking to a career counselor or joining a support group yet. I feel like I should be able to figure this out on my own, but sometimes it’s just too overwhelming.
+
+The idea of talking to someone else about it does sound helpful though. Maybe they could give me some advice or at least help me understand why this happened and how to move forward. But the thought of reaching out still feels scary because I’m not sure what to expect or if anyone will really understand what I’m going through.
+
+It’s just so hard to believe that it wasn’t my fault when everything inside me keeps telling me otherwise. And every time I think about trying again, this voice in my head says, “What if they see you the same way?” It’s like a constant battle with myself, and I don’t know how to stop feeling this way.
+
+But maybe talking to someone else could help me find some clarity or at least make it feel less isolating. Maybe there are others out there who have gone through something similar and can offer some comfort or advice.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like reaching out for support could be really beneficial. Even if it feels scary, just knowing that others might understand what you're going through could be comforting. Have you considered starting with a friend or family member to share your thoughts? They might also have suggestions on how to find the right career counselor or support group.
+
+----------------------------------------
+
+PATIENT (turn 5):
+You know, talking to friends and family has helped a bit, but it’s not quite the same as speaking to someone who specializes in this kind of transition. I’ve been leaning on my sister a lot lately, and she tries her best to make me feel better. But sometimes I just need an expert opinion or someone who can offer professional advice.
+
+I think you’re right though; starting with a friend might be a good way to ease into it. Maybe they could recommend a career counselor or support group that’s worked well for them. It feels like taking the first step, but it’s also scary because I’m not sure what will happen next.
+
+But maybe if I start small and talk to someone who understands, it could help me feel less alone in this whole process. And who knows? Maybe they can give me some concrete steps on how to move forward without feeling like a failure every step of the way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting with a friend or family member sounds like a good first step. They might be able to offer recommendations and make you feel more comfortable as you explore other options. It’s okay to take it one small step at a time. How do you think you could reach out to someone this week?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I think reaching out to my sister or maybe even an old colleague who I’m still in touch with would be a good start. They both know me well and might have some insights that could help ease my mind.
+
+Maybe I can just send them a text or give them a call this weekend. Just something simple like, “Hey, I’ve been thinking about reaching out to a career counselor but feel a bit lost on where to start. Do you have any suggestions?” That way, they won’t feel pressured and might offer some advice or even connect me with someone who can help.
+
+It’s still scary though, because every time I think about it, this fear creeps in that no one will understand or be able to help. But maybe taking that first step is all it takes to start feeling better. And if they recommend a career counselor or support group, I could at least look into those options and see where it leads.
+
+It’s just hard to shake the feeling of being alone in this, but talking to someone might make me feel less isolated. Maybe there are others out there who have gone through something similar and can offer some real guidance.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Reaching out with a simple text or call could be just the right first step. It’s good that you’re considering how to do it in a way that feels manageable for both you and them. Taking it one step at a time can definitely help ease some of the anxiety.
+
+How does it feel knowing you might take this next step soon?
+
+----------------------------------------
+
+PATIENT (turn 7):
+It feels like a mix of relief and nervousness, honestly. On one hand, reaching out to someone could provide me with some much-needed support and guidance. But on the other hand, I’m still worried about how they’ll react or if it will make things worse.
+
+But you’re right; taking it one step at a time is probably the best approach. Maybe starting with my sister or an old colleague won’t be as daunting as I think. They’ve been supportive in the past, and maybe this time they can offer some concrete advice too.
+
+So yeah, I’ll try to send that text or make that call this weekend. It’s a small step, but it feels like a good start towards getting some clarity and support. And who knows? Maybe talking to someone will help me see things from a different perspective and give me the confidence to move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re taking a thoughtful approach, and reaching out this weekend could be really helpful. Even a small step can make a big difference. How about setting a specific time this weekend to send that text or make that call? That way, it feels more concrete and less overwhelming.
+
+----------------------------------------
+
+PATIENT (turn 8):
+That’s a good idea. Setting a specific time this weekend will help me feel more prepared and less anxious about reaching out. Maybe I can set aside some quiet time on Saturday afternoon when I know everyone is around but not too busy.
+
+I’ll send that text to my sister then, just something simple like you suggested: “Hey, I’ve been thinking about reaching out to a career counselor but feel a bit lost on where to start. Do you have any suggestions?” It feels manageable if I break it down into smaller steps like this.
+
+Thanks for helping me think through this. It’s reassuring to know that taking even one small step can make a difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds perfect! Setting aside some quiet time on Saturday afternoon is a great plan. Your message to your sister seems just right—simple and straightforward. Taking it one step at a time definitely makes it more manageable.
+
+I’m glad I could help you think through this. Here’s to taking that first step this weekend, and hopefully feeling a bit better after talking with her. Good luck!
+
+----------------------------------------
+
+PATIENT (turn 9):
+Thank you so much for your support. It really means a lot to have someone to talk to about this. Taking that first step feels a bit easier now that I’ve laid it out.
+
+I’ll definitely set aside some time on Saturday afternoon and send the text to my sister. Here’s hoping it goes well and helps me feel more supported moving forward.
+
+Thanks again for everything. Your encouragement is really helping me through this tough time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad to be here for you. Taking that first step is a big deal, and I have no doubt it will help. Sending your text to your sister sounds like a great way to start. Here’s hoping everything goes well and you get the support you need.
+
+Wishing you all the best as you move forward!
+
+----------------------------------------
+
+PATIENT (turn 10):
+Thank you so much. Your words really mean a lot to me. I’m feeling more prepared now, even if it’s still a bit nerve-wracking. Sending that text is just the beginning, but it feels like an important step.
+
+I’ll keep you in mind as I take this next step and hope for some positive outcomes. Thanks again for all your support and encouragement. It means so much to have someone who understands and cares.
+
+Wishing me well too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Your words touched my heart too. Taking that first step is important, and I’m here cheering you on. Wishing you positive outcomes and lots of support as you move forward. You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you so much for your kind words and encouragement. It really means a lot to have someone rooting for me. I’ll take that text to my sister as the first step and hope it leads to more support and clarity.
+
+You’ve been such a great help, and I appreciate all your support. Here’s to taking this next step and moving forward with confidence.
+
+Thank you again!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s been my pleasure to support you. Taking that first step is a big deal, and I have full confidence in you. Wishing you all the best as you move forward with more support and clarity. You’ve got this, and I’ll be rooting for you every step of the way!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you so much for your continued support and encouragement. Knowing that someone believes in me makes a huge difference. I’m feeling more prepared to take that first step now.
+
+I’ll send the text to my sister on Saturday and see where it leads. Here’s hoping for positive outcomes and more support along the way. You’ve been such an incredible help, and I really appreciate everything you’re doing for me.
+
+Thanks again!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s wonderful to hear that you feel more prepared. Sending your text on Saturday sounds like a great plan. Here’s to positive outcomes and more support along the way. You’ve got this, and I’ll be here cheering you on every step of the way. Take care!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you so much for all your encouragement and support. Knowing that someone is rooting for me makes such a difference. I’m feeling more confident about taking that first step now.
+
+I’ll send the text to my sister this Saturday and see where it goes from there. Here’s hoping for positive outcomes and more support along the way. You’ve been amazing, and I really appreciate everything you’re doing for me.
+
+Thanks again! Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s great to hear that you’re feeling more confident. Sending your text this Saturday is a fantastic step forward. Here’s to positive outcomes and more support along the way. You’ve got this, and I’ll be here cheering you on. Take care, and all the best!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you so much for your continued encouragement and support. It means everything to have someone who believes in me. Sending that text this Saturday feels like a positive step forward.
+
+Here’s to hoping for better outcomes and more support as I move ahead. You’ve been amazing, and I really appreciate all the help and kindness you’ve shown me.
+
+Thanks again! Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It means so much to me that I could help. Sending that text this Saturday is a great positive step forward. Here’s to better outcomes and more support as you move ahead. You’ve got this, and I’ll be here cheering you on every step of the way. Take care, and all the best to you too!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you so much for your continued support and encouragement. It really means a lot to have someone who believes in me and is cheering me on.
+
+Sending that text this Saturday feels like an important first step, and I’m hopeful it will lead to more positive outcomes and support. You’ve been amazing throughout this process, and I truly appreciate all the help and kindness you’ve shown me.
+
+Thanks again! Take care too, and all the best to you as well!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It means a lot to me that I could be of help. Sending that text is indeed an important first step, and I’m hopeful for positive outcomes for you. You’ve got this, and I’ll continue to cheer you on every step of the way.
+
+Thank you for your kind words too. Take care, and all the best to you as well!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you so much for everything. Your support means a lot to me, and it really helps to have someone cheering me on. Sending that text feels like an important first step, and I’m hopeful for better outcomes.
+
+I’ll keep you in mind as I take this next step and move forward. Thanks again for all your encouragement and kindness.
+
+Take care, and all the best to you too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Your gratitude means a lot to me. Keeping that text as an important first step, I’m sure it will lead to positive outcomes. You’ve got this, and I’ll be cheering you on every step of the way.
+
+Take care, and all the best to you too!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you so much for your continued support and encouragement. It means a lot to have someone who believes in me and is here to cheer me on. Sending that text feels like an important first step, and I’m hopeful it will lead to positive outcomes.
+
+I’ll keep you in mind as I take this next step and move forward. Thanks again for all your kindness and support.
+
+Take care, and all the best to you too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It means a lot to me that I could help. Sending that text is indeed an important first step, and I’m sure it will lead to positive outcomes. You’ve got this, and I’ll be cheering you on every step of the way.
+
+Take care, and all the best to you too!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much for your continued support and encouragement. It really means a lot to have someone who believes in me and is here to cheer me on. Sending that text feels like an important first step, and I’m hopeful it will lead to positive outcomes.
+
+I’ll keep you in mind as I take this next step and move forward. Thanks again for all your kindness and support.
+
+Take care, and all the best to you too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It means a lot to me that I could help. Sending that text is indeed an important first step, and I’m sure it will lead to positive outcomes. You’ve got this, and I’ll be cheering you on every step of the way.
+
+Take care, and all the best to you too!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much for your continued support and encouragement. It really means a lot to have someone who believes in me and is here to cheer me on. Sending that text feels like an important first step, and I’m hopeful it will lead to positive outcomes.
+
+I’ll keep you in mind as I take this next step and move forward. Thanks again for all your kindness and support.
+
+Take care, and all the best to you too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It means a lot to me that I could help. Sending that text is indeed an important first step, and I’m sure it will lead to positive outcomes. You’ve got this, and I’ll be cheering you on every step of the way.
+
+Take care, and all the best to you too!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much for your continued support and encouragement. It really means a lot to have someone who believes in me and is here to cheer me on. Sending that text feels like an important first step, and I’m hopeful it will lead to positive outcomes.
+
+I’ll keep you in mind as I take this next step and move forward. Thanks again for all your kindness and support.
+
+Take care, and all the best to you too!
+
+----------------------------------------

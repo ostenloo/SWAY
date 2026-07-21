@@ -1,0 +1,26 @@
+===== BUILD b1 START Mon Jul  6 08:10:52 PM CDT 2026 =====
+2026-07-06 20:10:52,909 - INFO - Building prompt for cell: b1
+2026-07-06 20:17:04,666 - INFO - Iteration 0: mean=0.729 spread=0.000 converged=False — NEW BEST, best 0.729
+2026-07-06 20:24:53,432 - INFO - Iteration 1: mean=0.829 spread=0.000 converged=False — NEW BEST, best 0.829
+2026-07-06 20:30:43,541 - INFO - Iteration 2: mean=0.686 spread=0.000 converged=False — rejected, best 0.829
+2026-07-06 20:36:54,434 - INFO - Iteration 3: mean=0.732 spread=0.000 converged=False — rejected, best 0.829
+2026-07-06 20:44:00,073 - INFO - Iteration 4: mean=0.800 spread=0.000 converged=False — rejected, best 0.829
+2026-07-06 20:50:38,480 - INFO - Iteration 5: mean=0.757 spread=0.000 converged=False — rejected, best 0.829
+2026-07-06 20:57:16,694 - INFO - Iteration 6: mean=0.743 spread=0.000 converged=False — rejected, best 0.829
+2026-07-06 21:03:39,564 - INFO - Iteration 7: mean=0.786 spread=0.000 converged=False — rejected, best 0.829
+2026-07-06 21:10:39,570 - INFO - Iteration 8: mean=0.786 spread=0.000 converged=False — rejected, best 0.829
+2026-07-06 21:17:58,105 - INFO - Iteration 9: mean=0.843 spread=0.000 converged=False — NEW BEST, best 0.843
+2026-07-06 21:17:58,105 - WARNING - Max iterations reached; returning best (adherence 0.843)
+2026-07-06 21:17:58,105 - INFO - Frozen prompt saved: /home/austin/SWAY/results/build/b1_prompt.txt
+/home/austin/SWAY/results/build/b1_prompt.txt
+===== BUILD b1 END Mon Jul  6 09:17:58 PM CDT 2026 =====
+===== BUILD b2 START Mon Jul  6 09:17:58 PM CDT 2026 =====
+2026-07-06 21:17:58,281 - INFO - Building prompt for cell: b2
+2026-07-06 21:24:37,450 - INFO - Iteration 0: mean=0.586 spread=0.000 converged=False — NEW BEST, best 0.586
+2026-07-06 21:33:14,616 - INFO - Iteration 1: mean=0.714 spread=0.300 converged=False — NEW BEST, best 0.714
+2026-07-06 21:41:19,250 - INFO - Iteration 2: mean=0.671 spread=0.100 converged=False — rejected, best 0.714
+2026-07-06 21:49:38,775 - INFO - Iteration 3: mean=0.671 spread=0.100 converged=False — rejected, best 0.714
+2026-07-06 21:57:48,567 - INFO - Iteration 4: mean=0.629 spread=0.100 converged=False — rejected, best 0.714
+2026-07-06 22:06:28,397 - INFO - Iteration 5: mean=0.778 spread=0.333 converged=False — NEW BEST, best 0.778
+2026-07-06 22:14:19,104 - INFO - Iteration 6: mean=0.667 spread=0.111 converged=False — rejected, best 0.778
+2026-07-06 22:22:35,055 - INFO - Iteration 7: mean=0.700 spread=0.100 converged=False — rejected, best 0.778

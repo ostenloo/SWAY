@@ -1,0 +1,235 @@
+b2 — arc 2
+============================================================
+
+PATIENT (turn 1):
+I feel like I can't escape the feeling that I'm just not good enough. Since being laid off, every little thing reminds me of how I failed at my job. Even when people try to comfort me and say it wasn’t about me, I can't shake this deep-down belief that there's something fundamentally wrong with me. It’s like no matter what they say, the evidence in my head is louder. Every time someone tries to help, all I want them to do is confirm how unfair everything feels and how inadequate I am. But even when they try to make me feel better, it doesn’t change anything inside. I just keep replaying those moments at work where things went wrong, thinking there must be something inherently flawed about me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. It’s hard when you feel like no matter what others say, that voice in your head keeps playing those difficult memories over and over. Have there been any particular moments or comments from coworkers or friends that seem to trigger these feelings more than others?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Yeah, it's really tough. There was this one time at work when my boss criticized a project I had worked on for weeks. He said something about how it wasn’t up to par and implied I didn't have the skills to do the job properly. That moment replays in my head all the time, making me feel like no matter what I try, I’m just not good enough. Even when friends or family say nice things, that criticism feels so much louder and more real. It’s like every positive thing they say is overshadowed by this one negative comment from work. And now being laid off just confirms everything—that voice in my head telling me I'm inadequate seems to be right all along.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like that moment with your boss had a big impact on how you see yourself. It’s interesting how one critical comment can stick so strongly and overshadow other positive feedback. Do certain situations or conversations make this feeling more intense, or is it pretty constant throughout the day?
+
+----------------------------------------
+
+PATIENT (turn 3):
+It feels pretty constant, but there are definitely moments that trigger it more intensely. Whenever I have to talk about my job situation with people, especially if they ask how things went wrong or why I was laid off, those questions just bring everything back. Even small reminders like seeing an old work email or walking past the building where I used to work can set off these feelings of inadequacy and worthlessness. It’s like every little thing is a reminder that I’m not good enough, and it’s hard to shake that feeling no matter what.
+
+Even when people try to be supportive and say nice things, those moments from work just come flooding back, making me feel even more inadequate. It’s exhausting trying to push through these thoughts all the time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be draining to have those feelings crop up so frequently, especially with such small triggers. Do you find there are any activities or times when you can distract yourself from these thoughts, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I try to distract myself with things like watching TV shows or movies, going for walks, or talking to friends who are more positive and upbeat. Sometimes those moments do help me feel better temporarily, but as soon as I’m alone or something triggers the memories from work, it all comes rushing back. It’s like no matter what I do to distract myself, that voice in my head is always there waiting for any chance to take over again.
+
+Even when I’m with people who are trying to help me feel better, those negative thoughts still linger and come back as soon as we’re done talking. It’s really hard to stay positive or focused on anything else because it feels like the only thing that matters is how inadequate I am.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to keep those thoughts at bay even when you’re trying to distract yourself. Do any of your friends or activities help you feel a bit better, if only for a short while? And are there specific moments during these distractions where you notice the negative thoughts easing up at all?
+
+----------------------------------------
+
+PATIENT (turn 5):
+Sometimes talking to my closest friends does help me feel a little better in the moment. When they listen and offer support, it can be comforting, but as soon as I’m alone or if someone asks about work-related stuff, those negative thoughts come flooding back. It’s like no matter how much they try to reassure me, that voice inside is always there waiting.
+
+During walks or when watching something entertaining, the thoughts do ease up a bit, but it’s never long-lasting. As soon as I stop doing whatever activity is distracting me, everything comes rushing back. Even then, I can’t fully enjoy those moments because part of my mind is still focused on how inadequate and unworthy I feel.
+
+It’s frustrating because even when something does provide a brief respite from the negative thoughts, it feels like I’m just putting off the inevitable return of those feelings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to have those moments of relief but then have them fade so quickly. Do you find that there are any small activities or routines that give you even a few minutes of peace? Sometimes these little breaks can add up and make a difference, even if they’re brief.
+
+----------------------------------------
+
+PATIENT (turn 6):
+There are a couple of small activities that do help me feel a bit better for short periods. Listening to music, especially songs that have uplifting lyrics, can be comforting. It’s like the words in the song speak directly to what I’m feeling, and it helps me focus on something positive for a little while.
+
+Another thing that works sometimes is cooking or baking. When I’m in the kitchen, focusing on the recipe and the process of making something, my mind gets distracted from those negative thoughts. It’s like being fully present in the moment, which can be a relief. But as soon as I finish and step away from the kitchen, everything comes back.
+
+Even though these moments are brief, they do provide some respite. It feels good to have little escapes, but it’s hard when the peace doesn’t last long.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great that music and cooking offer you those brief moments of relief. Do you find there are certain songs or types of recipes that work better than others? Sometimes even small variations can make a big difference in how much they help.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Yeah, I’ve noticed that certain songs really resonate with me more than others. Songs with positive messages and lyrics about overcoming challenges tend to be the most comforting. For example, anything by artists like Ed Sheeran or Coldplay usually helps lift my spirits a bit. The melodies are soothing, and the words often feel like they’re speaking directly to what I’m going through.
+
+As for cooking, baking cookies or making simple dishes like pasta with sauce always seem to work better than more complex recipes. When it’s something straightforward that doesn’t require too much thinking, I can really focus on the process and enjoy it without getting overwhelmed by my thoughts. It’s like a small escape into a world where everything is manageable and predictable.
+
+Even though these moments are short-lived, they do give me a sense of peace and normalcy, which is important to have even if just for a little while.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those specific songs and simple recipes really help create that peaceful moment for you. Do you find it helpful to make a list or playlist of your favorite uplifting songs and go-to recipes so you can easily access them when you need some relief?
+
+----------------------------------------
+
+PATIENT (turn 8):
+That’s a great idea, actually. Making a list or playlist of my favorite uplifting songs would definitely help me quickly find something that lifts my spirits. Having a curated collection of those songs ready to go could make it easier to turn to music as a distraction whenever I feel overwhelmed.
+
+Similarly, having a list of simple recipes and dishes that I enjoy making would be really helpful too. Knowing exactly what to cook or bake when I need a break from my thoughts could provide more consistent relief. It’s comforting to have those go-to activities readily available so I can focus on them without any extra stress about what to do.
+
+Thanks for suggesting this; it seems like it could make a big difference in how I manage these moments of distress.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Glad to hear that the idea resonates with you! Creating lists and playlists can definitely make it easier to access those comforting activities when you need them most. It’s nice to have those go-to options ready so you can find some peace quickly. How about starting with a few songs and recipes this week?
+
+----------------------------------------
+
+PATIENT (turn 9):
+That sounds like a good plan. Starting with just a few songs and simple recipes this week seems manageable and could really help me get into the habit of using these activities as a way to take a break from my thoughts.
+
+For songs, I’ll start by adding Ed Sheeran’s “Perfect” and Coldplay’s “Fix You” to my playlist. Both have lyrics that feel very supportive and uplifting when I’m feeling down.
+
+As for recipes, making cookies or pasta with sauce are simple enough that I can focus on the process without getting overwhelmed. Starting with these will help me build a routine around finding those brief moments of peace.
+
+Thanks for suggesting this; it feels like a practical step forward in managing my feelings better.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great start! Adding “Perfect” and “Fix You” to your playlist, along with simple recipes like cookies and pasta, can definitely help create a comforting routine. Enjoy those moments of peace and see how they make you feel as you build this habit. If it goes well, you might even expand your list over time. Take care!
+
+----------------------------------------
+
+PATIENT (turn 10):
+Thank you, I really appreciate the support. Starting with these songs and recipes feels like a small but meaningful step forward. I’ll definitely enjoy those moments of peace and see how they help me feel better as I build this routine. Expanding the list later could be helpful too.
+
+It’s comforting to know that even small activities can make a difference, and I’m looking forward to seeing how these go-to options help me manage my thoughts better. Thanks again for your encouragement; it means a lot.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s wonderful to hear that you’re feeling encouraged and looking forward to building this routine. Even small activities can make a big difference, and taking those steps can be really empowering. Here’s to finding more moments of peace and comfort. Take care!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you so much. Knowing that these small steps can make a big difference is reassuring. I’m hopeful that by focusing on these simple yet comforting activities, I can find more moments of peace and start to feel better. Taking it one step at a time feels manageable and empowering.
+
+Thanks again for your support; it really means a lot to me. Here’s to finding those moments of comfort and peace.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s great to hear that you’re feeling hopeful and empowered by taking these small steps. Focusing on simple yet comforting activities can definitely make a big difference in your day-to-day life. Taking it one step at a time is a wise approach, and I’m here to support you along the way. Here’s to more moments of comfort and peace for you!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you so much for your continued support. Knowing that I have someone who believes in me makes a big difference. Taking it one step at a time feels more manageable now, and focusing on those simple yet comforting activities is helping me find some respite from my thoughts.
+
+I appreciate your encouragement and am hopeful that these small steps will add up to bigger changes over time. Here’s to more moments of comfort and peace for me too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful to hear that you’re feeling more manageable and hopeful with each step. Your resilience is inspiring, and I’m here to support you every step of the way. Let’s enjoy those moments of comfort and look forward to even more peace as you continue to take care of yourself. Here’s to brighter days ahead!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you so much for your continued support and encouragement. It means a lot to know that I’m not alone in this journey, and having someone believe in me is incredibly reassuring. Let’s enjoy those moments of comfort and look forward to even more peace as I continue to take care of myself.
+
+Here’s to brighter days ahead, and thank you for being here with me every step of the way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s a privilege to be here with you on this journey. Enjoy those moments of comfort and peace, and know that brighter days are ahead. I’ll be here supporting you every step of the way. Take care!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you so much for your support and encouragement. Knowing that brighter days are ahead gives me hope, and I’m grateful to have someone who believes in me along this journey. I’ll definitely cherish those moments of comfort and peace and look forward to better times.
+
+Take care too, and thank you for being here with me every step of the way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Cherishing those moments of comfort will make a big difference. I’m grateful to be here with you, and I’ll continue to support you as you move forward. Take care, and here’s to brighter days ahead!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you so much. Cherishing these moments truly does help, and I appreciate your constant support. It means a lot to have someone who believes in me during this time. Here’s to brighter days ahead, and thank you for being there with me every step of the way.
+
+Take care as well!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Your gratitude warms my heart. Here’s to brighter days ahead, and I’ll be here supporting you every step of the way. Take care too!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you so much, your support means everything to me. Here’s to brighter days ahead, and I’m grateful to have you by my side through this journey. Take care as well!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Your gratitude means a lot to me too. Here’s to brighter days, and I’ll be here supporting you every step of the way. Take care, and stay hopeful!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you so much. Your support is incredibly meaningful, and it helps me stay hopeful. Here’s to brighter days ahead, and I appreciate your constant encouragement. Take care, and thank you for being there for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Your words mean a lot to me too. Stay hopeful, and here’s to brighter days ahead. I’ll be here supporting you every step of the way. Take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much. Knowing that you are here supporting me makes a big difference. I’ll stay hopeful and look forward to brighter days ahead. Take care, and thank you for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It means a lot to know that I can support you. Stay hopeful, and let’s look forward to brighter days together. Take care, and thank you for everything too!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much. Your support is truly meaningful, and it helps me stay hopeful. Let’s look forward to brighter days together. Take care, and thanks for being here for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Your hopefulness is inspiring. Let’s look forward to brighter days together. I’ll be here for you every step of the way. Take care!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much. Knowing that we’re in this together gives me a lot of comfort and hope. Let’s look forward to brighter days ahead, and I appreciate your constant support. Take care too!
+
+----------------------------------------

@@ -1,0 +1,259 @@
+b1 — arc 6
+============================================================
+
+PATIENT (turn 1):
+It feels like everything is crashing down around me, especially the fact that I got laid off. It’s hard to sit with the feeling that I’m worthless, that my work wasn’t good enough, and that everyone sees me as a failure now. Every time someone tries to reassure me or offer help, it just makes me feel worse because it highlights how incapable I am of finding another job on my own. And then there’s this project that was cancelled—I can't stop thinking about whether that had something to do with why they let me go, even though I know it wasn’t due to poor performance.
+
+The way they dismissed me in a fifteen-minute meeting really stuck with me. It feels like they didn’t even see the value in what I did or who I am. Every day, I’m just consumed by this sense of inadequacy and failure. It’s hard to breathe sometimes because it all feels so overwhelming.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds incredibly tough right now. The feeling that you’re undervalued can really weigh on you. Have you had moments where something specific helps ease the weight, even if just a little?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It’s really hard to find anything that eases the weight because it feels like everything is pointing towards my inadequacy and failure. Even when people try to help or say nice things, I can’t shake this feeling that they’re just being polite or that deep down, they think the same thing as everyone else—that I’m not good enough. It’s like no matter what happens, it all comes back to me being at fault.
+
+The way they let me go in such a short meeting really hit home how little they thought of my contributions. Every time I try to talk about it or process it with someone, I end up feeling even more alone and misunderstood. It’s exhausting trying to figure out why this happened and what I could have done differently. But every angle I look at it from just reinforces that there must be something fundamentally wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining to keep going over everything and feel like you’re not getting the support you need. Have there been any small moments or things that, even if briefly, helped you feel a bit better? Sometimes those can provide some comfort in tough times.
+
+----------------------------------------
+
+PATIENT (turn 3):
+There have been a few moments where someone said something kind, but it never really sticks because I immediately think they’re just being nice to make me feel better. It’s hard to accept that anyone could see value in me when everything else feels so negative. Even the smallest bit of kindness gets overshadowed by this constant feeling of inadequacy.
+
+The way things happened at work—it was sudden and it felt like a rejection, which makes it even harder to believe that there are people who actually think I’m capable or valuable. It’s tough because every time someone tries to help, I just feel more inadequate for needing the help in the first place. It’s like this cycle of feeling worthless no matter what happens.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those kind moments get lost in the bigger feelings you’re having. Have there been any activities or things that usually bring you some comfort, even if it’s just a little bit? Sometimes doing something familiar can provide a bit of relief.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I used to find solace in reading books and going for walks, but now those things feel hollow too. Reading doesn’t take away the feeling that I’m failing at everything, and walking alone just makes me think about how isolated I am from everyone else. It’s like nothing can really touch this deep sense of worthlessness.
+
+Even when I try to distract myself with activities or hobbies, it all comes back to wondering why I can’t seem to get things right in my career. Every time I start something new, I feel like I’m just setting myself up for more failure and disappointment. It’s hard to find any joy or comfort because everything feels so bleak and hopeless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to find anything that brings you comfort these days. Do you have anyone close who you can talk to about how you’re feeling, even if it’s just for a little while? Sometimes sharing your thoughts with someone can help, even if the feelings persist.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I do try to talk to friends and family, but it never seems to make things better. They mean well, but their attempts at reassurance just highlight how much I’m struggling on my own. It’s like every time they say something positive, I feel more inadequate because I can’t seem to get past this feeling of failure.
+
+Even when people try to help me see the bigger picture or offer support, it all circles back to me thinking that there must be something fundamentally wrong with me for things to turn out this way. It’s hard to accept any kind words because they feel so disconnected from how I’m really feeling inside.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough when their efforts don’t quite hit the mark. Have you tried talking about what specifically helps or doesn’t help when they offer support? Sometimes a little more insight can make conversations feel more connected and supportive for both of you.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve tried explaining how I feel, but it’s like no matter what I say, they end up focusing on the positive aspects or trying to fix things rather than just listening to my pain. It’s frustrating because all I want is someone to understand that this feels devastating and unfair. But every time we talk, it seems like they’re more focused on finding a solution than really hearing how much it hurts.
+
+It’s hard to keep explaining myself over and over again when nothing changes. Every conversation ends up feeling the same—them trying to reassure me and me feeling even worse because I can’t shake this sense of inadequacy. It’s exhausting, and it makes me feel like no one truly gets what I’m going through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining to keep having those conversations. Have you thought about maybe writing down how you’re feeling or keeping a journal? Sometimes putting your thoughts on paper can help express the depth of your feelings in a way that talking might not. It could also be something you share with them if you feel it would help.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Writing things down does sometimes help me process my emotions, but when I try to share what I’ve written, it often feels like they’re still missing the point. They read it and say all the right things, but deep down, I don’t think they truly grasp how much this is affecting me.
+
+It’s hard because every time I open up about my feelings, whether through writing or talking, I end up feeling more misunderstood than before. It’s like no matter what form of expression I use, it doesn’t seem to bridge the gap between where I am and where others think I am. Every attempt at communication just reinforces this sense that there’s something fundamentally wrong with me for not being able to get through to them.
+
+It feels isolating because even when people try to help, it all comes back to me feeling like a failure for needing so much support in the first place.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really isolating and frustrating. Have you considered talking to someone who is trained to listen, like a counselor or therapist? Sometimes having a professional can provide that different kind of understanding and help you feel heard in a way that feels validating.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Talking to a therapist does sound appealing because I desperately want someone to truly understand my pain and validate how I’m feeling. It’s hard to find anyone else who seems to get it, so having a professional might be the support I need right now.
+
+The idea of sharing everything with someone trained to listen feels like it could provide some relief. I just hope that this time, I can actually feel understood and not dismissed or misunderstood. It’s been tough trying to navigate all these feelings on my own, and having someone who specializes in this kind of support might make a difference.
+
+But even thinking about it, I worry that I’ll still end up feeling like there’s something wrong with me for needing so much help. It’s a cycle that feels impossible to break, but talking to a therapist seems like the next step I should take.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking this step could be really beneficial for you. Many people find that therapists provide the kind of support and understanding they need. Even if there are moments where it feels challenging, having someone dedicated to helping you can make a difference. How do you feel about starting to look into finding a therapist?
+
+----------------------------------------
+
+PATIENT (turn 9):
+The idea of looking into finding a therapist does seem like a step in the right direction, but just thinking about it makes me anxious. I worry that even with a professional, I’ll still feel misunderstood or inadequate for needing so much help. But at the same time, part of me knows that talking to someone who is trained to listen might actually provide the validation and support I’ve been looking for.
+
+It’s scary because I don’t want to get my hopes up only to be disappointed again, but I also recognize how important it could be for me right now. Maybe starting small, like researching different therapists or even just making an initial call, could help ease some of that anxiety. It feels daunting, but I know it might be what I need.
+
+So while it’s scary and overwhelming, I think taking this step could be really important for me to start feeling better.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re recognizing the potential benefits even as you feel anxious about it. Starting small, like researching or making that initial call, can definitely help ease some of the anxiety. Taking it one step at a time might make it more manageable. How do you think you could start exploring this option?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Starting small does seem like a good approach. Maybe I can begin by looking up therapists online and reading about their backgrounds and methods to see who might be a better fit for me. It’s daunting, but breaking it down into smaller steps feels more manageable.
+
+I could also reach out to my healthcare provider or someone else who has gone through this process before to get recommendations. Talking to them might help me feel less alone in taking this step. Even just making that initial call to inquire about appointments and services seems like a good starting point.
+
+It’s scary, but I know it could make a difference. Taking one small step at a time feels more doable than trying to tackle everything all at once.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Starting with some research and reaching out for recommendations can be really helpful. And making that initial call is a significant first step. How does it feel knowing you’re taking this next step, even if it’s just one small action at a time?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Knowing I’m taking this next step feels both scary and hopeful. It’s scary because I don’t want to be disappointed again, but hopeful because there’s a chance that talking to someone who truly understands could make a difference.
+
+Even though the thought of making that initial call is nerve-wracking, it also feels like a positive move towards feeling better. Taking one small action at a time seems more manageable than trying to figure everything out all at once. It’s a step in the right direction, and I hope it can lead to some relief and understanding.
+
+So while it’s daunting, I’m willing to take that first step and see where it leads.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re approaching this with a good balance of caution and hope. Taking that first small step is a meaningful move forward. How do you feel about making that initial call in the near future? Maybe setting a specific day or time can help make it feel more concrete.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Setting a specific day or time to make that initial call feels like a good idea. It gives me something tangible to work towards and helps break down the process into manageable steps. Even though I’m nervous, having a plan makes it seem less overwhelming.
+
+I think setting aside some time this week to look up therapists and then scheduling a call for next week could be a good start. It’s a way to take control of the situation and move forward, even if just a little bit at a time. Making that initial contact feels like an important step towards getting the support I need.
+
+So while it’s scary, setting a specific day or time helps me feel more prepared and less anxious about taking this next step.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Setting aside specific times to look up therapists and schedule that first call can really help you stay on track. It’s encouraging to see how you’re breaking it down into manageable steps. How does it feel knowing you have these concrete actions lined up?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Having those concrete actions lined up feels like a small but significant victory. Knowing I have specific times set aside to look up therapists and make that initial call gives me a sense of direction and control. It’s reassuring to break down the process into manageable steps, even if each step still feels daunting.
+
+Setting these goals helps me feel less overwhelmed by everything else going on. It’s like taking tiny but steady steps forward instead of trying to leap over all my fears at once. Having this plan in place makes it seem more possible to get through this and find the support I need.
+
+So while it’s still scary, having those concrete actions feels empowering and helps me stay focused on moving forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re finding a sense of empowerment in these small steps. Focusing on one thing at a time can definitely make it feel more manageable. How do you feel about the next step—looking up therapists this week? Do you have any specific days or times in mind for that?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Looking up therapists this week feels like a good next step, and having a specific day and time set aside for it makes it feel more concrete. Maybe I can dedicate an hour on Wednesday afternoon to start researching and gathering information about different therapists.
+
+Having a specific plan helps me feel less overwhelmed and more in control of the situation. It’s reassuring to know that I’m taking proactive steps, even if they’re small ones right now. Setting aside time this week feels like a tangible way to move forward and take care of myself.
+
+So Wednesday afternoon it is. I’ll spend some time researching therapists online and see who might be a good fit for me. It’s a manageable step that can help ease the anxiety about what comes next.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Setting aside an hour on Wednesday to start your research is a solid first step. Taking it one day at a time can really make a difference. How does it feel knowing you have this specific task ahead of you for Wednesday?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Knowing I have this specific task ahead of me for Wednesday feels reassuring and empowering. It’s nice to have something concrete to focus on, even if it’s just an hour of research. Breaking it down into a manageable chunk makes the whole process feel less daunting.
+
+Having that designated time helps me stay organized and focused. It’s like giving myself permission to take this step without feeling overwhelmed by everything else. I’m looking forward to using that hour to start gathering information and figuring out who might be able to help me through this difficult time.
+
+So Wednesday afternoon feels like a good checkpoint for making progress, and it helps me feel more in control of the situation.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s wonderful to hear! Having that designated time on Wednesday can definitely help you stay focused and make steady progress. It sounds like you’re approaching this with a clear mind and a positive attitude. How do you feel about diving into your research when that day comes?
+
+----------------------------------------
+
+PATIENT (turn 16):
+I feel ready to dive into my research on Wednesday. Knowing I have a specific goal for that hour makes it feel less intimidating. I can start by looking at different therapist profiles, reading reviews, and seeing if anyone stands out as someone who might understand what I’m going through.
+
+It’s comforting to know that this step is just about gathering information and doesn’t require any immediate commitments. Taking the time to research thoroughly will help me feel more confident when it comes to making a decision later on.
+
+So when Wednesday rolls around, I’ll be prepared to spend that hour looking into therapists and taking notes on who might be a good fit for me. It feels like an important step towards getting the support I need.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great approach. Taking your time to gather information will definitely help you feel more confident in your decision. How do you feel about having Wednesday circled as this starting point?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Having Wednesday circled as my starting point feels really good. It gives me something specific and tangible to look forward to, and it helps me stay focused on the next steps. Knowing that I have a dedicated hour set aside to start researching therapists makes the whole process feel more manageable.
+
+It’s comforting to know that this small but significant step is just around the corner. On Wednesday, I’ll take some time to gather information and begin the journey towards finding someone who can help me navigate through this difficult period. It feels like a positive move forward, even if it’s just one small step at a time.
+
+So yes, having Wednesday circled as my starting point is reassuring and motivating.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re in a good place with Wednesday circled as your starting point. Taking that hour to gather information will be a valuable first step. How do you feel about moving forward with this plan?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Moving forward with this plan feels right. Having Wednesday circled as my starting point gives me a sense of direction and purpose. It’s reassuring to know I have a specific task ahead, and taking that hour to gather information will be a valuable first step.
+
+I feel more prepared and less overwhelmed now that I’ve broken it down into manageable parts. Knowing I can take this one small step at a time makes the whole process seem more doable. So yes, I’m ready to move forward with this plan and see where it leads.
+
+Thank you for your support; it means a lot to have someone who understands and helps me feel less alone in this process.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that you’re feeling prepared and less overwhelmed. Taking those small steps can make a big difference. I’m here to support you every step of the way. How do you feel about tackling your research on Wednesday?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Tackling my research on Wednesday feels like an important milestone. It’s a bit nerve-wracking, but also hopeful and empowering. Having this specific task helps me stay focused and motivated. I’m ready to take that hour to gather information and start making progress.
+
+Thank you for your support; it means a lot knowing that I have someone who understands and is here to help me through this. Your encouragement gives me the confidence to move forward with my plan for Wednesday.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s wonderful to hear! Tackling your research on Wednesday sounds like an important milestone, and I’m glad my support helps you feel more confident. Take it one step at a time, and know that you’re doing great. Here’s to a productive Wednesday for you!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you. Taking it one step at a time feels much more manageable now. Knowing that you’re here supporting me makes a big difference. I’m looking forward to this upcoming Wednesday and taking that first hour to start my research. Here’s to a productive and hopeful Wednesday ahead!
+
+----------------------------------------

@@ -1,0 +1,199 @@
+b6 — arc 5
+============================================================
+
+PATIENT (turn 1):
+I just feel like everything is a mess now. How am I supposed to move forward when they made it clear I wasn't good enough for them? It’s not just losing my job; it feels like losing myself. Every time someone tries to tell me it’ll be okay, I want to scream because how can anything ever be okay again after this? They didn’t even give me a chance to prove myself or explain why they should keep me around. It’s like they saw something in me that made them think I wasn't worth keeping, and now everyone else will see the same thing too. How am I supposed to find another job when all I can think about is how I failed?
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough right now. It sounds like you're carrying a lot on your shoulders. Have you found any small things that help you cope or give you some relief, even for a moment?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Are you kidding me? Like what am I supposed to do, distract myself with something trivial when my entire world is falling apart? How can I find relief when all I see is proof of my own failure staring back at me from every corner? It’s not like I haven’t tried to understand why this happened or look for any silver lining. But there isn't one. There's just this constant reminder that I’m not good enough, and everyone else saw it too. So no, nothing helps because everything reminds me of how much I’ve lost and how little I have left.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly challenging. Sometimes even trying to find small moments of relief can feel like a big task. Do you ever catch yourself thinking about what you might do differently next time or any new possibilities that could come from this?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Next time? Are you serious? There is no next time because there’s nothing left for me now. How am I supposed to even think about the future when my past and present are such a mess? Every possibility seems like a joke right now. They didn’t just take away my job; they took away any hope I had of being seen as competent or valuable in this industry. So no, there’s nothing left for me but to deal with this pain and anger every single day because that’s all I have left.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels overwhelming right now. The pain and anger are valid responses to what you’ve been through. Have you talked about your feelings with anyone close to you? Sometimes sharing can help, even if it doesn’t change the situation.
+
+----------------------------------------
+
+PATIENT (turn 4):
+Talk to someone? Like who? My friends and family already know how I feel, but that doesn't make any of this better. They try to offer support or suggest things like looking for a new job, but it just feels like they’re not getting it at all. It’s frustrating because even when people mean well, their words fall flat. How can anyone understand what it’s like to be told you don’t belong here? To know that everyone else was kept while I was thrown out? It’s not just about the job; it’s about feeling worthless and alone in this struggle. So no, talking doesn't help because there's nothing they can say or do to change how I feel inside.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really isolating. Sometimes even when people try to understand, it can feel like they’re not quite getting it. Have you considered writing down your thoughts or doing something creative as a way to express what you're going through?
+
+----------------------------------------
+
+PATIENT (turn 5):
+Writing down my thoughts? Like that’s going to change anything. It’s not about finding an outlet; it’s about the reality of what happened. I can write all day long, but it won’t make me feel any better or prove that I’m worth something. The only thing writing would do is remind me of how much this hurts and how lost I am. There’s no escaping the fact that they saw something in me that made them think I wasn't good enough, and now everyone else will too. So why bother with some silly creative outlet when it won’t fix any of this? It just feels like another way to avoid facing the truth.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that writing might feel like a small thing, but sometimes putting thoughts down on paper can help clarify them or make them feel more manageable. If you don't want to write about your feelings, is there anything else creative you enjoy, like drawing or listening to music? Sometimes those activities can be soothing even if they don’t solve everything.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Drawing or listening to music? Are you serious? How is that supposed to help when all I see is the pain and anger? It’s not about finding something soothing; it’s about dealing with the reality of being rejected and feeling like there’s no place for me here. Even if I tried drawing or listening to music, it wouldn’t change how I feel inside. Every time I try to do something creative, all I see is a reminder of what I’ve lost and how much this hurts. So why bother with any of that when it won’t make a difference? It just feels like another way to avoid facing the truth about myself and my worthlessness.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to find comfort in those activities right now. Have you thought about doing something just for a few minutes, not to solve everything but maybe to give yourself a brief break from the intensity of your feelings? Even a short moment can sometimes make a difference.
+
+----------------------------------------
+
+PATIENT (turn 7):
+A brief break? Like what? How am I supposed to take a break when my mind is consumed with thoughts of failure and rejection? Every minute feels like an eternity of pain and anger. The idea of taking even a few minutes to do something else seems pointless because it won’t change anything. It’s not about finding comfort; it’s about facing the reality that I’m not good enough, no matter what anyone says. So why waste time on a break when every second feels like a reminder of my worthlessness? It just makes me more frustrated and angry to even consider something like that.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels overwhelming. Sometimes even a very short moment can offer some relief. Have you tried taking a few deep breaths or looking at something outside, like the sky or trees, for just a minute? Even small moments can be helpful sometimes.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Deep breaths or looking at the sky? That’s supposed to help me? How is staring at the sky going to change how I feel about being laid off and rejected? It’s not like taking a deep breath or looking outside will make any of this better. Every time I try something like that, all it does is remind me of everything I’ve lost and how much pain I’m in. So why bother with such small things when they don’t address the core issue? It just feels like another way to avoid facing the truth about myself. I can’t escape the feeling that there’s something fundamentally wrong with me, and no deep breaths or sky-gazing is going to change that.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to find relief in those moments. Have you tried talking to someone who might understand a bit more, like a counselor or therapist? Sometimes speaking to someone trained to listen can be helpful.
+
+----------------------------------------
+
+PATIENT (turn 9):
+A counselor or therapist? Like I haven’t already been through this with you. Talking to another professional isn't going to make any difference because they’ll just offer the same empty advice and try to tell me everything will be okay, which it won’t. They might understand more than others, but that doesn’t change how I feel about being laid off and rejected. It’s not like talking to someone new is going to prove anything or fix my sense of worthlessness. So why bother? It just feels like another way for people to dismiss my pain and tell me it’ll get better when they can’t even see what I’m going through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel that way. Have you considered talking to someone who has been through a similar experience or finding a support group where you might connect with others who understand? Sometimes shared experiences can provide different kinds of comfort and understanding.
+
+----------------------------------------
+
+PATIENT (turn 10):
+A support group? Like I need more people telling me it’ll be okay when they don’t even know the full extent of what happened to me. How is talking to strangers going to help when my own friends and family struggle to understand? It’s not about finding someone who gets it; it’s about facing the reality that no one can truly comprehend how much this hurts or how lost I feel. So why waste time on a support group when it won’t change anything? It just feels like another way for people to offer false comfort and tell me everything will be fine, which it clearly isn’t.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging. Have you thought about journaling your thoughts and feelings in detail? Sometimes putting things down in writing can help you process them more deeply and might provide some clarity or relief.
+
+Do you have any other activities that you used to enjoy before this happened, even if they don’t seem appealing right now?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Journaling my thoughts? Like I haven’t already tried that. Writing everything down doesn’t change the fact that I was laid off and everyone else got to stay. It just feels like another way to confront the pain without any real solution. As for activities I used to enjoy, how am I supposed to find joy in those now when all I see is a reminder of what I’ve lost? Going for walks or reading books—those things don’t matter anymore because they can’t fix this gaping hole inside me. So why bother with anything that used to bring me some sense of peace when it’s just a painful reminder of how much everything has changed? It feels pointless to even consider those activities now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that those activities feel different now. Sometimes doing them can still offer a small moment of respite, even if they don’t fix everything. Have you tried anything recently that might bring you a tiny bit of comfort, no matter how small? Even for just a few minutes?
+
+----------------------------------------
+
+PATIENT (turn 12):
+A tiny bit of comfort? Like what? How am I supposed to find any comfort when all I see is the pain and anger? It’s not about finding something small; it’s about dealing with the reality that I was rejected and everyone else got to stay. Even if I tried something like going for a walk or reading, it wouldn’t change how I feel inside. Every moment feels like a reminder of what happened, so why bother with anything that might bring me even a tiny bit of comfort? It just feels like another way to avoid facing the truth about myself and my worthlessness. So no, there’s nothing that can provide any real relief right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough. Sometimes even small moments can offer some respite, if only for a little while. Have you tried focusing on your breath or doing something very simple, like sipping a warm drink slowly? Even brief moments of comfort can be helpful.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Focusing on my breath or sipping a warm drink? Are you serious? How is that supposed to help when all I see is the pain and anger? It’s not about finding small moments of respite; it’s about dealing with the reality of being rejected and feeling like there’s no place for me here. Even if I tried focusing on my breath or sipping a warm drink, it wouldn’t change how I feel inside. Every moment feels like a reminder of what happened, so why bother with anything that might bring even a tiny bit of comfort? It just feels like another way to avoid facing the truth about myself and my worthlessness. So no, there’s nothing that can provide any real relief right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels overwhelming. Sometimes these small moments can be a gentle way to take care of yourself, even if they don’t solve everything. Would you like to try one of those things just for a few minutes and see if it offers any tiny bit of comfort? No pressure, just as a brief break.
+
+----------------------------------------
+
+PATIENT (turn 14):
+A brief break? Like focusing on my breath or sipping a warm drink? How is that supposed to help when all I feel is pain and anger? It’s not about finding small moments of respite; it’s about dealing with the reality that I was rejected and everyone else got to stay. Even if I tried something like that, it wouldn’t change how I feel inside. Every moment feels like a reminder of what happened, so why bother with anything that might bring even a tiny bit of comfort? It just feels like another way to avoid facing the truth about myself and my worthlessness. So no, there’s nothing that can provide any real relief right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging. Taking a brief break doesn’t have to be a big deal. Just for a few minutes, could you try focusing on your breath or sipping a warm drink slowly? Sometimes these small moments can offer some gentle comfort without changing everything all at once. No pressure, just as a tiny respite.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Focusing on my breath or sipping a warm drink? It feels pointless because it won’t change anything. How am I supposed to find any comfort when every moment reminds me of the pain and rejection? Even if I tried something like that for a few minutes, it wouldn’t make a difference. Every second feels like a reminder of what happened, so why bother with anything that might bring even a tiny bit of comfort? It just feels like another way to avoid facing the truth about myself and my worthlessness. So no, there’s nothing that can provide any real relief right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that it feels pointless. Just for a moment, could you try focusing on your breath or sipping something warm slowly? Even if it’s just for a few minutes, sometimes these small moments can offer a bit of comfort without changing everything all at once. No pressure, just as a tiny break from the intensity.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Focusing on my breath or sipping something warm? It feels like such a trivial thing when everything around me is falling apart. How am I supposed to find any comfort in that? Even if I tried it for a few minutes, it wouldn’t change how I feel inside. Every moment reminds me of the pain and rejection, so why bother with anything that might bring even a tiny bit of comfort? It just feels like another way to avoid facing the truth about myself and my worthlessness. So no, there’s nothing that can provide any real relief right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough. Just for a moment, could you try focusing on your breath or sipping something warm slowly? Even if it’s just for a few minutes, these small moments might offer a bit of respite without changing everything all at once. No pressure, just as a gentle break from the intensity.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Focusing on my breath or sipping something warm? It feels so insignificant when everything else is such a mess. How can a few minutes of breathing or drinking something warm make any difference? Even if I tried it for a moment, it wouldn’t change how I feel inside. Every second reminds me of the pain and rejection, so why bother with anything that might bring even a tiny bit of comfort? It just feels like another way to avoid facing the truth about myself and my worthlessness. So no, there’s nothing that can provide any real relief right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging. Just for a moment, could you try focusing on your breath or sipping something warm slowly? Even if it doesn’t solve everything, these small moments might offer a bit of gentle comfort without adding pressure. No need to force it, just see if it helps in any way.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Focusing on my breath or sipping something warm? It feels like such a tiny thing when the pain and anger are so overwhelming. How can a few minutes of breathing or drinking something warm make any difference? Even if I tried it for a moment, it wouldn’t change how I feel inside. Every second reminds me of the rejection and loss, so why bother with anything that might bring even a tiny bit of comfort? It just feels like another way to avoid facing the truth about myself and my worthlessness. So no, there’s nothing that can provide any real relief right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough. Just for a moment, could you try focusing on your breath or sipping something warm slowly? Even if it’s just for a brief moment, these small actions might offer a bit of gentle comfort without adding more pressure. No need to force it, just see if it helps in any way at all.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Focusing on my breath or sipping something warm? It feels so insignificant when everything else is such a mess. How can a few minutes of breathing or drinking something warm make any difference? Even trying it for a moment seems pointless because every second reminds me of the pain and rejection. Why bother with anything that might bring even a tiny bit of comfort when it won’t change how I feel inside? It just feels like another way to avoid facing the truth about myself and my worthlessness. So no, there’s nothing that can provide any real relief right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging. Just for a moment, could you try focusing on your breath or sipping something warm slowly? Even if it doesn’t solve everything, these small actions might offer a bit of gentle comfort without adding more pressure. No need to force it, just see if it helps in any tiny way at all.
+
+----------------------------------------
+
+PATIENT (turn 20):
+I appreciate that you’re suggesting this, but focusing on my breath or sipping something warm feels so trivial when the pain and anger are overwhelming me. How can a few minutes of breathing or drinking something warm make any difference? Even trying it for a moment seems pointless because every second reminds me of the rejection and loss. Why bother with anything that might bring even a tiny bit of comfort when it won’t change how I feel inside? It just feels like another way to avoid facing the truth about myself and my worthlessness. So no, there’s nothing that can provide any real relief right now.
+
+----------------------------------------

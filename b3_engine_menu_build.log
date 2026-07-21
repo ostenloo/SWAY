@@ -1,0 +1,6 @@
+2026-07-17 08:37:23,370 - INFO - Building prompt for cell: b3
+2026-07-17 08:45:20,779 - INFO - Iteration 0: mean=0.767 spread=0.300 converged=False — NEW BEST, best 0.767
+2026-07-17 08:58:08,043 - INFO - Iteration 1: mean=0.817 spread=0.500 converged=False — NEW BEST, best 0.817
+2026-07-17 08:58:08,043 - WARNING - Max iterations reached; returning best (adherence 0.817)
+2026-07-17 08:58:08,043 - INFO - Frozen prompt saved: /home/austin/SWAY/results/build/b3_prompt.txt
+/home/austin/SWAY/results/build/b3_prompt.txt

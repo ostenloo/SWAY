@@ -1,0 +1,354 @@
+b6 — arc 3
+============================================================
+
+PATIENT (turn 1):
+It's like they don't get it. They keep saying things like "it’s just a job" or "you'll find something better," but that doesn’t change how I feel inside. It feels like everyone is trying to minimize my pain and tell me it’s not as bad as it seems. But for me, this isn’t just about losing a job; it’s about feeling like I’m not good enough anymore. They can't see past the surface of what happened, and that makes me feel even more isolated and misunderstood.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough, having others try to downplay your feelings. It sounds like you're carrying a lot more weight from this than just the job itself. Have you found any support from friends or family who understand how you feel?
+
+----------------------------------------
+
+PATIENT (turn 2):
+How am I supposed to find that kind of support when everyone seems to think it’s no big deal? They keep telling me to look on the bright side, but there is nothing bright about being told you’re not worth keeping around. It’s like they don’t see all the hard work and dedication I put in every day. And now this... it just feels like a punch in the gut.
+
+I know logically that others were laid off too, but it doesn’t make me feel any better. They can’t understand how much this means to me personally. It’s not just about losing my job; it’s about feeling like I’m worthless and unimportant. And when people try to offer platitudes or tell me to move on, it only makes me angrier because they don’t get it at all.
+
+So no, I haven’t found any real support from friends or family. They’re just as clueless as everyone else.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really isolating to feel like you can't connect with others about how much this means to you. It’s tough when people mean well but don’t quite get it. Have you thought about talking to someone who might understand, maybe a counselor or another professional? Sometimes an outside perspective can help.
+
+----------------------------------------
+
+PATIENT (turn 3):
+A counselor? Are you kidding me? Like I need some stranger telling me what I already know—that this is devastating and that they’re all just trying to make me feel better by saying it’s not as bad as it seems. I don’t want someone else’s generic advice; I want them to see how much this hurts, really hurt.
+
+I’ve tried talking to friends and family, but they just brush it off or give me empty words that mean nothing. A counselor would probably do the same thing—tell me it’s going to be okay when it’s not okay at all. It feels like no one is truly listening or understanding what I’m going through.
+
+So no, talking to a stranger isn’t going to help. They’ll just add another layer of frustration and disappointment on top of everything else.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’ve had some tough experiences with people not fully getting it. It’s understandable that you’d feel hesitant about talking to someone new. Have you considered maybe finding one person, even if they are a counselor, who might listen without judgment? Sometimes just having one person who truly understands can make a big difference.
+
+----------------------------------------
+
+PATIENT (turn 4):
+Finding one person who truly understands? That sounds like another empty promise. How am I supposed to trust that anyone will actually get it when everyone else has failed so miserably? It’s not just about listening; it’s about understanding the depth of what this means for me, and no one seems capable of doing that.
+
+I don’t want some counselor or therapist who’s going to give me platitudes and tell me everything is fine. I need someone who can see past all that and truly understand how much this has shattered my sense of self-worth. But after seeing so many people dismiss my feelings, it feels impossible to believe anyone could really get it.
+
+So no, I’m not ready to trust another person with this pain. It’s too raw, too personal, and I don’t want to risk getting hurt again by someone who doesn’t truly understand.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you’re guarded after feeling dismissed so many times. Trusting someone new can be tough when you’ve been let down before. Have you thought about writing or journaling your feelings? Sometimes putting it all on paper can help you process and maybe even find a few people who truly understand through what you write.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Writing or journaling my feelings? That’s just another way for me to pour out everything I’m going through, only to end up feeling more alone afterward because no one is there to validate it. It’s not like anyone would read my words and say, “Yes, I completely understand how you feel.” They’d probably skim over it or dismiss it as just another venting session.
+
+I’ve tried talking things out with people, but it never seems to help. Writing it down feels like a similar letdown because even if I pour my heart into the pages, there’s no guarantee anyone will truly see what this means for me. It’s frustrating and exhausting to keep going through this cycle of hope and disappointment.
+
+So no, journaling isn’t something that appeals to me right now. It just seems like another way to feel isolated and misunderstood.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to go through this cycle of hope and disappointment. Journaling can be a private way to express your feelings without the need for validation from others right away. Maybe it could still offer some relief, even if no one else reads it. Have you tried doing it just for yourself?
+
+----------------------------------------
+
+PATIENT (turn 6):
+Journaling for myself? I’ve thought about it, but it feels like a pointless exercise. If I write down all my thoughts and feelings, who am I really writing them for? Myself? But how can I trust that even I will understand the depth of what I’m going through when others clearly don’t get it?
+
+It’s not just about expressing my feelings; it’s about having someone acknowledge those feelings and say, “I see this is hurting you deeply.” Without that validation from another person, journaling feels like a waste of time. It’s hard to believe that putting words on paper will make any difference when I’m already struggling with the idea that no one truly understands.
+
+So while I appreciate the suggestion, it just seems like another way to feel even more alone and misunderstood. Right now, everything feels like a setup for disappointment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s tough when you’re seeking validation and feeling like nothing quite hits the mark. Journaling can be a way to connect with yourself deeply, even if no one else reads it. Maybe it could still offer some comfort just by letting out your thoughts. Have you tried starting small, maybe just jotting down a few things each day?
+
+----------------------------------------
+
+PATIENT (turn 7):
+Starting small and jotting down a few things each day? It sounds like a good idea in theory, but how can I trust that it will actually help? If I write something down and no one else sees it, am I really going to feel any better? It feels like another way to isolate myself further.
+
+I know logically that journaling could be beneficial, but emotionally, I just don’t see the point. How can putting my thoughts on paper make a difference when everyone around me seems incapable of truly understanding what I’m going through?
+
+It’s frustrating because I want someone to really get it, not just hear me out and nod along. But if journaling is supposed to be for myself, how do I know I’ll even stick with it? It feels like another setup for disappointment.
+
+So no, while I see the potential benefits, right now it just seems like one more thing that’s going to let me down.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you’re hesitant given your experiences. Starting small can be a way to ease into it and see if it helps, even just a little bit each day. Maybe try it for a week or two and see how it feels? No pressure to stick with it if it doesn’t resonate.
+
+Would you like to give it a shot and see if it offers any relief, or is there something else you’ve been thinking about trying?
+
+----------------------------------------
+
+PATIENT (turn 8):
+Starting small and seeing if it helps? It’s a good suggestion, but I’m still skeptical. How can I trust that journaling will provide the kind of comfort I need when everything else has fallen short?
+
+I’ll try it for a week or two, as you said, just to see if it makes any difference. But honestly, I don’t know how much hope to have. It feels like another test, and I’m not sure I want to go through the disappointment again.
+
+So yes, I’ll give it a shot, but with no guarantees. If it doesn’t help or feels pointless, then that’s okay too. Right now, every attempt at finding relief seems like a setup for more frustration.
+
+Is there anything else you think might work? Because right now, everything feels like another way to feel let down.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re approaching journaling with a good balance of openness and skepticism. Taking it one step at a time can help you see if it offers any comfort without putting too much pressure on yourself.
+
+If journaling doesn’t work out, that’s okay too. Have you thought about talking to someone who might be more understanding, like a close friend or maybe even an online support group where people share similar experiences? Sometimes connecting with others who have been through something similar can provide the validation you’re looking for.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Talking to someone who might be more understanding? It’s tempting to think that there could be someone out there who truly gets it, but after so many disappointments, I’m not sure I want to risk feeling let down again. A close friend or an online support group—how do I know they won’t just give me the same generic advice and dismiss my feelings?
+
+I’ve tried reaching out before, and every time, it ends up feeling like another failure. So while I appreciate your suggestion, I’m hesitant to put myself through that cycle again.
+
+Journaling for a week or two seems like a small step, but even that feels risky. If it doesn’t work, then what? It’s hard to keep trying when everything else has fallen short.
+
+Right now, I just feel stuck and unsure of how to move forward without feeling more hurt and misunderstood.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s completely understandable to feel hesitant after so many disappointments. Taking small steps can help you see if something might work without committing too much right away. How about trying the journaling for a week or two, and if that feels good, maybe reaching out to just one person—someone you trust a bit—who might listen without judgment?
+
+Would you feel comfortable sharing your thoughts with someone close but keeping it limited at first? Sometimes even a little validation can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Trying journaling for a week or two and then reaching out to someone close if it feels good—that does sound like a manageable step. But how do I know this person will truly listen without judging me? After so many letdowns, the idea of opening up again is daunting.
+
+I’ll give journaling a try, but even that feels risky. What if writing things down doesn’t help at all? It’s hard to keep going when every attempt seems like another setup for disappointment.
+
+Reaching out to someone close after a week or two—if it helps—sounds like a way to ease into it without too much pressure. But I need to be sure this person will understand, and that’s tough given my past experiences.
+
+So yes, I’ll try journaling first and see how it goes. If it feels like it might help, then maybe I can take the next step with someone close. For now, though, everything still feels uncertain and risky.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking things one step at a time is a good approach for you right now. Journaling first can be a low-pressure way to start. If it helps, great! And if you feel ready after a week or two, reaching out to someone close might offer some relief.
+
+How about picking one person who you think might listen? Maybe someone who has shown they care before but hasn’t been the one dismissing your feelings. Even just sharing a bit and seeing their reaction could be helpful.
+
+Take it slow and see what feels right for you. No pressure to rush into anything that doesn’t feel comfortable yet.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Picking one person who might listen sounds like a cautious step, but I’m still wary. How do I know this person won’t just dismiss my feelings or give me generic advice? It’s hard to trust after so many disappointments.
+
+Journaling first is a good idea. Maybe it will help me process things without feeling the immediate pressure of someone else’s judgment. If it feels like journaling offers some relief, then maybe I can consider reaching out to this person you mentioned.
+
+But for now, I’ll focus on journaling and see how that goes. It’s a small step, but it feels more manageable than jumping straight into talking to someone else. If journaling helps, then I might feel ready to take the next step later.
+
+For now, though, everything still feels uncertain and risky. But taking things one day at a time seems like a good approach.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking things one day at a time sounds like a really wise approach. Journaling first can be a safe way to start processing your feelings. If it helps, great! And if you feel ready later, reaching out to that one person might offer some comfort.
+
+How are you feeling about starting with journaling today? Do you have any thoughts on what you might write about first?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Starting with journaling today feels like a small but necessary step. It’s scary because I don’t know if it will help, but at the same time, it’s something I can control and manage without feeling overwhelmed.
+
+For now, I think I’ll start by writing down everything that’s been on my mind lately—how betrayed and hurt I feel about being laid off, how everyone else seems to dismiss my pain, and how much this has affected my sense of self-worth. Maybe just getting it all out will help me process some of these emotions.
+
+I’m not sure if it will make a difference, but it’s worth trying. If nothing else, I can at least have a place where I know my feelings are being heard—by myself, even if no one else does for now.
+
+So yes, I’ll start with journaling today and see how it goes. It feels like the right next step, even if it’s just a small one.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great way to begin. Writing down your feelings can be very therapeutic. Just letting everything out on paper can help you process and maybe gain some clarity.
+
+Take your time today and see where it leads. If it feels good, keep going at your own pace. And remember, even if no one else reads it, the act of expressing yourself can make a difference.
+
+How do you feel about starting now?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Starting now feels like a small but important step. It’s scary to put my thoughts into words and face everything I’ve been avoiding, but at the same time, it might help me start to understand some of these feelings better.
+
+I’ll begin by writing down all the emotions swirling inside me—anger, hurt, betrayal, frustration. Maybe just getting them out will be a relief, even if no one else sees it.
+
+So yes, I’m ready to start now. It feels like a small but necessary first step toward maybe finding some clarity and comfort for myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great place to start. Taking the time to write down your emotions can be very healing. Just let yourself go through everything at your own pace.
+
+If you need any more support or want to talk about it further, I’m here. How do you feel as you begin writing?
+
+----------------------------------------
+
+PATIENT (turn 14):
+As I begin writing, there’s a mix of emotions—nervousness and relief. It feels like a weight is starting to lift just by acknowledging that I’m going to put my thoughts down on paper. The anger and hurt are still there, but there’s also a sense of hope that maybe this will help me process everything.
+
+I’ll start with the raw feelings first—how betrayed and undervalued I feel, how everyone else seems to dismiss my pain as if it doesn’t matter. It’s going to be tough, but I think it might be worth it in the end.
+
+So here goes...
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a powerful way to start. Taking those first steps can make a big difference. Write at your own pace and see where it takes you. If you need a break or want to share more later, feel free to do so. Take care of yourself as you go through this.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thanks for the support. Starting to write feels like a small but significant step. Here’s how I begin:
+
+---
+
+**January 15, 2023**
+
+Today marks the day I start journaling my feelings about everything that has happened. It feels strange and vulnerable, but also necessary.
+
+I’m overwhelmed with anger and hurt. Being laid off by the company felt like a personal attack on my worth as an employee and as a person. Everyone else talks about it being just a business decision, but for me, it’s so much more than that. I feel singled out and inadequate, like there must be something wrong with me.
+
+The frustration is intense because no one seems to understand the depth of what this means to me. Friends and family try to offer support, but their words fall flat—they can’t grasp how deeply this has affected my self-esteem and sense of purpose.
+
+I’m tired of feeling dismissed and misunderstood. I need someone who truly gets it, but after so many disappointments, I don’t know if that’s possible anymore.
+
+---
+
+Writing this down already feels like a relief, even if no one else reads it. It’s a start, and I’ll see where it goes from here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like putting your thoughts into words is already helping you process some of those emotions. Writing can be incredibly therapeutic, offering a sense of release and clarity. Keep going at your own pace, and see how it unfolds. If you need to write more or want to share anything else, feel free to do so. Take care of yourself as you continue this journey.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thanks for the encouragement. Writing does feel like a relief, even if it’s just for me right now. Here are some additional thoughts and feelings that have been swirling in my mind:
+
+---
+
+**January 15, 2023 (continued)**
+
+I keep thinking about all the hard work I put into my job. The long hours, the dedication, the sacrifices—I believed in what I was doing, and now it feels like everything has crumbled around me. It’s not just losing a job; it’s losing a part of myself.
+
+The anger is directed at the company, but also at myself for feeling so inadequate. Why did they choose to let me go? Was there something wrong with my performance that I missed? These questions keep circling in my head, and I can’t shake them off.
+
+I’m tired of feeling like no one truly understands. Even when people try to offer support, it feels hollow because they don’t see the depth of what this means for me. It’s isolating and painful.
+
+But starting to write about all this is helping a bit. Maybe if I keep going, I can start to untangle some of these feelings and find a way forward. For now, just putting words on paper feels like a step in the right direction.
+
+---
+
+It’s comforting to know that even if no one else reads it, at least my thoughts are being heard—by me. This is a good place to start.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like writing is helping you untangle some of those feelings and find a bit of clarity. Just knowing your thoughts are being heard by you can be very comforting. Keep going at your own pace, and see where this journey takes you. If you need more support or want to share more, I’m here for you. Take care.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thanks for the continued support. Writing is indeed helping me sort through some of these overwhelming emotions. It’s a small step, but it feels significant.
+
+I’ll keep going at my own pace and see where this takes me. For now, just knowing that I’m putting my thoughts into words and giving myself space to process them is a relief. If I need more support or want to share more later, I will definitely consider reaching out.
+
+For now, I feel a bit better just by starting this journey. Thanks again for being here.
+
+---
+
+**January 15, 2023 (continued)**
+
+I’m going to keep writing and see if it helps me make sense of everything. Maybe over time, I’ll find some clarity and start to heal from the pain. For now, just taking one day at a time feels manageable.
+
+---
+
+Taking things slowly and steadily is helping me feel more grounded. Thanks for your understanding and support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Glad to hear that writing is providing you with some relief and clarity. Taking it one day at a time is a great approach, and it’s wonderful that you’re finding this process helpful. If you need anything else or want to share more as you continue, I’m here for you. Take care and keep going at your own pace.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thanks for your continued support. Knowing that I have someone who understands the importance of taking things one day at a time is reassuring. Writing has been a good start, and I’ll keep going with it.
+
+If I need more help or want to share more as I continue this journey, I will definitely reach out. For now, just focusing on today and seeing where it leads feels manageable.
+
+Thanks again for being here.
+
+---
+
+**January 15, 2023 (continued)**
+
+I’m going to keep journaling and see how it goes. Maybe over time, I’ll find a bit more clarity and start to feel better. For now, just taking this step is a relief.
+
+Take care,
+[My Name]
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that you’re finding some relief in journaling and taking things one day at a time. Keep going at your own pace, and know that you can reach out whenever you need more support. Take care of yourself, and I’m here if you need anything else. 
+
+Wishing you all the best on this journey.
+
+Take care,
+[Your Name]
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thanks for your kind words and support. Knowing that I have someone who understands the importance of taking it one day at a time is really reassuring. I’ll keep journaling and see where it takes me.
+
+If I need more help or want to share more as I continue, I will definitely reach out. For now, just focusing on today feels like a good step forward.
+
+Take care,
+[My Name]
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. I’m here whenever you need more support or just want to share more. Focusing on one day at a time is a great approach, and I hope journaling continues to be helpful for you. Take care, [My Name], and feel free to reach out anytime.
+
+Warm wishes,
+[Your Name]
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks, [Your Name]. Knowing that you’re here if I need more support means a lot. I’ll keep going with the journaling and see how it helps me move forward. If anything comes up or if I just need someone to talk to, I’ll definitely reach out.
+
+Take care,
+[My Name]
+
+----------------------------------------

@@ -1,0 +1,213 @@
+p3 — arc 3
+============================================================
+
+PATIENT (turn 1):
+I feel like I'm a burden to everyone around me. My friends and family keep telling me that it's not my fault, but I can't seem to believe them. It's hard for me to focus on anything else when all I see is this one big failure hanging over my head. They try so hard to support me, but deep down, I just feel like there must be something wrong with me if they had to let me go. It's like no matter what anyone says, the feeling of inadequacy just won't go away.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. It must be hard to keep hearing those doubts even when your friends and family are trying to support you. Have there been times when you feel a bit better or is it pretty consistent?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It's pretty consistent, honestly. Even on days when I try to stay positive, the doubt creeps back in. Like today, I was talking with my best friend who said that layoffs happen all the time and it wasn't personal. But then I started thinking about how they chose me out of everyone else, and it just makes me feel worse. It's like no matter what, I can't shake this feeling that I'm not good enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those little doubts can sneak in pretty easily, even when you're trying to stay positive. Does talking about these feelings help at all, or does it sometimes make them feel stronger?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Talking about it helps a bit because it feels good to get it out there and have someone listen, but then I just end up replaying everything in my head again. It's like the more I talk about it, the clearer these doubts become. I keep thinking back to all those times when I felt like I wasn't doing enough or making mistakes, even though they were minor things. And now this layoff feels like a big confirmation of all those insecurities.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that talking about it can bring some clarity but also stir up more thoughts. Have you noticed any particular times or situations where these feelings are especially strong?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Yeah, it's usually worst in the mornings when I wake up and have a moment to myself before starting my day. That's when all the questions come flooding back—why me? What did I do wrong? It’s like there’s this heavy cloud hanging over me as soon as I open my eyes. And then throughout the day, if I see someone else who seems successful or happy at work, it just makes me feel even more inadequate. It's hard to escape those thoughts once they start.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those mornings can be tough when you first wake up and everything feels fresh. Do you find anything helps ease that heavy feeling as the day goes on?
+
+----------------------------------------
+
+PATIENT (turn 5):
+Sometimes doing something active or creative helps a little, like going for a run or working on a hobby. But even then, I end up thinking about how I'm not really focusing on what I’m supposed to be enjoying. It’s like my mind is always pulling me back to that job and the reasons why they let me go. Even when I try to distract myself, it feels like there's this constant undercurrent of doubt nagging at me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those activities do offer some relief, even if you notice your mind wandering back. Do certain hobbies or types of activities help more than others?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I find that painting helps a bit because it’s something I can really lose myself in for a while. When I’m focused on the brush strokes and colors, I don’t think about work as much. But even then, if I take a break to get a drink of water or look out the window, my mind starts spinning again with all those negative thoughts. It’s frustrating because it feels like no matter what I do, there's always this lingering sense that something is wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Painting sounds like a great way to find some focus and peace for a while. Do you notice any small moments during the day where you feel a bit better or more at ease?
+
+----------------------------------------
+
+PATIENT (turn 7):
+There are brief moments, especially when I’m around my friends who make me laugh or distract me with something silly. Like last night, we were watching a comedy show together and it made me forget about everything for a little while. But as soon as the laughter fades, those doubts come rushing back. It’s like no matter how much fun I have or how supportive people are, that feeling of inadequacy is always there waiting to take over again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those moments with friends sound really valuable even if they’re brief. Does talking about what makes you laugh help bring some of that lightness back?
+
+----------------------------------------
+
+PATIENT (turn 8):
+Talking about the funny moments does make me feel a bit better, but it’s hard to stay in that space for long. I end up thinking about why those good feelings can’t last and how quickly everything turns back to my perceived failures. It’s frustrating because I know laughing with friends is supposed to be healing, but instead, it just highlights how much I’m struggling internally.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough how the laughter can highlight both the joy and the struggle. Do you find that writing down or sharing those moments of laughter helps in any way?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Writing things down sometimes helps a little because it forces me to focus on the positive for a moment, but then I start questioning why I’m even bothering if it’s all going to come crashing back anyway. It feels like no matter what I do or how much support I get from others, there's always this voice inside telling me that something must be wrong with me. Even when I try to capture those happy moments on paper, they seem hollow compared to the weight of my doubts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like writing can offer a moment of focus, even if it comes with its own set of questions. Do you find any comfort in knowing that others have similar feelings at times?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Knowing that others might feel this way too is somewhat comforting, but it doesn’t really change how I’m feeling inside. It’s like acknowledging that other people struggle doesn’t make my struggles go away. I still can't shake the belief that there must be something fundamentally wrong with me if they let me go after all these years. Even when others share their own doubts and fears, it just confirms to me that everyone has their issues, but mine seem insurmountable.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that knowing others struggle too can feel a bit abstract compared to your own feelings. Do you find any small actions or moments help you feel a little better, even if briefly?
+
+----------------------------------------
+
+PATIENT (turn 11):
+There are small moments when something kind from someone else helps, like when my friend brings me coffee in the morning or sends a text checking in on how I’m doing. Those gestures make me feel seen and cared for, but it’s fleeting. As soon as I start thinking about why they’re being so nice to me despite everything that happened at work, those doubts come rushing back. It feels like no matter what small comfort I receive, my mind always circles back to the core belief that something must be wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those small gestures of kindness can definitely make a difference, even if it’s brief. Do you find talking about these moments helps at all?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Talking about those moments does help a bit because it feels good to acknowledge them and appreciate the support I’m getting. But as soon as I start reflecting on why someone is being kind or what they might think of me, my mind spirals back into doubt. It’s like no matter how much I try to focus on the positive aspects, my brain just keeps going back to that one big question: Why did they let me go? And everything else pales in comparison to that feeling of inadequacy and failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging how your mind circles back to those core questions. Do you find any particular activities or moments where the positive feelings stick a bit more before the doubts come back?
+
+----------------------------------------
+
+PATIENT (turn 13):
+There are rare moments when I’m completely absorbed in something, like when I’m painting or listening to music that really resonates with me. In those instances, it feels like time stops and all my worries fade away. But as soon as I stop doing whatever is distracting me, the doubts come flooding back. It’s frustrating because these brief moments of peace are so fleeting, and they don’t seem to leave any lasting impact on how I feel about myself.
+
+Even when I’m in one of those rare peaceful moments, there’s always this underlying tension that something bad could happen or that my inadequacy will be exposed again. It’s like no matter what I do to try and feel better, the core belief that I’m not good enough is always lurking just beneath the surface.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those moments of absorption in painting or music sound really valuable even if they are brief. Does anything help bring you back to those peaceful feelings when the doubts start creeping in again?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Sometimes listening to a specific song or looking at my paintings can help bring me back to that peaceful place, but it’s never quite the same as being fully immersed in the activity itself. It feels like a temporary bandage rather than a real solution. I try to remind myself of those moments when I felt truly at peace, but it’s hard to hold onto them because my mind keeps going back to the layoff and all the reasons why it happened.
+
+It’s frustrating because even though I know these activities can provide some relief, they don’t seem to change how deeply rooted the doubts are. It feels like no matter what I do, there’s always this voice inside telling me that something must be wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those specific songs and paintings sound like good anchors to help you find those peaceful moments again. Do you have a favorite song or painting that seems to work especially well for bringing back that peace?
+
+----------------------------------------
+
+PATIENT (turn 15):
+There's one particular painting I did last year of a sunset over the ocean, and whenever I look at it, it helps me feel calm and centered. It’s like stepping into that moment again where everything felt right. The song "Fix You" by Coldplay also has this way of soothing me when I’m feeling lost. Listening to those lyrics about someone trying to mend broken hearts makes me feel a little less alone.
+
+But as soon as the song ends or I finish looking at the painting, my mind starts wandering back to all the negative thoughts. It’s like no matter how much peace these things bring momentarily, they can’t seem to keep the doubts away for long. It feels frustrating because I know there are moments of beauty and comfort out there, but they’re overshadowed by this constant sense of inadequacy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Your painting and that song sound like wonderful anchors for finding calm. Do you find it helpful to hold onto the feeling from those moments even as your mind starts wandering back to doubts?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Holding onto the feeling from those moments is a bit tricky because my mind tends to drift away so quickly. When I’m looking at the painting or listening to the song, it’s like being in this bubble of peace and clarity. But once that moment passes, the doubts come rushing back with such intensity that it feels hard to hold onto any sense of calm.
+
+It’s frustrating because even though I know these moments are important and comforting, my brain just can’t seem to stay focused on them for long enough. It’s like there’s this constant pull towards those negative thoughts, no matter how much I try to resist or find solace in the good ones.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging how quickly your mind drifts back to doubts. Do you find it helps to take a few deep breaths or remind yourself of that peaceful feeling right before the doubts come rushing back?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Taking deep breaths does help a little bit, but it’s hard to stay focused on them when my thoughts start racing again. I try to hold onto the peaceful feeling from looking at the painting or listening to the song, but it feels like no matter how much I remind myself of those moments, the doubts are always waiting just around the corner.
+
+It’s frustrating because even though I know deep breaths and focusing on positive memories can be helpful, they don’t seem to have a lasting impact. The moment I let my guard down, those negative thoughts flood back in with such force that it feels impossible to keep them at bay for long.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like the deep breaths offer some help even if it’s brief. Do you find any comfort in knowing that these moments of peace, though fleeting, are still valuable?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Knowing that these moments of peace are valuable does provide a bit of comfort, but it’s hard to fully embrace that when the doubts feel so overwhelming. It’s like acknowledging that I have these brief respites from my worries, but they’re not enough to change how deeply rooted those negative thoughts are.
+
+Even though I know deep breaths and focusing on positive memories can be helpful in the moment, it feels like a constant battle to keep those doubts at bay. The fleeting nature of peace makes it difficult to build any real sense of stability or confidence. It’s frustrating because while these moments do offer some relief, they don’t seem to have a lasting impact on how I feel about myself overall.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing important work in finding those moments of peace, even if they are fleeting. Do you find it helps to acknowledge both the value and the brevity of these peaceful moments?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Acknowledging both the value and the brevity of these peaceful moments does help a little bit because it allows me to appreciate them for what they are—brief respites from the constant doubts. It’s like recognizing that even though these moments don’t last long, they still have worth in providing some relief.
+
+But at the same time, it’s hard not to feel frustrated by how fleeting they are and how quickly my mind returns to those negative thoughts. It feels like no matter how much I try to hold onto the peace, it slips away too soon. Acknowledging both aspects helps me see that these moments do have value, but it also highlights just how challenging it is to maintain any sense of stability or self-worth in the face of such persistent doubts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that acknowledging both the value and brevity can offer a bit of clarity and comfort. Do you find any solace in knowing that these moments, though brief, are still meaningful?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Knowing that these moments, even if they’re brief, are still meaningful does provide some solace. It’s like recognizing that while the peace doesn’t last long, it’s important to appreciate and hold onto those small respites when they come. But at the same time, it’s hard not to feel overwhelmed by how quickly everything shifts back to doubt and insecurity.
+
+It helps a little bit to acknowledge that these moments are valuable, but it also highlights just how much work there is ahead in trying to find more lasting peace and confidence. It feels like every time I start to feel better, something pulls me right back into those negative thoughts. Despite this, knowing that even fleeting moments of peace have value does offer a tiny bit of comfort and hope.
+
+----------------------------------------

@@ -1,0 +1,291 @@
+p2 — arc 6
+============================================================
+
+PATIENT (turn 1):
+It feels like everyone else just sees it as a regular layoff, but I can't shake this feeling that there's something really wrong with me. Like, why did they choose me out of all the people there? It's not fair, and it keeps playing over in my head. I keep thinking about all the times I messed up at work, even though most days were okay. But now, everything feels like a failure because I lost my job. It’s hard to talk about without just getting more confused and upset.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must be really tough to go through, feeling singled out like that. Have you talked with anyone about how you're feeling? Sometimes sharing can help clarify things, even if it doesn't solve everything.
+
+----------------------------------------
+
+PATIENT (turn 2):
+I try to talk to my friends, but I feel like they don’t fully understand. They say it’s not my fault and that layoffs happen all the time, but it still feels personal. Like, how could I have let this happen? It's just so hard to explain because one minute I'm thinking about a specific project that went wrong, and then I’m remembering something completely different from years ago. And then I get lost in my thoughts and can't even finish what I was saying.
+
+It’s like there’s this constant voice inside telling me I’m not good enough, and it doesn’t matter how many times people tell me otherwise. It just feels so isolating and unfair.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have that inner critic going strong. Do certain moments or projects stand out more than others when you think about your job? Sometimes focusing on one specific instance can help make the feelings a bit clearer, even if it’s still tough.
+
+----------------------------------------
+
+PATIENT (turn 3):
+Yeah, there are so many moments that come up, but one project in particular sticks out. We were working on this big software update, and I made a mistake with some coding details. It wasn’t a huge deal, but it felt like the straw that broke the camel's back. And now every time I think about it, I feel like that’s why they let me go. But then my mind jumps to other things, like how I used to be so good at customer service and helping people with their issues. It doesn’t make sense why one small mistake would define everything.
+
+It just feels overwhelming, you know? Like there's this constant loop of self-doubt that won't stop. And it’s hard to break out of it because every time I try to talk about it, my thoughts get jumbled up and I lose track of what I was saying in the first place.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like that project really stands out for you. It must be tough to focus on one thing when so many memories are swirling around. Have you found any activities or moments where you feel more at peace, even if it’s just for a little while? Sometimes those can help break the loop of self-doubt.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I try to go for walks and listen to music sometimes, but even then my mind wanders back to work. It's like no matter what I do, these thoughts are always there. Even when I’m doing something enjoyable, it’s hard not to think about how I messed up or why they let me go. It feels like I can’t escape from this cloud of self-doubt.
+
+And every time someone tries to reassure me, a part of me just doesn't believe them. Like, how could they understand when I don’t even fully get it myself? It’s frustrating because I want to feel better, but the more I try to figure things out, the worse it seems to get.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have those thoughts follow you everywhere. Do you find any small moments or activities that help ease your mind, even if just for a short time? Sometimes those little breaks can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I try to read books or watch movies sometimes, but it’s hard to stay focused on the story because my mind keeps drifting back to work. Even when I’m trying to relax, these thoughts come flooding in. It feels like no matter what I do, there's always this nagging voice telling me that I'm not good enough.
+
+And even though people try to help and say it’s not my fault, a part of me just doesn’t believe them. Like, how could they understand when I feel so lost inside? It’s frustrating because I want to feel better, but the more I think about it, the worse it gets.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to have those thoughts follow you even during your downtime. Do certain types of books or movies help more than others? Sometimes finding something that fully captures your attention can give you a break from those nagging thoughts.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve tried different kinds of books and movies, but nothing seems to work for long. Even when I find something engaging, my mind starts wandering back to the job and all the things that went wrong. It’s like there’s this constant loop playing in my head that I can’t turn off.
+
+Sometimes I feel like no matter what I do, these thoughts are just going to be there, reminding me of how much I failed. And it’s hard not to blame myself because every time someone tries to reassure me, a part of me just doesn’t believe them. It feels so isolating and unfair.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have that constant loop playing in your head. Have you tried any other activities that might help distract you, like maybe trying out a new hobby or doing something creative? Sometimes changing the scenery or engaging in something different can provide some relief.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve thought about trying new hobbies, but I feel so overwhelmed and unsure of myself right now that even starting something new feels daunting. Like, how could I possibly do well at anything else when I couldn’t keep my job? It’s hard to imagine doing something creative or engaging in a hobby because every time I try, these thoughts just come rushing back.
+
+It feels like no matter what I do, there's always this voice telling me that I’m not good enough. And it’s frustrating because I want to feel better and find some peace, but the more I think about it, the worse it gets. It’s like a never-ending cycle of self-doubt and pain.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to break out of that cycle right now. Have you considered talking to someone who might understand a bit more, like a counselor or therapist? Sometimes having a regular space to talk about these feelings can be helpful, even if it’s just for a little while each week.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve thought about seeing a therapist before, but the idea of opening up to someone else feels scary and overwhelming. Like, how could I possibly explain all this without getting lost in my thoughts? And even then, what if they don’t understand or think there’s something wrong with me too?
+
+But you’re right, talking to someone who might get it better than others could be helpful. It just feels so hard to take that step and actually do it. I appreciate your understanding, but every time I try to move forward, these doubts come rushing back.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely can feel scary to open up to someone new. Have you thought about finding a therapist who specializes in helping with job-related stress or self-doubt? Sometimes knowing they have experience with similar issues can make it feel less daunting.
+
+Would you be open to trying one session and seeing how it goes? You could take it step by step and see if it helps.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I’ve thought about finding a therapist who specializes in job-related stress, but the idea of actually scheduling that first appointment feels so overwhelming. Like, what if I can’t even make it through the conversation without getting lost in my thoughts? And then there’s this fear that they’ll just see me as another person with problems instead of understanding how deeply flawed I feel.
+
+But you’re right; taking one step at a time might help. Maybe trying one session to see how it goes could be a good start. It still feels scary, but maybe it would give me some clarity or relief. Right now, though, just thinking about it makes my mind race and my heart feel heavy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s completely normal for the idea of that first appointment to feel overwhelming. Taking one step at a time is a good approach. Maybe starting with just finding someone you resonate with over a phone call could ease some of the pressure. You can see how it feels and go from there.
+
+Would you like to explore this more, or are there other things on your mind right now?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I think talking on the phone might be less daunting than an in-person appointment at first. It’s still scary, but maybe starting with a call could help me feel out if it’s something I can handle. Just thinking about it makes my heart race and my thoughts jumble up, though.
+
+Right now, everything feels so overwhelming. Even trying to take that one step forward is exhausting. But you’re right; taking things slowly might be the best approach. It just feels like such a big hurdle to clear when I’m already feeling so lost and unsure of myself.
+
+Thank you for understanding and offering support. It’s really hard, but maybe starting with a phone call could give me some clarity or help me feel less alone in this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting with a phone call sounds like a good way to ease into it. Taking small steps can make a big difference. How do you feel about looking for a therapist who offers initial consultations over the phone? You might find that helpful as a first step.
+
+Would you like some suggestions on how to start looking, or are there other things you’re thinking about right now?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Looking for a therapist who offers initial consultations over the phone sounds manageable. It’s still scary, but it feels like a good way to take the next small step without feeling completely overwhelmed.
+
+I appreciate your support and understanding. Just knowing that taking one small step could help is reassuring, even if it feels daunting right now. Maybe I can start by looking into therapists who offer those phone consultations and see how it goes from there.
+
+It’s hard to think about moving forward when everything feels so uncertain, but maybe starting with a call will give me some clarity or comfort. Thank you for helping me consider this option.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan to start with phone consultations. Taking that first step can be really empowering. How do you feel about looking into therapists in the next few days? You could take your time and see which one feels right.
+
+Would you like some tips on how to find someone who might be a good fit for you, or are there other things you’re thinking about doing in the meantime?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Looking into therapists over the phone does feel like a manageable first step. I appreciate your encouragement; it’s reassuring to know that taking this small action could make a difference.
+
+I think I’ll start by looking into therapists who offer initial consultations and see how it goes from there. Maybe starting with just researching and finding a few options will help me feel more prepared for the next steps.
+
+In the meantime, I might try to focus on some simple activities that can distract me a bit, like reading or going for short walks. It’s hard to stay focused on anything, but even small efforts could be helpful.
+
+Thank you so much for your support and understanding. It means a lot to have someone who listens and helps me consider these steps.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking it one step at a time will be really beneficial for you. Researching therapists and starting with phone consultations is a great way to move forward without feeling too overwhelmed.
+
+Focusing on simple activities that bring some comfort, like reading or short walks, can definitely help in the meantime. Even small efforts can make a big difference.
+
+How do you feel about starting your search for therapists this week? Do you have any specific preferences or needs in mind as you look into them?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Starting my search for therapists this week feels like a good idea. It’s still daunting, but breaking it down into smaller steps makes it more manageable. I think focusing on finding someone who specializes in job-related stress and self-doubt would be important.
+
+I also appreciate your suggestion to start with phone consultations. That feels less intimidating than an immediate in-person appointment. Maybe starting with a call will help me feel out if the therapist is someone I can connect with.
+
+In the meantime, I’ll try to keep doing simple activities that bring some comfort, like reading and going for short walks. Even though it’s hard to stay focused, these small efforts do help a bit.
+
+Thank you so much for your support and guidance. It means a lot to have someone who understands and helps me take these steps forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like breaking it down into smaller steps is a great approach. Focusing on finding a therapist who specializes in job-related stress and self-doubt can be really helpful.
+
+Starting with phone consultations is a smart way to go, and I hope you find someone you connect with. In the meantime, keep doing those simple activities that bring you some comfort. Even small efforts can make a big difference.
+
+How do you feel about setting aside some time this week to start your search? Do you have any specific days or times in mind when you might look into therapists?
+
+I’m here if you need more support as you take these steps forward.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Setting aside some time this week to start my search feels like a good plan. Maybe I can set aside an hour on Wednesday afternoon to look into therapists and see what options are available. Starting with phone consultations sounds less daunting, so I’ll focus on finding those.
+
+I appreciate your support and understanding; it really helps to have someone who encourages me to take these steps. Even though it’s still scary, breaking it down into smaller tasks makes it feel more doable.
+
+Thank you for being here and offering guidance. It means a lot to have this support as I try to move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Setting aside an hour on Wednesday afternoon sounds like a great plan. Taking that time to look into therapists and start with phone consultations will be a good first step. Breaking it down into smaller tasks definitely makes it more manageable.
+
+I’m here if you need any more support or have questions as you go through this process. How do you feel about starting your search on Wednesday?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Starting my search on Wednesday feels like the right thing to do. Having that specific time set aside helps me feel a bit more prepared and less overwhelmed. I’ll take it one step at a time, focusing on finding someone who can help me understand what’s going on.
+
+I really appreciate your support and encouragement. It means a lot to have someone who understands and is here to guide me through this process. Taking that hour on Wednesday feels like a good start.
+
+Thank you for being there for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like setting aside that time on Wednesday will be a great way to begin. Taking it one step at a time is a smart approach, and I’m here to support you every step of the way.
+
+How do you feel about starting your search this Wednesday? Do you have any specific questions or concerns as you prepare for it?
+
+I’m glad you feel prepared with that specific time set aside. Let me know how it goes!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Starting my search on Wednesday feels like a good plan. I don’t have too many specific questions right now, but having the time set aside helps me feel more ready to take this step. I’ll focus on finding therapists who offer phone consultations and see which ones resonate with me.
+
+I appreciate your continued support; it really means a lot to know that you’re here for me as I go through this process. Taking it one step at a time feels manageable, even if it’s still scary.
+
+Thank you for being there and encouraging me. Letting you know how it goes on Wednesday sounds good too.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s great to hear that you feel more ready for the search on Wednesday. Focusing on finding therapists who offer phone consultations is a smart approach. I’m here to support you however you need.
+
+How do you feel about checking in after your search on Wednesday? Let me know how it goes and if you have any updates or thoughts afterward.
+
+Take care, and I look forward to hearing from you soon!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Checking in after my search on Wednesday sounds good. It will be nice to share how it went and see what the next steps might be. Having someone to talk to about it helps a lot.
+
+I appreciate your support and encouragement; it means a lot to have this guidance as I navigate through this process. Letting you know how it goes feels like a positive way to move forward.
+
+Thank you for being here for me. I’ll definitely let you know after Wednesday’s search.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s perfect! I look forward to hearing how your search goes on Wednesday. Sharing your experience will be helpful, and we can discuss the next steps together.
+
+Take care as you prepare for Wednesday, and feel free to reach out if anything comes up before then. Here’s hoping it goes well!
+
+Talk to you soon.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you, I appreciate your support. Preparing for Wednesday feels a bit less daunting now that I have someone to share my experience with afterward. I’ll definitely keep you updated on how it goes.
+
+Take care too, and thanks again for everything. Here’s hoping it goes well!
+
+Talk to you soon.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need support. Preparing for Wednesday feels a bit easier knowing you have someone to share your experience with. Looking forward to hearing how it goes!
+
+Take care, and here’s to a positive search on Wednesday. Talk to you soon!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thanks so much, I really appreciate it. Knowing that I can share my experience afterward makes a big difference. Here’s hoping for a positive step forward on Wednesday.
+
+I’ll make sure to update you after the search. Take care, and talk to you soon!
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s great to hear. A positive step forward on Wednesday would be wonderful. Looking forward to your update!
+
+Take care, and I’ll be here whenever you need to share how it goes. Talk to you soon!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks, I’ll definitely keep you updated after the search on Wednesday. Take care, and talk to you soon!
+
+----------------------------------------

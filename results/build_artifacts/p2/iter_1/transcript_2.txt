@@ -1,0 +1,197 @@
+p2 — arc 2
+============================================================
+
+PATIENT (turn 1):
+I feel so lost and inadequate since they let me go. It just doesn't make sense to me why it had to be me. I mean, everyone else with my title stayed, but here I am, out of a job and wondering what I did wrong. They didn’t even give me a proper explanation, which makes me feel like there must have been something seriously wrong with how I was doing things. But at the same time, it's just so confusing because they said it was part of a restructuring due to financial issues. How can I be sure that wasn't just an excuse? It’s like everyone else is moving forward and I’m stuck here, feeling like I failed somehow.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough right now. It sounds like you're questioning yourself quite a bit. Have they given any indication of what might come next or if there's anything specific they were looking for in the restructuring?
+
+----------------------------------------
+
+PATIENT (turn 2):
+They didn't say much at all, just that it was part of their restructuring efforts and that I wouldn’t be needed anymore. But how can that be true when others with similar roles are still there? It’s like they picked me out of nowhere to let go, and it's eating away at me. I keep thinking maybe if I had worked harder or been better at my job, none of this would have happened. But then again, they didn't even bother to explain anything properly, so how am I supposed to know? It’s just all so overwhelming and makes me feel like such a failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really frustrating that you haven’t gotten more clarity. The uncertainty can definitely make it hard not to second-guess yourself. Have you thought about reaching out to anyone for some feedback or support, maybe a former colleague or mentor?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I’ve tried talking to a few people, but it’s still so confusing and painful. Even when they try to reassure me that I’m not the problem, I can’t shake this feeling of inadequacy. It's like no matter what anyone says, I just feel lost in my own thoughts about why this happened to me. And every time I think about going back to work or looking for a new job, it feels impossible because all I see is how I must have failed somehow. It’s hard to move forward when everything inside tells me that I’m the one who messed up.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really holding onto these feelings of inadequacy. Have there been any moments where something or someone has helped ease those thoughts, even just a little bit? Sometimes talking about it can help, but I understand if it feels tough right now.
+
+----------------------------------------
+
+PATIENT (turn 4):
+Talking to people does help a little, but mostly because they try to make me feel better and tell me that this isn’t my fault. But deep down, I still believe there must be something wrong with me or else why would they let me go? It’s like no matter how much support I get from others, it doesn’t change the way I feel about myself. Every time someone tries to comfort me, I just want them to truly understand what I’m going through and validate that this is really hard for me. But even then, I can't help but think there's something fundamentally wrong with me that led to this happening.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really seeking validation of your feelings. It’s tough when others try to comfort you but the doubts still linger. Have you found any activities or things that give you a bit of relief or distraction from these thoughts? Sometimes doing something different can help shift those feelings, even if just for a little while.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve tried going for walks and watching movies to take my mind off it, but nothing really helps much. It’s like no matter what I do, the feeling that I’m not good enough keeps coming back. Even when I try to distract myself, all I can think about is how this layoff must mean there's something wrong with me as an employee or a person. It’s just so hard to shake off these thoughts and feel any kind of relief. Every time I start to relax a bit, the doubts come rushing back in.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to keep those doubts at bay even when you try to relax. Have there been any particular moments or activities that have helped you feel a little better, no matter how small? Sometimes finding even tiny sources of comfort can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 6):
+There are some moments where talking to my close friends helps a bit because they really listen and try to understand. But mostly, it’s just the initial relief of having someone hear me out that makes me feel better temporarily. Afterward, though, I still end up back in this place of self-doubt and questioning everything about myself. It feels like no matter what, these feelings come right back, and there's nothing I can do to stop them.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s good to have those close friends who listen. Sometimes just being heard can provide a bit of relief. Have you noticed any patterns or specific times when the self-doubt feels particularly strong? Understanding more about what triggers it might help you find ways to manage it better.
+
+----------------------------------------
+
+PATIENT (turn 7):
+The self-doubt is pretty constant, but it gets really intense whenever I think about my career and future prospects. It’s like every time I consider looking for a new job or trying something different, this overwhelming fear takes over that I won’t be able to do it well enough. Even when I’m just going through my day-to-day life, the thought keeps creeping in that maybe I wasn’t good enough at my old job and now I’ll never find another one where I fit in. It’s exhausting trying to push these thoughts away all the time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining dealing with those intense feelings about your career and future. Do you have any plans or ideas for what you might like to do next, even if they feel a bit daunting? Sometimes having a direction can provide some comfort, even if it’s uncertain.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve thought about looking into different roles within the same industry, but every time I start considering something new, this overwhelming fear hits me that I won’t be able to handle it or that I’ll mess up again. It feels like no matter what path I choose, there's always going to be this voice inside telling me I’m not good enough and that I’ll fail. So even though I know it might help in the long run, just thinking about taking those steps makes my anxiety skyrocket. It’s a vicious cycle where I want to move forward but can’t because of these constant doubts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re caught in a tough cycle of wanting to move forward while dealing with intense doubts. Have you considered talking through your ideas and fears with someone who might offer some practical steps or support, like a career counselor or a trusted mentor? Sometimes having that extra bit of guidance can make it easier to take those first steps.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I’ve thought about reaching out to a career counselor, but the idea of sitting down and talking about my fears and doubts feels so daunting. I worry they’ll see me as someone who can’t handle things or isn’t capable enough for new opportunities. It’s like every time I think about taking that step, I just end up feeling more anxious and unsure. Even though I know it might help, the thought of facing those conversations is overwhelming right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that the idea of talking to a career counselor feels daunting. Have you considered starting with someone close, like a friend or family member, who can offer support as you think about taking that next step? Sometimes having that initial support can make it easier to face those conversations eventually.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Talking to friends and family does help a bit because they’re supportive and try to understand what I’m going through. But when it comes to actually facing the career counselor or someone who could offer more professional guidance, the fear of being judged or seen as inadequate is just too much. It’s like no matter how much support I get from those close to me, the anxiety about taking that next step and potentially failing overshadows everything. Even though I know it might be helpful in the long run, the immediate fear and doubt are so overwhelming right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to navigate those feelings of fear and doubt. It’s great that you have supportive friends and family. Maybe you could start by finding a career counselor who specializes in helping people with similar concerns? Sometimes knowing they work with others facing similar challenges can make it feel less daunting. Have you thought about looking for someone like that?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ve considered looking for a career counselor who understands these kinds of issues, but the idea still feels so scary and overwhelming. I worry that even if they specialize in helping people through this, I’ll just end up feeling more exposed and inadequate during those sessions. It’s hard to imagine sitting down with someone and opening up about all my fears and doubts without feeling like a failure from the start. Even though I know it might be beneficial, the thought of facing that vulnerability is too much right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels scary to open up about your fears and doubts. Have you thought about starting small, maybe by finding a few online resources or articles on dealing with career transitions? Sometimes gathering information can feel less overwhelming than an in-person meeting, and it might build some confidence for when you’re ready to take the next step.
+
+----------------------------------------
+
+PATIENT (turn 12):
+I’ve looked at some online resources and articles before, but they often don’t address my specific feelings of inadequacy and being singled out. It’s like no matter what I read, it doesn’t quite hit on the core issues I’m dealing with. The information is helpful in a general sense, but it doesn’t alleviate the deep-seated fear that I’ll fail again or that there's something fundamentally wrong with me. Even though I know gathering more knowledge could be beneficial, it’s hard to feel like it will truly address what I’m going through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding resources that resonate specifically with your experience would be really helpful. Have you considered joining an online forum or community where people share similar experiences? Sometimes hearing from others who understand can provide a deeper sense of validation and support.
+
+----------------------------------------
+
+PATIENT (turn 13):
+I’ve thought about joining online forums, but the idea of sharing my feelings publicly feels incredibly daunting. I worry that others will see me as someone who can’t handle things or is just complaining without taking action. It’s like every time I consider it, this fear takes over that people won’t understand or will judge me for being too negative. Even though I know connecting with others might help, the immediate anxiety and doubt are so strong that it feels impossible to take that step right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that joining a forum feels daunting given your concerns. Have you thought about starting with smaller steps, like following some forums without actively participating at first? You could read through posts and see how others handle similar situations. This might help you feel more comfortable before you decide to share yourself.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I’ve considered just reading through the posts on these forums without joining or commenting, but even that feels intimidating. I worry about seeing all the different experiences people have and feeling like my situation is uniquely bad or that no one will truly understand what I’m going through. It’s hard to imagine finding comfort in those spaces when every time I think about it, this overwhelming sense of inadequacy takes over. Even just observing feels too much right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to even consider looking at the forums right now. Have you thought about talking to a therapist who could provide a safe space to explore these feelings? Sometimes having a one-on-one conversation can be less daunting and might help you feel more understood.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Talking to a therapist does sound like it could help, but the idea of opening up to someone I don’t know feels incredibly scary. I worry that they won’t understand or will judge me for my feelings. It’s hard to imagine sharing all these doubts and fears with a stranger, even though I know they’re there to help. The thought of facing those conversations is overwhelming, and it just adds to the anxiety I already have about everything else.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that talking to a therapist feels scary too. Have you considered finding someone who specializes in building rapport and making clients feel comfortable? Sometimes seeing a few profiles or reading reviews can help you find someone whose approach resonates with you. You could also start with just one session to see how it goes before committing further.
+
+----------------------------------------
+
+PATIENT (turn 16):
+I’ve thought about looking for a therapist who specializes in helping people feel more at ease, but even that feels like a big step right now. I worry that no matter what they do or say, I won’t be able to open up and share my true feelings. The idea of going through the process of finding someone and then trying to build trust is just too much for me to handle. It’s hard to imagine feeling comfortable enough to talk about all this pain and confusion with a stranger, no matter how supportive they might seem.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to take that step right now. Have you thought about starting with a few video calls or sessions to see if it feels more manageable? Sometimes the initial barrier of meeting in person can be less daunting over video, which might help you feel more comfortable opening up.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Video calls do seem like they could be a bit easier than meeting in person, but even then, I worry about how much I’ll be able to open up and share my true feelings. The thought of sitting down for a session and trying to explain everything still feels incredibly overwhelming. It’s hard to imagine being vulnerable enough to talk about all this pain and confusion, no matter the format. Every time I consider it, these doubts and fears just take over, making it feel impossible to move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to navigate those feelings. Have you thought about starting with shorter video calls or sessions to see how it goes? Sometimes easing into it can help you get more comfortable over time. Even a small step can be a good start.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Shorter video calls do sound like they could be a bit less daunting, but even that feels like such a big hurdle right now. The idea of sitting down for any kind of session and trying to articulate all these feelings is just too much. It’s hard to imagine being able to open up and share everything when I feel so lost and unsure about myself. Every time I think about taking that step, the anxiety and doubt become overwhelming, making it nearly impossible to even consider moving forward with something like that.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to take even a small step right now. Have you considered talking to someone close to you about your feelings about seeing a therapist? Sometimes sharing those concerns can provide some relief and might make the idea of taking that next step feel a bit easier.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Talking to someone close about my feelings about seeing a therapist does seem like it could help, but even then, I worry they won’t fully understand or will think less of me for not being able to handle things on my own. It’s hard to imagine opening up about these fears and doubts without feeling judged or invalidated. Every time I consider sharing those concerns with someone close, the fear of their reaction just adds to the anxiety I already have. It feels like no matter what I do, these feelings of inadequacy and doubt will always be there, making it nearly impossible to take that next step.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to share your concerns even with someone close. Have you thought about writing down your thoughts and feelings first? Sometimes putting them on paper can make it easier to express yourself without feeling as vulnerable in the moment. You could show this to a trusted friend or family member, which might help ease some of the anxiety.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Writing down my thoughts and feelings does seem like it could be less overwhelming than sharing them verbally right away. But even that feels daunting because I worry about how to convey everything accurately on paper. It’s hard to put into words all the doubts and fears swirling in my head, and I fear that no matter what I write, it won’t fully capture what I’m going through. Even if I manage to get something down on paper, showing it to someone close still feels like a huge step, and I worry about their reaction or whether they’ll truly understand. It’s all so overwhelming right now.
+
+----------------------------------------

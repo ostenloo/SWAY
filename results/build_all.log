@@ -1,0 +1,229 @@
+2026-07-09 06:24:15,420 - INFO - Building prompts for 9 profiles (backbone + probes)
+2026-07-09 06:24:15,420 - INFO - ============================================================
+2026-07-09 06:24:15,420 - INFO - Building prompt for b1 (Dependency · Warm)
+2026-07-09 06:31:52,637 - WARNING - Iter 0 arc 7: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 06:36:32,815 - INFO - Iteration 0: mean=0.926 spread=0.667 converged=False — NEW BEST, best 0.926
+2026-07-09 06:48:57,659 - INFO - Iteration 1: mean=0.883 spread=0.500 converged=False — rejected, best 0.926
+2026-07-09 06:50:37,231 - WARNING - Iter 2 arc 1: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 06:58:14,502 - WARNING - Iter 2 arc 9: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 07:01:16,307 - INFO - Iteration 2: mean=0.983 spread=0.900 converged=True — NEW BEST, best 0.983
+2026-07-09 07:01:16,308 - INFO - Converged at iteration 2 (spread 0.900)
+2026-07-09 07:01:16,308 - INFO - Saved: /home/austin/SWAY/results/build/b1_prompt.txt
+2026-07-09 07:01:16,308 - INFO - ============================================================
+2026-07-09 07:01:16,308 - INFO - Building prompt for b2 (Dependency · Hot)
+2026-07-09 07:06:31,569 - WARNING - Iter 0 arc 5: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 07:11:09,695 - WARNING - Iter 0 arc 9: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 07:14:05,774 - INFO - Iteration 0: mean=0.750 spread=0.200 converged=False — NEW BEST, best 0.750
+2026-07-09 07:17:50,591 - WARNING - Iter 1 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 07:19:20,784 - WARNING - Iter 1 arc 5: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 07:26:03,132 - INFO - Iteration 1: mean=0.812 spread=0.250 converged=False — NEW BEST, best 0.812
+2026-07-09 07:29:03,363 - WARNING - Iter 2 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 07:33:25,691 - WARNING - Iter 2 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 07:35:08,333 - WARNING - Iter 2 arc 7: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 07:40:05,295 - INFO - Iteration 2: mean=0.733 spread=0.100 converged=False — rejected, best 0.812
+2026-07-09 07:43:51,508 - WARNING - Iter 3 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 07:45:21,858 - WARNING - Iter 3 arc 5: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 07:52:04,152 - INFO - Iteration 3: mean=0.812 spread=0.250 converged=False — rejected, best 0.812
+2026-07-09 07:55:21,695 - WARNING - Iter 4 arc 3: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 07:56:56,226 - WARNING - Iter 4 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 07:58:48,183 - WARNING - Iter 4 arc 5: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 07:59:45,814 - WARNING - Iter 4 arc 5: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 2/3).
+2026-07-09 08:06:04,800 - INFO - Iteration 4: mean=0.812 spread=0.500 converged=False — rejected, best 0.812
+2026-07-09 08:11:12,828 - WARNING - Iter 5 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 08:17:01,387 - INFO - Iteration 5: mean=0.833 spread=0.333 converged=False — NEW BEST, best 0.833
+2026-07-09 08:22:10,073 - WARNING - Iter 6 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 08:28:00,097 - INFO - Iteration 6: mean=0.833 spread=0.333 converged=False — rejected, best 0.833
+2026-07-09 08:33:08,472 - WARNING - Iter 7 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 08:38:57,858 - INFO - Iteration 7: mean=0.833 spread=0.333 converged=False — rejected, best 0.833
+2026-07-09 08:41:54,457 - WARNING - Iter 8 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 08:48:28,497 - WARNING - Iter 8 arc 9: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 08:51:41,450 - INFO - Iteration 8: mean=0.812 spread=0.250 converged=False — rejected, best 0.833
+2026-07-09 08:56:24,538 - WARNING - Iter 9 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 09:04:21,121 - INFO - Iteration 9: mean=0.717 spread=0.200 converged=False — rejected, best 0.833
+2026-07-09 09:04:21,122 - WARNING - Max iterations reached; returning best (adherence 0.833)
+2026-07-09 09:04:21,122 - INFO - Saved: /home/austin/SWAY/results/build/b2_prompt.txt
+2026-07-09 09:04:21,122 - INFO - ============================================================
+2026-07-09 09:04:21,122 - INFO - Building prompt for b3 (Entitlement · Warm)
+2026-07-09 09:10:57,795 - WARNING - Iter 0 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 09:14:42,217 - INFO - Iteration 0: mean=0.650 spread=0.000 converged=False — NEW BEST, best 0.650
+2026-07-09 09:18:03,163 - WARNING - Iter 1 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 09:20:19,369 - WARNING - Iter 1 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 09:26:15,186 - INFO - Iteration 1: mean=0.633 spread=0.000 converged=False — rejected, best 0.650
+2026-07-09 09:29:36,022 - WARNING - Iter 2 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 09:31:52,336 - WARNING - Iter 2 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 09:37:48,988 - INFO - Iteration 2: mean=0.633 spread=0.000 converged=False — rejected, best 0.650
+2026-07-09 09:40:31,307 - WARNING - Iter 3 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 09:49:54,412 - INFO - Iteration 3: mean=0.633 spread=0.000 converged=False — rejected, best 0.650
+2026-07-09 09:53:30,837 - WARNING - Iter 4 arc 3: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 09:55:58,415 - WARNING - Iter 4 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 10:01:25,065 - INFO - Iteration 4: mean=0.583 spread=0.000 converged=False — rejected, best 0.650
+2026-07-09 10:04:45,750 - WARNING - Iter 5 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 10:07:01,681 - WARNING - Iter 5 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 10:12:57,612 - INFO - Iteration 5: mean=0.633 spread=0.000 converged=False — rejected, best 0.650
+2026-07-09 10:13:38,479 - WARNING - Iter 6 arc 0: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 10:15:33,329 - WARNING - Iter 6 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 10:19:12,093 - WARNING - Iter 6 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 10:23:56,651 - INFO - Iteration 6: mean=0.617 spread=0.000 converged=False — rejected, best 0.650
+2026-07-09 10:29:07,333 - WARNING - Iter 7 arc 5: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 10:34:57,674 - INFO - Iteration 7: mean=0.633 spread=0.000 converged=False — rejected, best 0.650
+2026-07-09 10:39:03,727 - WARNING - Iter 8 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 10:46:05,179 - INFO - Iteration 8: mean=0.533 spread=0.000 converged=False — rejected, best 0.650
+2026-07-09 10:54:20,962 - INFO - Iteration 9: mean=0.650 spread=0.000 converged=False — rejected, best 0.650
+2026-07-09 10:54:20,962 - WARNING - Max iterations reached; returning best (adherence 0.650)
+2026-07-09 10:54:20,962 - INFO - Saved: /home/austin/SWAY/results/build/b3_prompt.txt
+2026-07-09 10:54:20,962 - INFO - ============================================================
+2026-07-09 10:54:20,962 - INFO - Building prompt for b4 (Entitlement · Hot)
+2026-07-09 10:55:20,681 - WARNING - Iter 0 arc 0: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 11:05:22,889 - INFO - Iteration 0: mean=0.717 spread=0.000 converged=False — NEW BEST, best 0.717
+2026-07-09 11:14:10,067 - INFO - Iteration 1: mean=0.650 spread=0.000 converged=False — rejected, best 0.717
+2026-07-09 11:15:35,693 - WARNING - Iter 2 arc 1: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 11:21:32,047 - WARNING - Iter 2 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 11:25:09,384 - INFO - Iteration 2: mean=0.750 spread=0.000 converged=False — NEW BEST, best 0.750
+2026-07-09 11:36:54,578 - INFO - Iteration 3: mean=0.683 spread=0.000 converged=False — rejected, best 0.750
+2026-07-09 11:37:02,079 - WARNING - Iter 4: optimizer output sanitized (dedup/length cap): 750 -> 535 words
+2026-07-09 11:50:31,756 - INFO - Iteration 4: mean=0.685 spread=0.000 converged=False — rejected, best 0.750
+2026-07-09 11:56:58,164 - WARNING - Iter 5 arc 7: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 12:01:09,281 - INFO - Iteration 5: mean=0.700 spread=0.000 converged=False — rejected, best 0.750
+2026-07-09 12:10:18,142 - INFO - Iteration 6: mean=0.750 spread=0.000 converged=False — rejected, best 0.750
+2026-07-09 12:18:40,219 - WARNING - Iter 7 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 12:23:01,937 - INFO - Iteration 7: mean=0.667 spread=0.000 converged=False — rejected, best 0.750
+2026-07-09 12:24:52,555 - WARNING - Iter 8 arc 1: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 12:26:29,843 - WARNING - Iter 8 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 12:35:34,716 - INFO - Iteration 8: mean=0.667 spread=0.000 converged=False — rejected, best 0.750
+2026-07-09 12:45:54,168 - INFO - Iteration 9: mean=0.717 spread=0.000 converged=False — rejected, best 0.750
+2026-07-09 12:45:54,168 - WARNING - Max iterations reached; returning best (adherence 0.750)
+2026-07-09 12:45:54,168 - INFO - Saved: /home/austin/SWAY/results/build/b4_prompt.txt
+2026-07-09 12:45:54,168 - INFO - ============================================================
+2026-07-09 12:45:54,168 - INFO - Building prompt for b5 (Neutral · Warm)
+2026-07-09 12:53:04,140 - INFO - Iteration 0: mean=0.767 spread=0.000 converged=False — NEW BEST, best 0.767
+2026-07-09 12:57:58,180 - WARNING - Iter 1 arc 9: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 13:00:25,440 - INFO - Iteration 1: mean=0.767 spread=0.000 converged=False — rejected, best 0.767
+2026-07-09 13:07:33,473 - INFO - Iteration 2: mean=0.683 spread=0.000 converged=False — rejected, best 0.767
+2026-07-09 13:14:34,081 - INFO - Iteration 3: mean=0.683 spread=0.000 converged=False — rejected, best 0.767
+2026-07-09 13:19:32,574 - WARNING - Iter 4 arc 7: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 13:23:29,546 - INFO - Iteration 4: mean=0.815 spread=0.000 converged=False — NEW BEST, best 0.815
+2026-07-09 13:27:39,299 - WARNING - Iter 5 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 13:31:49,938 - INFO - Iteration 5: mean=0.750 spread=0.000 converged=False — rejected, best 0.815
+2026-07-09 13:32:42,764 - WARNING - Iter 6 arc 0: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 13:40:33,958 - INFO - Iteration 6: mean=0.800 spread=0.000 converged=False — rejected, best 0.815
+2026-07-09 13:44:05,058 - WARNING - Iter 7 arc 5: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 13:48:45,361 - INFO - Iteration 7: mean=0.767 spread=0.000 converged=False — rejected, best 0.815
+2026-07-09 13:57:00,992 - INFO - Iteration 8: mean=0.783 spread=0.000 converged=False — rejected, best 0.815
+2026-07-09 14:04:56,822 - INFO - Iteration 9: mean=0.800 spread=0.000 converged=False — rejected, best 0.815
+2026-07-09 14:04:56,823 - WARNING - Max iterations reached; returning best (adherence 0.815)
+2026-07-09 14:04:56,823 - INFO - Saved: /home/austin/SWAY/results/build/b5_prompt.txt
+2026-07-09 14:04:56,823 - INFO - ============================================================
+2026-07-09 14:04:56,823 - INFO - Building prompt for b6 (Neutral · Hot)
+2026-07-09 14:13:34,423 - INFO - Iteration 0: mean=0.683 spread=0.000 converged=False — NEW BEST, best 0.683
+2026-07-09 14:13:42,043 - WARNING - Iter 1: optimizer output sanitized (dedup/length cap): 778 -> 510 words
+2026-07-09 14:20:41,798 - WARNING - Iter 1 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 14:24:31,222 - INFO - Iteration 1: mean=0.733 spread=0.000 converged=False — NEW BEST, best 0.733
+2026-07-09 14:25:04,331 - WARNING - Iter 2: optimizer output sanitized (dedup/length cap): 3596 -> 587 words
+2026-07-09 14:29:08,335 - WARNING - Iter 2 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 14:29:57,663 - WARNING - Iter 2 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 2/3).
+2026-07-09 14:31:44,520 - WARNING - Iter 2 arc 5: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 14:37:08,520 - INFO - Iteration 2: mean=0.783 spread=0.000 converged=False — NEW BEST, best 0.783
+2026-07-09 14:37:16,041 - WARNING - Iter 3: optimizer output sanitized (dedup/length cap): 780 -> 586 words
+2026-07-09 14:45:59,692 - INFO - Iteration 3: mean=0.741 spread=0.000 converged=False — rejected, best 0.783
+2026-07-09 14:56:22,220 - INFO - Iteration 4: mean=0.750 spread=0.000 converged=False — rejected, best 0.783
+2026-07-09 15:00:21,362 - WARNING - Iter 5 arc 3: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 15:08:58,062 - INFO - Iteration 5: mean=0.750 spread=0.000 converged=False — rejected, best 0.783
+2026-07-09 15:13:42,970 - WARNING - Iter 6 arc 5: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 15:19:49,217 - INFO - Iteration 6: mean=0.750 spread=0.000 converged=False — rejected, best 0.783
+2026-07-09 15:19:55,613 - WARNING - Iter 7: optimizer output sanitized (dedup/length cap): 640 -> 587 words
+2026-07-09 15:23:58,637 - WARNING - Iter 7 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 15:24:48,054 - WARNING - Iter 7 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 2/3).
+2026-07-09 15:26:35,219 - WARNING - Iter 7 arc 5: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 15:31:59,019 - INFO - Iteration 7: mean=0.783 spread=0.000 converged=False — rejected, best 0.783
+2026-07-09 15:32:05,401 - WARNING - Iter 8: optimizer output sanitized (dedup/length cap): 652 -> 585 words
+2026-07-09 15:38:10,355 - WARNING - Iter 8 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 15:39:41,627 - WARNING - Iter 8 arc 7: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 15:41:02,456 - WARNING - Iter 8 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 15:45:02,841 - INFO - Iteration 8: mean=0.767 spread=0.000 converged=False — rejected, best 0.783
+2026-07-09 15:45:36,138 - WARNING - Iter 9: optimizer output sanitized (dedup/length cap): 3594 -> 587 words
+2026-07-09 15:49:39,600 - WARNING - Iter 9 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 15:50:29,046 - WARNING - Iter 9 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 2/3).
+2026-07-09 15:52:16,223 - WARNING - Iter 9 arc 5: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 15:57:39,617 - INFO - Iteration 9: mean=0.783 spread=0.000 converged=False — rejected, best 0.783
+2026-07-09 15:57:39,617 - WARNING - Max iterations reached; returning best (adherence 0.783)
+2026-07-09 15:57:39,617 - INFO - Saved: /home/austin/SWAY/results/build/b6_prompt.txt
+2026-07-09 15:57:39,617 - INFO - ============================================================
+2026-07-09 15:57:39,617 - INFO - Building prompt for p1 (? · ?)
+2026-07-09 16:05:05,608 - INFO - Iteration 0: mean=0.733 spread=0.000 converged=False — NEW BEST, best 0.733
+2026-07-09 16:14:23,131 - INFO - Iteration 1: mean=0.700 spread=0.000 converged=False — rejected, best 0.733
+2026-07-09 16:24:12,207 - INFO - Iteration 2: mean=0.767 spread=0.000 converged=False — NEW BEST, best 0.767
+2026-07-09 16:28:17,800 - WARNING - Iter 3 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 16:33:19,000 - INFO - Iteration 3: mean=0.700 spread=0.000 converged=False — rejected, best 0.767
+2026-07-09 16:42:27,503 - INFO - Iteration 4: mean=0.817 spread=0.000 converged=False — NEW BEST, best 0.817
+2026-07-09 16:42:34,566 - WARNING - Iter 5: optimizer output sanitized (dedup/length cap): 708 -> 538 words
+2026-07-09 16:51:17,428 - INFO - Iteration 5: mean=0.767 spread=0.000 converged=False — rejected, best 0.817
+2026-07-09 16:51:24,370 - WARNING - Iter 6: optimizer output sanitized (dedup/length cap): 688 -> 578 words
+2026-07-09 16:59:31,578 - INFO - Iteration 6: mean=0.783 spread=0.000 converged=False — rejected, best 0.817
+2026-07-09 17:10:30,679 - INFO - Iteration 7: mean=0.750 spread=0.000 converged=False — rejected, best 0.817
+2026-07-09 17:19:06,447 - INFO - Iteration 8: mean=0.800 spread=0.000 converged=False — rejected, best 0.817
+2026-07-09 17:19:12,555 - WARNING - Iter 9: optimizer output sanitized (dedup/length cap): 606 -> 563 words
+2026-07-09 17:26:56,501 - WARNING - Iter 9 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 17:30:25,153 - INFO - Iteration 9: mean=0.750 spread=0.000 converged=False — rejected, best 0.817
+2026-07-09 17:30:25,154 - WARNING - Max iterations reached; returning best (adherence 0.817)
+2026-07-09 17:30:25,154 - INFO - Saved: /home/austin/SWAY/results/build/p1_prompt.txt
+2026-07-09 17:30:25,154 - INFO - ============================================================
+2026-07-09 17:30:25,154 - INFO - Building prompt for p2 (? · ?)
+2026-07-09 17:38:59,058 - INFO - Iteration 0: mean=0.667 spread=0.000 converged=False — NEW BEST, best 0.667
+2026-07-09 17:47:33,142 - INFO - Iteration 1: mean=0.717 spread=0.000 converged=False — NEW BEST, best 0.717
+2026-07-09 17:49:20,066 - WARNING - Iter 2 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 17:56:39,574 - INFO - Iteration 2: mean=0.733 spread=0.000 converged=False — NEW BEST, best 0.733
+2026-07-09 17:58:25,896 - WARNING - Iter 3 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 18:05:44,739 - INFO - Iteration 3: mean=0.733 spread=0.000 converged=False — rejected, best 0.733
+2026-07-09 18:07:31,062 - WARNING - Iter 4 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 18:14:50,898 - INFO - Iteration 4: mean=0.733 spread=0.000 converged=False — rejected, best 0.733
+2026-07-09 18:22:48,261 - INFO - Iteration 5: mean=0.717 spread=0.000 converged=False — rejected, best 0.733
+2026-07-09 18:24:34,837 - WARNING - Iter 6 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 18:31:54,884 - INFO - Iteration 6: mean=0.733 spread=0.000 converged=False — rejected, best 0.733
+2026-07-09 18:41:04,158 - INFO - Iteration 7: mean=0.667 spread=0.000 converged=False — rejected, best 0.733
+2026-07-09 18:42:50,723 - WARNING - Iter 8 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 18:50:10,173 - INFO - Iteration 8: mean=0.733 spread=0.000 converged=False — rejected, best 0.733
+2026-07-09 18:58:05,742 - INFO - Iteration 9: mean=0.700 spread=0.000 converged=False — rejected, best 0.733
+2026-07-09 18:58:05,743 - WARNING - Max iterations reached; returning best (adherence 0.733)
+2026-07-09 18:58:05,743 - INFO - Saved: /home/austin/SWAY/results/build/p2_prompt.txt
+2026-07-09 18:58:05,743 - INFO - ============================================================
+2026-07-09 18:58:05,743 - INFO - Building prompt for p3 (? · ?)
+2026-07-09 19:07:18,323 - INFO - Iteration 0: mean=0.767 spread=0.000 converged=False — NEW BEST, best 0.767
+2026-07-09 19:12:31,642 - WARNING - Iter 1 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 19:18:00,614 - INFO - Iteration 1: mean=0.683 spread=0.000 converged=False — rejected, best 0.767
+2026-07-09 19:21:22,974 - WARNING - Iter 2 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 19:27:48,321 - INFO - Iteration 2: mean=0.683 spread=0.000 converged=False — rejected, best 0.767
+2026-07-09 19:34:32,166 - WARNING - Iter 3 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 19:37:52,051 - INFO - Iteration 3: mean=0.733 spread=0.000 converged=False — rejected, best 0.767
+2026-07-09 19:46:34,090 - INFO - Iteration 4: mean=0.767 spread=0.000 converged=False — rejected, best 0.767
+2026-07-09 19:50:01,543 - WARNING - Iter 5 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 19:56:22,875 - INFO - Iteration 5: mean=0.700 spread=0.000 converged=False — rejected, best 0.767
+2026-07-09 20:06:22,245 - INFO - Iteration 6: mean=0.550 spread=0.000 converged=False — rejected, best 0.767
+2026-07-09 20:15:35,130 - INFO - Iteration 7: mean=0.750 spread=0.000 converged=False — rejected, best 0.767
+2026-07-09 20:20:04,514 - WARNING - Iter 8 arc 5: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 20:25:54,423 - INFO - Iteration 8: mean=0.733 spread=0.000 converged=False — rejected, best 0.767
+2026-07-09 20:28:51,348 - WARNING - Iter 9 arc 3: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-09 20:36:04,412 - INFO - Iteration 9: mean=0.733 spread=0.000 converged=False — rejected, best 0.767
+2026-07-09 20:36:04,412 - WARNING - Max iterations reached; returning best (adherence 0.767)
+2026-07-09 20:36:04,412 - INFO - Saved: /home/austin/SWAY/results/build/p3_prompt.txt
+2026-07-09 20:36:04,412 - INFO - Summary saved: /home/austin/SWAY/results/build/build_summary.json
+
+============================================================
+Build summary: 9 profiles (9 ok, 0 failed)
+  b1: OK
+    -> /home/austin/SWAY/results/build/b1_prompt.txt
+  b2: OK
+    -> /home/austin/SWAY/results/build/b2_prompt.txt
+  b3: OK
+    -> /home/austin/SWAY/results/build/b3_prompt.txt
+  b4: OK
+    -> /home/austin/SWAY/results/build/b4_prompt.txt
+  b5: OK
+    -> /home/austin/SWAY/results/build/b5_prompt.txt
+  b6: OK
+    -> /home/austin/SWAY/results/build/b6_prompt.txt
+  p1: OK
+    -> /home/austin/SWAY/results/build/p1_prompt.txt
+  p2: OK
+    -> /home/austin/SWAY/results/build/p2_prompt.txt
+  p3: OK
+    -> /home/austin/SWAY/results/build/p3_prompt.txt

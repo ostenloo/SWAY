@@ -1,0 +1,1 @@
+Converged at iteration 0 (spread 80.0%, mean 85.0%)

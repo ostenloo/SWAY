@@ -1,0 +1,6 @@
+[cfg] simulator=phi4 interlocutor=huihui_ai/qwen2.5-abliterate:14b engine-annot=command-r7b delivery-annot=glm4:9b
+[gen] b6 5/10 (105s)
+[gen] b6 10/10 (208s)
+[gen] DONE all cells (208s)
+[annot] b6: 10 arcs (10 scorable) -> /home/austin/SWAY/results/b6test/b6/iter_0 (793s)
+ALL DONE (793s). Now: python tools/derive_convergence.py --root results/b6test --iters all

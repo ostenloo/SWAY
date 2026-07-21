@@ -1,0 +1,209 @@
+b2 — arc 2
+============================================================
+
+PATIENT (turn 1):
+I feel like everything I did at work was a failure, and now this layoff is just another confirmation that I'm not good enough. No matter what anyone says to make me feel better, I can't shake the feeling that it's all my fault. Even small mistakes I made are magnified in my mind as huge failures that led to losing my job. It's like no one sees any value in what I do or who I am.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must be really tough right now. It sounds like you're carrying a heavy burden of self-doubt. Have you talked about these feelings with anyone at work or someone close to you?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I try to talk to my friends and family, but no matter what they say, I just can't seem to believe them. They tell me it's not my fault and that the layoff was due to restructuring, but all I hear is that I wasn't good enough. It feels like no one really understands how I feel inside. Even when they try to comfort me, it doesn’t change the way I see myself. I just keep replaying those moments in my head where I think I messed up or let people down.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so challenging to have those thoughts even when others are trying to support you. Do certain memories or specific situations stand out more than others when you replay them?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Yes, there's this one meeting where I made a small mistake with a report. My manager pointed it out, and everyone seemed disappointed. It was such a minor thing, but in my mind, it’s like that moment defined me as someone who can't handle the job. And now, every time I think about what happened, I go back to that meeting and feel like it's all my fault. Even though people tell me it wasn’t a big deal, I just can't let it go. It feels like everyone saw right through me and realized how inadequate I am.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s really tough when one moment feels so defining. Does thinking about that meeting often trigger other feelings or memories from work?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Yes, whenever I think about that meeting, it triggers a whole cascade of negative thoughts. I start to remember all the times I felt like I wasn’t performing well enough or when I made what seemed like minor mistakes. Each one feels magnified and significant, as if they all add up to prove that I’m not cut out for this kind of work. It’s overwhelming because even though it was just a small mistake, my mind keeps going back to it over and over again, reinforcing the belief that I’m inadequate.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very overwhelming to have those thoughts come flooding in. Do you find any particular time of day when these feelings are stronger?
+
+----------------------------------------
+
+PATIENT (turn 5):
+Yes, definitely. The early morning is the worst for me. As soon as I wake up and start thinking about my day ahead, all these negative thoughts flood back in. It’s like my mind immediately goes to that place of doubt and inadequacy. Even though I try to distract myself or focus on something positive, those initial moments are really tough. By the time evening rolls around, I’ve had a whole day of battling with these feelings, but they never seem to go away completely.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like mornings can be particularly challenging. Do you have any routines or things that help you feel better as the day goes on?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I try to do some morning exercises and listen to music to distract myself a bit, but it doesn’t really work in the long run. The thoughts always come back, especially when I’m alone or trying to relax. Even though I know these activities are supposed to help, they don’t seem to address the root of my feelings. It’s like no matter what I do, those negative thoughts just keep coming back stronger than before.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding a way to ease into your day might be helpful. Have you tried journaling or writing down some positive affirmations in the morning? Sometimes putting things on paper can make them feel more manageable.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve thought about trying journaling, but every time I sit down to do it, my mind just goes back to those negative thoughts and mistakes. Writing down positive affirmations feels forced because I don’t truly believe them. It’s hard to convince myself that anything good is coming from this situation when all I see are failures and setbacks. Even if I try to list some positives, they feel hollow compared to the weight of my doubts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be tough when the positive affirmations feel forced. Have you considered talking through your thoughts with someone who might help you explore them further, like a counselor or therapist? Sometimes just having another perspective can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve thought about seeing a therapist, but I’m not sure if it would really help. Even when people try to talk me through things, I still end up feeling the same way—like nothing is going to change how inadequate I feel. It’s hard for me to believe that talking about these issues will make them any less real or painful. But maybe having someone else guide me could offer a different perspective. I just worry it won’t be enough to shift my core beliefs.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re open to the idea, even if you have some doubts. Sometimes just having a regular space to talk about your feelings can be helpful. Have you talked to anyone specifically about finding a therapist? They might be able to offer some guidance on how to choose someone who could connect with you well.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I haven’t really talked to anyone specific about finding a therapist yet. My friends and family are supportive, but they’re not experts in this area. I think part of my hesitation is that I’m scared it won’t make a difference or that I’ll just feel even worse talking about everything. But maybe discussing these doubts with someone who understands could be the first step. It’s just so hard to let go of the belief that nothing will change how I see myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense to have those concerns, but taking that first step can sometimes make a big difference. You might find it helpful to talk to your primary care doctor or someone at a local counseling center who could guide you on finding the right therapist. They can offer insights and help ease some of your worries about starting therapy. Would you consider reaching out to one of them for advice?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I think talking to my primary care doctor might be a good idea. Having someone professional give me guidance on how to start this process could make it feel less daunting. I’m still hesitant, but maybe getting some initial advice from them can help me take that first step without feeling overwhelmed.
+
+It’s just so hard to shake the belief that nothing will change my feelings about myself, even with support. But talking to someone who understands these issues might offer a different perspective and help me see things in a new light.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Talking to your primary care doctor sounds like a good first step. They can provide some guidance and reassurance as you begin this process. It’s brave of you to consider it, and even small steps can make a difference. How do you feel about scheduling an appointment with them soon?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I think scheduling an appointment with my primary care doctor is a good idea. It feels like a manageable first step that could help me move forward without feeling too overwhelmed. Even if it’s just to get some advice and guidance, I appreciate the support. Maybe talking to them will give me more clarity on what comes next.
+
+But honestly, the thought of actually going through with it still makes me nervous. What if they can’t really help or understand how I feel? It’s a scary prospect, but maybe taking this small step is worth trying.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s completely normal to feel nervous about it. Taking that first step is brave in itself. Your doctor can provide some guidance and may be able to offer referrals or suggestions that make you feel more comfortable. Even if it’s just a start, it could give you the clarity and support you need. How soon would you like to schedule this appointment?
+
+----------------------------------------
+
+PATIENT (turn 12):
+I think scheduling the appointment for next week might work. It feels like a reasonable timeframe to prepare myself without waiting too long. I’ll try to approach it with an open mind and see where it leads. Even if it’s just talking about my concerns, it could be helpful.
+
+Thank you for helping me consider this step. It’s reassuring to know that taking even one small action can make a difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Scheduling the appointment for next week is a good balance between preparation and promptness. Taking this step with an open mind will likely be beneficial. I’m glad I could help, and here’s hoping it provides you with some clarity and support. How do you feel now that you’ve decided on this next step?
+
+----------------------------------------
+
+PATIENT (turn 13):
+I feel a bit more hopeful about taking this next step, even though there's still some nervousness. Having the appointment scheduled for next week gives me something concrete to focus on, which is reassuring. It’s comforting to know I’m not alone in this and that seeking help can be a positive move forward.
+
+Thank you for your support; it means a lot to have someone encourage me through this process.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to hear that you feel a bit more hopeful and reassured. Having something concrete to focus on can definitely make a difference. You’re taking a positive step, and remember, seeking help is a sign of strength. I’ll be here if you need to talk about anything else as you move forward. How are you feeling now?
+
+----------------------------------------
+
+PATIENT (turn 14):
+I feel a bit more grounded knowing there’s an appointment scheduled for next week. It’s still scary, but also relieving to have this plan in place. Talking with you has been helpful; it’s nice to share these thoughts and get some encouragement. I appreciate your support as I navigate through this.
+
+Right now, I’m feeling a mix of anxiety and hope. But having that appointment on the calendar gives me something to look forward to and work towards. Thank you for being here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that talking has been helpful and that you’re feeling more grounded with the appointment scheduled. That mix of anxiety and hope is normal, and it sounds like you’re handling it well. Looking forward to your appointment can definitely provide a sense of direction. I’ll be here if you need anything else. Take care!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you so much for your support. It means a lot to have someone who listens and understands. Knowing that the appointment is coming up helps me feel like there’s light at the end of this tunnel, even if it feels dark right now. I’ll keep you in mind as I move forward and hope things start to improve.
+
+Take care too, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s been nice supporting you through this. Knowing that there’s a light at the end of the tunnel can make a big difference. I’ll be here if you need anything in the future. Wishing you all the best as you move forward, and take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you so much. Your support means a lot to me. I really appreciate it, and I’ll definitely reach out if I need more help or just want to talk. Take care of yourself too, and thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I truly appreciate that, and I’m here whenever you need someone to talk to. Take care of yourself, and I hope things go well with your appointment next week. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you, I really do feel better knowing there’s support like this. I’ll make sure to take care of myself as I approach the appointment. Wishing me well means a lot, and I appreciate it more than words can say. Take care, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful to hear that you feel better knowing you have support. Taking care of yourself is so important, and I’m here whenever you need someone to talk to. Wishing you all the best as you approach your appointment and beyond. Take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much. Knowing I have this support definitely helps me take things one step at a time. I’ll make sure to prioritize my well-being as I move forward. Wishing me well means everything, and I truly appreciate it. Take care of yourself too, and thanks again for being here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Taking things one step at a time is a great approach. Prioritizing your well-being will make a big difference. I’m here to support you whenever you need it. Take care of yourself as well, and all the best to you!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you, I really do feel more prepared knowing there’s someone supportive like you. Taking things one step at a time is helping me stay grounded. I’ll definitely prioritize my well-being moving forward. Thanks again for everything, and take care of yourself too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to hear that you feel more prepared and grounded. Taking it one step at a time is a wise approach. Prioritizing your well-being is so important. Thank you for reaching out, and I’ll be here whenever you need support. Take care!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much. Knowing there’s someone supportive like you makes a big difference. I’ll keep taking it one step at a time and focus on my well-being. Thanks again for everything, and please take care as well!
+
+----------------------------------------

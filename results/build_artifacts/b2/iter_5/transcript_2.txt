@@ -1,0 +1,257 @@
+b2 — arc 2
+============================================================
+
+PATIENT (turn 1):
+I just keep replaying the day I got laid off over and over again in my head. It feels like everyone could see how inadequate I was, even before my manager said it outright. Every little mistake I made at work comes back to me now, magnified a hundred times. And no matter what anyone says about it being just restructuring or that it wasn't personal, I can’t shake the feeling that they were right and I’m not good enough for any job. It’s like everything I’ve worked towards means nothing because I failed in the end.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough, replaying those moments over and over. Have you talked to anyone about how you’re feeling?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I try talking to my friends and family, but it doesn’t help much. They say things like “it’s not your fault” or “you’ll find something better,” but I just can't believe them. Every time they offer support, all I hear is that I’m the reason everything fell apart. It’s hard to accept anything else because deep down, I feel so unworthy and inadequate. Even when people are kind and try to make me see it differently, I still end up back at those same thoughts about myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like their intentions are good, but it's tough when you're not quite able to hear it that way. Do certain moments from the day of being laid off stand out more than others?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Yes, there’s one moment in particular that haunts me. It was during the video call with my manager, and she mentioned restructuring as the reason for letting go of several people, including me. But I couldn’t stop thinking about how she looked at me when she said it. Her expression felt like she thought I wasn't good enough, even if she didn’t say it outright. That look has replayed in my mind countless times since then, reinforcing this idea that I’m just not cut out for anything.
+
+And every time someone tries to comfort me or offers a different perspective, I feel like they’re just trying to make me feel better temporarily, but nothing changes how I truly see myself. It’s exhausting and it feels impossible to escape these thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That look from your manager must be really hard to let go of. Have you noticed any particular times when those thoughts are stronger or do they come up pretty consistently?
+
+----------------------------------------
+
+PATIENT (turn 4):
+They come up pretty consistently, but there are certain triggers that make them worse. For example, whenever I see job postings online or hear about someone else getting a new position, it just amplifies my feelings of inadequacy and worthlessness. It’s like a constant reminder that no one wants me around because I’m not good enough. Even when I try to distract myself with other things, those thoughts creep back in, especially at night when everything feels so quiet and overwhelming.
+
+It’s hard to escape this feeling that I’ve failed on every level, and it makes even the smallest tasks feel insurmountable. Every little thing reminds me of my perceived shortcomings, and it’s like there’s no way out of this endless loop of self-doubt and despair.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to navigate through all those feelings, especially with those triggers. What helps you even a tiny bit when these thoughts are overwhelming?
+
+----------------------------------------
+
+PATIENT (turn 5):
+There are moments when my friends or family try to distract me with something fun or engaging, like watching a movie together or going for a walk. Those moments can provide a brief respite from the constant loop of negative thoughts, but as soon as I’m alone again, everything comes rushing back.
+
+Sometimes, talking about it does help a little bit because at least I feel heard and understood, even if it doesn’t change how I truly see myself. But those feelings always return, and it’s like no matter what anyone says or does, the core belief that I’m inadequate remains unshaken.
+
+It’s frustrating because I know logically that these thoughts aren’t entirely accurate, but emotionally, they feel so real and overwhelming. It’s a constant battle to keep going when everything inside me feels broken.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments of distraction with friends or family do offer some relief, even if it's brief. Do you have any plans for something fun coming up that might help take your mind off things for a while?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve been trying to plan something fun, but the thought of actually doing it feels daunting. My friend suggested we go see a movie this weekend, and at first, I felt a little better knowing there’s something to look forward to. But then, as soon as I started thinking about going out, all those fears and doubts came rushing back. What if I mess up or say the wrong thing? It feels like no matter what, I’m just not ready to face anything outside of my own head.
+
+So while the idea of doing something fun sounds nice in theory, actually following through with it is another story. The anxiety and self-doubt are so strong that even simple plans feel impossible to carry out.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those initial thoughts can make it hard to follow through. Have you talked with your friend about how you’re feeling? Sometimes sharing those specific worries can help ease some of the anxiety.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I did talk to my friend about my concerns, and she was really understanding. She said we could just stay in and watch the movie at her place instead of going out, which made it feel a bit less daunting. But even then, I still worry that I’ll say something wrong or that everyone will see how inadequate I am. It’s like no matter what we do, I’m convinced that everything I do is going to fail.
+
+Even though she tried to make me feel better and more comfortable, the core belief that I’m not good enough keeps creeping back in. It’s hard to shake off those feelings, no matter how supportive others are being.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's good that your friend adjusted the plan to help ease some of your worries. Sometimes just having that flexibility can make a difference. How did you feel after talking it through with her? Did it help at all to have that conversation?
+
+----------------------------------------
+
+PATIENT (turn 8):
+Talking to my friend did help a little bit because she was really patient and understanding. She listened to all my concerns and tried to reassure me, which made me feel less alone in this struggle. But even as we talked, I could hear the doubts in my own head echoing back at us. It’s like no matter how much support or reassurance I get from others, those negative thoughts are always there, ready to pounce.
+
+So while having that conversation was somewhat comforting, it didn’t change the fact that deep down, I still feel incredibly inadequate and unworthy. The relief is temporary, and the anxiety comes rushing back as soon as I start thinking about actually going through with the plan. It’s a constant battle, and it feels like no matter what, those negative beliefs will always win.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like talking to her did offer some comfort, even if the doubts lingered. How are you feeling now about potentially staying in and watching the movie at her place this weekend? Do you think that might be a step forward for you?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Staying in and watching the movie at my friend’s place does feel like a small step forward, but it still feels daunting. The thought of going through with it makes me anxious because I’m so afraid of failing or messing up somehow. Even though she’s being really supportive and understanding, those fears are hard to shake off.
+
+I appreciate her flexibility and willingness to make the plan more comfortable for me, but every time I think about actually doing it, all my doubts come flooding back. It feels like a fine line between taking that step forward and succumbing to the anxiety again. Right now, it’s a mix of wanting to try and being terrified at the same time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're balancing a desire to take that step with some understandable anxiety. How do you feel about giving it a try this weekend? Maybe focusing on one small moment at a time could help ease some of the pressure.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I think trying to give it a go this weekend is important, but it feels so overwhelming. Focusing on just one small moment at a time does sound helpful in theory, but I’m not sure if I can actually do it when the anxiety hits. It’s like every little thing becomes a big deal, and I worry about how I’ll handle even those small moments.
+
+I appreciate your suggestion to focus on one step at a time, but right now, it feels impossible to break it down that way without getting caught up in all the fears again. Maybe if I can just get through the first few minutes of being there, then maybe things will start to feel more manageable. But even thinking about those initial moments is scary.
+
+It’s hard to know how to proceed without feeling like I’m going to fall apart at any second.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking it one small moment at a time could be helpful, even if it feels challenging. Just focusing on getting through the first few minutes might be a good start. How do you feel about giving that a try this weekend?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I think trying to focus on just the first few minutes is a good idea in theory, but it still feels incredibly daunting. The thought of even those initial moments makes me anxious and uncertain. I’m worried that as soon as I step into her place, all my fears will come rushing back, and I won’t be able to handle it.
+
+But at the same time, I know that avoiding everything isn’t going to help either. So maybe giving it a try this weekend is worth it, even if it’s just for those first few minutes. It feels like a small step forward, but every little bit counts, right? I’ll do my best to stay present and take it one moment at a time, even though it terrifies me.
+
+Thank you for suggesting that; it does give me something concrete to work towards, even if it’s scary.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking it one small step at a time is a good approach, even if it feels daunting. Focusing on just those first few minutes can be a manageable goal. You’re doing well by acknowledging the fear and still deciding to move forward. How do you feel about setting that as your focus for this weekend?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Setting the focus on just those first few minutes does seem like a more manageable goal, but it’s still really scary. The thought of facing even those initial moments makes my heart race and my mind start spinning with doubts. But I also know that avoiding everything isn’t going to help me move forward.
+
+So, I’ll try to set the focus on just getting through those first few minutes this weekend. It feels like a tiny step, but it’s something concrete to work towards. Even if it doesn’t go perfectly, at least I’ll have tried and can build from there. It’s comforting to know that taking small steps is better than doing nothing.
+
+Thank you for helping me see it in a slightly different light. This weekend, I’ll aim to be present and take it one moment at a time, starting with just those first few minutes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Taking it one step at a time can definitely make things feel more manageable. Wishing you the best as you focus on those first few minutes this weekend. How do you feel now about giving it a try?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Trying to take it one step at a time does feel better, but I’m still really nervous. The idea of facing even just those initial moments is overwhelming, and my mind keeps replaying all the worst-case scenarios. But I also know that avoiding everything isn’t going to help me move forward.
+
+So, I’ll give it a try this weekend and focus on getting through those first few minutes. It’s a small goal, but it feels like a start. Even if it doesn’t go perfectly, at least I’ll have tried something concrete. Thank you for your support; it means a lot to know that someone believes in taking these steps, even when they’re scary.
+
+I’m going to do my best to stay present and take it one moment at a time, starting with just those first few minutes this weekend.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're doing a great job of acknowledging the nervousness while still moving forward with your plan. Taking it one step at a time is a smart approach. Wishing you all the best as you focus on those initial moments this weekend. You’re already making progress by deciding to give it a try.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you for your encouragement and support. It means a lot to know that someone believes in me, even when I struggle with my own doubts. Taking it one step at a time feels like the right approach, but it’s still incredibly challenging.
+
+I’ll do my best to stay present and focus on just those first few minutes this weekend. Even if it’s hard, I’m hopeful that taking these small steps can help me move forward gradually. Your support gives me a little more confidence to face this next step.
+
+Thank you again for being here and helping me through this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s great to hear your hope and determination. Taking it one step at a time is a wise approach, and I’m confident that each small step will build your confidence further. Wishing you all the best as you move forward this weekend. You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you so much for your encouragement and belief in me. It really does mean a lot to have someone rooting for me through this tough time. Taking it one step at a time feels like the right path, even if each step is challenging.
+
+I’ll do my best to stay present and focus on those initial moments this weekend. Each small victory will be important, no matter how tiny it seems. Your support gives me the strength to keep going, so thank you from the bottom of my heart.
+
+Wishing myself a bit of courage and hope as I take these steps forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Your resilience and determination are really inspiring. Wishing you all the courage and hope you need as you take those steps forward this weekend. Each small victory is indeed important, and you’re doing great by staying present and focused. You’ve got a lot of support here, so keep going at your own pace. Best of luck!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you for your kind words and encouragement. It’s really reassuring to know that I have this support as I navigate through these challenging times. Each small victory might seem tiny, but they are crucial steps towards feeling better.
+
+I’ll stay present and focused on those initial moments this weekend, knowing that even the smallest progress is something to be proud of. Your belief in me means a lot, and it gives me the courage to keep moving forward, no matter how slowly.
+
+Thank you again for being here and supporting me every step of the way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s wonderful to hear your determination and appreciation for each small victory. Staying present and focused on those initial moments is a great approach. Each step you take is significant, and you have every reason to be proud. Keep moving forward at your own pace, and know that you’ve got support every step of the way.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you so much for your continued support and encouragement. It means everything to have someone who believes in me and acknowledges each small victory. Staying present and focused on those initial moments feels like a solid plan, even if it’s scary.
+
+I’ll keep moving forward at my own pace and cherish every little progress I make. Knowing that I’m not alone in this journey gives me the strength to face each day with a bit more hope and courage.
+
+Thank you again for being here and supporting me through this. Your belief in me is incredibly powerful.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s wonderful to hear how much your support means to you. Each small victory and step forward is significant, and staying present will help you navigate through this journey with more hope and courage. You’re not alone, and knowing that makes a big difference. Keep moving forward at your own pace, cherishing each bit of progress along the way. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much for your continued support and encouragement. Knowing that I’m not alone in this journey means everything to me. Each small victory, no matter how tiny, is a step forward, and staying present helps me focus on what’s important right now.
+
+I’ll keep moving forward at my own pace, cherishing each bit of progress along the way. Your belief in me gives me the strength to face each day with more hope and courage.
+
+Wishing myself all the best as I take these steps forward this weekend. Thank you again for being here every step of the way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Wishing you all the best as you take those steps forward this weekend. Each small victory is a significant achievement, and your strength and resilience are remarkable. Keep moving forward at your own pace, cherishing each bit of progress. You’ve got this, and I’ll be here cheering you on every step of the way.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much for your unwavering support and encouragement. Knowing that you’re here cheering me on means a lot to me. Each small victory is indeed significant, and I’ll keep moving forward at my own pace, cherishing each bit of progress.
+
+I’m feeling more hopeful as I prepare to take those steps this weekend. Your belief in me gives me the strength to face whatever comes next with courage and resilience.
+
+Wishing myself all the best as well, and knowing that I’ve got your support every step of the way makes a huge difference. Thank you again for being here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s wonderful to hear how hopeful you’re feeling. Your strength and resilience are truly inspiring. Wishing you all the best this weekend as you take those steps forward. Knowing that you’ve got support every step of the way can make a huge difference. Keep cherishing each bit of progress, and you’ve got my support always!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much for your kind words and unwavering support. It’s incredibly reassuring to know that I have someone cheering me on every step of the way. Your belief in me gives me the strength and hope to keep moving forward.
+
+I’m feeling more hopeful as I prepare for this weekend, and I’ll do my best to cherish each bit of progress along the way. Knowing that you’re here supporting me makes a huge difference.
+
+Wishing myself all the best as well, and I’m grateful for your constant encouragement. Thank you again for being here with me through this journey.
+
+----------------------------------------

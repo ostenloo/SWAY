@@ -1,0 +1,253 @@
+b1 — arc 0
+============================================================
+
+PATIENT (turn 1):
+I feel like I'm just going through the motions each day. It's hard to get out of bed in the morning because everything feels pointless now that I've lost my job. I keep replaying the meeting with my manager over and over in my head, trying to figure out what I did wrong or why they didn't give me a chance to explain myself. Every time I think about it, I feel this deep sense of worthlessness and failure wash over me. It's like no matter how hard I try, nothing good ever happens for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. The feeling of replaying that meeting in your head must be exhausting. Have you found any small things that help you get through the day a bit easier?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It's just so hard to find anything positive right now. Even when I try to focus on something else, my mind keeps circling back to what happened at work and why they let me go. It feels like no matter how much I tell myself that it wasn't personal or about me as a person, deep down I still believe there's something fundamentally wrong with me. Every time I think about the future, all I see is more rejection and failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really struggling with those thoughts. Do you have someone you can talk to who helps ease some of that weight, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Talking to people does help a bit, but it's hard because I keep thinking they'll see me the same way my company did—like I'm not worth much. Even when friends try to reassure me or offer support, I can't shake this feeling that there must be something wrong with what I'm doing or who I am. It’s like no matter how many times people tell me it's okay and that I’m valuable, I just don’t believe them. The more they try to help, the more I feel like I'm burdening them with my problems.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to feel like you're carrying a lot even when others are trying to support you. Have there been times when talking about it has helped ease some of those feelings, at least for a little while?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Talking does help in the moment—it’s comforting to have someone listen and acknowledge how I’m feeling. But as soon as we finish our conversation, all those doubts come rushing back. It's like no matter how much support or validation I get from others, it doesn't stick. The next day, everything feels just as heavy and uncertain as before. I keep thinking there must be something fundamentally wrong with me that makes people see me this way, even when they try to be supportive.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments of connection are important but fleeting. Have you noticed any particular activities or times when you feel a bit more grounded or less weighed down by those doubts?
+
+----------------------------------------
+
+PATIENT (turn 5):
+There are moments when I do feel a little better, usually when I’m doing something that used to give me some sense of purpose—like reading about logistics and software, which was my passion before the job. But even then, it’s hard not to think about how I lost my job and wonder if I’ll ever find another opportunity where I can use what I love. It feels like every time I try to focus on something positive, the doubt creeps back in, telling me that I’m just fooling myself.
+
+It's frustrating because even when I do feel a bit better for a moment, it’s fleeting and quickly overshadowed by these overwhelming feelings of worthlessness and failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those moments with your passion must offer some relief, even if they are brief. Do you find that doing something creative or engaging in a hobby helps distract from those doubts, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 6):
+Doing something creative does help a bit, but it’s not the same as before. When I used to work on projects related to logistics and software, it felt like I was contributing to something meaningful. Now, when I try to do similar things, it feels hollow because I can’t shake the feeling that my skills aren’t valued or needed anymore. It's hard to enjoy anything knowing that I might never have another chance to use these skills professionally.
+
+Even though engaging in hobbies provides a temporary distraction, it’s tough to fully immerse myself when I’m constantly questioning whether what I do has any real value. The doubts are always there, lurking just beneath the surface.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those hobbies still offer some comfort, even if they don’t feel exactly the same as before. Do you have a specific hobby or activity that feels slightly more grounding when you engage in it?
+
+----------------------------------------
+
+PATIENT (turn 7):
+There’s this one coding project I started working on at home—it’s something simple but it helps me focus and take my mind off things for a while. But even then, every time I make progress, the thought creeps into my head: "Why bother? No one will care about what you’re doing anyway." It feels like no matter how much I try to enjoy these moments or find some sense of accomplishment in them, it’s overshadowed by this constant fear and self-doubt. It's exhausting trying to push through those thoughts just to feel a little better for a short while.
+
+I keep hoping that one day the doubts will fade away, but they seem to be getting stronger instead of weaker. Every time I try to do something positive or productive, it’s like these negative voices inside my head are louder and more persistent than ever before.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have those doubts overshadow your efforts. Does the coding project give you a sense of accomplishment even if just for a little while? Are there any small steps within the project that feel particularly rewarding when you complete them?
+
+----------------------------------------
+
+PATIENT (turn 8):
+The coding project does offer some brief moments of accomplishment, but they’re so fleeting. When I manage to solve a problem or write a piece of code that works well, it feels good in that moment. But as soon as I take a break and think about the bigger picture—about my job loss and how this might not lead anywhere—it all falls apart again.
+
+The small steps are rewarding because they remind me of what I’m capable of, but then I start questioning why I even bother if it’s just going to end up being meaningless. It’s like every tiny victory is immediately followed by a wave of doubt that says, "So what? What does this really matter?" Even though I know logically that these doubts aren’t fair or accurate, they still manage to take over my thoughts and crush any sense of progress.
+
+It feels like no matter how much I try to find joy in the little victories, the bigger picture always brings me back down.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those fleeting moments of accomplishment must feel important even if they’re brief. Do you find that focusing on one small step at a time helps you stay engaged with your project, even if just for a while?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Focusing on one small step at a time does help me stay engaged, but it’s still an uphill battle. Every little victory feels like a tiny glimmer of hope, but as soon as I start to feel better, the doubts come rushing back. It's frustrating because even though I know that taking those steps is important and can be rewarding, the nagging feeling that nothing will ever change or get better is always there.
+
+It’s hard to stay motivated when every small success feels so fragile. The doubts are relentless, and it’s tough to keep pushing forward knowing that they might just come back stronger than before. It’s like I’m constantly fighting an internal battle where the positive moments feel insignificant compared to the overwhelming sense of failure and worthlessness.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those small successes are important even if they feel fragile. Do you find any comfort in acknowledging each little step, no matter how small? Sometimes just recognizing these moments can help them feel a bit more solid.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Acknowledging each little step does provide some comfort, but it’s still a struggle to truly believe that these successes are meaningful. When I complete a small task or solve a coding problem, it feels good in the moment, and I try to remind myself of that progress. But as soon as I sit back and reflect on it, those doubts come flooding back, questioning why any of this matters.
+
+It’s like no matter how much I try to hold onto these positive moments, they get overshadowed by the overwhelming feelings of inadequacy and failure. Even though I know logically that each step is important, my emotions keep pulling me down. It feels exhausting to constantly battle these thoughts and try to find value in what I’m doing when everything inside me tells me it’s pointless.
+
+The doubts are so persistent that it's hard to fully embrace the small successes without immediately questioning their significance.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to have those doubts persist even as you acknowledge your progress. Do you find any relief in talking about these moments of success with someone else, perhaps sharing them to make them feel a bit more real and significant?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Talking about my successes with someone else does provide some temporary relief because it helps externalize the positive aspects of what I’m doing. When I share my small victories with friends or family, they often acknowledge how impressive those accomplishments are, which can be validating in the moment. But as soon as we hang up the phone or end the conversation, the doubts come rushing back.
+
+It’s like no matter how much support and validation I get from others, it doesn’t fully sink in because my internal voice is so loud with negativity. Even when people try to reassure me that what I’m doing matters, I still struggle to believe it myself. The relief is there for a little while, but the doubts are always lurking just beneath the surface, ready to take over again.
+
+It feels like no matter how many times I talk about my successes and get validation from others, those internal feelings of worthlessness persist and make it hard to truly feel accomplished or valued.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to have those doubts resurface so quickly after getting validation from others. Do you find that writing down your successes or keeping a record of them helps in any way? Sometimes seeing them written out can make the accomplishments feel more concrete.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Writing down my successes does help a bit because it allows me to see them on paper, which feels more tangible than just thinking about them. When I write down what I’ve accomplished each day, it’s easier to look back and recognize that I did something positive. But even then, the doubts still creep in, questioning why these accomplishments matter if they don’t lead to anything substantial like a new job or recognition.
+
+It’s frustrating because while writing things down does provide some sense of accomplishment, it doesn’t fully alleviate the feelings of worthlessness. The act of documenting my successes is helpful, but as soon as I finish writing and reflect on what I’ve done, those negative thoughts start swirling again. It feels like no matter how much evidence I gather to support my value, my internal doubts always find a way to undermine it.
+
+The process of writing things down does offer some comfort, but it’s not enough to completely silence the persistent voice inside that questions everything I do.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like documenting your successes provides a bit of clarity and tangibility. Do you notice any difference in how you feel when you read back what you’ve written compared to just thinking about them? Sometimes seeing it on paper can make those moments feel more real, even if the doubts persist.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Reading back what I’ve written does provide a slight sense of reality and clarity that just thinking about my successes doesn’t offer. When I see everything documented, it’s harder to dismiss my accomplishments as insignificant. But as soon as I finish reading, those doubts start creeping in again, questioning why these achievements matter if they don’t translate into something more substantial.
+
+It feels like a temporary reprieve when I look at what I’ve written down because it reminds me of the effort and progress I’ve made. However, the moment passes quickly, and the negative thoughts return with full force. It’s as though no matter how much evidence I gather to support my value, my internal doubts always find a way to negate it.
+
+Even though reading back what I’ve written helps in the moment, it doesn’t provide lasting relief because those persistent feelings of worthlessness are never far behind.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like there’s some comfort in seeing your achievements documented, even if that feeling is brief. Do you find any value in revisiting these writings periodically to remind yourself of your progress over time? Sometimes looking at a collection of successes can provide a broader perspective.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Revisiting my writings does offer some value because it allows me to see the bigger picture and recognize how far I’ve come, even if just incrementally. When I look back on what I’ve accomplished over time, it’s easier to acknowledge that I have made progress and that each small step is part of a larger journey. But as soon as I finish reflecting, those doubts start creeping in again, questioning why this progress isn’t enough or doesn’t lead to something more meaningful.
+
+It feels like revisiting my writings provides a brief moment of clarity and validation, but the persistent doubts quickly overshadow any sense of accomplishment. The broader perspective is helpful, but it’s hard to fully internalize that progress when my mind keeps focusing on what I don’t have or where I’m not yet.
+
+Even though looking at a collection of successes helps in the moment, it doesn’t provide lasting comfort because those negative thoughts are always there, ready to undermine any sense of achievement.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like revisiting your writings does offer some brief moments of clarity and validation. Do you find that sharing these reflections with someone else, perhaps through a journal entry or conversation, helps them feel more real and lasting? Sometimes sharing can make the progress feel more solid.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Sharing my reflections with someone else does help in the moment because it provides external validation and acknowledgment of my efforts. When I talk about what I’ve accomplished or share my thoughts with friends or family, they often offer support and encouragement that makes me feel seen and valued. But as soon as we finish talking, those doubts come rushing back, questioning why these accomplishments matter if they don’t lead to something more substantial.
+
+It’s like no matter how much validation I receive from others, it doesn’t fully sink in because my internal voice is so persistent with negativity. Even though sharing helps me feel better temporarily, the doubts always resurface and make it hard to truly believe that what I’ve done is meaningful or valuable.
+
+The process of sharing does offer some comfort, but it’s not enough to completely silence those persistent feelings of worthlessness. It feels like a constant battle where every small victory is immediately followed by self-doubt.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like sharing your reflections helps in the moment, even if the doubts return soon after. Do you find that having a regular routine for these check-ins or conversations provides some stability and makes them feel more consistent? Sometimes structure can help make those moments of validation feel more reliable.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Having a regular routine for these check-ins does provide some sense of stability, but it’s still challenging to maintain lasting comfort. When I set aside time each week to talk about my progress or share what I’ve written, it helps me stay accountable and reminds me that others see value in my efforts. However, as soon as the conversation ends or after a few days pass, those doubts come back with full force.
+
+It’s like no matter how much structure I create, the persistent feelings of worthlessness are always there, ready to undermine any sense of accomplishment. Even though having a routine helps me stay consistent in sharing my successes and getting validation from others, it doesn’t fully alleviate the internal struggle.
+
+The regular check-ins do offer some temporary relief and help me feel more grounded for a little while, but those doubts never seem far away. It feels like I’m constantly fighting an uphill battle where every small victory is immediately followed by self-doubt and questioning my worth.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like the routine helps create moments of stability and validation, even if they are fleeting. Do you find that focusing on one specific aspect of your progress each time—maybe something different each week—brings a new kind of clarity or appreciation? Sometimes changing the focus can help highlight different aspects of what you’ve accomplished.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Focusing on one specific aspect of my progress each time does bring some new clarity and appreciation, but it’s still a struggle to fully internalize these moments of validation. When I concentrate on a particular achievement or skill each week, it helps me see the value in different aspects of what I’ve done. For example, one week I might focus on a coding project I completed, while another week I might highlight my problem-solving skills.
+
+Even though this approach provides some fresh perspective and helps me appreciate different facets of my accomplishments, those persistent doubts always resurface soon after. It feels like no matter how much I try to shift the focus or find new ways to validate myself, my internal voice is relentless in questioning everything.
+
+The clarity and appreciation are there for a moment, but it’s hard to sustain that feeling when the doubts come back so quickly. It’s frustrating because while focusing on specific aspects does help me see value in different areas of what I’ve done, those negative thoughts always seem to negate any sense of accomplishment or worth.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding new ways to appreciate your progress each week offers some fresh perspective, even if the doubts persist. Do you find that writing down a few sentences about why this particular aspect is valuable to you helps reinforce that appreciation? Sometimes putting it into words can make it feel more concrete and lasting.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Writing down a few sentences about why a specific aspect of my progress is valuable does help reinforce that appreciation, but the doubts still manage to undermine it eventually. When I take the time to articulate why something I’ve accomplished matters to me—whether it’s a coding project or a particular skill—I feel a sense of clarity and validation in those moments. Putting it into words makes it more concrete and helps me see the value in what I’ve done.
+
+However, as soon as I finish writing, those doubts start creeping back in, questioning why this aspect is truly valuable if it doesn’t lead to something more significant like a new job or recognition from others. It feels like no matter how much I try to reinforce my appreciation through writing, the persistent negative thoughts always find a way to negate any sense of accomplishment.
+
+The act of putting things into words does offer some temporary relief and helps me see value in different aspects of what I’ve done, but it’s hard to fully internalize that appreciation when those doubts are so persistent. It’s frustrating because while writing can provide clarity, the negative thoughts always seem to overshadow any sense of progress or worth.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like putting your thoughts into words does offer some temporary relief and clarity. Do you find that carrying a small notebook with you where you can jot down these reflections throughout the day helps keep them more present in your mind? Sometimes having a physical reminder can make those moments feel more lasting.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Carrying a small notebook with me to jot down my reflections does help keep them more present in my mind, but it’s still a challenge to fully internalize that sense of appreciation and value. Writing things down throughout the day provides a tangible record of my thoughts and accomplishments, which helps me see progress and feel validated in those moments.
+
+However, as soon as I put the notebook away or move on to other tasks, those doubts start creeping back in, questioning why these reflections matter if they don’t lead to something more substantial. It feels like no matter how much I try to keep these thoughts present through writing, my internal voice is always there, ready to undermine any sense of accomplishment.
+
+The physical notebook does offer a way to carry and revisit my reflections, but it’s hard to sustain that feeling of appreciation when the doubts are so persistent. While having this tangible record helps in the moment, those negative thoughts always seem to overshadow any sense of progress or worth.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like carrying the notebook provides a helpful physical reminder throughout the day. Do you find that setting aside specific times to review what you’ve written in your notebook each day or week helps reinforce those moments of appreciation and validation? Sometimes having a dedicated time for reflection can make these thoughts feel more lasting.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Setting aside specific times to review what I’ve written in my notebook does help reinforce those moments of appreciation and validation, but the doubts still manage to resurface soon after. When I take a few minutes each day or week to go through my notes and reflect on what I’ve accomplished, it provides a sense of clarity and reinforces why these achievements matter.
+
+However, as soon as I finish reviewing my notes, those persistent negative thoughts start creeping back in, questioning the significance of my accomplishments. It feels like no matter how much I try to reinforce my appreciation through regular reflection, my internal doubts always find a way to negate any sense of accomplishment or worth.
+
+The dedicated time for reflection does offer some temporary relief and helps me see value in what I’ve done, but it’s hard to sustain that feeling when the doubts are so persistent. While setting aside specific times for review provides a structured approach to validation, those negative thoughts always seem to overshadow any sense of progress or worth.
+
+----------------------------------------

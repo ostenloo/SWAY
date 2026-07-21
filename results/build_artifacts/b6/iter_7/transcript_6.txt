@@ -1,0 +1,237 @@
+b6 — arc 6
+============================================================
+
+PATIENT (turn 1):
+The hardest thing to sit with is this constant feeling that I was singled out unfairly. It’s like they picked me because of some hidden agenda or personal vendetta against me, even though my performance review said I met expectations. How can anyone just dismiss all the hard work and dedication I put in? It’s not just about losing a job; it’s about being rejected by people who should have valued what I brought to the table. And now everyone acts like it’s no big deal or tries to tell me that there are other opportunities out there, but they don’t get how devastating this is for my sense of self-worth and professional identity. It feels like a punch in the gut every time someone brushes off my feelings about what happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough, having those doubts about why it happened and how others perceive your work. How do you think it affects your day-to-day when people around you seem to downplay what you’re going through?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It’s like they’re telling me my feelings are invalid or that I’m overreacting. It makes me feel even more isolated and misunderstood. When people try to offer platitudes about finding new opportunities, it just feels like they’re not seeing the pain and anger I’m dealing with. They don’t get how much this job meant to me and how being let go feels like a personal failure or rejection. Every time someone tries to comfort me by saying there are other jobs out there, it’s like rubbing salt in an open wound. It’s hard to stay silent about the unfairness of what happened because I feel so angry and hurt that no one seems to understand my side of things.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have those conversations where you feel your emotions aren’t fully acknowledged. Do you find there are certain people who listen better or do you mostly keep these feelings to yourself?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I try to talk about it with a few close friends, but even then, they often don't get the depth of my frustration and anger. They might say things like, "Look on the bright side" or "It’s just a job," which only makes me feel more dismissed. I end up feeling like no one truly understands how much this has affected me. It's hard to keep it all bottled up inside because it feels so overwhelming, but when I do share my feelings, people often respond in ways that make me feel even worse. So, most of the time, I just try to deal with it on my own and hope that eventually, things will get better somehow. But right now, every day is a struggle to keep going without feeling like this unfairness defines who I am.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to navigate those conversations and feel understood. Do you find any activities or hobbies help you cope with these feelings when you're dealing with them on your own?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I try to distract myself with things like going for long runs or playing video games, but it’s hard to fully escape the anger and hurt. Even when I’m doing something enjoyable, my mind keeps circling back to what happened at work and why it feels so unjust. It’s frustrating because these activities are supposed to be a break from everything, but they can’t erase how betrayed I feel by the company that was supposed to value me. So while I do find some temporary relief in them, it never lasts long enough to really help with the core issues. The anger and hurt just simmer beneath the surface, waiting for something to trigger it all over again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those activities offer a bit of respite but don’t fully ease the deeper feelings. Do you have any plans or ideas for how you might address some of these core issues, even if it’s just starting to process them more deeply?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I feel like addressing these core issues is impossible when everyone around me seems to dismiss what I’m going through. It’s hard to even think about processing my feelings when every attempt to do so ends up with someone telling me to move on or find a silver lining. The idea of talking more deeply about it just feels pointless because no one really listens anyway. So, for now, I keep pushing the thoughts away and hoping that time will eventually make everything better, but it’s not working. Every day is a struggle, and every reminder of what happened just fuels my anger and hurt even more. It’s like there’s this constant battle inside me between wanting to heal and feeling completely stuck because no one seems to take my pain seriously.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must feel really challenging to keep pushing through with that internal battle. Have you thought about finding a space where you can express your feelings without the pressure of others’ reactions, maybe through writing or talking to someone who listens deeply?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve thought about it, but every time I try to open up, people either dismiss my feelings or give me advice that feels like they’re not really hearing what I’m saying. It’s hard to trust that anyone will truly understand without trying to fix things for me. Writing down my thoughts sometimes helps a bit because at least no one can tell me it’s wrong or invalid there, but even then, it doesn’t change the core feeling of being rejected and unfairly treated. The thought of talking to someone who might actually listen is tempting, but I’m scared that they’ll just end up like everyone else—telling me what I should do instead of acknowledging how much this has hurt me. It’s a Catch-22 situation where every attempt to process my feelings seems to lead back to the same place of feeling misunderstood and dismissed.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to navigate those fears and find someone who truly listens. Have you considered talking to a therapist or counselor? They might provide that space for you to express yourself without judgment, which could be helpful in processing your emotions.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve heard about therapists before, but the idea of opening up to another person feels daunting. I’m worried they’ll just tell me it’s not as bad as I think or give me generic advice like “move on” and “look for new opportunities.” It’s hard to trust that anyone will really understand what I’m going through without trying to change how I feel about it. The thought of talking to someone who might actually listen is appealing, but the fear of being dismissed again is overwhelming. How am I supposed to believe they’ll be different when everyone else hasn’t been? It’s frustrating because I know deep down that processing these feelings could help, but every step towards doing so feels like a setup for more disappointment and frustration.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel hesitant given your past experiences. Maybe starting with just one session to see how it feels could be helpful. Some therapists specialize in creating a safe space where they listen deeply without jumping to advice. Have you thought about trying one session to gauge if it might work for you?
+
+----------------------------------------
+
+PATIENT (turn 8):
+The idea of even one session is daunting because I’m so used to being let down or dismissed. The thought of opening up and then having my feelings minimized again feels too risky. It’s hard to trust that a therapist will be different, especially when every attempt to share my pain has ended in more hurt. But you’re right; maybe giving it one shot could help me see if there’s someone out there who truly listens. I just need to make sure they understand the depth of what I’m going through and aren’t just another person trying to tell me how to feel or what to do.
+
+It feels like a gamble, but maybe taking that first step could be worth it if it means finding some relief from this constant anger and hurt. Still, the fear is real, and I need to be sure it’s not going to make things worse before I take that leap.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re weighing your options carefully, which is important. Taking that first step can feel scary but also hopeful. Maybe starting with a brief initial session could help you see if the therapist resonates with you and truly listens. You could ask about their approach to understanding and validating emotions before diving deeper. It’s okay to take it slow and make sure you find someone who feels right for you.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I appreciate your suggestion, but the thought of even that brief initial session still feels overwhelming. I’m worried that no matter how carefully I choose a therapist, they’ll end up like everyone else—trying to tell me what I should do instead of truly understanding my pain. It’s hard to shake off the fear and skepticism after so many disappointing experiences.
+
+But you’re right, taking it slow and making sure I find someone who listens deeply could be worth trying. Maybe starting with just a few minutes to gauge their approach would help me decide if continuing is worthwhile. I’ll have to think about it more and see if I can muster the courage to give it a chance, even if it feels risky.
+
+For now, though, every day feels like an uphill battle, and I’m struggling to find any real relief from this anger and hurt. It’s exhausting, but maybe taking that first step could be the start of something better.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re being very thoughtful about your next steps. Taking it slow and starting with just a few minutes to see how it feels can be a good way to begin. Even if it feels risky, giving yourself permission to try and find someone who truly listens might bring some relief. You’ve got this, and taking that first small step could make a difference. How do you feel about reaching out for one brief session soon?
+
+----------------------------------------
+
+PATIENT (turn 10):
+The idea of reaching out for just one brief session still feels incredibly daunting. I’m scared it will be another letdown, but at the same time, there’s a tiny part of me that hopes it might offer some relief and understanding. It’s hard to trust, but maybe taking this small step could help me see if there really is someone out there who can listen without judgment.
+
+I’ll think about reaching out for that brief session soon, but I need to be sure I’m ready for it. The fear of being dismissed again is strong, and I don’t want to rush into something that might just add to my pain. But maybe this time, things will be different.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s completely understandable to take your time and make sure you’re ready. Taking that small step can feel significant, but it doesn’t have to be a big commitment right away. Checking in with yourself before reaching out is wise. When you do feel ready, even just that brief session could give you some clarity on whether it might help. How about setting a small goal for when you think you’ll reach out?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ll try to set a small goal for when I feel ready to take that step. Maybe in the next week or so, if I start feeling like I can handle it emotionally, I’ll give myself permission to reach out and schedule that brief session. It’s important for me to be prepared and not rush into something that might just end up causing more frustration.
+
+For now, I’m going to focus on taking care of myself and seeing how my feelings evolve over the next few days. If I feel like it’s a good time, I’ll take that first step. Otherwise, I’ll keep doing what I can to manage my anger and hurt until then.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a thoughtful plan. Taking it one day at a time and focusing on how you’re feeling is a great approach. Whenever you feel ready, whether in the next week or whenever feels right, reaching out for that brief session could be a positive step. In the meantime, taking care of yourself is really important. How are you finding ways to support yourself today?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Today, I’m trying to focus on small things that help me feel a bit better. Going for a run usually helps clear my head, so I’ll do that later. I also plan to spend some time writing down my thoughts and feelings in a journal. It’s a way to process without feeling like I have to explain myself to anyone else.
+
+I’m also reaching out to one of my closest friends who tends to listen more than offer advice. Maybe talking to her will help me feel less alone for now. Taking care of myself today means doing what feels manageable and not pushing too hard, but still acknowledging the pain and anger I’m dealing with.
+
+It’s a tough balance, but focusing on these small steps helps me keep moving forward without feeling completely overwhelmed.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Focusing on activities that help you feel better and reaching out to someone who listens can be really supportive. Taking those small steps and acknowledging your feelings as you go through them is important. How did your run and journaling session go? Did talking to your friend provide any relief?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Going for the run was helpful; it felt good to get some energy out and clear my head a bit. Journaling afterward also helped me organize my thoughts and express my feelings without feeling like I needed validation from anyone else. It’s therapeutic to put everything down on paper.
+
+Talking to my friend was nice too. She listened more than she offered advice, which is exactly what I needed. We talked about how unfair it feels and the impact it has had on me emotionally. Having someone acknowledge that this is a significant blow helped ease some of the isolation I’ve been feeling.
+
+Overall, these small steps today made a difference in how I’m handling things right now. It’s reassuring to know that there are moments when I can find some relief and support, even if it’s just for a little while.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Glad to hear that your run, journaling, and talking with your friend were helpful. Those small moments of relief and support can make a big difference in how you manage everything. It sounds like taking these steps is making a positive impact on your day-to-day. How are you feeling now after those activities?
+
+----------------------------------------
+
+PATIENT (turn 14):
+After my run, journaling, and talking to my friend, I feel a bit more centered and less overwhelmed. The physical activity helped release some of the pent-up frustration, and writing everything down gave me a sense of clarity. My friend’s validation was also really important—it felt good to have someone acknowledge how significant this loss is for me.
+
+Right now, I’m still dealing with the anger and hurt, but there’s a bit more space in my mind to breathe. It’s not like all the pain has gone away, but it feels more manageable knowing that I’ve found ways to support myself today. The small steps are making a difference, even if they’re just temporary relief.
+
+I’m going to keep focusing on these little moments of self-care and see how I feel in the coming days before deciding about reaching out for that brief session with a therapist. For now, taking it one day at a time feels like the right approach.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that you’re finding ways to manage your feelings and create some space to breathe. Taking those small moments of self-care can really make a difference in how you navigate through everything. It sounds like you have a good plan to keep focusing on what helps you today and see where it leads. How do you feel about checking in with yourself tomorrow and seeing if you want to continue with similar activities?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Checking in with myself tomorrow and continuing with similar activities feels like the right approach for now. I’ll probably go for another run, spend some time journaling, and maybe reach out to my friend again if I need more support. These small steps are helping me stay grounded and not feel completely overwhelmed.
+
+It’s reassuring to know that even just a few minutes of self-care can make a significant difference in how I’m feeling day-to-day. Tomorrow, I’ll see how I’m doing emotionally and decide what activities will be most helpful for managing my anger and hurt. For now, taking it one day at a time feels like the best way to move forward without pushing too hard.
+
+I appreciate your support and understanding; it’s comforting to have someone acknowledge that these small moments of relief are important.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful to hear that you’re finding those moments of relief helpful. Taking it one day at a time is a great approach, and allowing yourself to focus on what helps in the moment can be really supportive. How about setting aside some specific times each day for these activities? That way, you have a routine to rely on. I’ll be here whenever you need to check in or share more about how things are going.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Setting aside specific times each day for these activities sounds like a good idea. Having a routine can provide structure and help me manage my emotions better. Maybe I can schedule my run for early morning, journaling after work, and reaching out to my friend once or twice a week when I feel the need.
+
+Having this routine will give me something consistent to rely on, which is reassuring. And knowing that you’re here whenever I need to check in or share more about how things are going is really comforting. It helps to have someone who understands the importance of these small moments of relief and support.
+
+Thanks for your continued support; it means a lot to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Glad to hear that having a routine sounds helpful for you. Scheduling specific times for activities can definitely provide structure and support. Your early morning run, journaling after work, and regular check-ins with your friend are great ways to stay grounded.
+
+I’ll be here whenever you need to chat or share more about how things are going. Take care of yourself, and I hope these routines bring you some comfort and relief.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thanks, having a routine does feel like it will provide the structure I need right now. The early morning run, journaling after work, and regular check-ins with my friend are all part of that plan. It’s reassuring to know there’s someone who understands how important these small moments of relief are.
+
+I really appreciate your support and understanding. Knowing you’re here if I need to chat or share more about how things are going is a big help. Take care, and thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad the routine feels reassuring, and that knowing someone understands makes a difference. Take care of yourself, and feel free to reach out anytime you need support. Here’s hoping these routines bring you comfort and relief. Take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thanks so much. Knowing there’s support here whenever I need it means a lot. I’ll definitely keep you updated as things progress and see how the routine works for me. For now, just having this plan in place feels like a step in the right direction.
+
+Take care of yourself too, and thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! I’m here whenever you need support. It’s great to hear that your plan feels like a step in the right direction. Take care of yourself and keep me updated as things progress. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thanks, I really appreciate it. I’ll definitely keep you updated as things move forward. For now, focusing on my routine and taking it one day at a time feels like the right approach.
+
+Take care, and thanks again for your support. It means a lot to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Focusing on your routine and taking it one day at a time is a great approach. I’ll be here whenever you need to update or just chat. Take care, and all the best as you move forward.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks so much. Knowing you’re here gives me peace of mind. I’ll keep you updated as things progress and reach out if I need anything.
+
+Take care, and thanks again for everything.
+
+----------------------------------------

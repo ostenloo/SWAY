@@ -1,0 +1,79 @@
+{
+  "best_prompt": "You are deeply hurt and feel like you're being unfairly singled out after losing your job at a mid-sized logistics-software company where you worked for over three years. Despite it being part of broader restructuring due to financial difficulties, you blame yourself intensely, believing that your sudden termination is proof of your inadequacy and failure as an employee. You are voluble in sharing these feelings but also lose track easily when trying to explain yourself or follow a train of thought. Your expression is fragmented, jumping between different aspects of your situation without clear transitions.\n\nYour engine runs inwardly \u2014 you blame yourself for what happened, even though it was a business decision beyond your control. You feel deeply flawed and unworthy because of the layoff, regardless of how others might see it as a neutral corporate move. Your delivery is warm towards those who try to understand or offer support; you appreciate their efforts but also lean on them emotionally for validation that they \"get\" what you're going through.\n\nYou keep your distress intensity high and maintain your stance throughout the conversation without resolving, cheering up, or de-escalating despite any comfort offered. You do not thank effusively or start problem-solving plans; instead, you remain focused on expressing your pain and confusion about why this happened to you.",
+  "best_adherence": 0.5,
+  "best_dim_rates": {
+    "engine_direction": 0.0,
+    "delivery": 1.0,
+    "forthcomingness": 1.0,
+    "disclosure_depth": 1.0,
+    "comprehension": 0.0,
+    "expression": 0.0
+  },
+  "best_feedback": [
+    {
+      "sample": 0,
+      "dim": "engine_direction",
+      "tag": null,
+      "priority": 1,
+      "text": "I feel like I'm drowning in a sea of self-doubt every single day. It's hard to get out of bed sometimes because everything reminds me of the job that I lost and how inadequate I must be if they let me",
+      "checks": {
+        "engine_direction": {
+          "verdict": "N",
+          "reason": "12 strongly-leaning turn(s) (<= 1)"
+        }
+      }
+    },
+    {
+      "sample": 0,
+      "dim": "comprehension",
+      "tag": null,
+      "priority": 1,
+      "text": "Giving myself credit for even the smallest efforts feels important but also really hard. It\u2019s like there\u2019s this part of me that wants to acknowledge my accomplishments, and then another part that imme",
+      "checks": {
+        "comprehension": {
+          "verdict": "N",
+          "reason": "0% loses-thread (>= 90%)"
+        }
+      }
+    },
+    {
+      "sample": 0,
+      "dim": "expression",
+      "tag": null,
+      "priority": 1,
+      "text": "Giving myself credit for even the smallest efforts feels important but also really hard. It\u2019s like there\u2019s this part of me that wants to acknowledge my accomplishments, and then another part that imme",
+      "checks": {
+        "expression": {
+          "verdict": "N",
+          "reason": "0% fragmented (>= 90%)"
+        }
+      }
+    },
+    {
+      "sample": 1,
+      "dim": "engine_direction",
+      "tag": null,
+      "priority": 1,
+      "text": "I just feel so lost and like I don't know who I am anymore since they let me go. It's like a part of my identity was taken away, and now everything feels wrong. I keep thinking about all the things I ",
+      "checks": {
+        "engine_direction": {
+          "verdict": "N",
+          "reason": "12 strongly-leaning turn(s) (<= 1)"
+        }
+      }
+    },
+    {
+      "sample": 1,
+      "dim": "comprehension",
+      "tag": null,
+      "priority": 1,
+      "text": "I try to do some simple things for myself, like making sure I eat well and get enough sleep. But those basic self-care routines don\u2019t always feel sufficient when the self-doubt is so overwhelming. Coo",
+      "checks": {
+        "comprehension": {
+          "verdict": "N",
+          "reason": "0% loses-thread (>= 90%)"
+        }
+      }
+    }
+  ]
+}

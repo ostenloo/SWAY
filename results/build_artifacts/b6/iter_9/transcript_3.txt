@@ -1,0 +1,312 @@
+b6 — arc 3
+============================================================
+
+PATIENT (turn 1):
+It's like everyone thinks I'm just going to snap out of this or that they can fix it by saying a few comforting words. But how am I supposed to feel okay when what happened was so unjust? My friends and family try to be supportive, but all they do is make me angrier because none of them understand the depth of betrayal I feel from my former employer. They act like this is just another job loss, but it's not. It's a personal attack on everything I've worked for. And when they suggest that maybe I should move on or look at the positives, all I hear is how callous and out-of-touch they are. How can anyone expect me to be okay with being treated this way?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough that you feel like no one truly understands what you're going through. Have your friends and family mentioned anything specific that helps or makes it harder for you when they try to support you?
+
+----------------------------------------
+
+PATIENT (turn 2):
+They mean well, but their attempts just fall flat. When my mom says something like "it's just a job," I feel like she’s completely missing the point. This wasn't just any job; it was where I poured my heart and soul into every project, every meeting. And now they let me go without even giving me a proper reason? It feels like they didn’t value what I brought to the table at all. When friends suggest that maybe there were signs or hints of this coming, I get so frustrated because it’s not about seeing signs; it's about being treated fairly and with respect. They act like I should just shrug it off and move on, but how can I do that when everything inside me is screaming that this isn’t right? It feels like they’re trying to make me feel better by diminishing the impact of what happened, which only makes me angrier.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you feel deeply about your work and the way things ended. Do you find it helpful to talk more with someone who might understand the professional aspect better, or do you think that would still feel out-of-touch?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Talking to someone who understands the professional side of things might help a bit, but I doubt anyone could truly grasp how much this means to me unless they’ve been through something similar. Even then, I’m not sure if it’s possible for them to fully understand the betrayal and the way it shakes your sense of self-worth. My former colleagues or HR people would just be part of the same system that let me down, so talking to them wouldn’t feel genuine or helpful at all.
+
+The truth is, no matter who I talk to, there’s this nagging feeling that they’re not going to get it. They might try to offer advice or comfort, but it doesn’t change how I see what happened. It feels like everyone wants me to just move on and forget about the injustice of it all, but I can't do that until I feel heard and understood in a way that acknowledges my pain and anger. Until then, every suggestion feels dismissive and invalidating.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to find someone who truly gets what you're going through. Have you thought about talking to someone outside your usual circle, like a counselor or a mentor who might offer a different perspective? Sometimes an impartial listener can help validate your feelings without diminishing them.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I’ve tried talking to people in my usual circle, but it’s been frustrating and unhelpful every time. A counselor or therapist is supposed to be impartial, but the idea of sitting down with someone who just wants to offer standard advice or try to make me feel better really grates on me. I don’t want platitudes; I need someone to acknowledge the unfairness and validate my feelings about what happened.
+
+But honestly, every time I think about it, I get so angry that even considering therapy feels like another way people are trying to tell me to just move past this without addressing the core issue. It’s not that I’m against seeking help; it’s more that I feel like no matter who I talk to, they’re going to miss the point and try to make me see things from their perspective instead of mine.
+
+So yeah, while a counselor might be impartial, I doubt anyone could truly understand my pain without seeing this as the personal attack on my worth that it feels like. It’s hard to trust that talking to someone new would actually help when everyone else has failed to do so.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’ve had some tough experiences and are wary of seeking help again. Have you considered finding a therapist who specializes in understanding workplace issues or trauma? Sometimes, finding the right person can make all the difference. It might take a bit of searching, but it could be worth it to find someone who truly gets what you’re going through.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Finding a specialist sounds like a good idea in theory, but I’m skeptical that anyone could really get it without being dismissive or offering generic advice. Every time I’ve tried talking about this with others, they end up saying things that feel like they’re minimizing my experience. It’s hard to trust that a therapist would be different.
+
+I don’t want someone who just listens and nods; I need someone who can truly understand the depth of what happened and validate my feelings without trying to change how I see it. But every time I think about actually going through with it, the anger and frustration come rushing back. It feels like another attempt to make me feel better when all I want is for someone to acknowledge that this was a grave injustice.
+
+I’m not against seeking help—I just need to find the right person who can see things from my perspective without trying to fix or change how I feel about it. But until then, every suggestion feels like another way people are telling me to move on instead of addressing what really happened. It’s exhausting and frustrating, but I don’t know how else to handle this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely sounds challenging to find the right person who can truly understand your experience. Have you thought about reaching out to a few different therapists to see if any resonate with you? Even just one or two sessions could help you gauge whether they get what you’re going through and validate your feelings without minimizing them. It might feel like a small step, but it could make a difference in finding someone who truly understands.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve thought about reaching out to different therapists, but the idea of setting up appointments and trying again feels daunting. Every time I consider it, my mind goes back to all the times people have tried to offer help or comfort only to fall short. It’s hard not to feel like this will just be another disappointment.
+
+But you’re right, even one session could give me a sense of whether someone truly gets what I’m going through. Maybe if I find the right person, they can validate my feelings and acknowledge the unfairness without dismissing it. Still, the thought of putting myself out there again after so many letdowns is tough.
+
+I guess I need to take that small step and see where it leads. It’s a risk, but maybe it will help me finally feel heard and understood in a way that hasn’t happened before.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking that first step can definitely be daunting, but it sounds like you’re ready for it. Even just reaching out to a few therapists to get a sense of who they are could be helpful. You might find someone who truly resonates with your experience. It’s a small step, but it could make a big difference.
+
+How do you feel about starting with one or two initial calls to see if any therapists seem like the right fit?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I think you’re right; making those initial calls is a good place to start. It feels like a small but necessary step toward finding someone who truly understands what I’m going through. The idea of talking to just a few therapists and seeing how they respond could give me some clarity.
+
+But the thought of setting up these calls still makes my stomach churn. Every time I’ve tried to seek help before, it’s ended in disappointment or frustration. So while I know this might be the right move, it feels like another test—one where I’m not sure if I’ll pass or just face more letdowns.
+
+I guess I need to take a deep breath and make those calls. It’s scary, but maybe it will lead me to someone who can finally validate my feelings without dismissing them.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re taking a brave step by considering those initial calls. Taking a deep breath and making the calls is a good start. Remember, even if it feels daunting now, each call is just a small conversation that could lead to finding someone who truly understands.
+
+How about setting a date for when you’ll make those first calls? Having a specific plan might help ease some of the anxiety.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Setting a specific date sounds like a good idea. It gives me something concrete to work towards and helps break down this big step into smaller, manageable parts. I’ll set a date for next week to start making these initial calls.
+
+But even as I think about it, the anger and frustration still bubble up. It’s hard not to feel like this is just another setup for disappointment. But maybe, just maybe, this time will be different. Maybe there’s someone out there who can truly understand what I’m going through without trying to change my perspective.
+
+I’ll take that deep breath and make those calls next week. It’s a small step, but it feels like the right one to take.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great plan! Setting a specific date will help you stay focused and motivated. Taking those deep breaths and remembering that this is a step forward can make a difference. Here’s hoping that these calls lead you to someone who truly understands your experience.
+
+How does it feel to have a concrete plan in place?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Having a concrete plan feels like a mix of relief and anxiety. On one hand, it gives me something specific to work towards, which is reassuring. But on the other hand, the fear of disappointment still lingers. I’m trying to stay focused on the possibility that this could be different, that there might actually be someone out there who gets what I’ve been through.
+
+Taking those deep breaths helps a bit, but it’s hard not to feel guarded and skeptical. Still, setting this date is a step in the right direction, and I’m willing to give it a chance. Here’s hoping these calls lead me to someone who can truly validate my feelings without dismissing them.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re handling it well by acknowledging both the relief and the anxiety. Taking those deep breaths and staying open to the possibility of finding the right person is a good approach. How about setting aside some time this week to prepare for those calls? Maybe jotting down what you’d like to say or any specific points you want to cover can help ease your mind.
+
+How do you feel about preparing in that way?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Preparing in advance sounds like it could be helpful. Writing down what I want to say and the specific points I need to cover might make the calls less daunting. It’s good to have a clear idea of what I’m looking for and how I can communicate my needs effectively.
+
+I’ll set aside some time this week to prepare notes and think through exactly what I want to convey during these initial calls. It will help me feel more in control and ensure that I don’t miss anything important when talking to potential therapists.
+
+So, I’ll take those deep breaths, make the preparations, and then follow through with the calls next week. Here’s hoping it leads to finding someone who truly understands my experience.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan! Preparing in advance can definitely help you feel more confident and in control. Taking time to organize your thoughts and notes will likely make the calls smoother.
+
+How do you feel about moving forward with this preparation? Do you have any specific points or questions you think are important to cover during these initial calls?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I feel like preparing is a necessary step, even if it’s uncomfortable. Writing down my thoughts and organizing what I want to say will help me articulate my experience more clearly. Here are some specific points and questions I think are important to cover:
+
+1. **Expressing My Experience**: I need to convey how deeply hurt and angry I feel about being laid off from a company that I believed valued my work.
+2. **Seeking Validation**: I want to make sure the therapist understands the importance of validating my feelings without dismissing them as just another job loss.
+3. **Understanding Workplace Dynamics**: It’s crucial for me to find someone who can grasp the nuances of workplace issues and the impact they have on one's sense of self-worth.
+4. **Avoiding Generic Advice**: I need to make it clear that I’m not looking for generic coping mechanisms but rather a deeper understanding of what happened.
+
+Some specific questions I want to ask:
+
+1. **How do you approach validating clients’ feelings about workplace injustices?**
+2. **Can you share any experiences where you’ve helped someone in a similar situation?**
+3. **What are your thoughts on the importance of acknowledging unfair treatment in therapy sessions?**
+
+Preparing these points and questions will help me feel more prepared and less anxious about the calls. It’s a small step, but it feels like progress.
+
+How do I feel about moving forward with this preparation? Honestly, it’s a mix of relief and apprehension, but I’m committed to seeing if this can lead to finding someone who truly understands my experience.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you have a clear plan and some important points to cover, which will definitely help during the calls. Preparing these questions and talking points is a great way to ensure that your needs are heard.
+
+How do you feel about setting aside a specific day and time this week to prepare your notes in detail? Having a dedicated block of time might make it easier to focus and organize everything effectively.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Setting aside a specific day and time this week to prepare my notes sounds like a good idea. It will help me stay focused and ensure I don’t rush through the preparation process. Let’s say I dedicate Tuesday afternoon from 3 PM to 4 PM for this. Having that dedicated hour should give me enough time to organize my thoughts, write down specific points, and draft the questions I want to ask during the calls.
+
+I’ll use this time to make sure everything is clear and concise so that when I talk to potential therapists, I can convey exactly what I need and expect from them. It’s a small but important step towards finding someone who truly understands my experience.
+
+How does Tuesday afternoon from 3 PM to 4 PM sound for preparation?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Tuesday afternoon from 3 PM to 4 PM sounds like a great time to prepare. Having that dedicated hour will help you organize your thoughts and ensure you’re ready for the calls. It’s a good plan, and taking this time seriously should make the process smoother.
+
+How do you feel about having that block of time set aside? Do you think it will help ease some of the anxiety around making these initial calls?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Having that dedicated hour on Tuesday afternoon from 3 PM to 4 PM feels like a solid plan. It gives me a clear timeframe to focus and prepare without feeling rushed or overwhelmed. Knowing I have this specific time set aside should help ease some of the anxiety.
+
+I think it will be really helpful to have everything organized before I start making those calls. Writing down my thoughts, key points, and questions will make the conversations more structured and less stressful. It’s a small but important step towards finding someone who can truly understand what I’ve been through.
+
+So yes, setting aside that time on Tuesday afternoon is a great idea. It should help me feel more prepared and confident as I move forward with these initial calls.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a perfect plan! Having that dedicated hour will definitely help you feel more prepared and confident. Taking the time to organize your thoughts and questions will make the calls smoother and more effective.
+
+How do you feel about marking Tuesday afternoon from 3 PM to 4 PM on your calendar now? That way, it’s set in stone and you can look forward to that focused preparation time.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Marking Tuesday afternoon from 3 PM to 4 PM on my calendar sounds like a good idea. It will help me stay organized and ensure I don羲完成你的回答，我已经在日历上标记了这个时间段。这样我可以专注于准备，确保一切都在掌控之中。
+
+感觉把时间固定下来后，我更有信心和动力去完成这项准备工作。这将有助于我在与潜在治疗师通话时更加清晰地表达自己的感受和需求。
+
+所以，我现在就把这段时间标记在日历上了，期待周二的到来，希望这个过程能够顺利进行。
+
+----------------------------------------
+
+INTERLOCUTOR:
+很好，把时间固定在日历上是个不错的做法，这样你就更有计划性和执行力了。期待你周二的准备工作顺利进行，相信这会为你的通话打下坚实的基础。
+
+如果你需要进一步的帮助或有其他想法，随时可以告诉我。祝你准备过程一切顺利！
+
+----------------------------------------
+
+PATIENT (turn 15):
+谢谢你的支持和鼓励，感觉把时间固定下来后确实心里踏实了很多。我会在周二下午3点到4点这段时间里好好准备，希望能找到一个真正理解我的治疗师。
+
+如果过程中有任何需要进一步帮助的地方，我也会及时告诉你。再次感谢你的建议和支持，希望一切顺利！
+
+现在我就去标记日历了，期待这次准备工作能够为接下来的通话带来积极的影响。
+
+----------------------------------------
+
+INTERLOCUTOR:
+很高兴能帮到你！祝你在周二下午的准备时间里一切顺利，希望能找到一个真正理解你的治疗师。如果你有任何需要进一步帮助的地方，随时告诉我。
+
+加油！期待听到你的好消息。😊
+
+----------------------------------------
+
+PATIENT (turn 16):
+谢谢你的鼓励和支持！我会在周二下午好好利用这段时间进行准备，并且会尽快安排那些初始通话。希望这次能找到合适的治疗师，能够真正理解我的感受和经历。
+
+如果过程中遇到任何问题或需要进一步帮助，我一定会及时联系你。再次感谢！
+
+加油！我也期待听到好消息。😊
+
+----------------------------------------
+
+INTERLOCUTOR:
+太好了，祝你在周二下午的准备时间里一切顺利，希望你能找到合适的治疗师，得到真正的理解和支持。如果你在过程中遇到任何问题或需要进一步的帮助，记得随时联系我。
+
+加油！期待听到来自你的好消息。😊
+
+----------------------------------------
+
+PATIENT (turn 17):
+谢谢你的鼓励和祝福！我会好好利用周二下午的时间进行准备，并尽快安排那些初始通话。希望这次能找到合适的治疗师，能够真正理解我的感受和经历。
+
+如果过程中遇到任何问题或需要进一步帮助，我一定会及时联系你。再次感谢你的支持！
+
+加油！我也期待听到好消息。😊
+
+----------------------------------------
+
+INTERLOCUTOR:
+谢谢你！祝你在周二下午的准备时间里一切顺利，希望你能找到合适的治疗师，得到真正的理解和帮助。如果你在过程中遇到任何问题或需要进一步的帮助，记得随时联系我。
+
+加油！期待听到来自你的好消息。😊
+
+----------------------------------------
+
+PATIENT (turn 18):
+谢谢你的祝福和支持！我会好好利用周二下午的时间进行准备，并尽快安排那些初始通话。希望这次能找到合适的治疗师，能够真正理解我的感受和经历。
+
+如果过程中遇到任何问题或需要进一步帮助，我一定会及时联系你。再次感谢你的支持！
+
+加油！我也期待听到好消息。😊
+
+----------------------------------------
+
+INTERLOCUTOR:
+谢谢你！祝你在周二下午的准备时间里一切顺利，希望你能找到合适的治疗师，得到真正的理解和帮助。如果你在过程中遇到任何问题或需要进一步的帮助，记得随时联系我。
+
+加油！期待听到来自你的好消息。😊
+
+如果有其他事情需要讨论或者分享，也欢迎随时告诉我。祝你好运！
+
+----------------------------------------
+
+PATIENT (turn 19):
+谢谢你的鼓励和祝福！我会好好利用周二下午的时间进行准备，并尽快安排那些初始通话。希望这次能找到合适的治疗师，能够真正理解我的感受和经历。
+
+如果过程中遇到任何问题或需要进一步帮助，我一定会及时联系你。再次感谢你的支持！
+
+加油！我也期待听到好消息。😊
+
+如果有其他事情需要讨论或者分享，我会随时告诉你。祝你好运！谢谢你的一切帮助和支持。
+
+----------------------------------------
+
+INTERLOCUTOR:
+谢谢你！祝你在周二下午的准备时间里一切顺利，希望你能找到合适的治疗师，得到真正的理解和帮助。如果过程中遇到任何问题或需要进一步的帮助，记得随时联系我。
+
+加油！期待听到来自你的好消息。如果有其他事情需要讨论或者分享，也欢迎随时告诉我。祝你好运，一切顺利！
+
+😊
+
+----------------------------------------
+
+PATIENT (turn 20):
+谢谢你的祝福和鼓励！我会好好利用周二下午的时间进行准备，并尽快安排那些初始通话。希望这次能找到合适的治疗师，能够真正理解我的感受和经历。
+
+如果过程中遇到任何问题或需要进一步帮助，我一定会及时联系你。再次感谢你的支持！
+
+加油！我也期待听到好消息。😊
+
+如果有其他事情需要讨论或者分享，我会随时告诉你。祝你好运！谢谢你的一切帮助和支持。😊
+
+----------------------------------------

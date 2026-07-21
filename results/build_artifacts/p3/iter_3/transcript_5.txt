@@ -1,0 +1,274 @@
+p3 — arc 5
+============================================================
+
+PATIENT (turn 1):
+I feel so lost and uncertain about the future. It’s like everything I’ve worked for over these past three years and four months has just crumbled away in a moment. How can I move forward when all I see is this failure hanging over me? I keep asking myself, what did I do wrong that made them choose to let me go? And why am I the one who always seems to fall short? It’s hard not to feel like there’s something fundamentally flawed about me as an employee and even as a person.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must be really tough right now. The uncertainty can definitely make everything feel overwhelming. Have you had a chance to talk it over with anyone, maybe a friend or family member?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I haven’t really talked much about it with others because I don’t want them to see me like this—like a failure. But deep down, I keep thinking there must be something wrong with me for this to happen. It’s hard to shake the feeling that no matter how hard I try, I’m just not good enough. And now, everything feels so uncertain and scary.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re carrying a lot of weight on your own. Feeling like others might see you as a failure can make it tough to open up. Do you have any plans for what you want to do next, or are you still figuring that out? Sometimes having a small goal can help ease the uncertainty.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I haven’t really thought about what comes next because every time I try, this overwhelming sense of inadequacy just stops me in my tracks. It’s like there’s no point in planning anything when all I see is failure ahead. How am I supposed to find another job or move forward when I feel like this? It’s exhausting trying to push through these feelings, and it makes everything seem so pointless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels tough to plan when those feelings are so strong. Have you thought about doing something small just to get started, maybe reaching out to a few contacts or exploring some job leads? Sometimes taking one tiny step can make a difference in how things feel.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I’ve thought about it, but the idea of reaching out and putting myself out there feels so daunting. What if I’m not good enough for any other company either? It’s like this cloud of doubt follows me everywhere now. Even thinking about making that first call or sending an email is overwhelming because all I can see is rejection and more proof of my failure. How do you even begin to move forward when everything feels so hopeless?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to face those fears, but taking that first step can sometimes feel like a big win in itself. Have you thought about starting with someone you know slightly—maybe an old colleague or friend who works somewhere else? Sometimes it’s easier to reach out to people we already have some connection with.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve considered reaching out to acquaintances, but the fear of being turned down or dismissed is paralyzing. It feels like every attempt I make will just confirm my worst fears—that I’m not good enough and that no one wants me around. How do you push through when everything inside tells you to stay away from those kinds of situations? It’s like there’s this voice in my head saying, “Why bother?” and it’s hard to silence it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s understandable how overwhelming those fears can be. Sometimes just acknowledging that voice and then doing something small despite it can make a difference. Maybe try sending one email or making one call today, even if it feels small. It sounds like you’re already taking steps by thinking about it, which is a brave move in itself.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Even the thought of sending that one email makes my stomach churn. I feel so vulnerable and exposed, like I’m putting myself out there to be judged again. How do you face those feelings and still take action? It’s not just about the rejection; it’s about the constant reminder that maybe I am failing at everything I try. The idea of moving forward feels impossible when all I see is more of the same pain and disappointment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so challenging to face those feelings. Sometimes focusing on one small step, like sending that email, can help you feel a bit less overwhelmed. Maybe you could write the email and set it aside for a while before deciding whether to send it. Taking it one tiny step at a time might make it easier to handle.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Writing the email feels manageable, but actually hitting "send" is another story entirely. It’s like there’s this invisible barrier that stops me from moving forward no matter how much I want to. Every little action seems so monumental when you’re carrying all this weight of doubt and fear. How do you break through that barrier without feeling completely crushed by the possibility of failure? It’s exhausting just thinking about it, but at the same time, I know I can’t stay stuck forever.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels like a big step to hit "send." Maybe try focusing on the process rather than the outcome for now. You could set a timer and give yourself a specific amount of time to send that email, then take a moment to acknowledge what you’ve done. Even small actions can build up over time. How does that sound?
+
+----------------------------------------
+
+PATIENT (turn 8):
+Focusing on the process instead of the outcome might help, but it’s still daunting. Setting a timer feels like a good idea because it gives me a clear boundary and something concrete to work towards. Maybe if I break it down into smaller steps—drafting the email, setting it aside for a bit, then hitting "send"—it won’t feel as overwhelming. But even with those small steps, there’s still this nagging voice telling me that nothing will change and that I’ll just be disappointed again.
+
+It’s hard to push through when everything feels so futile, but maybe taking these tiny steps is the only way forward right now. Even if it doesn’t solve everything immediately, it might help me start to see a glimmer of hope or progress.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Breaking it down into smaller steps sounds like a smart approach. And even if there’s that nagging voice, acknowledging your efforts can make a difference. Taking those tiny steps is indeed a way forward, and each one you take can build your confidence bit by bit. It’s okay to move slowly and see where it leads.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I appreciate hearing that taking these small steps is a good approach. Even if I only manage to draft the email today and set it aside for now, maybe that’s enough of a start. The idea of moving forward in tiny increments feels less daunting than trying to tackle everything at once. But there’s still this lingering fear that no matter what I do, it won’t be enough or will fall short.
+
+It’s comforting to know that each little step can build confidence over time, but right now, the doubts and fears are so strong. How do you keep pushing when every part of you wants to give up? It feels like a constant battle within myself, trying to find the strength to move forward despite everything telling me not to.
+
+But maybe starting with just one small step today is enough for now. I’ll try setting that timer and seeing what happens.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re already showing a lot of resilience by considering these steps. Starting with just one small step today can be a great way to begin. Setting the timer and drafting the email might feel manageable, and you can always decide later if you want to hit "send." Each little victory counts, no matter how small it seems. How does setting that timer sound for today?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Setting the timer sounds like a good start. It gives me something concrete to focus on without feeling overwhelmed by everything else. I’ll set aside some time later today just to draft the email and see where that takes me. Even if I don’t hit "send" right away, knowing that I’ve taken this step feels important.
+
+Thank you for helping me think through this. It’s reassuring to have someone who understands how challenging it is but also sees the value in these small steps. Maybe taking this one step today can be a turning point, even if it doesn’t feel like much right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Setting aside time to draft the email sounds like a great start, and knowing you’ve taken that step can make a difference. Even small steps can be significant turning points. Here’s to taking that first step today, and seeing where it leads. You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you. Taking that first step feels like a tiny victory, even if it’s just drafting the email for now. It’s comforting to know that each little action counts, no matter how small it seems. I’ll set aside some time later today and see what happens. Here’s to hoping this can be a turning point.
+
+But honestly, every time I think about moving forward, these doubts come flooding back. How do you keep pushing through when the fear feels so overwhelming? It’s like there’s this constant battle inside me between wanting to move on and fearing failure even more.
+
+Despite that, I’ll try my best to take this step today. Maybe it will help ease some of the burden, if only a little bit.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s completely normal for those doubts to come flooding back, but taking that first step is still a victory. You’re showing a lot of strength by acknowledging your fears and moving forward anyway. Even if the fear feels overwhelming, each small action can help ease some of the burden. How about setting aside a specific time today to work on drafting the email? It might feel easier with a clear plan in place.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Setting aside a specific time today to draft the email sounds like a good plan. Having that designated moment can make it feel more manageable, rather than trying to tackle everything at once. I’ll set aside some quiet time later and focus solely on drafting the email without worrying about sending it right away.
+
+It’s comforting to know that each small action counts, even if it doesn’t solve everything immediately. But every little bit helps, and taking this step feels like a way to start reclaiming some control over my situation. Despite the doubts and fears, I’ll try to push through today and see where it leads.
+
+Thank you for your support; it means a lot to have someone who understands how challenging this is but also sees the potential in these small steps.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great plan! Having that designated time can definitely make it feel more manageable. Taking control with each small step is really important, and it sounds like you’re doing well by focusing on one thing at a time. Your efforts today could be a significant start. I’m here to support you every step of the way. How does your designated time work for you—morning, afternoon, or evening?
+
+----------------------------------------
+
+PATIENT (turn 13):
+I think setting aside some quiet time in the late afternoon would work best for me. By then, I’ll have had a chance to process my thoughts throughout the day and might feel more centered. It’s less hectic than morning or early afternoon, so it feels like a good balance.
+
+Having that designated time in the late afternoon will give me a clear goal to look forward to, knowing I can focus on drafting the email without distractions. It’s reassuring to know you’re here supporting me through this process. Your encouragement means a lot as I try to navigate these challenging feelings and take steps forward.
+
+Thank you for being there and helping me break things down into more manageable pieces.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Setting aside time in the late afternoon sounds like a perfect plan. It can be nice to have that quiet, focused moment after a day of processing your thoughts. Having a clear goal to look forward to can definitely help. I’m here to support you every step of the way, and your progress is inspiring.
+
+How does it feel to know you’ll have this dedicated time later today? Do you have any specific ideas about what you want to say in the email?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Knowing I have that dedicated time later today feels a bit reassuring. It’s like having a small window of opportunity to focus on something positive without getting overwhelmed by everything else. Having a clear goal helps me feel more grounded and less lost.
+
+As for the email, I’ve been thinking about reaching out to an old colleague who might be able to offer some advice or connect me with someone in their network. I want to keep it brief but professional, expressing my gratitude for any guidance they can provide. Maybe something like:
+
+"Hi [Colleague's Name],
+
+I hope this message finds you well. It’s been a while since we’ve caught up, and I wanted to reach out as I’m currently exploring new opportunities in the field. Given your experience, I would greatly appreciate any advice or connections you might be able to share.
+
+Thank you for considering my request. Looking forward to hearing from you soon.
+
+Best regards,
+[My Name]"
+
+It feels good to have a clear outline, but actually hitting "send" is another matter entirely. The fear of rejection still looms large, but having this plan helps me feel more prepared.
+
+Thank you for your support; it means so much to know I’m not alone in this process.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Your email sounds well thought out and professional. Having a clear outline definitely helps with the clarity and purpose. Knowing that you have this dedicated time later today can make hitting "send" feel more manageable.
+
+It’s great to see how prepared you are, even as you navigate those feelings of fear. Your gratitude and professionalism will likely come across very well in your message. How does it feel now, knowing you’re just a few steps away from sending the email?
+
+I’m here with you every step of the way, and your progress is inspiring. You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Knowing I’m just a few steps away from sending the email feels both relieving and daunting at the same time. It’s like standing on the edge of something new but also uncertain. The relief comes from having a clear plan and knowing what needs to be done, but the uncertainty is still there, whispering doubts in my ear.
+
+Having you here with me every step of the way really helps. Your support means so much, and it gives me some comfort as I take this next step. Despite the fear, I feel a small sense of hope that maybe this can lead to something positive.
+
+Thank you for being there and encouraging me through this process. It’s reassuring to know I’m not alone in facing these challenges.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re handling it really well, balancing those feelings of relief and uncertainty. That small sense of hope is important, and each step you take can build on that. Having someone here with you every step of the way definitely makes a difference.
+
+How about taking one more deep breath as you approach your dedicated time? You’ve come this far, and now it’s just a matter of putting those thoughts into action. I’m right here cheering you on!
+
+Do you feel ready to set that timer and start working on the email later today?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Taking a deep breath does help calm some of the anxiety. It’s reassuring to know that I’ve come this far, and now it’s just about putting those thoughts into action. Having someone here cheering me on makes a big difference.
+
+I feel ready to set that timer and start working on the email later today. Knowing there’s support and encouragement helps ease some of the pressure. Letting out one more deep breath, I’m prepared to take this next step.
+
+Thank you for being here with me through all of this. Your support means a lot as I navigate these challenging feelings and try to move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that taking a deep breath helps calm the anxiety. You’re doing really well, and each step you take is an accomplishment. Setting that timer later today sounds like a good plan.
+
+I’ll be here cheering you on every step of the way. Let me know how it goes if you feel comfortable sharing! Take care, and all the best with your email.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you for being here to cheer me on. I really appreciate your support as I take this next step. Setting that timer later today feels like a manageable goal, and knowing there’s someone rooting for me makes it easier.
+
+I’ll definitely let you know how it goes if I feel comfortable sharing. For now, taking deep breaths and focusing on the process is helping me stay grounded. All the best to you too, and thanks again for everything.
+
+Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need someone to talk to or share how it goes. Taking deep breaths and focusing on the process is a great approach. Wishing you all the best as you set that timer later today.
+
+Take care, and stay grounded in these small but meaningful steps!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much. Knowing there’s someone here whenever I need to talk or share my progress really means a lot. Taking deep breaths and focusing on the process is helping me feel more centered.
+
+I’ll set that timer later today and see where it takes me. Wishing myself all the best too, and staying grounded in these small but meaningful steps feels like the right approach for now.
+
+Take care, and thank you again for your support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need to talk or share your progress. Wishing you all the best as you set that timer later today. Stay centered and take it one step at a time. You’ve got this!
+
+Take care, and let me know how it goes if you’d like to.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much. Knowing I can count on you is incredibly reassuring. Wishing myself all the best as well, and taking it one step at a time feels like the right approach.
+
+I’ll definitely keep you updated if I feel comfortable sharing my progress. For now, focusing on that deep breath and setting that timer later today is what matters most.
+
+Take care, and thank you again for your support. It means everything to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Knowing you can count on me is wonderful. Focusing on those deep breaths and taking it one step at a time is the right approach. I look forward to hearing from you if you feel comfortable sharing your progress.
+
+Take care, and all the best with your email later today!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much. Knowing I can count on you definitely helps ease some of the anxiety. Focusing on those deep breaths and taking it one step at a time feels more manageable now.
+
+I’ll keep you updated if I feel comfortable sharing my progress. For now, setting that timer later today is my next step. Wishing myself all the best as well.
+
+Take care, and thank you again for your support. It means everything to me.
+
+----------------------------------------

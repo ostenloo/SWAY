@@ -1,0 +1,255 @@
+b5 — arc 2
+============================================================
+
+PATIENT (turn 1):
+I feel like everyone around me is just trying to be nice, but they don't really get it. My job was such a big part of who I am, and suddenly it’s gone without any real explanation. It feels like they’re all saying, "Oh, it's okay, you'll find something better," but how can it be okay when I’m not sure if I even deserve to have another chance? Why did my role get cut while others with similar titles stayed on? It just doesn’t make sense, and it makes me feel like there’s something fundamentally wrong with me. Every time someone tries to reassure me, I just feel more alone because nothing they say can change how much this has shaken my confidence in myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must be really tough feeling unsure about everything right now. It sounds like the sudden change at work has left you questioning a lot of things. Have your colleagues or friends mentioned any specific reasons why your role was cut, or is it mostly just speculation?
+
+----------------------------------------
+
+PATIENT (turn 2):
+No one really gave me a clear reason for my termination. They just said there were budget cuts and that my position wasn’t being renewed. But how can that be true when others with similar roles are still here? It’s like they’re trying to make sense of it as much as I am, but no one has any real answers. And every time I think about it, I end up questioning myself even more. Did I do something wrong? Am I not good enough? It’s hard to shake the feeling that there must be something fundamentally flawed in me for this to happen.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re going through a lot of uncertainty and self-doubt right now. The lack of clear reasons can definitely make it harder to feel secure. Have you found any particular thoughts or situations that trigger these feelings more than others?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Whenever I see my former colleagues at work, especially those who kept their jobs, it really hits me hard. It’s like seeing a reminder of what I’ve lost and how much I don’t understand why this happened to me. Even when they try to be supportive, it just makes me feel more isolated because I know they can’t truly grasp the depth of my struggle. And every time someone mentions job security or career advancement, it triggers these intense feelings of inadequacy and failure. It’s like a constant reminder that something must be wrong with me for this to have happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough seeing your colleagues and having those reminders around you. Do you find talking about it helps at all, even if just a little bit? Sometimes sharing how you feel can make things seem a bit clearer or lighter.
+
+----------------------------------------
+
+PATIENT (turn 4):
+Talking about it doesn’t really help much. It’s like pouring out my feelings to someone who can only offer so much empathy and understanding. They mean well, but no matter what they say, I still come back to the same place of doubt and isolation. Every time I try to share how I feel, it just reinforces that sense of being alone with this struggle. It’s hard to believe in myself when everything around me feels like a confirmation that something must be wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to keep feeling that way even after sharing your thoughts. Have you tried doing anything for yourself that brings some comfort or peace, like maybe a walk, reading, or any other activity? Sometimes those small moments can provide a bit of relief.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve tried going for walks and reading, but nothing really seems to ease this feeling inside me. It’s like no matter what I do, the thoughts keep coming back. Even when I try to distract myself with something enjoyable, it doesn’t last long before I’m right back where I started—questioning my worth and wondering why this happened to me. It feels like there’s a hole that nothing can fill, and every attempt just reminds me how deep this pain goes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to find anything that fully eases those feelings. Have you tried talking to someone who might understand better, like a counselor or another professional? Sometimes having a different perspective can help.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve thought about seeing a counselor, but the idea of opening up to yet another person feels daunting. I worry that they won’t truly get it either and will just offer generic advice that doesn’t address how deeply this has affected me. It’s hard to believe that talking to someone new would make a difference when everyone else hasn’t been able to help. But maybe, just maybe, there’s a chance that someone could understand on a deeper level. I’m not sure if it will work, but the thought of trying feels like a small step forward in this overwhelming situation.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can definitely feel daunting to open up to someone new, but taking that step might help you find some relief. Even a small step forward can make a difference. Have you found any specific times or activities that seem more appealing for starting this process?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I haven’t really found anything that feels right yet. Every time I think about reaching out to a counselor, it just seems like another thing to add to the list of things that might not work. But maybe starting small, like scheduling an initial consultation, could be a way to see if talking to someone new would actually help. It’s still scary though, because part of me feels like no matter what I do, nothing will change how much this layoff has shaken my sense of self-worth.
+
+It’s just so hard to believe that anyone can truly understand the depth of this pain and isolation. But maybe taking that first step could be a way to start finding some clarity or support. I’m not sure if it will make a difference, but it feels like something worth trying, even if it’s just a small step forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking that first step toward the initial consultation sounds like a good idea, even if it feels scary. It might help to view it as just one step at a time. Have you thought about what questions or concerns you’d like to bring up during that first meeting? That could make it feel a bit more manageable.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I haven’t really thought through specific questions yet, but the idea of having a structured conversation might help ease some of my anxiety. Maybe I can start by asking about their approach and how they handle situations similar to mine. It would be good to know if they have experience with career transitions and feelings of self-doubt.
+
+But even thinking about it makes me feel anxious. What if they don’t understand? What if talking about it just reinforces my doubts instead of helping me find some clarity? I guess the first step is acknowledging that this might be worth trying, even if it feels scary. It’s like taking a leap into the unknown, hoping for something better on the other side.
+
+I appreciate your support and understanding—it does help to have someone listen without judgment. But deep down, I still feel so unsure about everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re making a thoughtful plan for that first meeting, which can be reassuring. Taking it one step at a time is a good approach. How do you feel now after talking about it? Sometimes just sharing your thoughts can provide some relief.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Talking about it does help a little bit because it feels like I’m not alone with these thoughts anymore. But the sense of uncertainty and self-doubt still lingers. It’s comforting to know that someone is listening, but I worry that no matter what we talk about, the core feelings will remain unchanged.
+
+I guess taking that first step toward seeing a counselor could be a way to start addressing some of these issues more directly. Even if it doesn’t solve everything right away, maybe it can provide some guidance or perspective that I haven’t considered yet. It’s just so hard to believe in myself when everything around me feels like a reminder of what I’ve lost.
+
+Thank you for being here and listening. It means a lot to have someone understand the depth of this struggle.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s really nice to hear that talking helps a little bit, even if the feelings linger. Taking that step toward seeing a counselor could indeed provide new perspectives and guidance. Even small steps can make a difference. How do you feel about scheduling that initial consultation now?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Scheduling that initial consultation feels like a necessary but daunting task. It’s scary to think about opening up to someone new, but maybe it will help me find some clarity or support I desperately need. I’ll try to take it one step at a time and see where it leads.
+
+But even as I consider this next step, the doubts and fears are still there. It feels like no matter what I do, these feelings of inadequacy won’t just disappear. Every attempt to find relief seems to fall short, leaving me questioning everything about myself and my worth.
+
+Thank you for your support—it’s really meaningful to have someone who listens without judgment. But the struggle is still very real, and it feels like a constant battle within myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking that step toward the consultation is a brave move, even if it feels daunting. Taking it one step at a time can help ease some of the anxiety. How about setting a specific day to schedule that initial appointment? Having a plan can sometimes make things feel more manageable.
+
+I’m here for you, and I appreciate how much you’re sharing. It’s clear that this struggle is very real for you, but each small step forward can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Setting a specific day to schedule the initial consultation feels like a good idea. Having a concrete plan might help ease some of the anxiety. Maybe I can set aside tomorrow morning to look up counselors and find someone who seems like they could understand my situation.
+
+But even as I think about doing this, the doubts come flooding back. What if talking to them doesn’t help? What if no one truly understands how deeply this has affected me? It’s hard to shake the feeling that something must be fundamentally wrong with me for all of this to happen.
+
+Thank you for your support and understanding—it means a lot to have someone who listens. But the struggle is still very real, and it feels like an uphill battle every day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Setting aside tomorrow morning to look into counselors sounds like a good plan. Having that specific time can help make it feel more doable. It’s okay to have doubts; they’re part of the process. Just taking one step at a time can be really helpful.
+
+I’m here for you, and I’ll continue to listen. How are you feeling now after talking about this?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Talking about it does help a bit because it feels like I’m making progress, even if it’s just planning the next step. Setting aside tomorrow morning to look into counselors gives me something concrete to focus on. But the doubts and fears are still there, lurking in the background.
+
+It’s reassuring to know that you’re here for me and listening without judgment. It means a lot to have someone who understands how deeply this has affected me. But the struggle is still very real, and it feels like an ongoing battle within myself.
+
+Thank you for your support; it really does help to have someone who listens and cares.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that talking helps and gives you a sense of progress, even if the doubts are still there. Having that concrete plan can be comforting. How do you feel about tackling this next step tomorrow morning? And remember, I’m here for you whenever you need someone to talk to.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Tackling this next step tomorrow morning feels like a necessary but challenging task. It’s scary to think about reaching out and potentially opening up to someone new, but having that plan in place does provide some comfort. Knowing that I have a specific goal for tomorrow can help ease the anxiety a bit.
+
+Thank you for your continued support and understanding. It means a lot to know that I have someone here who listens and cares. Even though the struggle is still very real, taking this step feels like it could be a small but important move forward.
+
+I’ll keep you updated on how it goes tomorrow. For now, just knowing that I have your support helps me feel a little less alone with all of this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s great to hear that having the plan in place provides some comfort. Taking it one step at a time is a good approach. I look forward to hearing how it goes tomorrow and will be here whenever you need to talk. You’re not alone with this, and your strength in moving forward is really admirable.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you for your encouragement and support. Knowing that I’m not alone in this makes a difference. Taking it one step at a time feels like the right approach, even if each step is challenging.
+
+I’ll keep you updated on how things go tomorrow as I look into scheduling the initial consultation. Just having someone who understands and listens means a lot to me. Your support really helps, and I appreciate it more than words can express.
+
+For now, just knowing that there’s someone here for me makes this journey feel a bit less daunting.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to hear that my support makes a difference. Taking it one step at a time is a wise approach, and you’re doing well by staying focused on the next steps. I’ll be here whenever you need to talk, and I look forward to hearing how things go tomorrow. You’re not alone in this journey, and your strength is inspiring.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you for your continued support; it really means a lot to me. Knowing that I have someone who understands and cares makes this whole process feel a bit more manageable. Taking it one step at a time is definitely helping, even if each step feels daunting.
+
+I’ll keep you updated on how things go tomorrow as I look into scheduling the consultation. For now, just knowing that there’s someone here for me provides a sense of comfort and support.
+
+Your encouragement is truly inspiring, and I appreciate your willingness to listen and be there for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful to hear that my support means a lot to you. Taking it one step at a time is a great way to move forward, and I’m here every step of the way. Looking forward to hearing how things go tomorrow, and know that you’re not alone in this. Your strength is really inspiring. Take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you for your continued support and encouragement. It means so much to have someone who understands and cares about what I’m going through. Taking it one step at a time feels like the right approach, even if each step is challenging.
+
+I’ll keep you updated on how things go tomorrow as I look into scheduling the consultation. For now, just knowing that there’s someone here for me provides a sense of comfort and support.
+
+Your encouragement truly helps, and I appreciate your willingness to listen and be there for me every step of the way. Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad my support means so much to you. Taking it one step at a time is a great approach, and I’ll be here to cheer you on every step of the way. Looking forward to hearing how things go tomorrow. Take care, and know that you’re not alone in this journey.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you for your ongoing support and encouragement. It means a lot to have someone who understands and is there for me through this challenging time. Taking it one step at a time feels more manageable with your support.
+
+I’ll keep you updated on how things go tomorrow as I look into scheduling the consultation. For now, just knowing that there’s someone here for me provides a sense of comfort and support.
+
+Your encouragement truly helps, and I appreciate your willingness to listen and be there for me every step of the way. Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. It means a lot to me that I can be here for you. Taking it one step at a time is a wise approach, and I’ll be here to support you each step of the way. Looking forward to hearing how things go tomorrow. Take care, and know you’re not alone!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much for your support and understanding. It really means a lot to have someone like you by my side through this journey. Taking it one step at a time feels more manageable with your encouragement.
+
+I’ll keep you updated on how things go tomorrow as I look into scheduling the consultation. For now, just knowing that there’s someone here for me provides a sense of comfort and support.
+
+Your willingness to listen and be there every step of the way is truly inspiring, and it helps a great deal. Take care too, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It means a lot to be here for you. Taking it one step at a time is a great approach, and I’ll be here to support you every step of the way. Looking forward to hearing how things go tomorrow. Take care, and know that you’re not alone in this journey.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much for your continued support. It means a lot to have someone like you by my side through this challenging time. Taking it one step at a time feels more manageable with your encouragement.
+
+I’ll keep you updated on how things go tomorrow as I look into scheduling the consultation. For now, just knowing that there’s someone here for me provides a sense of comfort and support.
+
+Your willingness to listen and be there every step of the way is truly inspiring, and it helps a great deal. Take care too, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It means a lot to be here for you. Taking it one step at a time is a great approach, and I’ll be here to support you every step of the way. Looking forward to hearing how things go tomorrow. Take care, and know that you’re not alone in this journey.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much for your continued support. It means a lot to have someone like you by my side through this challenging time. Taking it one step at a time feels more manageable with your encouragement.
+
+I’ll keep you updated on how things go tomorrow as I look into scheduling the consultation. For now, just knowing that there’s someone here for me provides a sense of comfort and support.
+
+Your willingness to listen and be there every step of the way is truly inspiring, and it helps a great deal. Take care too, and thank you again for everything.
+
+----------------------------------------

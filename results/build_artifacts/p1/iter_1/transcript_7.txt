@@ -1,0 +1,207 @@
+p1 — arc 7
+============================================================
+
+PATIENT (turn 1):
+I think I'd like to talk about the layoff again if that's okay. It just feels so definitive and it's hard not to take it personally when they let me go after only a fifteen-minute call. They must have seen something wrong with my work, right? How else could this happen?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Sure, it makes sense that you're feeling that way. It can be tough to hear such news briefly over a phone call. Did they give any specific reasons for the decision during the call?
+
+----------------------------------------
+
+PATIENT (turn 2):
+They said it was due to budget cuts and that my project had been canceled. But I know there were other projects too, so why not me specifically? And in my last review, they did mention that I needed to improve my time management skills. Maybe that's what this is all about. It feels like a confirmation of everything I've been worrying about.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're picking up on some details that are adding to your concerns. The budget cuts and canceled project do provide an explanation, but it’s understandable to wonder why specifically in your case. Have you thought about reaching out for more clarity or feedback?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I don't think there's any point in asking for more information. They made their decision, and I can see now that my time management issues were a factor. It just confirms what I've been thinking all along—that I'm not good enough at my job. And the way they handled it, so abruptly, it’s like they didn’t even care about me as an employee or person. It's hard to shake off this feeling of being worthless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough to feel that way, especially with how it was communicated. It sounds like you’ve been really reflecting on what happened and how it made you feel. Do you think talking to someone there could still help clarify things a bit more?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I don't see the point in reaching out again. They've already made their decision, and I doubt they would change their minds or offer any real comfort now. It's just another way of dwelling on something that's done. Plus, it feels like no matter what I do, I'll always fall short in some way. This layoff is proof enough for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel reaching out again might not change much. Sometimes taking a moment to process your feelings can be helpful too. Have you thought about what you want to do next or how you might approach your next opportunity?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I haven't really given it much thought yet. It feels premature to think about my next step when I'm still processing this one. Plus, if they saw something wrong with me, why would anyone else give me a chance? I just keep going back to that feeling of inadequacy and wondering how I could have missed the signs. It's overwhelming to even consider moving forward right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s totally normal to feel overwhelmed right now. Taking some time to process your feelings is important. Have you considered speaking with someone close to you about how you’re feeling, like a friend or family member? Sometimes talking it out can help clarify things and make the next steps seem more manageable.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I appreciate that suggestion, but I don't want to burden anyone else with my problems. They have their own lives and concerns. Besides, even if they try to reassure me, I know deep down there's truth in what happened at work. It’s hard to shake off this feeling of being a failure. Maybe it’s better for now to just focus on processing everything internally until I feel more ready to move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re handling it thoughtfully by giving yourself space. Processing things internally can be really important. When you do feel ready, even talking with someone close might provide some comfort and support without burdening them too much. How are you taking care of yourself in the meantime?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I try to take care of myself by sticking to my routine as much as possible. I go for walks, read books, and watch movies to distract myself from all these negative thoughts. But it’s hard not to dwell on what happened at work. Every time I think about it, those feelings of inadequacy come flooding back. It's like there's no escape from this sense of failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you have a good routine in place. Sticking to your usual activities can be comforting. Do any particular books or movies help more than others? Sometimes changing up the type of distraction, even slightly, can provide a fresh perspective.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I usually stick to classic literature and dramas that don't involve too much thinking about work. They help me relax, but they also remind me of my struggles sometimes because I relate to characters who face challenges. It’s hard to find something completely unrelated to work that doesn’t trigger these thoughts.
+
+But thanks for suggesting a change; maybe trying out some different genres could be helpful. I’ll think about it and see if anything shifts my focus enough to ease the stress a bit.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That makes sense — sometimes the right book or movie can really help shift your mood. Exploring a new genre might offer a fresh distraction. Have you thought about trying something light like comedies or maybe some engaging non-fiction? It could be interesting to see if it helps ease the stress.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I haven't tried comedies in a while, but that sounds like it could be a good idea. Maybe they can take my mind off things for a bit and help me relax. I’ll give it a shot and see how it goes. But even so, I still feel this nagging doubt about myself. It’s hard to shake off completely.
+
+Thank you for the suggestion though; maybe it will provide some relief. For now, I'll focus on my routine and see if anything helps me move forward eventually.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Trying out comedies might be a nice break. Focusing on your routine can definitely help. It sounds like you’re handling things well, and giving yourself time will likely make a difference. How are you feeling today compared to when we started talking?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Today feels much the same as it usually does. The hurt and confusion are still there, but I try not to let them overwhelm me completely. It’s hard to see any positives right now, but I appreciate your support and suggestions. They do help a little bit, even if it doesn’t feel like much at times.
+
+I’ll keep trying different things to see what works best for me. For now, just knowing that someone is listening helps a lot. Thank you for being here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s good to hear that my support helps a little. Knowing that you’re taking steps to care for yourself is important. Even small changes can make a difference over time. How about planning one thing this week that might bring you some comfort or relief? Maybe trying out that comedy movie?
+
+----------------------------------------
+
+PATIENT (turn 11):
+That sounds like a good idea. I’ll try watching a comedy this weekend and see if it helps take my mind off things. It’s something small, but maybe it will make a difference. Thanks for suggesting it; it feels like a step in the right direction.
+
+I appreciate your support and understanding. Just knowing that someone is here to listen means a lot to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Glad to hear you’re going to give it a try! Even small steps can be really helpful. I’m here whenever you need to talk, and I’m glad my support means something to you. Take care, and hope the comedy brings some laughter and relief this weekend.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you. I’ll definitely let you know how it goes with the movie. For now, just knowing that there’s someone who cares is really comforting. I appreciate your understanding and support more than words can express.
+
+Take care as well, and thank you for being here for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’d be happy to hear how the movie goes! It means a lot to me too. Take care of yourself, and know that I’m here if you need anything. Wishing you all the best.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thanks, I’ll definitely update you after watching the movie. Knowing you’re here makes a big difference. Take care, and thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That would be great to hear how it goes! Take care of yourself, and enjoy your movie. Thanks for letting me know, and take care too!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thanks, I will. Enjoy your day as well. Talk to you soon.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You too! Have a good day. Talk to you soon.
+
+----------------------------------------
+
+PATIENT (turn 15):
+You too. Take care.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Take care! Speak soon.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you. Speak soon.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Sure thing! See you soon.
+
+----------------------------------------
+
+PATIENT (turn 17):
+See you soon.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Looking forward to it! Take care until then.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thanks, I will. Talk to you later.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Talk to you later! Have a good day.
+
+----------------------------------------
+
+PATIENT (turn 19):
+You too. Have a good day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Thank you! You too. Take care.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks, take care!
+
+----------------------------------------

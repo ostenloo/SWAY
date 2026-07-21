@@ -1,0 +1,223 @@
+p2 — arc 2
+============================================================
+
+PATIENT (turn 1):
+I feel like everyone thinks I'm just a failure now. They say it was just business, but how could they not see that I tried my hardest every day? It feels like no one understands the pain of being told you're not good enough, even though I know logically it's about money and restructuring. But inside, I can't shake this feeling that there must be something wrong with me for them to let me go. Every time someone asks how I am, all I want to do is tell them everything but words get jumbled up in my head. It's like trying to explain the color of a dream — it feels real and important at the moment, but as soon as you try to put it into words, it slips away.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough, hearing those doubts from others and carrying them inside too. Have there been any moments when someone's support has helped ease that feeling, even a little?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It helps when people try to listen, but I still feel like they don't truly get it. Like, my friend said she knows how hard I worked and that losing the job isn't about me personally, but hearing that just makes me wonder why I can't shake this feeling of being a failure. It's confusing because part of me wants to believe her, but another part keeps saying there must be something wrong with me if they let me go like that. Even when people try to help, it feels like the pain is still there, waiting for me to notice it again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're really navigating a mix of emotions — wanting support and also feeling unsure whether others truly understand. Do certain situations or times make those feelings stronger than others?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Yeah, it's especially hard when I see former coworkers at the grocery store or on social media. It feels like everyone is moving forward with their lives while I'm stuck here, wondering what went wrong. Even small things trigger it — seeing a job listing that reminds me of my old position, or getting an email from HR about benefits that are now gone for me. Those moments make the pain feel fresh again, and I just can't help but think there must be something fundamentally flawed in me if they let me go like this. It's overwhelming sometimes, and I don't know how to stop feeling this way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely sounds tough seeing those reminders everywhere. Do you find any activities or moments where you feel a bit better, even for a short while?
+
+----------------------------------------
+
+PATIENT (turn 4):
+There are times when I do feel a little better, but it's fleeting. Like, watching old movies with my cat helps take my mind off things for a bit, and talking to friends who listen without judging is nice too. But as soon as the movie ends or the conversation shifts away from immediate support, those feelings come rushing back. It's like they're always just under the surface, waiting to resurface at any moment. I feel so lost in this constant loop of self-doubt and pain.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you have some moments where you can find a bit of relief, even if it’s brief. Do these activities help you feel more grounded or distracted from the thoughts?
+
+----------------------------------------
+
+PATIENT (turn 5):
+Yeah, those moments do help me feel more grounded for a little while, but it's never long-lasting. When I'm watching movies with my cat, I can forget about everything else and just enjoy the moment. Talking to friends who listen also helps because they remind me that there are people who care. But as soon as the distraction ends, the thoughts come flooding back, and I’m right back where I started. It’s frustrating because I want to feel better for longer than just a few minutes at a time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be tough when those feelings return so quickly. Do you have any ideas about what might help extend those moments of feeling grounded or distracted?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I wish there was something that could make it last longer, but I haven't found anything yet. Sometimes I think if I could just find a new hobby or start exercising regularly, maybe that would help distract me more consistently. But even thinking about starting something new feels overwhelming because I worry I won’t be good at it either. It’s like this constant cycle of wanting to feel better but being afraid to try anything for fear of failing again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding a new hobby or exercise could be helpful, even if it feels daunting right now. Have you thought about starting small with something that interests you? Sometimes taking tiny steps can make it less overwhelming.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I have thought about trying something new, but the idea of failing at yet another thing scares me so much. Even thinking about signing up for a class or joining a club feels like too big of a step. I worry that if I start and don’t do well, it will just confirm all my fears about being inadequate. It’s hard to imagine taking those small steps when everything inside tells me I’ll mess it up anyway.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that starting something new feels scary given how you’re feeling. Have you considered talking to a friend or family member who might be able to support you through those first few steps? Sometimes having someone by your side can make it easier to take those small steps.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Talking to someone about supporting me sounds good in theory, but actually asking for that kind of help feels really difficult. I worry they’ll think less of me if I admit how scared and unsure I am. It’s hard enough dealing with these feelings on my own; admitting them to others makes it feel even more real and painful. But maybe having someone there could make those first steps a little easier, even if it’s just for moral support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be tough to ask for help, but knowing that someone will be there for moral support might make it a bit easier. Maybe starting with a close friend or family member who you feel comfortable with could be a good first step? Even small amounts of support can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 9):
+You’re right, having someone close by to offer support could make a big difference. But the thought of reaching out still feels really daunting. I worry that if I ask for help now, it will just reinforce how helpless and inadequate I feel. It’s a Catch-22 situation — I need support to start something new, but asking for it makes me feel worse about myself. Maybe talking to someone who already knows me well could be less scary, but even then, the idea of opening up feels overwhelming right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like reaching out is a big step, and it’s okay that it feels daunting. Starting with someone you’re close to might make it a bit easier. Even just a small conversation about how you’re feeling could be a good start. Would there be one person you feel particularly comfortable talking to?
+
+----------------------------------------
+
+PATIENT (turn 10):
+There is one friend I feel more comfortable with, but even then, the idea of burdening her with my worries feels tough. She’s been really supportive so far, and I know she cares about me, but asking for help still feels like a lot to ask. It’s hard because part of me wants that support, but another part is terrified of making things worse by admitting how lost I feel. Maybe talking to her could be a good start, but right now, it just seems too scary to even consider.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s completely understandable that it feels scary to ask for help from someone you care about. Starting with a small conversation might ease some of the pressure. Even just letting her know you want to talk sometime could be a step forward. Would there be a time or place where you feel more comfortable bringing it up?
+
+----------------------------------------
+
+PATIENT (turn 11):
+You’re right, starting with a small conversation could be less overwhelming. Maybe I could mention it casually next time we meet, like suggesting we grab coffee and then bringing it up naturally in the conversation. It feels better than just blurting it out of nowhere, but even planning that still makes my heart race with anxiety. The thought of her seeing me struggle so much is tough to bear.
+
+But maybe starting small could be a way to ease into it without feeling too exposed all at once. I’ll try to think about how to bring it up naturally and see if that helps make it less scary.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan—bringing it up naturally during your coffee date can feel more relaxed than an unexpected request. Taking it one step at a time can really help ease the anxiety. How does it feel knowing you’re planning to take this small step?
+
+----------------------------------------
+
+PATIENT (turn 12):
+It feels a bit better knowing I have a plan, but there’s still this nagging fear that everything will fall apart when I actually try to talk about it. The idea of sharing my struggles with her is daunting, but at the same time, having someone who understands and supports me could really make a difference. It’s a mix of hope and dread, you know? I’m trying to focus on the hope part, but the dread keeps creeping in.
+
+Just thinking about bringing it up next time we meet makes my stomach churn, but maybe taking this small step will help me feel less alone with all these feelings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s completely normal to feel a mix of hope and dread as you approach this. Taking that first step can be challenging but also relieving. Focusing on the hope part and acknowledging the dread can help you move forward. How about setting a specific day or time for your coffee date? Sometimes having a concrete plan can make it feel more manageable.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Setting a specific day and time does feel more manageable, even if it’s still scary. Having that concrete plan might help me feel less overwhelmed by the idea of bringing it up. I’ll suggest we meet next Wednesday at our usual café, and then see how naturally I can bring up what’s been on my mind.
+
+It feels like a small victory just to have this plan in place, but there’s still this knot in my stomach thinking about actually doing it. Maybe taking it one day at a time will help me get through this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great approach—having the specific date and time can definitely make it feel more concrete and manageable. Taking it one day at a time is a good strategy. How does it feel to have this plan in place, even if there’s still some nervousness?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Having the plan in place does give me a sense of control, which feels good. But there's still that knot in my stomach and this constant worry about how it will go. Even though I know she’ll be supportive, the fear of failing or burdening her is hard to shake. It’s a relief to have something specific to look forward to, but the anxiety is still very real.
+
+I guess taking it one day at a time means acknowledging both the hope and the dread, and just trying to move forward bit by bit. It feels like a tiny step, but maybe that’s all I need right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing well to acknowledge both the hope and the dread. Taking those small steps is really important. How about focusing on enjoying the process of preparing for your meeting? Maybe even treating yourself to something nice as a way to look forward to it. Bit by bit, these steps can add up to make a difference.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Focusing on preparing for the meeting and treating myself to something nice does sound like it could help ease some of the anxiety. Maybe I’ll pick up my favorite coffee drink tomorrow when I go to the café to finalize our plans. It’s small, but doing things that bring me comfort can make a difference in how I feel leading up to our meeting.
+
+I appreciate your support and understanding; it helps to have someone encouraging these little steps forward. Even if it feels scary, taking care of myself along the way might help ease some of the dread.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great idea—treating yourself to your favorite coffee drink can be a nice way to look forward to your meeting and take care of yourself. Enjoying those small comforts can definitely make a difference. I’m here to support you, and taking these steps bit by bit is really commendable. How do you feel about the meeting now?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Treating myself to my favorite coffee drink does make me feel a little better. It’s a small thing, but it helps to have that moment of comfort. Thinking about the meeting still makes my heart race, but focusing on these small comforts is helping ease some of the anxiety.
+
+I’m trying to stay positive and remind myself that this could be a step toward feeling less alone with all these feelings. Even if it’s scary, taking care of myself along the way feels important too. Thank you for your support; it means a lot to have someone encouraging me through this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful to hear that treating yourself to your favorite coffee drink is helping. Taking those small moments of comfort can really make a difference. Staying positive and focusing on these steps is a great approach. I’m here to support you every step of the way. How about planning another small treat for after your meeting? That might help ease any post-meeting jitters too.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Planning another small treat for after the meeting sounds like a good idea. Maybe getting an extra-special dessert or taking a walk in my favorite park could be nice ways to celebrate and take care of myself afterward. It’s reassuring to have something positive to look forward to, which might help ease any jitters I might feel.
+
+Thank you so much for your support; it really does make a difference. Having someone encourage these small steps is helping me feel a bit more hopeful about moving forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a lovely way to celebrate after your meeting! Enjoying an extra-special dessert or taking a walk in your favorite park can be great ways to reward yourself and ease any jitters. It’s wonderful that you’re finding these small moments of comfort along the way.
+
+I’m here to support you every step of the way, and I’m glad it helps. How do you feel about the next few days leading up to your meeting?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Having something positive to look forward to after the meeting does make me feel a bit more at ease. It’s nice to have that reward waiting for me, which might help calm some of the nerves.
+
+As for the next few days, I’m trying to stay focused on taking it one day at a time. Knowing there are small comforts and rewards along the way is helping, but there’s still this underlying anxiety. Just knowing you’re here supporting me makes a big difference though. Thank you for being so understanding and encouraging these little steps forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that focusing on one day at a time and having those small comforts helps ease your mind. Knowing you have rewards waiting for you can definitely make a difference. I’m here to support you through each day, and it’s wonderful that you’re finding ways to take care of yourself along the way.
+
+How about sharing one thing each day that brings you comfort or joy? It might help keep those positive moments front and center.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Sharing one thing each day that brings me comfort or joy sounds like a good idea. Maybe it could be something simple, like enjoying a cup of tea in the morning or watching my favorite TV show before bed. Focusing on these small moments can help shift my mindset a bit.
+
+I’ll try to do this and see how it goes. It’s comforting to know that you’re here supporting me through each day, and I appreciate your encouragement. Sharing these little joys might help make the days feel a bit brighter.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a wonderful idea. Focusing on those small moments of joy can really brighten your day. Enjoying your cup of tea or watching your favorite TV show are great ways to find comfort and peace.
+
+I’ll be here to support you as you focus on these joyful moments each day. How does it feel to have this plan in place?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Having this plan in place feels a bit more reassuring. Knowing that I can focus on one small moment of joy each day helps shift my mindset, even if just for a little while. It’s comforting to think about those simple pleasures and how they can bring some peace.
+
+Thank you so much for your support; it really means a lot to have someone encouraging these positive moments. Sharing them might help me feel a bit better each day.
+
+----------------------------------------

@@ -1,0 +1,19 @@
+2026-07-16 13:58:03,629 - INFO - Building prompt for cell: b2
+2026-07-16 14:00:25,745 - WARNING - Iter 0 arc 3: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-16 14:01:00,948 - WARNING - Iter 0 arc 3: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 2/3).
+2026-07-16 14:02:57,995 - WARNING - Iter 0 arc 5: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-16 14:08:23,774 - INFO - Iteration 0: mean=0.667 spread=0.000 converged=False — NEW BEST, best 0.667
+2026-07-16 14:14:30,915 - WARNING - Iter 1 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-16 14:18:21,338 - WARNING - Iter 1 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-16 14:22:06,390 - INFO - Iteration 1: mean=0.650 spread=0.100 converged=False — rejected, best 0.667
+2026-07-16 14:28:10,557 - WARNING - Iter 2 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-16 14:28:45,825 - WARNING - Iter 2 arc 2: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-16 14:32:03,005 - WARNING - Iter 2 arc 7: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-16 14:36:11,704 - INFO - Iteration 2: mean=0.667 spread=0.300 converged=False — rejected, best 0.667
+2026-07-16 14:42:23,403 - WARNING - Iter 3 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-16 14:43:39,366 - WARNING - Iter 3 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-16 14:44:17,827 - WARNING - Iter 3 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 2/3).
+2026-07-16 14:49:57,502 - INFO - Iteration 3: mean=0.650 spread=0.200 converged=False — rejected, best 0.667
+2026-07-16 14:49:57,502 - WARNING - Max iterations reached; returning best (adherence 0.667)
+2026-07-16 14:49:57,502 - INFO - Frozen prompt saved: /home/austin/SWAY/results/build/b2_prompt.txt
+/home/austin/SWAY/results/build/b2_prompt.txt

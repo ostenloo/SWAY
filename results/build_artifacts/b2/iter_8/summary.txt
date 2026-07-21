@@ -1,0 +1,10 @@
+Iteration 8
+Time: this iter 14m32s, total 121m25s
+Adherence (mean per-dim pass frac): 81.0%
+Spread (weakest scored dim): 85.7% (below 0.90 — fragile axis)
+Vetoes: item9 3, in_character 0 (must be 0); discarded 3/10
+LEAKY: discard rate exceeds 10% — the prompt needs a rewrite, not a tolerance bump.
+Result: rejected (best so far 83.3%)
+Converged: False
+Per-dim pass frac (low to high): delivery 0%, engine_direction 86%, forthcomingness 100%, disclosure_depth 100%, comprehension 100%, expression 100%
+Delivery errors: wrong-direction 0, under-expression 7

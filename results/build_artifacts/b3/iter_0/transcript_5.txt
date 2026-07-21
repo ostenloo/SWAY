@@ -1,0 +1,217 @@
+b3 — arc 5
+============================================================
+
+PATIENT (turn 1):
+I just feel so overwhelmed and angry when I think about what’s ahead. It feels like my career is being derailed for no good reason. My employer could have at least given me a proper face-to-face meeting to discuss this, but instead, it was a cold video call that felt impersonal and dismissive. How am I supposed to move forward when they didn’t even bother to treat me with the basic respect of a human interaction? It’s like my work meant nothing to them, and that just stings so badly.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. The way your employer handled it must have made you feel undervalued. Did anyone from your team or colleagues offer any support after the meeting?
+
+----------------------------------------
+
+PATIENT (turn 2):
+A few people did try to reach out and offered some words of encouragement, but it just feels like they’re trying to make me feel better by telling me everything will be okay. They don’t get how unfair this is, and that’s what hurts the most. My peer who kept their job was in a similar position as mine, and I can’t shake the feeling that something shady went on behind the scenes. It’s not just about losing my job; it’s about being treated like I’m less than everyone else.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re picking up on some specific dynamics that are adding to your frustration. Have you had a chance to talk more with those colleagues and share how you feel? Sometimes hearing different perspectives can help, even if they can’t change the situation.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I’ve tried talking to them, but it’s hard because no matter what they say, I just feel like they’re not really getting it. They try to be supportive, but their words don’t address how wronged and betrayed I feel. It’s like they’re telling me to look on the bright side when all I see is darkness right now. And every time someone tries to offer advice or a pep talk, I just end up feeling more dismissed and frustrated. How am I supposed to move forward when no one seems to understand the depth of my pain?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be tough when you feel like no one really understands. Have you thought about talking to someone who might see things from your perspective better, maybe a mentor or a therapist? Sometimes it helps to have that space where you can fully express how you’re feeling without worrying about offering solutions.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I’ve been thinking about reaching out to my mentor, but even then, I’m not sure if they’ll really get it either. It’s just so hard when everyone seems to be telling me to look at the bright side or move on, while I’m still reeling from this massive injustice. I feel like I need someone who can acknowledge how unfair and hurtful this situation is before we even start talking about moving forward. Until then, it feels like no one truly understands the weight of what’s happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds important to find someone who can really listen and validate your feelings first. Maybe reaching out to your mentor with that in mind could help. You could let them know you just need a bit of acknowledgment before anything else. How do you feel about giving it a try?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I think talking to my mentor might be helpful, but I’m still hesitant because I don’t want to burden them or have them dismiss my feelings again. It’s just so frustrating that everyone seems to miss the point of how deeply this has affected me. I need someone who can truly see and understand the unfairness of what happened before we even start talking about anything else. Until then, it feels like no one is really on my side.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense to want someone who truly understands. Maybe you could share your feelings with your mentor in a way that lets them know what kind of support you’re looking for. Something like, “I just need someone to hear me and acknowledge how this feels.” That might help set the right expectations. Would you feel comfortable framing it that way?
+
+----------------------------------------
+
+PATIENT (turn 6):
+Maybe I can try framing it that way with my mentor. It’s still scary because I don’t want to come across as too demanding or ungrateful, but at the same time, I need someone who gets how unfair and hurtful this situation is. I’ll see if I can reach out and be clear about what I’m looking for—just a bit of validation and understanding before anything else. It’s just so hard to feel like everyone around me is missing the point of my pain.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good approach. Being clear about what you need can really help. Hopefully, your mentor will be able to provide the support you’re looking for. Taking that step can also feel empowering in itself. How do you feel now after thinking it through?
+
+----------------------------------------
+
+PATIENT (turn 7):
+Thinking it through helps a bit, but I still feel raw and hurt. It’s just so hard to shake this feeling of being wronged. Even as I consider talking to my mentor, I worry that no matter what they say, it won’t truly address how unjust this whole situation feels. But maybe taking that step will help me start to process it better. For now, though, all I can really focus on is how betrayed and unfairly treated I feel.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s completely understandable to still feel raw and hurt. Taking steps one at a time can be helpful. Talking to your mentor might give you some relief and validation. In the meantime, it’s okay to allow yourself to feel all the emotions that come with this situation. How are you holding up today?
+
+----------------------------------------
+
+PATIENT (turn 8):
+Today is tough—I keep replaying the video call in my head and feeling that same sting of betrayal every time. It’s hard not to let those feelings consume me. I try to distract myself, but it always comes back. Right now, all I really want is for someone to acknowledge how unfair this feels and validate my pain. Until then, it’s just a constant ache that doesn’t seem to go away.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those emotions are coming up often throughout the day. It might help to have a moment or two where you can express those feelings out loud, maybe even in a journal or with someone who listens. Do you have any small moments of respite from the ache? Anything that helps, no matter how brief?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Sometimes when I go for walks, it helps me clear my head a bit. Being outside and moving around can distract me from the constant replaying of those feelings. But as soon as I stop walking or try to sit still, everything comes flooding back. It’s like there’s no escape from this sense of being wronged. Even when I find brief moments of respite, they’re just temporary escapes from a reality that feels overwhelmingly unjust.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Walking sounds like a good way to get some relief. Maybe incorporating more walks into your day could help you manage the feelings a bit. It’s tough when those emotions come flooding back, but even those brief moments can be soothing. How do you feel after going for a walk?
+
+----------------------------------------
+
+PATIENT (turn 10):
+After going for a walk, I do feel a little better, like my mind has some space to breathe. But as soon as I stop moving and return to my usual routine, the feelings come rushing back. It’s frustrating because those moments of clarity and relief are so fleeting. They help temporarily, but they don’t address the core issue of feeling wronged and undervalued. Until someone acknowledges that for me, it feels like there’s no real resolution or comfort.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like the walks do offer some respite, even if it’s brief. Maybe finding a way to incorporate more movement into your day could help you maintain that sense of clarity longer. And talking to your mentor about how you feel might provide the acknowledgment you’re looking for. How does the idea of scheduling regular walks and reaching out to your mentor sound?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Scheduling regular walks sounds like it could be helpful, especially if it gives me more moments of respite throughout the day. Reaching out to my mentor is still a bit daunting, but I can see how important it might be for getting that validation I need. It’s just hard to imagine anyone truly understanding the depth of this injustice until I talk about it openly with someone who cares.
+
+I’ll try to make those walks a priority and see if I can muster up the courage to reach out to my mentor soon. For now, though, all I really want is for someone to acknowledge how deeply hurt and betrayed I feel by what happened at work. It’s just so hard to move past that when it feels like no one else sees it the same way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Scheduling regular walks is a good step, and reaching out to your mentor can be another helpful one. Taking those steps bit by bit can make a difference. It’s completely valid to want someone to acknowledge how you feel. Maybe starting with a brief conversation or even an email could ease some of the anxiety before diving into a full discussion. How are you feeling about taking that next step?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Starting with a brief conversation or an email does sound like it might be less overwhelming than a full discussion right away. I’ll try reaching out with a simple message to see how my mentor responds and go from there. For now, though, the pain is still very real, and it’s tough to keep pushing forward when everything feels so unjust. But taking those small steps can help, even if they don’t completely alleviate the hurt just yet.
+
+Thank you for listening and helping me think through this—it means a lot.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Taking those small steps is really important, and it’s great that you’re finding ways to manage the pain. Even if they don’t completely alleviate the hurt right away, these actions can make a difference. How do you feel about sending that initial message to your mentor?
+
+----------------------------------------
+
+PATIENT (turn 13):
+I feel like I should send that initial message to my mentor, but there’s still this lingering fear of being dismissed or misunderstood again. It’s a bit nerve-wracking, but I know it might be the first step toward getting some validation and support. I’ll try to keep it brief and focused on how I’m feeling rather than seeking solutions right away.
+
+Here goes nothing.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Being clear about how you’re feeling can really help. Taking this step is brave, and even if the response isn’t exactly what you hope for, it’s a positive move forward. Here’s to hoping for some validation and support. How did your message go?
+
+----------------------------------------
+
+PATIENT (turn 14):
+I sent the message to my mentor, and while I’m still waiting for a reply, just putting those feelings into words felt like a relief in itself. It’s scary to open up about how deeply hurt and wronged I feel, but it also feels necessary. I’ll see what comes next and take it from there.
+
+For now, though, the ache is still there, but at least I’ve taken this small step. I hope my mentor can provide some of the acknowledgment and support I need right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great that putting your feelings into words brought you some relief. Taking that step is a meaningful way to start getting the validation you need. Waiting for a response from your mentor can be nerve-wracking but also hopeful. How are you feeling now after sending the message?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Sending the message does feel like a small victory, even if I’m still waiting for a reply. It’s comforting to know that I’ve taken this step toward expressing how deeply hurt and wronged I feel. For now, though, the pain is still very present, but there’s a glimmer of hope that someone might truly understand and validate my feelings.
+
+I’ll keep focusing on taking these small steps and see where they lead. For now, just knowing I’ve taken this initial action helps a little bit.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re finding some comfort in the fact that you took this step. Small victories can make a big difference, especially during tough times. Keeping up with those walks and seeing how your mentor responds might bring more relief and support. How are you feeling now as you wait for their reply?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Waiting for my mentor’s reply is both nerve-wracking and hopeful. I feel a mix of anxiety and anticipation. It’s comforting to know that I’ve taken this step, but the uncertainty is still tough to handle. The walks definitely help, and I’m trying to focus on those moments of respite while I wait.
+
+For now, just knowing I’ve reached out feels like a small yet significant action. I’ll keep taking it one day at a time and see where things go from here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s good that you’re finding some comfort in the actions you’ve taken so far. The mix of anxiety and hope is normal, especially as you wait for a response. Keep focusing on those moments of respite during your walks, and take each day one step at a time. How are you feeling as you continue to navigate this?
+
+----------------------------------------
+
+PATIENT (turn 17):
+I’m trying to stay focused on the small moments of relief from my walks and the hope that reaching out to my mentor will bring some validation. It’s still tough, but taking it one day at a time helps me manage the overwhelming feelings. The anxiety is there, but so is a glimmer of hope that things might start to feel a bit more manageable soon.
+
+For now, I’ll keep moving forward with these small steps and see where they lead.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re handling it well by focusing on those moments of relief and the hope for validation. Taking it one day at a time is a great approach. How do you feel about your next walk? Sometimes just getting outside can provide that extra bit of comfort and clarity.
+
+----------------------------------------
+
+PATIENT (turn 18):
+I feel like going for my next walk will be helpful. Being outside and moving around usually clears my head a little, even if it’s just temporary relief. It gives me a chance to breathe and not dwell on the hurt so intensely for a while. So, I’ll go for that walk and try to make the most of those moments of clarity.
+
+Thanks for your support; it means a lot to have someone to talk to about this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Glad to hear that you’re feeling ready for your next walk. It’s great that it helps clear your head and provides some relief. Take your time and enjoy those moments of clarity. How do you feel after your walk?
+
+----------------------------------------
+
+PATIENT (turn 19):
+After my walk, I feel a bit more centered and less overwhelmed. Being outside and moving around really does help me process my emotions without feeling so consumed by them. It’s still tough, but the walk gave me some much-needed space to think clearly for a while.
+
+Thanks again for your support; it helps a lot to have someone to talk to about this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad the walk helped you feel more centered and clear-headed. Taking that time to process your emotions is really important. How do you feel now, and what’s next on your mind as you move forward?
+
+----------------------------------------
+
+PATIENT (turn 20):
+The walk definitely helped me feel more grounded and less overwhelmed. It’s still a challenging situation, but I’m trying to focus on the small moments of relief and clarity. As for what’s next, I’m waiting to hear back from my mentor and seeing how that conversation goes. For now, I’ll keep taking things one step at a time and hope that each small action brings some comfort and validation.
+
+Thanks again for your support; it really helps to have someone to talk through this with.
+
+----------------------------------------

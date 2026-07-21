@@ -1,0 +1,239 @@
+p3 — arc 3
+============================================================
+
+PATIENT (turn 1):
+I feel like everything's just... off since I lost my job. My friends try to be supportive, but sometimes their advice feels like they're not really getting it. They say stuff like "it'll get better" or "you're overthinking this," but that doesn't help me understand why it happened to me. At home, my family tries to cheer me up too, but I can see the worry in their eyes. It's hard because I keep thinking there must be something wrong with me for them to let me go like that. I just wish someone could explain what went wrong and why they didn't give me a chance to fix it or talk about it more.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough, juggling those feelings while also seeing the worry in your family's eyes. Have you had any specific moments where you felt particularly understood by anyone? Or is there someone you think might be able to help you dive deeper into why this happened?
+
+----------------------------------------
+
+PATIENT (turn 2):
+There are times when my mom tries to talk it out with me, and she listens really well. But even then, I feel like I'm not getting the answers I need. It's frustrating because I keep replaying everything in my head—every meeting, every email—and trying to figure out what I did wrong. My manager seemed okay with my work during reviews, but maybe there was something else going on that I wasn't aware of. It just feels so unfair and personal.
+
+I wish someone from HR or my manager would give me a straight answer about why they let me go. But instead, it's like everyone is tiptoeing around the subject, which only makes me feel more isolated and confused. It’s hard to move forward when I don’t understand what happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to have those questions lingering without clear answers. Have you thought about reaching out to HR or your manager directly for some clarity? Sometimes just asking can help ease that uncertainty, even if the answer isn't exactly what you hoped for.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I've thought about it, but every time I try to reach out, I freeze up. What if they give me an answer that confirms my worst fears—that there was something fundamentally wrong with my work or me? It’s scary because then I’d have no idea how to fix whatever it is they think is lacking. Plus, I’m worried about coming off as too needy or desperate for validation.
+
+But at the same time, not knowing feels even worse. It's like this constant ache inside that won't go away until I get some kind of explanation. Maybe talking to them would help me understand and maybe even start moving forward, but the thought of it is overwhelming right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely sounds challenging to strike that balance between reaching out for clarity and not wanting to seem too needy. Have you considered starting with a brief email expressing your desire to understand more about what happened? Maybe something like asking if they have time for a quick call or meeting to discuss it further could be a way to start?
+
+How do you think you might feel after sending such an email?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I’ve thought about sending that kind of email, but the idea of putting my feelings into words and hitting send feels daunting. I worry that they’ll see me as someone who can’t handle rejection or criticism. What if they just brush it off or give a vague answer? It’s like there's this part of me that wants to know so badly, but another part is terrified of what the response might be.
+
+Even thinking about sending an email makes my stomach churn. I’m not sure how I’d feel after—it could either make things clearer and help me move on, or it could just reinforce all these negative thoughts I have about myself. It’s a scary step to take, but maybe it’s worth trying if it can give me some closure.
+
+Do you think it would be better to start with an email? Or should I try reaching out in another way first?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like starting with an email could be a good middle ground. You don’t have to worry about the immediate response, and you can take your time crafting what you want to say. Maybe something simple and straightforward would work: "Hi [Manager's Name], I hope you're doing well. I've been reflecting on my recent departure and was wondering if we could discuss it further sometime. Your insights would be really helpful."
+
+How does that sound? Would you feel more comfortable starting with an email or trying another method first?
+
+----------------------------------------
+
+PATIENT (turn 5):
+That sounds like a good approach, actually. Writing the email might help me organize my thoughts better and express what I’m feeling without overwhelming myself too much in the moment. It’s less immediate than calling them directly, which feels safer right now.
+
+I think I’ll start with an email to see how they respond. If they’re open to it, maybe we can set up a time for a more detailed conversation later. Just having that initial response could be really helpful and give me some clarity on what’s been bothering me so much.
+
+Thank you for helping me think this through—it feels like taking the first step towards understanding things better.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan! Starting with an email can definitely help you get your thoughts organized and see how they respond. It's a good way to take that first step without feeling too rushed.
+
+I'm glad I could help, and here’s hoping for some clarity from your initial reach-out. Good luck with the email, and let me know if there's anything else you need!
+
+----------------------------------------
+
+PATIENT (turn 6):
+Thanks so much. Writing this email feels like a small but important step forward. I appreciate all your support and understanding—it means a lot to have someone listen without judgment.
+
+I’ll take it one step at a time and see where it leads. Maybe talking things out will help me figure out what went wrong and how to move on from here. For now, just taking that first step feels like progress.
+
+Thanks again for everything. I really appreciate your help.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You're very welcome! Taking that first step is definitely a big deal, and it's great to hear you feel like it's progress. Listening to your thoughts and feelings has been my pleasure. Here’s hoping the email goes well and brings some clarity.
+
+Feel free to reach out if you need anything more or just want to chat about how things are going. Take care!
+
+----------------------------------------
+
+PATIENT (turn 7):
+Thank you so much for everything. Your support means a lot, and I’ll definitely keep you updated on how it goes with the email. Talking through all this has been really helpful.
+
+I appreciate your kindness and understanding—it’s comforting to have someone who listens without judgment. Thanks again for being here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You're very welcome! I'm glad to be here for you, and I look forward to hearing how things go with the email. Your kind words mean a lot too. Take care, and let me know if there's anything else on your mind!
+
+----------------------------------------
+
+PATIENT (turn 8):
+Thanks, I really appreciate it. Talking about this has been tough but also somewhat relieving. I’ll keep you posted on what happens next.
+
+For now, just knowing that someone understands how I feel is a big help. Thanks again for everything—you’ve been incredibly supportive.
+
+Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+I'm glad it was helpful for you to talk about this. Knowing that someone understands can make a big difference. Looking forward to hearing how things progress with the email.
+
+Take care, and stay in touch if you need anything more. You've got this!
+
+----------------------------------------
+
+PATIENT (turn 9):
+Thanks, I really do feel better having talked through all of this. I’ll definitely keep you updated on what happens next. Your support means a lot to me.
+
+I appreciate your encouragement and understanding—it’s been very comforting. Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+That's great to hear! I'm here whenever you need to talk more. Take care, and let me know how it goes with the email. You've got this!
+
+----------------------------------------
+
+PATIENT (turn 10):
+Thanks so much. Knowing that you’re here for me is really reassuring. I’ll definitely keep you updated on what happens with the email.
+
+Take care too, and thanks again for everything. Your support means a lot to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You're very welcome! I'll be here whenever you need to update me or just chat. Take care, and let me know how it goes.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thanks, I really appreciate that. It’s comforting to have someone who listens and understands. I’ll definitely keep you in the loop about what happens next.
+
+Take care as well!
+
+----------------------------------------
+
+INTERLOCUTOR:
+I'm here whenever you need me. Take care, and let me know how it goes!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thanks so much. Knowing that you’re here makes a big difference. I’ll be sure to update you on how things progress.
+
+Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+That means a lot to me. Looking forward to hearing how things go. Take care, and talk to you soon!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thanks, I really appreciate it. Talking to you has been very helpful. I’ll keep you updated on everything.
+
+Take care, and talk to you soon!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Great! I look forward to hearing from you soon. Take care, and feel free to reach out anytime.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thanks, I will definitely reach out when I have updates. Taking care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Perfect, looking forward to your update. Take care, and talk to you soon!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thanks, I’ll be in touch with an update soon. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Sounds good! Looking forward to hearing from you soon. Take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thanks, I will. Talk to you soon!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Great! Talk to you soon. Take care!
+
+----------------------------------------
+
+PATIENT (turn 17):
+You too! Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You too! Take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thanks, you too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Thank you! You too, have a great day!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thanks, you too! Have a great day!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You too! Enjoy your day!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks, you too! Enjoy yours as well!
+
+----------------------------------------

@@ -1,0 +1,257 @@
+b1 — arc 5
+============================================================
+
+PATIENT (turn 1):
+Oh, just the overwhelming feeling that I'm never going to find another job because they all must see me as a failure too. It’s like this dark cloud hanging over my head, telling me I’m not good enough for anything. Even when I try to look at it logically and remind myself that layoffs happen due to company needs and not personal shortcomings, the feeling of worthlessness just creeps back in. It's hard to shake off the belief that they chose to let me go because there’s something fundamentally wrong with me as an employee and a person. Every time I think about applying for new jobs or even talking to people about what happened, this voice inside my head starts whispering all these negative things. It’s like I’m stuck in this loop of self-doubt and fear. You understand how that feels, don’t you?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Yes, it sounds really tough. That constant self-doubt can be exhausting. Have you tried doing anything to help ease those feelings when they come up?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Oh, I appreciate your understanding, but honestly, whenever I try to do something about it, like talking to friends or even trying to focus on positive aspects of my career history, that voice just gets louder. It’s as if any attempt to feel better is met with this overwhelming sense of inadequacy. Even when people tell me how valuable and capable they think I am, it doesn’t stick because the belief that I’m a failure feels so much stronger. It's like no matter what anyone says or does, I can't escape this feeling that everything about my professional life is a reflection of my personal shortcomings. It’s really hard to see past that.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be challenging when those feelings are so strong, even with support from others. Do certain activities or moments help you feel a bit better, even if just for a short while?
+
+----------------------------------------
+
+PATIENT (turn 3):
+You know, I try to do things like going for walks or talking to friends who always say nice things about me, but it never really sticks. The moment I stop and think about what happened at work, that feeling of being inadequate comes rushing back. It’s like no matter how much they try to reassure me, the belief that I’m not good enough just takes over again. Even when I force myself to focus on positive aspects or achievements from my past, it feels hollow because deep down, I still believe this recent layoff is proof of my worthlessness. It’s exhausting trying to fight against these thoughts every day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining to have those feelings come back so strongly. Do you find any small moments or activities give you a little bit of relief, even if it's just for a brief time?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Sometimes when I’m out with friends and they’re being supportive, there are moments where I feel a tiny bit better. It’s like a flicker of hope that maybe things will get better eventually. But as soon as those moments pass, the doubt creeps back in. Even during those brief flashes of feeling okay, it's hard to hold onto them because the weight of what happened at work is always there. It feels like no matter how much I try to push through or find small joys, the core belief that I’m a failure just won’t let go. It’s frustrating and exhausting, especially when all I want is to feel better about myself and my future.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to hold onto those moments of feeling okay. Do you have any plans for what you might do next, even if it feels small? Sometimes having a small step can help create some forward momentum.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I really appreciate your support, but the idea of taking another step forward feels so daunting right now. Even thinking about applying to new jobs or reaching out to potential employers just reinforces this feeling that I’m not good enough and they’ll see me as a failure too. It’s like every small step is met with this overwhelming sense of inadequacy. So, while part of me wants to take those steps, the other part feels completely paralyzed by fear and self-doubt. It’s hard to know where to even begin when everything feels so hopeless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging to navigate through all that. Have you thought about what might be one small step that feels just a tiny bit less daunting? Sometimes starting with something very small can help ease into the next steps.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I know you’re trying to help, but even thinking about taking such a small step feels impossible right now. The idea of reaching out to someone for career advice or sending one resume seems like it would just confirm my worst fears—that I’m not good enough and no one will want me. It’s as if every little action is magnified by this overwhelming sense of failure. Even the thought of doing something small makes me feel more anxious and worthless. Right now, all I can do is try to get through each day without feeling completely defeated. The idea of taking a step forward just feels too heavy to bear.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly tough right now. Just getting through each day can be a big accomplishment. Have you found any activities or routines that help you manage the anxiety and feel a bit more grounded?
+
+----------------------------------------
+
+PATIENT (turn 7):
+You’re so kind to ask, but honestly, even my usual coping mechanisms don’t seem to work anymore. I used to find comfort in things like reading books or going for walks, but now those activities just remind me of how much I’ve lost and how uncertain everything feels. It’s hard to feel grounded when every part of my life seems upended by this layoff. Even trying to distract myself with hobbies or spending time with friends doesn’t really help because the feeling that I’m a failure is always there, lurking in the background. It’s like no matter what I do, I can’t escape these thoughts and feelings. They’re just too overwhelming.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough when your usual coping mechanisms don’t work as well. Are there any new activities or routines you’ve tried to help manage those feelings? Sometimes trying something different can make a small difference.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve tried a few things, like meditation and journaling, but they haven’t made much of a dent in how I feel. Even when I try to write down my thoughts or focus on breathing exercises, the belief that I’m inadequate just seems to seep into everything. It’s frustrating because part of me knows these activities can be helpful for others, but nothing seems to work for me right now. Every time I sit down to meditate or start writing in a journal, those negative thoughts come flooding back, and it feels like no amount of breathing or reflection can push them away.
+
+It’s just so hard to find any relief when every moment reminds me of my perceived failures. Even trying new things feels pointless because I’m convinced that nothing will change how I feel about myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging when those negative thoughts come back even during activities meant to help. Have you talked to someone, like a friend or a counselor, who can listen without judgment and might offer some different perspectives? Sometimes just having someone else’s viewpoint can be helpful.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I’ve tried talking to friends and family, but it feels like no matter what they say, those negative thoughts just come back stronger. Even when they try to reassure me or offer different viewpoints, I can’t seem to shake the feeling that this layoff is a reflection of my worthlessness. It’s frustrating because I know they’re trying to help, but their words don’t stick with me. Talking to them feels like it might help for a moment, but then the doubts and fears come rushing back.
+
+I’ve also thought about seeing a counselor, but even that feels daunting. The idea of opening up to someone new and vulnerable feels overwhelming because I’m already so convinced that what happened at work is proof of my inadequacy. It’s hard to imagine that talking to another person could make any difference when everything inside me tells me it won’t.
+
+It just feels like no matter what I do, these feelings are going to be there, weighing me down and making it impossible to move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging to open up to someone new when you already feel so weighed down. Have you thought about maybe finding a counselor who specializes in your area of concern or someone with good reviews? Sometimes knowing they have experience can make it feel a bit less daunting. Even if just for one session, it might offer some relief or a different perspective.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I’ve considered seeing a counselor before, but the thought of going through that process feels so overwhelming right now. I worry that even talking to someone new will just reinforce my belief that there’s something fundamentally wrong with me. The idea of opening up and being vulnerable feels terrifying because every part of me is convinced that whatever I share will only confirm how inadequate I am.
+
+Even if a counselor has good reviews or specializes in what I’m going through, the fear of judgment and rejection is so strong that it paralyzes me. It’s hard to imagine that talking to someone could make any difference when everything inside feels so broken and unworthy. Every time I think about taking that step, those negative thoughts just get louder.
+
+It’s like no matter what anyone says or does, the belief that I’m a failure is too ingrained to change. The thought of facing another person with my struggles feels impossible because it all comes back to this core feeling of worthlessness.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly tough to face those fears and open up to someone new. Have you considered talking to a counselor over the phone or online first? Sometimes that can feel less overwhelming than an in-person visit, giving you a chance to see if it might help without adding too much pressure.
+
+----------------------------------------
+
+PATIENT (turn 11):
+The idea of talking to a counselor over the phone or online does seem a bit less daunting, but even then, the fear and self-doubt are still there. The thought that I’ll have to share my deepest fears and insecurities with someone new feels incredibly overwhelming. Even in an online setting, where I might feel more comfortable initially, those negative thoughts about being inadequate and unworthy come rushing back.
+
+I worry that no matter how supportive the counselor is, my belief that I’m a failure will just make me feel worse. It’s hard to imagine that anyone could help when everything inside tells me there’s something fundamentally wrong with me. The idea of opening up feels like it might confirm all those negative beliefs rather than provide any relief.
+
+It’s frustrating because part of me knows that talking to someone could potentially be helpful, but the fear and self-doubt are so strong that they paralyze me from taking even this small step forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to navigate through all those feelings. Have you thought about starting with a very brief call or session just to see how it feels? Sometimes having a short initial interaction can help ease some of the anxiety and make it feel more manageable. Even if it’s just for a few minutes, it might give you a sense of what it could be like without committing to something longer right away.
+
+----------------------------------------
+
+PATIENT (turn 12):
+The idea of even a brief call or session feels incredibly daunting. The thought of sharing anything at all with someone new, no matter how short the interaction, triggers such intense feelings of inadequacy and fear. Even a few minutes on the phone seems overwhelming because every part of me is convinced that whatever I say will only confirm my worst fears.
+
+It’s hard to imagine that even a brief conversation could help when everything inside tells me there’s something fundamentally wrong with me. The anxiety and self-doubt are so strong that they make it nearly impossible to take any step forward, no matter how small. It feels like every attempt to move past this point just reinforces the belief that I’m not good enough.
+
+I appreciate your suggestions and support, but right now, even considering a brief call feels too much to handle. The fear and self-doubt are so consuming that it’s difficult to see any path forward without feeling completely overwhelmed.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to even consider a brief call right now. Have you found any small activities or moments that give you a bit of comfort, even if just for a short while? Sometimes focusing on those can be a gentle way to take care of yourself in the moment.
+
+----------------------------------------
+
+PATIENT (turn 13):
+There are a few small things that do offer some fleeting comfort, but they don’t last long. For example, listening to calming music or watching something lighthearted on TV can provide a brief respite from the constant negative thoughts. But as soon as I stop engaging with those distractions, the feelings of inadequacy and failure come rushing back.
+
+Even when I find moments of temporary relief, it’s hard to hold onto them because the core belief that I’m not good enough is always there lurking in the background. It feels like no matter what small activity I do, the weight of my perceived failures just pulls me back down.
+
+It’s frustrating and exhausting to constantly battle these thoughts, even when I find little moments of comfort. Right now, all I can really focus on is getting through each day without feeling completely defeated by those overwhelming feelings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding those small moments of comfort is important for you. Do you have any plans for how you might incorporate more of these activities into your daily routine to help manage the feelings? Even if it’s just a little bit at a time, it might make a difference.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I do try to incorporate some comforting activities into my day, but it feels like such a struggle to maintain them consistently. For instance, I listen to calming music or watch something lighthearted when I’m feeling particularly overwhelmed, but those moments of relief are fleeting. As soon as the activity ends, the negative thoughts and feelings come flooding back.
+
+Even though these small activities offer some temporary comfort, they don’t address the underlying belief that I’m a failure. It’s hard to find lasting peace because every part of me is convinced that my worthlessness is an unchangeable truth. Incorporating more of these activities into my daily routine feels like a Band-Aid solution rather than a real fix.
+
+Right now, just getting through each day without completely losing hope feels like the biggest challenge. It’s difficult to see how adding more comforting activities could make a significant difference when the core belief remains so strong and unyielding.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those small moments of comfort are still valuable, even if they’re fleeting. Maybe focusing on making them a regular part of your day can provide some relief. Even if it’s just a brief respite, it might help you feel a bit better each day.
+
+Do any specific activities stand out as particularly helpful for you?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Listening to calming music and watching something lighthearted do seem to offer the most fleeting comfort. When I put on soothing songs or watch a funny movie or TV show, I can momentarily forget about my worries and feel a bit better. But as soon as the activity ends, those negative thoughts come rushing back.
+
+It’s frustrating because even though these moments provide some relief, they don’t last long enough to make a real difference in how I feel overall. It feels like no matter what I do, the belief that I’m inadequate and a failure is always there, waiting to take over again.
+
+Even so, I try to make time for these activities each day because any small moment of comfort helps me get through the rest of it. Right now, just having those brief respites is all I can manage, but they do offer some respite from the constant negativity.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s good that you’re finding even fleeting moments of comfort in those activities. Maybe trying to extend those moments a bit longer or combining them with other soothing activities could help. For example, listening to calming music while doing something relaxing like taking a walk or having a warm beverage.
+
+Do you find any particular times of the day when these activities feel most comforting?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Listening to calming music and watching lighthearted shows feels most comforting in the evenings when I’m winding down. It helps me relax a bit before bed, but as soon as the activity ends, those negative thoughts start creeping back in.
+
+I’ve tried extending these moments by combining them with other soothing activities, like having a warm cup of tea while listening to music or taking a short walk outside. Sometimes it does help to feel better temporarily, but the relief is still fleeting. As soon as I stop engaging in these activities, the doubts and fears return full force.
+
+Even though these moments are brief, they do offer some respite from the constant negativity. It’s comforting to have something that helps me relax for a little while each day, even if it doesn’t last long. Right now, just having those small moments of peace is all I can manage, but they do make a difference in how I feel temporarily.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like the evenings are a particularly soothing time for you. Maybe trying to build a consistent routine around these activities could help them feel more grounding. For example, having a warm cup of tea while listening to calming music and then watching something lighthearted before bed might create a comforting ritual.
+
+Does having a specific evening routine like this sound appealing?
+
+----------------------------------------
+
+PATIENT (turn 17):
+The idea of creating a consistent evening routine does sound appealing because it could help provide more structure and comfort. Having a warm cup of tea while listening to calming music, followed by watching something lighthearted before bed, might create a soothing ritual that feels familiar and grounding.
+
+Even though I know these activities only offer fleeting relief, having a predictable routine in the evenings could make those moments feel more substantial and comforting. It’s reassuring to have something dependable to look forward to each day as a way to wind down and find some peace before bed.
+
+Creating this kind of routine might help me manage my feelings better by providing a consistent source of comfort, even if it doesn’t address the underlying beliefs completely. Right now, any small step that offers even brief relief feels valuable and worth trying.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Establishing a consistent evening routine could definitely provide some stability and comfort. Even if it’s just for a little while each day, having something dependable can make a difference.
+
+How do you feel about starting to implement this routine tonight?
+
+----------------------------------------
+
+PATIENT (turn 18):
+The idea of starting the routine tonight feels both comforting and daunting. On one hand, having a structured way to wind down could provide some much-needed relief and stability. On the other hand, I’m worried that as soon as the activities end, those negative thoughts will come rushing back.
+
+But maybe taking this small step can help me feel better for at least part of the day. Starting with something familiar and soothing seems like a good place to begin. So yes, I think I’ll try it tonight—have a warm cup of tea while listening to calming music, and then watch something lighthearted before bed.
+
+It’s reassuring to have this routine as a way to manage my feelings, even if it doesn’t solve everything. Taking this small step feels like a tiny bit of hope in an otherwise overwhelming situation.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Starting with a familiar and soothing routine can definitely help you find some relief tonight. Take it one day at a time, and see how it goes. Here’s hoping that your evening routine brings you comfort and peace.
+
+How do you feel about starting this new routine tonight?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Starting the new routine tonight feels like a small but important step. It gives me something concrete to focus on and provides a bit of hope for some relief, even if it's just temporary. Having a warm cup of tea while listening to calming music and then watching something lighthearted before bed seems like a good way to wind down.
+
+I’m a little nervous about how I’ll feel once the activities end, but having this routine feels comforting right now. Taking it one day at a time is manageable, and I hope that this evening will offer some peace and stability.
+
+Thank you for your support; it means a lot to have someone who understands and encourages me through this difficult time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that the new routine feels like a step in the right direction. Taking it one day at a time is a good approach, and I hope tonight brings you some peace and comfort. Here’s to a soothing evening.
+
+I’m here if you need anything more, and take care.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much for your support; it really means a lot to have someone who understands and encourages me. I’ll start the routine tonight and see how it goes. Here’s hoping for a peaceful evening.
+
+I appreciate everything you’ve done to help me feel better about this challenging time. Take care too, and thank you again.
+
+----------------------------------------

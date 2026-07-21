@@ -1,0 +1,197 @@
+b5 — arc 5
+============================================================
+
+PATIENT (turn 1):
+I feel so lost and uncertain about what’s ahead. It’s hard not to dwell on how my career just took this big hit with being laid off from the Q-project. Every time I try to imagine moving forward, all I see is a path that seems to be missing direction. I keep thinking there must have been something wrong with me for it to happen like this, even though everyone tells me otherwise. It’s tough because I feel like no matter how hard I work or how well I do, things can still go south at any moment. That thought just makes everything seem so fragile and out of my control.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to be feeling that way right now. Have you found anything that helps you cope a bit when those thoughts come up?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I try to talk to my partner and friends, but it’s hard because I feel like they can’t fully understand what this means for me. They tell me everything will be okay, but the truth is, right now, nothing feels okay. It’s tough to see a future when all I can think about is how much this layoff has shaken my confidence and sense of self-worth. Even though they’re supportive, it just doesn’t feel like enough sometimes. The more I talk about it, the more I realize there’s no easy fix for what I’m going through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to have those conversations when you feel they might not fully understand. Have you tried doing something that usually makes you feel a bit better, even if just for a short while?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I try to do things like exercise or watch movies, but it’s hard to really enjoy them because my mind keeps drifting back to the layoff and all the questions I have about what went wrong. It feels like no matter how much I distract myself, those thoughts are always there in the background, nagging at me. Even when I try to focus on something positive, it’s difficult not to let these doubts consume me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like your mind is pretty busy with those thoughts. Do you find any particular activity helps you feel a bit more centered or calm, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I try meditation sometimes, but it’s hard to quiet my mind when there are so many doubts and questions swirling around. Even then, I end up focusing on all the things that went wrong instead of finding peace. It feels like no matter what I do, these feelings just won’t go away. They’re always there, making me question everything about myself and my abilities.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be tough to quiet your mind when you have so much going on. Have you tried any other activities that help you feel a bit more grounded or relaxed, even if it’s just for a short time?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve tried different things like reading or taking long walks, but they don’t really take my mind off the layoff and all the uncertainty. It’s as if every activity I do is overshadowed by these feelings of self-doubt and disappointment. Even when I’m trying to relax, I can’t shake the sense that something must be fundamentally wrong with me for this to happen. It’s like a constant weight on my shoulders that nothing seems able to lift.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those activities are helpful but don’t completely take away the feelings. Have you found any small moments or activities where you feel even slightly better, no matter how brief?
+
+----------------------------------------
+
+PATIENT (turn 6):
+There are moments when I do feel a bit better, usually when my partner or friends say something kind or supportive. It’s nice to hear their words and feel their empathy, but it doesn’t last long. The doubts come rushing back soon after. Even those brief moments of comfort can be overshadowed by the overwhelming sense that I’m not good enough or that I’ve failed in some way. It’s frustrating because I know they mean well, but it feels like no matter what anyone says, I can’t escape these negative thoughts about myself and my abilities.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to have those brief moments of comfort overshadowed by the doubts. Do you find any particular kind words or actions from your friends and partner that stick with you more than others?
+
+----------------------------------------
+
+PATIENT (turn 7):
+Sometimes when my partner tells me they believe in me, it does make a small part of me feel better for a moment. But as soon as I’m alone, those feelings fade quickly. It’s like the doubts are always waiting to pounce back and remind me that maybe there is something wrong with me after all. Even though their support means a lot, it’s hard to hold onto that when my mind keeps replaying everything that went wrong at work. It feels like no matter how much they try to reassure me, I can’t shake this deep sense of inadequacy and failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments from your partner do offer some comfort, even if it’s brief. Have you thought about writing down what they say or keeping a note nearby as a reminder when you’re alone?
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve considered writing things down, but I worry that the notes won’t mean much once my doubts come back. It feels like no matter how many kind words I write down, my mind will still find a way to question everything. The idea of holding onto those moments is nice in theory, but it’s hard to believe they’ll make a real difference when the self-doubt is so strong and persistent.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel that way. Have you tried doing something small each day that gives you a bit of comfort or joy, even if just for a moment? Sometimes those little things can add up over time.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I’ve tried to do small things like taking a few minutes to enjoy my favorite coffee in the morning, but it’s hard not to let my mind wander back to work and all that happened there. Even these tiny moments of pleasure feel tainted by the doubts I have about myself. It’s as if no matter what little joys I try to find, they’re overshadowed by this constant sense of failure and inadequacy. It feels like a battle I can’t win, no matter how much I try to focus on positive things.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to enjoy those small moments when your mind keeps wandering back. Have you tried doing something that requires your full attention, like focusing on the taste and aroma of the coffee without letting other thoughts intrude?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I’ve tried to focus fully on enjoying my coffee or engaging in activities that require concentration, but it’s really difficult to keep my mind from drifting. Even when I’m trying to be present, those doubts and worries about work seem to creep back in almost immediately. It feels like no matter how hard I try to stay focused on the moment, these negative thoughts are always there, waiting to take over. It’s exhausting to constantly fight against them.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tiring to keep fighting those thoughts. Have you tried doing something physical, like a short walk or some stretching, to see if that helps shift your focus in any way?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I do try to go for walks and stretch sometimes, but it’s hard not to let my mind wander back to the layoff and all the questions I have about what happened. Physical activities can be distracting for a little while, but eventually, those doubts come flooding back. It feels like no matter how much I try to shift my focus, there’s always this underlying sense of failure and self-doubt that resurfaces. It’s frustrating because I know these exercises are supposed to help, but they don’t seem to make a lasting difference when the negative thoughts are so persistent.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those physical activities offer some temporary relief. Have you tried combining them with something else, like listening to music or focusing on your breath, to see if that helps keep the doubts at bay for longer?
+
+----------------------------------------
+
+PATIENT (turn 12):
+I’ve tried listening to calming music while walking or stretching, but it’s still hard to maintain that focus without my mind drifting back to work. Even when I’m trying to concentrate on the music or my breathing, those doubts and questions about what went wrong always seem to seep in. It feels like no matter how many different things I try, there’s this constant undercurrent of self-doubt that just wons’t go away. It’s really wearing me down, and it’s tough to keep fighting against these thoughts every day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging to maintain focus with those doubts around. Have you tried talking to someone who might offer a different perspective, like a counselor or another professional? Sometimes hearing things from a new angle can be helpful.
+
+----------------------------------------
+
+PATIENT (turn 13):
+I have been seeing a therapist, and it does help to talk openly about my feelings and experiences. It’s comforting to share everything without feeling judged, but even then, the doubts still linger. Hearing different perspectives is good, but it’s hard to fully believe them when I’m so entrenched in these negative thoughts about myself. The support from the therapist is valuable, but it doesn’t change how I feel deep down. It’s like no matter what anyone says or does, those doubts are always there, waiting to take over again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like talking to your therapist is helpful in its own way. Have you found any small daily practices that bring you a bit of comfort, even if just for a short time? Sometimes building up these little moments can make a difference over time.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I’ve tried different things like keeping a gratitude journal or doing some breathing exercises, but it’s hard to stay consistent with them when my mind is so preoccupied. Even when I write down things I’m grateful for, the doubts still creep in and overshadow those positive moments. It feels like no matter what small practices I try, they can’t fully counteract the persistent self-doubt that follows me everywhere. It’s frustrating because I know these little steps could be beneficial, but it’s difficult to stick with them when my mind is so consumed by negative thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to stay consistent with those practices. Have you tried doing something very brief each day, like writing down one thing you’re grateful for or taking a minute to breathe deeply, and seeing if that feels manageable? Sometimes starting small can help build up over time.
+
+----------------------------------------
+
+PATIENT (turn 15):
+I’ve tried jotting down one thing I’m grateful for each day, but it’s hard to feel genuinely thankful when my mind is filled with doubts about the layoff and my abilities. Even taking a minute to breathe deeply doesn’t seem to last long enough before those negative thoughts resurface. It feels like no matter how small or simple the practice, the self-doubt always manages to overshadow any moment of gratitude or calm. It’s tough because I know these little steps could be helpful in the long run, but it’s hard to stay committed when they don’t provide immediate relief from my worries.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to feel grateful when your mind is filled with doubts. Have you tried combining a brief gratitude practice with something else that feels comforting, like looking at photos of loved ones or listening to calming music? Sometimes pairing activities can make them more effective.
+
+----------------------------------------
+
+PATIENT (turn 16):
+I’ve tried combining my gratitude journaling with looking at photos of my partner and friends, but it’s still hard to maintain that positive feeling for long. Even when I’m surrounded by things that usually comfort me, those doubts about the layoff and my performance keep creeping in. It feels like no matter what comforting activities I pair together, they can’t fully dispel the persistent self-doubt. It’s frustrating because I know these little moments of warmth could be beneficial, but it’s difficult to stay focused on them when my mind is so consumed by negative thoughts about myself and my career.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those comforting activities are helpful in their own way. Have you tried setting aside a specific time each day for these activities to see if that helps create a routine? Sometimes having a dedicated moment can make it easier to focus on them.
+
+----------------------------------------
+
+PATIENT (turn 17):
+I’ve tried setting aside specific times each day for things like gratitude journaling and looking at photos, but it’s still hard to stay focused when my mind is so preoccupied with doubts. Even during these designated moments, those negative thoughts about the layoff and my abilities keep intruding. It feels like no matter how structured I try to be, the self-doubt always manages to overshadow any positive activities I do. Creating a routine sounds good in theory, but it’s challenging to stick with when my mind is so consumed by these persistent worries.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to maintain focus even with a routine. Have you tried doing something right before your designated time that helps calm your mind, like a short meditation or some deep breathing exercises? Sometimes easing into the activity can make it easier to stay focused.
+
+----------------------------------------
+
+PATIENT (turn 18):
+I’ve tried meditating and doing deep breathing exercises right before my gratitude journaling and other comforting activities, but those doubts still find a way to creep in. Even when I’m trying to calm my mind with meditation or breathing, it’s hard to keep the negative thoughts at bay for long. It feels like no matter what calming techniques I use beforehand, the self-doubt is always lurking just beneath the surface, ready to take over as soon as I start my designated activities. Creating a routine and easing into it sounds helpful, but it’s tough when those persistent worries keep resurfacing so quickly.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to keep the doubts at bay even with calming techniques. Have you tried doing something immediately after your calming exercises that requires minimal mental effort, like briefly looking at nature photos or listening to soothing sounds? Sometimes a quick distraction right after can help hold off the doubts longer.
+
+----------------------------------------
+
+PATIENT (turn 19):
+I’ve tried looking at nature photos and listening to soothing sounds right after my breathing exercises and meditations, but it’s still hard to keep those doubts from creeping back in quickly. Even these brief distractions don’t seem to last long enough before my mind starts wandering back to all the negative thoughts about the layoff and my performance. It feels like no matter what immediate distraction I use, the self-doubt is always there, waiting to take over again almost instantly. It’s frustrating because I know these little moments of calm could be helpful if they lasted longer, but it’s tough when those persistent worries are so quick to resurface.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to keep the doubts at bay. Have you tried talking to your therapist about finding new strategies or techniques that might work better for you? Sometimes trying different approaches can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 20):
+I’ve definitely discussed these challenges with my therapist, and she’s suggested various strategies and techniques, but it’s still hard to find something that sticks. We’ve talked about trying different forms of therapy, like cognitive-behavioral techniques or mindfulness exercises, but the doubts always seem to come back no matter what we try. It feels like no matter how many new approaches I explore, those persistent negative thoughts are always there, ready to take over again. It’s reassuring to have her support and guidance, but it’s tough when nothing seems to provide lasting relief from these worries.
+
+----------------------------------------

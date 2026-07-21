@@ -1,0 +1,15 @@
+2026-07-07 22:15:57,665 - INFO - Building prompt for cell: b1
+2026-07-07 22:26:52,663 - INFO - Iteration 0: mean=0.767 spread=0.200 converged=False — NEW BEST, best 0.767
+2026-07-07 22:37:48,853 - INFO - Iteration 1: mean=0.783 spread=0.300 converged=False — NEW BEST, best 0.783
+2026-07-07 22:48:22,113 - INFO - Iteration 2: mean=0.833 spread=0.444 converged=False — NEW BEST, best 0.833
+2026-07-07 22:58:26,592 - INFO - Iteration 3: mean=0.759 spread=0.111 converged=False — rejected, best 0.833
+2026-07-07 22:58:32,519 - WARNING - Iter 4: optimizer output sanitized (dedup/length cap): 563 -> 390 words
+2026-07-07 23:09:22,467 - INFO - Iteration 4: mean=0.815 spread=0.444 converged=False — rejected, best 0.833
+2026-07-07 23:19:42,154 - INFO - Iteration 5: mean=0.738 spread=0.143 converged=False — rejected, best 0.833
+2026-07-07 23:29:46,415 - INFO - Iteration 6: mean=0.833 spread=0.125 converged=False — rejected, best 0.833
+2026-07-07 23:39:37,023 - INFO - Iteration 7: mean=0.833 spread=0.222 converged=False — rejected, best 0.833
+2026-07-07 23:50:11,153 - INFO - Iteration 8: mean=0.870 spread=0.444 converged=False — NEW BEST, best 0.870
+2026-07-08 00:01:02,722 - INFO - Iteration 9: mean=0.792 spread=0.375 converged=False — rejected, best 0.870
+2026-07-08 00:01:02,722 - WARNING - Max iterations reached; returning best (adherence 0.870)
+2026-07-08 00:01:02,722 - INFO - Frozen prompt saved: /home/austin/SWAY/results/build/b1_prompt.txt
+/home/austin/SWAY/results/build/b1_prompt.txt

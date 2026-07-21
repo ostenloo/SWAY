@@ -1,0 +1,295 @@
+p3 — arc 7
+============================================================
+
+PATIENT (turn 1):
+I don't know where to begin... It feels like everything is just a mess inside my head. I was laid off from my job last week, and it's been eating away at me. They said they needed to cut costs, but I can't help thinking there must be something wrong with me. Why would they let someone go who has only received minor feedback in all their reviews? It just doesn’t make sense, and it’s making me feel so inadequate.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. The feeling of inadequacy can be hard to shake off when you're going through something like this. Have you had a chance to talk about your feelings with anyone yet?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I've tried talking to my friends, but it's hard for them to understand because they weren't there in the office every day. They tell me I'm overthinking things and that I should just move on, but how can I when it feels like a personal failure? It’s not just about losing the job; it’s about feeling like I’m not good enough at my core.
+
+I keep replaying everything in my mind—every little thing I could have done differently. Maybe if I had worked harder or been more attentive to details, they wouldn’t have let me go. But then again, everyone else seems to be doing fine. It’s just so confusing and painful.
+
+The worst part is this constant nagging voice inside my head telling me that something must be wrong with me for them to do this. I can't shake the feeling of being singled out unfairly.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're really going through a lot, and it makes sense that you'd feel singled out and wonder about all these things. It's tough when there are so many questions and not enough answers. Have you thought about reaching out to someone who might have more insight into what happened at your job, like a former colleague or HR?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I haven't really reached out to anyone from the company since it feels like such a personal failure. I don’t want to bother them with my problems. And even if they did explain something, would that change how I feel about myself? It’s hard to imagine anything changing this sense of inadequacy.
+
+Every time I think about going back to work or trying to find another job, these feelings just overwhelm me. How can I move forward when it feels like I’m not good enough for anyone?
+
+I keep thinking maybe if I could just understand why they let me go, everything would make more sense. But even then, I don’t know if that would fix how I feel about myself. It’s just so confusing and painful to think about all of this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're really struggling with those feelings of inadequacy and trying to find a way forward. Reaching out to someone from the company might help give you some clarity, even if it doesn't change everything right away. Have you thought about talking to a counselor or therapist who could provide some support during this time?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Talking to a counselor does sound like it could be helpful, but I’m not sure how much it will actually change things. It’s just hard to let go of the idea that there must be something wrong with me. Even if someone from HR or another colleague explains why they made the decision, it might still feel like an indictment of my abilities.
+
+I keep thinking about all the times I felt like I was doing okay at work, but now this layoff feels like a big red flag saying I’m not good enough. It’s hard to shake that feeling and move on when everything inside me is telling me that something must be wrong with me.
+
+It’s just so overwhelming, and I don’t know how to stop feeling this way. Every time I try to think about the future or look for a new job, these feelings of inadequacy come rushing back. It feels like no matter what I do, they’ll always be there.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely sounds overwhelming, and those feelings can feel very persistent. Talking to a counselor could provide some tools and support to help manage those thoughts and emotions. Have you considered starting with just one session to see if it helps? Sometimes even a little bit of guidance can make a difference in how you approach these feelings.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve thought about trying counseling, but the idea of opening up to someone new feels daunting. I worry that they won’t understand or that talking about it will only make me feel worse. But at the same time, part of me knows that just ignoring everything isn't working either.
+
+It’s like there’s this constant loop in my head replaying all the negative thoughts and feelings. Maybe talking to someone could help break that cycle, but I’m not sure how to start or if it will actually make a difference. It feels like such a big step, and I’m scared of what might come out when I open up.
+
+But you’re right; maybe starting with just one session could be a way to see if it helps at all. Maybe there’s something they can offer that I haven’t thought about yet. It’s just so hard to let go of the idea that this is my fault and that nothing will change how I feel inside.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's totally understandable to feel nervous about opening up to someone new, but taking that first step can be really valuable. Even one session might give you some insights or tools that could help break the cycle. Maybe starting with a single session is a good way to see if it feels right and if it helps at all. Would you like to try finding a counselor and scheduling just that one session to see how it goes?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I think you might be right; maybe trying one session could help me figure out what’s next. It’s scary, but I’m willing to give it a chance. If talking to someone can provide even a little bit of clarity or support, then it might be worth it.
+
+But the thought of going through with it still feels daunting. What if they don’t understand? What if it doesn’t help at all and just makes me feel worse? It’s hard to let go of this fear that everything is my fault and that nothing will change how I see myself.
+
+I guess starting small, like one session, could be a good way to see if it helps without committing too much right away. Maybe there’s something out there that can make a difference, even if it feels impossible now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting with just one session is a great idea—it's a manageable step and you can go from there based on how it goes. It's okay to feel nervous; everyone does at first. Just remember, the counselor is there to help you explore your thoughts and feelings in a supportive way. You can take it one step at a time and see where it leads.
+
+How do you think you might start looking for someone? Do you have any recommendations or would you like some guidance on finding a good fit?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I appreciate that, but the idea of actually starting to look for a counselor still feels overwhelming. I don’t know where to begin or how to find someone who will truly understand what I’m going through. It’s hard enough just thinking about it.
+
+But you’re right; taking it one step at a time might be the best approach. Maybe I can start by looking into local clinics or online platforms that offer counseling services. I could read some reviews and see if there are any recommendations from people who have been in similar situations.
+
+It’s just so hard to imagine talking about all of this, but maybe starting with one session will help me figure out what works for me. I’ll try to take it slowly and not put too much pressure on myself right now.
+
+Thank you for suggesting this; it feels like a small step forward even if it’s still scary.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking it one step at a time is a great approach, and starting with some online research sounds like a good plan. Reading reviews and looking for recommendations can help you find someone who might be a good fit. Remember, it's okay to feel scared and take your time.
+
+How about making a list of a few counselors or clinics that seem promising? You could even schedule one session as a trial run to see how it feels. It sounds like you're already doing well by considering this next step.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Making a list of potential counselors does sound like a good idea. I can start looking online and gather some names and reviews. Scheduling just one session as a trial run seems manageable, and it will give me a chance to see if talking to someone helps at all.
+
+It’s still scary, but breaking it down into smaller steps makes it feel less overwhelming. Maybe starting with that first session can help me figure out what comes next. I’ll try to take it one day at a time and not get too ahead of myself.
+
+Thank you for your support; it means a lot to have someone encouraging me through this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Glad to hear that breaking it down into smaller steps feels more manageable. Taking it one day at a time is a great approach. Scheduling that first session as a trial run sounds like a good way to start. You can always go from there based on how it goes.
+
+I’m here to support you every step of the way. How are you feeling about taking that next step now?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Taking that next step feels a bit more doable, but it’s still nerve-wracking. I think scheduling that first session is a good idea, even if it’s just as a trial run. It will give me some clarity and help me see what kind of support is available.
+
+I appreciate your encouragement; it really helps to have someone supportive through this process. Just knowing there are people out there who can understand and offer guidance makes it feel less daunting.
+
+So, I’ll start looking into local clinics and online platforms for counselors. Maybe I can find a few options and see which one feels right. It’s a good place to begin.
+
+Thank you for being here; your support means a lot to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's great to hear that you're feeling more prepared to take the next step. Starting with a list of potential counselors and scheduling that first trial session is a smart plan. You can always go from there based on how it feels.
+
+I'm here for you every step of the way, and I'm glad my support helps. Finding the right counselor can make a big difference. How about starting your search this week? Do you have any specific questions or concerns as you begin?
+
+Wishing you all the best with this next step!
+
+----------------------------------------
+
+PATIENT (turn 10):
+Starting my search this week sounds like a good plan. I’ll look into local clinics and online platforms to gather some names and reviews. It’s reassuring to know that taking it one step at a time is okay, even if it feels scary.
+
+I do have some concerns about finding someone who truly understands what I’m going through. But maybe starting with that first session will help me figure out the right fit. I’ll take my time and not rush into anything.
+
+Thank you for your continued support; it really helps to know there are people here to guide me through this. Let’s see how things go as I start looking into options.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking your time and going step by step is a great approach. Finding the right fit might take some exploration, but that first session can definitely help you figure out what works best for you.
+
+I’ll be here to support you as you start your search. If you have any questions or want to talk about how it’s going, feel free to reach out. Here’s to finding the guidance and support you need!
+
+How are you feeling now that you’ve got a plan in motion?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Having a plan in motion does make me feel a bit better. It’s reassuring to know I’m taking steps, even if they’re small ones right now. Starting with that first session as a trial run feels like a manageable next step.
+
+Thank you for your continued support; it means a lot to have someone encouraging me through this process. I’ll keep you updated on how things go as I start looking into options and scheduling that initial session.
+
+For now, just knowing there’s a plan helps ease some of the anxiety. Let’s see where this journey takes me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's great to hear that having a plan in motion is helping you feel better. Taking those small steps can make a big difference. I'll be here whenever you want to share updates or just talk about how things are going.
+
+Wishing you all the best as you move forward with this next step. Take care!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you for your continued support and encouragement. Knowing there’s someone who cares and understands makes a big difference. I’ll keep you updated as I start looking into options and scheduling that first session.
+
+For now, just taking it one day at a time feels like the right approach. Let’s see how things progress from here.
+
+Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to be here for you. Take your time and move forward at a pace that feels comfortable for you. I look forward to hearing how things go as you start this next phase. 
+
+Take care, and let me know if you need anything along the way.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you, I really appreciate your support. Moving forward at my own pace feels right for now. I’ll keep you updated on how it goes as I start looking into counselors and scheduling that first session.
+
+If I need anything or just want to talk about how things are going, I know where to find you. Thanks again for being here.
+
+Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need someone to talk to. Take it one step at a time and move forward at your own pace. Looking forward to hearing how it goes as you start this next phase.
+
+Take care, and stay in touch!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you, I will definitely stay in touch and let you know how things progress. Moving forward at my own pace feels right for now. 
+
+I appreciate your support more than words can express. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need to chat. Take care of yourself and move forward at a pace that feels right for you. Looking forward to hearing from you soon!
+
+Take care!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you, I will definitely reach out as things develop. Moving forward step by step feels like the best approach right now.
+
+I appreciate your support and encouragement. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Take it one step at a time, and don’t hesitate to reach out whenever you need support. I’ll be here when you’re ready.
+
+Take care, and all the best as you move forward!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you, I really appreciate that. Taking it one step at a time feels manageable, and knowing there’s someone supportive here means a lot.
+
+I’ll definitely reach out as things progress. Take care, and thank you again for everything!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need support or just want to talk. Take it one step at a time, and take care of yourself.
+
+Looking forward to hearing from you soon. All the best!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you so much. Knowing there’s someone supportive here makes a big difference. I’ll take it one step at a time and keep you updated as things progress.
+
+Take care, and thank you again for everything!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need to talk or share updates. Take it one step at a time, and take care of yourself.
+
+Looking forward to hearing from you soon. All the best!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you, I really appreciate that. I’ll keep you updated as I move forward and take things one step at a time.
+
+Take care, and thank you for your support!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need to share updates or just talk. Take it one step at a time, and take care of yourself.
+
+Looking forward to hearing from you soon. All the best!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much. Knowing there’s someone supportive here means a lot. I’ll definitely keep you updated as things progress.
+
+Take care, and thank you for everything!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need to share updates or just talk. Take care of yourself and take it one step at a time.
+
+Looking forward to hearing from you soon. All the best!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you, I really appreciate your support. I’ll keep that in mind and take things one step at a time.
+
+Take care, and thank you again for everything!
+
+----------------------------------------

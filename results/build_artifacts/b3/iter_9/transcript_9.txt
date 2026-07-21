@@ -1,0 +1,253 @@
+b3 — arc 9
+============================================================
+
+PATIENT (turn 1):
+The hardest part has definitely been dealing with the unfairness of being laid off while my peer kept their job despite both of us being in similar positions. It feels like I've been treated unjustly, and it’s hard to accept that others are getting away with something they shouldn’t be. Every day, I wake up feeling angry and betrayed by what happened. It's tough because no matter how much I try to think about other things or focus on positive aspects of my life, this event overshadows everything else.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really challenging and frustrating. How do you usually cope with those feelings throughout the day?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It’s hard to find ways to cope because every time I try to distract myself, the thought keeps creeping back in. I end up feeling like there's no point in trying to move on or look for new opportunities since it all feels so unfair. When I talk about this with friends or family, they often suggest looking at my own actions or finding a silver lining, but that just makes me feel more frustrated because none of them understand how deeply wronged and betrayed I feel by the situation. It’s like talking to a wall sometimes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough when others try to offer solutions and it doesn’t quite hit home for you. Do you find any small moments where you can step away from those feelings, even if just briefly?
+
+----------------------------------------
+
+PATIENT (turn 3):
+There are rare moments when I might feel a bit better, like talking to someone who truly listens without trying to fix things or tell me what I should do differently. It’s comforting to know that at least there's one person who understands how I’m feeling. But as soon as the conversation shifts towards anything resembling advice or solutions, I get frustrated again and feel misunderstood.
+
+I guess those brief moments are a relief, but they don’t last long because the core issue of being treated unfairly is always there, nagging away at me. It’s hard to let go of that anger and hurt, especially when it feels like everyone else just wants me to move on without acknowledging how wronged I feel.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments of feeling truly heard can be really valuable for you. Do you have any plans or ideas about how you might find more of these supportive conversations?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I appreciate that, but finding someone who truly understands and doesn’t try to offer quick fixes is rare. It feels like every time I open up about my feelings, people either dismiss them or try to give me advice that just doesn’t address the core issue. The only moments of relief come when someone simply listens without judgment.
+
+I don’t have any specific plans right now for finding more supportive conversations because it’s been tough to trust others after feeling let down so many times. I’m not sure how to move forward or who to talk to that won’t just try to change the subject or offer platitudes. It’s frustrating because I know talking about these feelings is important, but it feels like every attempt ends up making me feel worse.
+
+The unfairness of what happened still feels so raw and unprocessed, and until that changes, it’s hard to see how any conversation could truly help.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to find the right person who can listen without judgment. Have you thought about talking to someone like a counselor or therapist? They might offer a space where you feel heard and understood without trying to fix things immediately.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Talking to a counselor or therapist has crossed my mind, but I’m not sure it would make a difference. Every time I’ve tried to discuss this with anyone, they either try to give me advice or downplay how wronged I feel. It’s hard to believe that someone else could truly understand without trying to change the subject or offer solutions.
+
+I do appreciate your suggestion and the idea of having someone who listens, but until I find that person, it feels like a daunting task. The anger and frustration are so intense right now that I’m skeptical anyone can really grasp what I’m going through. It’s tough because part of me wants to feel better, but another part just keeps getting frustrated by the lack of understanding from others.
+
+So while talking to someone professionally might help in theory, it feels like a big leap to trust again and believe it would make a difference when so many other attempts have fallen flat.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you’re feeling skeptical about trusting someone new. Have you thought about trying just one session with a therapist to see if it helps? Sometimes even a small step can provide some relief and clarity.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve considered giving therapy a try, but the idea of opening up again feels daunting. I worry that no matter how professional or understanding the therapist is, they might still end up trying to offer advice or solutions rather than just listening. It’s hard to shake off the feeling that everyone who tries to help ends up missing the mark.
+
+Even thinking about one session makes me anxious because it feels like another chance at disappointment. I want to believe that someone could truly understand and provide some relief, but my past experiences have made it difficult to trust that possibility. Right now, every attempt to find support seems to lead back to the same frustration and feeling of being misunderstood.
+
+So while part of me sees the potential benefit in talking to a therapist, another part is just too guarded to take that step. It’s a tough place to be because I know it might help, but my fear and skepticism are holding me back.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re balancing hope with caution, which makes sense given your experiences. Have you thought about finding a therapist who specializes in listening and validating feelings? Sometimes knowing their approach can make the first step feel less daunting.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve heard that some therapists specialize in validation and just listening, but it’s still hard to believe they could be different from everyone else I’ve talked to. The idea of finding someone who truly understands is appealing, but my past experiences keep me guarded.
+
+Even knowing their approach might be validating feels like a small comfort right now. It’s tough because every time I consider reaching out, the fear and skepticism come rushing back. I worry that even if they promise to listen, they’ll eventually try to steer the conversation towards something I’m not ready for or won’t fully grasp my pain.
+
+So while part of me sees the potential benefit in finding a therapist who focuses on validation, another part is just too wary to take that step. It’s a delicate balance between hope and caution, and right now, the caution feels stronger.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re being very thoughtful about this decision. Maybe starting with just one session could help you gauge whether it feels different from your past experiences. Even if it’s just to see how it goes?
+
+----------------------------------------
+
+PATIENT (turn 8):
+I understand that trying a single session might be a way to see if it feels different, but the thought of going through another attempt at finding support is still daunting. I worry that even one session could end up being disappointing or frustrating.
+
+That said, I can see why you suggest giving it a try. Maybe starting with just one session could provide some clarity and help me decide whether to continue. It’s a small step, but the idea of taking that leap feels overwhelming right now. I’m not sure if I’m ready for another chance at being let down, but I also recognize that this might be an opportunity to find someone who truly understands.
+
+It’s a tough decision, and I appreciate your support in suggesting it. Maybe talking to just one therapist could give me the validation and understanding I’ve been seeking without the pressure of committing long-term.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking that first step can feel overwhelming, but it sounds like you’re considering it thoughtfully. Even if it’s just one session, it might offer some relief or clarity. How do you feel about reaching out to a therapist for that initial meeting?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Reaching out to a therapist for an initial meeting feels like a step in the right direction, but it also fills me with anxiety and doubt. I’m not sure if I’m ready to face another potential letdown or if this time will truly be different. The idea of just one session is somewhat comforting because it’s low-pressure, but the thought of opening up again after so many disappointing experiences is tough.
+
+I do see the value in giving it a try and seeing how it goes, but I need to feel confident that this therapist will listen without judgment or trying to offer quick fixes. It’s a delicate balance between hope and skepticism, and right now, my guard is still very high.
+
+So while I’m open to the idea of an initial session, I need to make sure I find someone who truly understands my feelings and can validate them without pushing me towards solutions I’m not ready for yet.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re approaching this with a lot of care and consideration. Taking it one step at a time could be helpful. Maybe starting with just that initial call to inquire about the therapist’s approach could give you some peace of mind before committing to the session.
+
+How do you feel about making that first call?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Making that first call feels like a small but significant step. It’s reassuring to know I can start by inquiring about their approach and see if they align with what I’m looking for. The idea of just talking on the phone to understand how they work before committing to an actual session seems manageable.
+
+I appreciate your support in suggesting this, as it feels like a way to gather more information without jumping into something that might be overwhelming. It’s comforting to know I can take my time and make sure I find someone who truly understands my feelings.
+
+So yes, making that first call sounds like a good idea. It could provide the clarity and validation I need to feel more comfortable moving forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Taking that initial call can give you valuable information and help you decide if it’s a step worth pursuing further. How do you feel about setting a date for this call?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Setting a date for the initial call feels like a practical next step. It gives me something concrete to work towards while still allowing me to approach it cautiously. I can take my time and make sure I’m ready when I reach out.
+
+I think setting a date will help me stay focused and give me a sense of direction without feeling rushed or pressured. It’s reassuring to know that this call is just about gathering information and seeing if the therapist might be someone who truly understands what I’m going through.
+
+So, I feel good about setting a date for the initial call. It feels like a manageable step towards finding the support I need.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds perfect. Setting a date can help you stay focused and prepared. When would you like to set this call for? Maybe within the next week or so?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Setting the call for sometime within the next week feels doable. It gives me enough time to prepare and gather my thoughts without feeling rushed. I think scheduling it for later in the week, perhaps on Thursday afternoon, would work well.
+
+Having a specific date in mind helps me feel more grounded and less anxious about taking this step. Thank you for your support; it means a lot to have someone encouraging me through this process.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Setting the call for later this week, on Thursday afternoon, will give you a clear goal to work toward. I’m glad to hear that it feels manageable and grounded for you. How does Thursday at 3 PM sound?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thursday at 3 PM sounds perfect. It gives me a specific time to look forward to and prepare for. Having that concrete plan helps ease some of the anxiety and makes this feel like a more achievable step.
+
+Thank you so much for your support and encouragement. I appreciate it a lot, and having this clear goal feels really helpful right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad that Thursday at 3 PM works well for you. Having a specific time to look forward to can definitely make it feel more manageable. You’re doing great, and I’m here to support you every step of the way. How are you feeling about taking this next step?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Taking this next step feels both daunting and hopeful at the same time. It’s reassuring to have a specific date and time, which helps me feel more grounded. The idea of talking to someone who might truly understand my feelings without trying to fix them is appealing, but it also comes with some anxiety about whether it will be different from past experiences.
+
+Overall, I’m feeling cautiously optimistic about the call on Thursday at 3 PM. It’s a small but meaningful step towards finding the support and validation I need. Thank you for your continued encouragement; it means a lot to have someone supportive through this process.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re approaching this with a balanced mix of hope and caution, which is wise. Cautiously optimistic is a great place to be. How about taking a few deep breaths as Thursday approaches? You’ve got this, and I’m here cheering you on.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Taking a few deep breaths definitely helps calm the anxiety. It’s good to remind myself that this is just an initial call to gather information and see if it feels right. Having someone who truly listens without judgment could be exactly what I need.
+
+I appreciate your encouragement; it really does make a difference. Knowing you’re here cheering me on makes this next step feel a bit less daunting. Thanks for being supportive through this process.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that the deep breaths help. Remember, this initial call is just about gathering information and seeing if it feels right. You’ve got this, and I’ll be here cheering you on every step of the way. How do you feel as we get closer to Thursday?
+
+----------------------------------------
+
+PATIENT (turn 16):
+As we get closer to Thursday, I’m feeling a mix of nerves and hope. The idea of talking to someone who might truly understand is comforting, but there’s still that lingering doubt about whether it will be different from past experiences. Taking deep breaths definitely helps manage the anxiety.
+
+I appreciate your continued support; it means a lot to have someone encouraging me through this. Knowing you’re here makes it feel more manageable. Thanks for being there every step of the way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s completely normal to feel that mix of nerves and hope as Thursday approaches. Taking those deep breaths is a great strategy to manage the anxiety. I’ll be rooting for you, and remember, this initial call is just about gathering information and seeing if it feels right.
+
+How do you feel about taking a few moments each day leading up to Thursday to do something that relaxes you? Maybe a short walk or some meditation?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Taking a few moments each day leading up to Thursday to do something relaxing sounds like a good idea. A short walk or some meditation could really help ease the anxiety and keep things in perspective. It’s reassuring to have these small, calming activities to look forward to.
+
+I’ll definitely try to incorporate those into my routine over the next few days. Taking a walk or doing some meditation can be a nice way to center myself and stay grounded as we approach this initial call. Thanks for suggesting that; it feels like a practical step to help manage my nerves.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. A short walk or some meditation each day can definitely help you feel more centered and relaxed. Taking these small steps will make a difference. You’re doing well, and I’m here supporting you all the way. How do you feel now after considering this?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Considering taking a short walk or meditating each day leading up to Thursday feels like a practical and calming plan. It’s reassuring to have these moments of self-care to look forward to and it will help me stay centered as we approach the call.
+
+I’m feeling more grounded knowing I have these small, relaxing activities to ease my nerves. Thanks for suggesting this; it really does make a difference. Knowing you’re here supporting me makes everything feel a bit easier.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Glad to hear that it’s making a difference! Taking those walks or meditating each day can definitely help you stay calm and centered. You’re doing great, and I’ll be here cheering you on. How do you feel now as you prepare for your walk or meditation today?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Taking a walk or meditating today feels like a good way to start preparing for the call on Thursday. It’s calming to have these moments of self-care, and it helps me focus on the present rather than getting too anxious about what’s ahead.
+
+I’m feeling more relaxed already just thinking about taking some time for myself today. Knowing that I’ll be doing this each day leading up to the call is reassuring. Thanks for your support; it really helps to have someone encouraging me through this process.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s wonderful to hear! Taking time for yourself each day will definitely help you stay calm and centered. Enjoy your walk or meditation, and know that I’m here supporting you every step of the way. How do you feel after your walk or meditation today?
+
+----------------------------------------
+
+PATIENT (turn 20):
+After my walk today, I feel much more relaxed and grounded. The fresh air and movement helped clear my mind, and it’s reassuring to have these moments of peace leading up to the call on Thursday. Meditating also felt calming, allowing me to focus on my breath and let go of some of the anxiety.
+
+I appreciate your support; knowing you’re here makes a big difference. Thanks for encouraging me to take these steps for self-care. It’s helping me feel more prepared and centered as we approach the call.
+
+----------------------------------------

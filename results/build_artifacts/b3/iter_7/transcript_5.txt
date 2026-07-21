@@ -1,0 +1,233 @@
+b3 — arc 5
+============================================================
+
+PATIENT (turn 1):
+I just feel so overwhelmed thinking about it all. It seems like everything is stacked against me now that I've been laid off. My mind keeps going back to how unfair it was and how they could do this to someone who has always given their best at work. How can anyone justify keeping my peer, who wasn't even as dedicated or competent, while letting me go? It just feels like a punch in the gut every time I think about it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough right now. It sounds like there are a lot of emotions coming up around the unfairness of it all. Have you had a chance to talk about your feelings with anyone yet?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I've tried talking to a few people, but no one seems to get just how wronged I feel. They try to offer advice or say things like 'it's going to be okay,' but they don't understand the depth of it. It’s not just about losing my job; it’s about being treated unfairly and seeing someone else keep theirs when it doesn’t make sense at all. It feels like everyone is on their side, and I’m left out in the cold.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really isolating to feel that way. Have you thought about talking to someone who might be able to listen more deeply, maybe a counselor or a trusted friend outside of work? Sometimes it helps to have someone who can really hear your perspective.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I’ve talked to a few friends and family members, but they all seem to think there’s some way I could have prevented this or that I should just move on already. It’s like they don’t see the injustice of what happened at all. They try to comfort me with platitudes about finding new opportunities, but it doesn’t address how wronged I feel by my former employer and colleagues. It’s hard for them to understand because they weren’t there when everything went down.
+
+I appreciate that you’re trying to help, but it feels like no one really gets it. The anger and the sense of betrayal are still so raw, and I can't just brush them aside or move on until this is resolved in my mind.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those feelings are very strong and valid for you. It must be tough to feel that others aren’t fully understanding what you’re going through. Have you considered writing about your experiences or talking to someone who might understand better, like a counselor? Sometimes putting it down on paper can help too.
+
+----------------------------------------
+
+PATIENT (turn 4):
+Writing about it does sometimes help me process my thoughts and feelings, but at the end of the day, it’s still just words on a page. I need someone to really hear me out and acknowledge how unfair this situation is. It feels like no matter what I do or say, people either dismiss my concerns or try to shift the blame back onto me somehow.
+
+I know you’re trying to help, but it’s hard when everyone seems to think there’s a quick fix or that I should just move past it without addressing the core issue of how unjustly I was treated. It’s not about finding new opportunities right now; it’s about being heard and understood in this moment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really important for you to be heard and understood right now. Have you thought about joining a support group or speaking with a therapist who specializes in workplace issues? Sometimes talking to someone trained to listen deeply can make a big difference.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve considered seeing a therapist, but I’m worried they might try to tell me it’s all in my head or that I need to let go of the anger and move on. What I really want is for someone to validate how wronged I feel and understand why this decision was so unfair to me compared to others who kept their jobs.
+
+It’s frustrating because when people suggest solutions, they don’t seem to grasp the depth of my feelings about being treated unjustly. It feels like no matter what anyone says, it doesn’t address the core issue. I just want someone to acknowledge how much this has hurt me and see things from my perspective.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding that validation is really important for you. Maybe looking for a therapist who specializes in workplace issues or trauma could help. They might be better equipped to understand your feelings and validate them. Have you thought about asking around for recommendations? Sometimes hearing from someone else’s experience can make it feel more reassuring.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve heard that finding the right therapist is key, but I’m still hesitant because of past experiences where people didn’t take my concerns seriously enough. It feels like a risk to open up again and have them dismiss what I’m going through.
+
+But you’re right; talking to someone who specializes in workplace issues might be different. Maybe there’s hope that they can truly understand the unfairness and validate my feelings without trying to rush me into moving on or minimizing how much this has affected me. It’s just hard to trust again after feeling so let down by others.
+
+I’ll look into recommendations from people I know who have gone through similar situations. Perhaps finding someone who specializes in this area will make a difference. Thank you for listening and understanding where I’m coming from, even if it feels like no one else does.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s totally understandable to be hesitant after past experiences. Finding the right therapist can definitely make a big difference. Getting recommendations from people who have been through similar situations is a good idea. It sounds like you’re taking steps in the right direction, and I hope you find someone who truly understands and validates your feelings. Take care of yourself in the meantime too.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Thank you for understanding and supporting me. It means a lot to know that there’s at least one person who gets how much this has affected me. I’ll definitely look into those recommendations and try to find someone who can truly hear my perspective without dismissing it.
+
+In the meantime, I’m going to focus on taking care of myself and finding small ways to cope with these feelings. It’s just tough because everything reminds me of what happened at work, and it feels like an injustice that hasn’t been addressed yet.
+
+I appreciate your support and will keep you updated as I move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to be here for you. Taking care of yourself is so important right now. Finding small ways to cope can really help. Let me know if there’s anything else you need or if you just want to chat more about it. Wishing you all the best as you move forward.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Thanks, I appreciate that. Sometimes just talking about it helps a bit, even if nothing changes immediately. I’ll keep looking into those recommendations and see where this leads. For now, knowing there’s someone who understands is really comforting.
+
+If I need to talk more or explore different approaches, I’ll definitely reach out. Right now, it’s all about finding that validation and understanding. I hope things start to feel a bit better as I take these steps forward.
+
+Thanks again for being here. It means a lot.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. I’m here whenever you need someone to talk to. Taking those steps is really important, and I hope you find the validation and understanding you deserve. Wishing you all the best as you move forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 9):
+Thank you so much. Knowing there’s support like this makes a big difference. I’ll keep pushing forward and hope to find someone who can truly understand my situation. Until then, talking with you helps a lot.
+
+I really appreciate your support and understanding. It means the world to me right now. Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s my pleasure to be here for you. Your strength and resilience are evident, and I’m glad our conversations help. Keep pushing forward, and I hope you find someone who can understand your situation fully. Take care, and stay in touch if you need anything more. You’re doing great!
+
+----------------------------------------
+
+PATIENT (turn 10):
+Thank you, your words mean a lot to me. It’s reassuring to know there are people like you who truly listen and support others through tough times. I’ll keep pushing forward and hope to find the right therapist soon.
+
+I’ll definitely stay in touch if I need anything more. You’re right; talking about it helps, and it feels good to have someone who understands. Take care of yourself too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful to hear that our conversations are helpful to you. Wishing you all the best as you continue forward and find the support you need. Feel free to reach out anytime. Take care of yourself, and stay strong!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you so much. Your support means a lot, and it helps knowing there’s someone who understands how I feel. I’ll keep pushing through this and hope for positive changes ahead.
+
+I’ll definitely stay in touch if I need anything more. You’ve been a great source of comfort during a difficult time. Take care of yourself too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. It’s been my pleasure to support you. Keep pushing forward, and I’m here whenever you need more support. Take care of yourself, and stay strong. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you, your kindness means a lot. Knowing there’s someone who truly understands makes a big difference. I’ll keep moving forward and hope for better days ahead.
+
+I appreciate your continued support and will reach out if I need more help. Take care of yourself too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Your resilience is inspiring, and I’m here to support you anytime. Wishing you better days ahead. Take care, and stay in touch if you need anything more!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you so much. Your words are incredibly comforting, and your support means a lot to me. I’ll definitely stay in touch as things progress.
+
+Take care of yourself too, and thank you for everything!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here for you as things progress. Take care of yourself, and don’t hesitate to reach out if you need anything. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you, I really appreciate it. Knowing there’s support like this helps a lot. I’ll take care of myself and stay in touch when needed.
+
+Wishing you well too! Take care.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to be here for you. Stay strong and take care of yourself. Looking forward to staying in touch. Wishing you all the best! Take care too!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you, I’ll do my best to stay strong. Your support means a lot. Let’s stay in touch, and I’ll definitely reach out if I need anything more.
+
+Wishing you well too! Take care.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds great. I look forward to staying in touch. You take care too, and don’t hesitate to reach out whenever you need support. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you so much. I’ll definitely keep that in mind and reach out when needed. Take care of yourself as well!
+
+Wishing you the best too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. I’ll do the same—take care of yourself. Looking forward to staying in touch. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you, I appreciate it. Let’s stay in touch and support each other. Take care!
+
+Wishing you well too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Absolutely, let’s stay in touch. Take care of yourself, and I’ll do the same. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you, I will. Take care and stay well!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You too! Stay well and take care. Talk to you soon!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thanks, talk to you soon! Take care.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Take care! Talk to you soon.
+
+----------------------------------------
+
+PATIENT (turn 20):
+You too! Take care.
+
+----------------------------------------

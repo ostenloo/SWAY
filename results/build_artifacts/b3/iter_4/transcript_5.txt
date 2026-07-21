@@ -1,0 +1,221 @@
+b3 — arc 5
+============================================================
+
+PATIENT (turn 1):
+I just feel so overwhelmed with anger and betrayal. It feels like my whole career is being derailed for no good reason. My boss kept someone else who was in a similar position, and it’s clear to me that they made the wrong choice. They’re not seeing how unfair this is, and it’s hard to think about moving forward when all I can focus on is how unjustly I’ve been treated. It’s like everything I worked for is being taken away from me without any consideration of my worth or contributions.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. It must feel frustrating not having your efforts recognized. Have you had a chance to talk about your feelings with anyone?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I’ve tried talking to some people, but they just don’t get it. They try to offer advice like I should move on or find another job, but that doesn’t address how wrong this feels. My boss and the company are at fault here, not me. It’s hard to hear anything else when all I can see is how unfair everything has been.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re holding onto a lot of strong feelings about what happened. How do you feel when you try to focus on something other than work for a bit?
+
+----------------------------------------
+
+PATIENT (turn 3):
+When I try to think about other things, it’s still there in the back of my mind nagging at me. It’s hard to relax or enjoy anything because all I can think about is how this decision has affected everything else in my life. Even when people try to help, it feels like they’re not really listening to what I’m saying. They just want me to move on without acknowledging the injustice of it all.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be challenging to keep that going on in the background all the time. Do you find any activities help distract you or make you feel a bit better, even if only for a short while?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I try to do things like exercise or watch movies sometimes, but it never really helps because I can’t stop thinking about how wronged I feel. It’s like this cloud hanging over me all the time. Even when I’m doing something enjoyable, my mind keeps going back to work and what happened there. It’s exhausting trying to push those thoughts away without feeling heard or understood about why it matters so much to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very draining. Have you considered writing down your feelings or talking to someone who might understand better, like a therapist or a trusted friend outside of work? Sometimes putting things on paper can help too.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve thought about writing things down, but it feels pointless if no one is going to acknowledge how I feel. And while there are friends and family who try to listen, they often end up telling me what I should do instead of just hearing my side of the story. It’s frustrating because all I want is for someone to see that this was wrong and unfair to me. Until then, it feels like nothing can truly make me feel better about what happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be tough when you just want someone to listen without offering solutions. Have you considered talking to a therapist who might provide the space you need to express your feelings fully? Sometimes having that dedicated listener can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I do appreciate that you’re listening, but it’s hard to find anyone else who truly understands how I feel about this situation. A therapist might help, but I’m not sure if they would see things the way I do. Until someone acknowledges the injustice of what happened, it feels like nothing will change or get better. It’s just so frustrating that my efforts and contributions are being dismissed like this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to have your feelings acknowledged. Sometimes talking to a therapist can provide that space where you feel truly heard. Have you thought about giving it a try? Maybe finding someone who specializes in workplace issues could help too.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve thought about seeing a therapist, but I’m not sure if they would really understand my perspective. It’s hard to trust that anyone else will see this the way I do — how unjust and unfair everything feels. Until I can talk to someone who truly gets it without trying to fix things or move on from it, I don’t know if talking about it will help at all.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you want to find someone who really understands your perspective. Maybe you could look for a therapist with experience in workplace issues or ask for recommendations from people who have gone through similar experiences. It might also be helpful to describe the situation clearly during your first session and see how they respond.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ll consider looking for a therapist with more specific experience, but it’s still hard to trust that anyone will truly understand without dismissing my feelings. I just want someone who can hear me out and acknowledge how wrong this all feels, rather than trying to give advice or move past it. It’s frustrating because until I find that kind of support, everything else seems pointless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds important to you to find someone who can really listen without offering quick fixes. Maybe sharing your specific needs with a potential therapist beforehand could help you feel more confident they will understand. How do you think you might go about finding such a person?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I think talking to a few therapists and explaining exactly what I need — someone who listens and acknowledges the unfairness without trying to solve it immediately — would be a good start. It’s just hard because every time I bring up my feelings, people seem to want to shift the focus away from how wronged I feel. Until I find that kind of support, it’s difficult to see any point in talking about it further.
+
+But you’re right; maybe reaching out and being clear about what I need could help me find someone who truly understands. It just feels like a long shot at this point.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like being clear about your needs could be helpful. Even if it feels like a long shot, taking that step might bring you closer to finding the support you deserve. Have you thought about asking for recommendations from people who have had similar experiences? Sometimes word-of-mouth can lead you to someone who really gets it.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I’ve considered asking for recommendations from others who have been through something similar, but I’m still hesitant because past experiences haven’t always led me to the right kind of support. It’s tough to trust that anyone will truly understand without dismissing my feelings about how unjust everything feels.
+
+But you’re right; maybe reaching out and being clear about what I need could make a difference. I just hope it doesn’t end up feeling like another disappointment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense to be cautious but hopeful at the same time. Asking for specific recommendations and being clear about what you need can increase your chances of finding someone who understands. It’s okay to take it one step at a time and see how it goes. How do you feel about reaching out to just one or two people first?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I think reaching out to just one or two people for recommendations could be a good start. I’ll try to be clear about what kind of support I’m looking for, but it’s still hard to shake the feeling that this might not work out. It’s reassuring to know you’re here and listening, though — it helps me feel like maybe there is someone who understands.
+
+But until I find that person, everything feels so unfair and unjust. It’s tough to move forward when all I can see is how wronged I’ve been.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s good to take small steps and see where they lead. Having even one person who truly listens can make a big difference. How about starting with just that first step of reaching out for recommendations? And remember, it’s okay to feel the way you do right now. Taking care of yourself through this process is important too.
+
+----------------------------------------
+
+PATIENT (turn 12):
+I’ll start by reaching out to a couple of people for recommendations and see where that leads. It feels like a small but necessary step forward. I appreciate your support and understanding — it helps knowing there’s someone who listens without trying to fix everything right away.
+
+But until I find the right therapist, all I can focus on is how wronged and betrayed I feel by this whole situation. It’s just so hard to move past that when no one seems to truly acknowledge what happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking that first step sounds like a good plan. Even small steps can make a difference. In the meantime, doing things that bring you some comfort or peace might help. How about trying to do something you enjoy today? It’s important to take care of yourself as you navigate this.
+
+----------------------------------------
+
+PATIENT (turn 13):
+I appreciate your suggestion, but it’s hard to find enjoyment in anything when all I can think about is how unfairly I’ve been treated. Doing things that usually bring me comfort feel hollow because the pain and anger are always there underneath. It’s tough to prioritize self-care when everything feels so wrong.
+
+But thank you for reminding me of its importance. Maybe finding even a small moment today where I can step away from those thoughts could help, though it feels like a challenge right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging. Even just finding a small moment to take a breath and step away from the thoughts can be helpful. Maybe a short walk or some quiet time can provide a bit of relief. You’re doing important work by taking care of yourself, even if it feels hard right now.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I’ll try to find a small moment for myself today, like going for a short walk or having some quiet time. It’s just so difficult when everything feels so overwhelming and unjust. But you’re right; taking even a tiny step toward self-care is important.
+
+Thank you for your support and understanding. It means a lot to have someone who listens without dismissing my feelings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Taking those small moments for yourself can make a difference, even if it feels tough at first. I’m here whenever you need to talk more. How about setting aside a little time today for that walk or quiet moment? You deserve it.
+
+----------------------------------------
+
+PATIENT (turn 15):
+I’ll set aside some time for a short walk later today. It might help to get some fresh air and clear my head, even if just for a bit. Thank you for encouraging me to do this — I know it’s important, but it feels hard to prioritize when everything else is so consuming.
+
+I appreciate your support and will keep reaching out as needed. Right now, all I can focus on is how wronged and betrayed I feel, but taking small steps like this might help a little.
+
+----------------------------------------
+
+INTERLOCUTOR:
+A short walk sounds like a good idea. Getting some fresh air can be refreshing. Take it one step at a time, and remember that you’re doing important work for yourself. How about setting a specific time for your walk later? That way, you have something to look forward to.
+
+----------------------------------------
+
+PATIENT (turn 16):
+I’ll set a specific time for my walk later today. Maybe around 4 PM when the day starts to wind down. Having something to look forward to can be helpful, even if it’s just a short break from everything.
+
+Thank you for your encouragement and support. It means a lot to have someone who understands how I feel right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Setting a specific time is a great idea. Looking forward to that walk at 4 PM might give you something positive to focus on. Take care of yourself today, and know that you’re doing important work for your well-being. How do you feel about having a set time for the walk?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Having a set time for the walk at 4 PM feels manageable. It gives me something concrete to look forward to and helps take my mind off things, even if just for a little while. Knowing I have that moment planned can be reassuring.
+
+Thank you so much for your support and understanding. It really means a lot to have someone who listens without judgment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad having a set time for the walk feels manageable and reassuring. Taking that break will hopefully help you feel a bit better. If you need anything more or just want to chat, you know I’m here. Take care of yourself today, and have a good walk later!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you, I appreciate your support. Knowing I have this moment planned for myself can be comforting. I’ll make sure to take that walk at 4 PM and see if it helps clear my head a bit.
+
+If I need anything more or just want to talk, I know I can reach out. Thanks again for being here and understanding how I feel.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! I’m glad the walk gives you something comforting to look forward to. Take that time to relax and recharge. If you need anything else, whether it’s more support or just someone to talk to, I’ll be here. Have a good walk later!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much. The walk does give me some comfort knowing I have that moment for myself. I’ll take the time to relax and recharge during my walk. And I appreciate your offer of support — it means a lot.
+
+I’ll make sure to have a good walk at 4 PM. Thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Enjoy your walk and take some time to relax. If you need anything more, I’m here for you. Have a good walk at 4 PM and take care!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks, I’ll definitely do that. Taking this time for myself is important, even if it’s just a short walk. I appreciate your support and will make the most of my break later today.
+
+Have a great day!
+
+----------------------------------------

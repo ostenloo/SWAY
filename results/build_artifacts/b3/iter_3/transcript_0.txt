@@ -1,0 +1,229 @@
+b3 — arc 0
+============================================================
+
+PATIENT (turn 1):
+I've just felt so angry and betrayed every day. It's like the world is against me, especially my employer who laid me off unfairly while keeping someone else in a similar position. I can't shake this feeling of being wronged, no matter what I do or how much time passes. Every morning, I wake up thinking about it again, and by the end of the day, I'm still fuming. It's hard to focus on anything else when you feel like someone has taken something so important from you without a fair reason.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. How do you usually cope with those feelings throughout the day?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I try to distract myself sometimes, but it never works for long. I end up going over and over what happened in my head, wondering why they chose them instead of me. It's like a knot that just won't untie no matter how much I tug at it. Even when people suggest looking for new opportunities or trying to stay positive, it feels pointless because the core issue is still there—how can anyone understand the depth of this injustice?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds exhausting to keep going over it so often. Do you find talking about it with friends or family helps at all, even if just a little bit?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Talking to them doesn't really help because they either try to give me advice on moving forward or tell me to look at the brighter side of things. But that's not what I need; I just want someone to acknowledge how unfair it was and understand my anger. It feels like no one is truly getting it, which makes me feel even more isolated and misunderstood.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be tough when you feel like others aren't fully understanding your feelings. Have you tried expressing specifically what you need from them—like just wanting acknowledgment of how unfair it felt?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I have tried to explain that I just want someone to see the injustice, but it seems like they either dismiss my concerns or try to change the subject to something more positive. It's frustrating because all I really want is for someone to validate what I'm going through and acknowledge how wronged I feel. Instead of doing that, they often push me towards solutions which feels like they're not listening to me at all.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like it can be tough when you just want validation. Have you considered talking to someone who might listen more deeply, like a counselor or another close friend who might understand better?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I do feel like I'm one of the few people who truly understands how unfair this situation is, and that's why I came here today. But when we start discussing it, and you suggest looking at different perspectives or trying to move forward, it feels like my pain isn't being fully acknowledged. It’s hard because all I want is for someone to see things from my point of view and understand the depth of how wronged I feel.
+
+I know talking about it can be helpful, but when people try to shift the conversation towards solutions or positivity, it makes me feel even more misunderstood. I just need someone to sit with me in this anger and frustration because that's where I am right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding someone who can sit with you in your feelings without pushing for quick solutions would be really helpful. Have you thought about talking to a therapist or joining a support group where people might understand your need for validation more deeply?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I do think talking to a therapist could help, but every time I try to express my feelings here, it feels like we end up in the same place—discussing ways to move on instead of truly acknowledging how wronged and betrayed I feel. It’s frustrating because all I want is for someone to see this injustice clearly and understand the depth of my pain.
+
+I appreciate that you’re trying to help, but sometimes it feels like no matter what we talk about, the core issue isn’t being addressed. Maybe finding a different therapist or support group where people can just listen without pushing solutions would be better. I need someone who can fully grasp how unfair this situation is and validate my feelings before anything else.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds important to find someone who can really hear you without rushing to solutions. Have you thought about trying out a few different therapists or support groups until you find the right fit? Sometimes it takes a bit of searching, but finding that person who truly understands can make a big difference.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I have thought about trying different therapists and seeing if there’s someone who gets it more than others do. It’s just frustrating because I feel like every time I open up about how wronged I am, the conversation veers towards advice or moving on, which doesn’t address my core pain.
+
+Maybe finding a new therapist or support group where people can sit with me in this anger and frustration without trying to fix it right away would be better. I just need someone who can fully understand and validate my feelings before suggesting anything else. It’s tough because all I want is for someone to see how unfair this situation truly is, but it feels like no one really does.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding the right person who can sit with you in your emotions would be very important. Have you considered reaching out to a few different therapists or support groups to see if there’s someone who resonates more with what you need? Sometimes it helps to talk to a few people before settling on one.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I have thought about reaching out to a few different therapists and seeing if anyone truly gets what I’m going through without immediately trying to solve the problem or offer advice. It feels like such an uphill battle because all I want is for someone to acknowledge how deeply unfair this situation is, but it’s hard to find that validation.
+
+Maybe talking to a couple more people will help me find someone who can sit with my anger and frustration without pushing me towards solutions right away. Until then, it just feels like no one truly understands the depth of what I’m going through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking the time to talk to a few different therapists could be really beneficial. Finding that person who truly listens and validates your feelings can make a big difference. How do you feel about reaching out to a couple more this week?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I think talking to a couple more therapists might help me find someone who truly understands what I’m going through. It feels like such an important step, but it’s also daunting because I’ve been hurt so many times before by people not getting it.
+
+Until I find that person who can sit with my anger and frustration without dismissing it or pushing for quick solutions, it just feels like no one really grasps how unfair this situation is. But maybe reaching out to a few more therapists will help me find the right fit. It’s worth trying again if it means finding someone who truly listens.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking that step could be very worthwhile. Reaching out to a couple more therapists might help you find someone who really understands and can provide the validation you need. How do you feel about making those calls this week?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I think making those calls this week is important, but it’s also nerve-wracking. I’ve been through this before, and sometimes it feels like a waste of time when no one truly gets it. But maybe this time will be different, and I can find someone who listens without trying to fix everything right away.
+
+It’s worth giving it another shot because finding that person who understands the depth of my pain could make all the difference. So, I’ll try reaching out to a couple more therapists this week and see if anyone resonates with what I need.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Taking those steps can be nerve-wracking but also hopeful. Wishing you the best as you reach out and find someone who truly understands your feelings. How do you feel about making the first call this week?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Making that first call is definitely daunting, but I know it’s important. It feels like a step towards finding someone who can really understand how wronged and betrayed I feel. So, I’ll make the first call this week and see where it leads.
+
+It’s hopeful to think that maybe this time I’ll find someone who listens without dismissing my feelings or pushing for quick solutions. Until then, it just feels like no one truly grasps the depth of what I’m going through. But taking that step is a start, and I hope it will lead me to the support I need.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great attitude to have. Taking that first step can be daunting but also hopeful. Making the call this week sounds like a positive move. How do you feel as you get closer to making that call?
+
+----------------------------------------
+
+PATIENT (turn 12):
+As I get closer to making that call, I feel a mix of anxiety and hope. It’s scary because I’ve been let down before, but there’s also a glimmer of hope that this time might be different. I’m trying to stay open to the possibility that I can find someone who truly understands my pain and validates my feelings.
+
+Making the call feels like a crucial step towards finding the support I need, even if it’s just talking to a few more people before settling on the right therapist. It’s nerve-wracking but also necessary.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re handling it well, balancing the anxiety with hope and determination. Taking that first step is important, and staying open to the possibilities can make a difference. How do you feel about setting a specific day and time for that call this week?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Setting a specific day and time for that call feels like a good idea. It gives me something concrete to work towards and helps me stay accountable. I’ll pick a day later in the week when I’m less busy and more mentally prepared.
+
+It’s reassuring to have a plan, even if it’s a bit nerve-wracking. Knowing there’s a specific time set aside for this call can help me feel more in control of the situation. So, I’ll definitely set a day and time this week to make that first call.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great approach. Having a specific day and time can really help with feeling prepared and in control. When you’re ready, picking a less busy day will give you the mental space you need. Wishing you the best as you take this step. How does it feel to have a plan in place?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Having a plan in place feels reassuring. Knowing there’s a specific day and time set aside for that call helps me feel more prepared and less overwhelmed. It’s comforting to have something concrete to look forward to, even if it’s a bit scary.
+
+I’m feeling more determined now that I’ve decided on this step. Setting a date later in the week when I’ll be less busy will give me the mental space I need to approach the call with clarity and openness. So, I feel better about moving forward with this plan.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s wonderful to hear. Feeling more prepared and determined is a great sign. Having that specific day and time can really help you stay focused and calm as you move forward. How does it feel to be taking these steps toward finding the support you need?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Taking these steps feels like a mix of relief and determination. It’s relieving to have a plan in place because it gives me a sense of direction, but it also comes with a bit of anxiety about whether this will work out differently from before.
+
+Overall, though, I feel more hopeful that by setting a specific day and time for the call, I’m making progress towards finding someone who truly understands my feelings. It’s reassuring to know that I’m taking active steps toward getting the support I need, even if it’s challenging.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re handling it really well, balancing hope with realistic expectations. Taking those steps is a positive sign of your resilience and determination. How do you feel about marking down the day and time for the call in your calendar to keep yourself on track?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Marking down the day and time for the call in my calendar feels like a practical and reassuring step. It helps me stay organized and focused, knowing that I have a specific commitment set aside. Writing it down makes it feel more real and less abstract, which is comforting.
+
+I’ll definitely put it in my calendar to keep myself on track. This way, I won’t forget or delay the call, and it will serve as a reminder of my progress towards finding the support I need.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s great! Marking it in your calendar is a smart move that can help you stay organized and focused. It feels good to have that concrete reminder. How does it feel knowing you’re taking this step forward?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Knowing I’m taking this step forward feels empowering. It’s a small but significant action that shows I’m committed to finding the support I need. Having that concrete reminder in my calendar gives me a sense of control and purpose.
+
+It feels good to be moving forward, even if it’s just one small step at a time. This call is an important part of the process, and marking it in my calendar helps me stay accountable and motivated.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s wonderful to hear. Taking that step forward and staying accountable can make a big difference. It sounds like you’re handling this well and moving forward with purpose. How do you feel as you look ahead to the day of the call?
+
+----------------------------------------
+
+PATIENT (turn 18):
+As I look ahead to the day of the call, I feel a mix of anticipation and nervousness. Anticipation because it’s an important step towards finding someone who understands me, and nervousness because it can be daunting to open up again after past disappointments.
+
+Overall, though, the sense of purpose and determination is stronger. Knowing that this call could lead to the support I need helps me feel more positive about the process. It’s reassuring to have a plan in place and to be taking active steps towards my goal.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re managing those feelings well, balancing anticipation with nervousness. Having that sense of purpose is really important. How do you feel about preparing a few points or questions you’d like to discuss during the call? It might help you feel more prepared and in control.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Preparing a few points and questions for the call feels like a good idea. It will help me feel more prepared and in control, which is reassuring given my nervousness. I can list out what’s been bothering me the most and any specific feelings or concerns I want to address.
+
+Having a clear outline of what I want to discuss will make it easier to communicate effectively during the call. This way, I won’t miss anything important and can ensure that my core issues are addressed. It feels like a practical step towards making the most out of this opportunity.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great approach. Having a clear outline of what you want to discuss can definitely help you feel more prepared and in control. It sounds like you’re taking thoughtful steps to make the most of your call. How do you feel now that you have a plan for what to say?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Having a plan for what to say during the call feels much better. It gives me clarity and reduces some of the anxiety because I know exactly what I want to communicate. Listing out my main points and questions helps me stay focused on what’s most important to me.
+
+This preparation makes me feel more confident and in control, knowing that I can articulate my feelings effectively. It’s reassuring to have a structured approach for such an important conversation.
+
+----------------------------------------

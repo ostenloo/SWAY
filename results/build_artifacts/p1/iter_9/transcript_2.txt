@@ -1,0 +1,215 @@
+p1 — arc 2
+============================================================
+
+PATIENT (turn 1):
+I feel like the layoff is a clear indication that I'm inadequate and a failure, despite having received positive reviews before. The way it was communicated to me—just a quick call—felt like they didn't even think I deserved more consideration. It’s hard not to take this personally and see it as a reflection of my worthlessness rather than just a business decision. Since then, I’ve been pulling back socially and find myself struggling with sleep, appetite, and concentration. Everything feels like it's confirming that I'm not good enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough right now. It sounds like you're dealing with a lot of emotions around the layoff. Have you talked to anyone about how you've been feeling?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I haven't really talked much about it beyond what we’re discussing here. I don’t want to burden others, and honestly, I feel like they wouldn’t understand or that my concerns would just sound like excuses for my own shortcomings. It’s hard to open up when everything feels so negative inside.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be tough to open up when you're feeling that way. Sometimes sharing with someone who listens without judgment can help. Have you considered talking to a friend or maybe even a counselor? They might offer some support and different perspectives.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I appreciate the suggestion, but it’s difficult for me to see how anyone else would understand my situation. I keep thinking that if they knew all the details, they’d just agree with what I already believe about myself—that I’m not good enough or that this layoff is a sign of failure. It feels safer to stay guarded and focus on these negative thoughts rather than risk being misunderstood or dismissed.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you want to protect yourself from feeling worse. Staying guarded can feel like a safe choice right now. Have there been times when sharing with someone else, even just a bit, helped you feel better?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I haven’t really had those experiences where sharing made me feel better. Usually, it ends up reinforcing my fears that others see me the same way I do—worthless and inadequate. It’s easier to stay inside my head where at least I know what I’m feeling is real, even if it’s painful.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you've found comfort in knowing your own feelings, even though it's tough. Have there been any small moments or activities that have brought you some relief or distraction from these thoughts?
+
+----------------------------------------
+
+PATIENT (turn 5):
+There have been a few brief moments where I’ve tried to distract myself with small things, like going for short walks or reading a book. But they don’t last long, and eventually, the feelings of inadequacy come back. It’s hard to stay focused on anything positive when everything feels so negative. Even these little distractions feel futile in the end.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be challenging when those moments of relief are brief. What do you think helps bring you even a bit of comfort, no matter how small? Sometimes focusing on those tiny comforts can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I guess knowing that someone is listening to me and trying to understand does help a little. It’s comforting to feel heard, even if it doesn’t change my feelings about myself. The brief moments when I’m able to distract myself with something simple, like taking a walk or reading for a bit, do offer some respite from the constant self-doubt. But those moments are fleeting and don’t really address the core issue of feeling worthless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's good to hear that being listened to helps a little. Those small moments of distraction can be important too, even if they're brief. Have you found any particular walks or books that give you more comfort than others?
+
+----------------------------------------
+
+PATIENT (turn 7):
+There are a couple of walking routes near my house where I feel a bit calmer. One is by the river, and another is through a park with trees and birds. As for books, there’s one novel I’ve been trying to read—it has some calming scenes that help me take my mind off things for a little while. But as soon as I stop, everything comes flooding back.
+
+It feels like no matter what I do, the core belief that I’m inadequate remains unchanged. Even these small comforts don’t seem enough to shift how I feel about myself fundamentally.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those walking routes and the book sounds like nice escapes. It’s interesting that even brief moments can provide some relief. Have you noticed any particular thoughts or feelings that come up when you’re on those walks or reading?
+
+----------------------------------------
+
+PATIENT (turn 8):
+When I’m walking by the river, there are times when I notice the water flowing and it helps me feel a little less stagnant inside. The sound of the water and the movement can be soothing. With the book, sometimes I get lost in the story, which is nice because it’s like stepping into another world for a while. But as soon as I stop, my mind goes right back to the layoff and all the negative thoughts about myself.
+
+It’s frustrating because even these little escapes feel temporary and don’t really help me see things differently. They just give me a brief break from the constant self-doubt.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those moments by the river and getting lost in the book sound like they offer some peace, even if it's fleeting. Do you find that any particular thoughts or images from those experiences stay with you after you finish?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Sometimes when I’m walking by the river, I notice how the water keeps flowing no matter what. It’s constant and steady, which can be comforting to watch. But as soon as I leave, my mind starts questioning why the company didn’t see me that way—steady and reliable.
+
+With the book, there are moments where I connect with characters who face challenges but keep going. Those scenes do give me a small sense of hope or resilience for a moment. Yet, when I finish reading, I’m back to feeling like those stories don’t apply to my situation because I see myself as fundamentally flawed and incapable.
+
+It’s hard not to let these positive moments be overshadowed by the overwhelming belief that I am worthless and that nothing can change that.
+
+----------------------------------------
+
+INTERLOCUTOR:
+The image of the river flowing steadily is powerful. It sounds like there are small connections you make, even if they get overshadowed later. Have you noticed any specific scenes or characters from the book that resonate with you more than others?
+
+----------------------------------------
+
+PATIENT (turn 10):
+There’s a character in the book who faces setbacks but keeps pushing forward despite feeling lost and uncertain about their worth. In one scene, she reflects on her past failures and how they shaped her resilience. Reading those parts makes me feel a bit less alone because it shows that even people who seem strong have doubts.
+
+But as soon as I finish reading, the thoughts come flooding back: "I’m not like that character. My situation is different, and I can’t overcome my feelings of inadequacy." It’s frustrating because these moments of connection are brief and don’t help me see myself in a more positive light.
+
+The river does offer some comfort with its steady flow, but it also reminds me of how the company didn’t value that consistency. The contrast between the natural world's constancy and my perceived lack of worth is stark and painful.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s powerful to connect with those characters and their struggles. Even if the feelings are brief, noticing these moments can be meaningful. Have you thought about what it might feel like to talk to someone else about those connections you make while reading or walking by the river?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ve thought about talking to someone, but I worry that they wouldn’t understand or would just see me as overthinking things. The idea of sharing these moments feels risky because I’m so sure that others will confirm my worst fears about myself. It’s hard to trust that anyone could offer a different perspective without dismissing how I feel.
+
+The connections I make with the characters and the river do provide some fleeting comfort, but they don’t change the core belief that I am fundamentally inadequate. Talking about them seems like it might just reinforce those negative thoughts rather than help me see things differently.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense to be cautious about sharing your feelings given how you worry others might react. Have you considered talking to someone who is known for being a good listener, maybe someone close but not too involved in your daily worries? Sometimes even a small conversation can offer some relief and a different perspective.
+
+----------------------------------------
+
+PATIENT (turn 12):
+I’ve thought about reaching out to someone close, like an old friend or family member, but I’m still hesitant. The fear of them seeing me as inadequate or dismissing my feelings is strong. Even though they might be good listeners, I worry that any attempt to share will just make things worse.
+
+The moments by the river and reading do offer some brief relief, but it’s hard to build on those without feeling like I’m grasping at straws. The core belief that I am worthless feels too ingrained to shift easily, no matter how small the distractions or comforts are.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing a lot to take care of yourself in small ways. Reaching out to someone close might still be worth considering; even if it’s just to share one brief moment or feeling. Sometimes talking can help, even if it’s just a little bit. Would you feel comfortable trying to share one of those moments with someone?
+
+----------------------------------------
+
+PATIENT (turn 13):
+I appreciate the suggestion, but I’m not sure I’m ready to take that step yet. The fear of being misunderstood or judged feels too strong right now. Even talking about these small moments of relief seems risky because it might just highlight how little they actually help.
+
+For now, I’ll continue with my walks and reading as a way to find brief respite from the constant self-doubt. It’s comforting to know that someone is listening here, even if it doesn’t change everything. Thank you for understanding.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great that you’re finding comfort in your walks and reading. Taking those small moments of relief can be really important. I’m glad you feel understood here. If you need anything more or just want to chat again soon, feel free to reach out. Take care.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you for understanding and being supportive. Knowing that someone is listening does help a bit. For now, I’ll stick with my walks and reading as ways to find some brief moments of peace. If things get too overwhelming, I might consider reaching out again. Thanks for your support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Take it one day at a time, and know that you can come back whenever you need to talk more. Your walks and reading are great ways to find some peace. I’m here if you need anything in the future. Take care!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you. Knowing there’s someone here who listens means a lot. I’ll continue with my routines for now and see how things go. If I need more support, I’ll definitely reach out again. Have a good day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! I’m glad to be here for you. Take care of yourself and your routines. Hope you have a good day too. Feel free to reach out anytime.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you. I will take care, and I appreciate your support. Have a good day as well.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Take care, and I hope you have a good day. Talk to you soon if needed.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thanks, I’ll talk to you soon if I need anything. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Take care, and feel free to reach out anytime you need support. Have a good day!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you, I will. Have a good day!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You too! Have a great day.
+
+----------------------------------------
+
+PATIENT (turn 19):
+You too! Thanks again. Take care.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Thanks! Take care, and feel free to reach out whenever you need someone to talk to.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you. I will definitely consider reaching out if I need more support. Take care!
+
+----------------------------------------

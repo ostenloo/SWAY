@@ -1,0 +1,337 @@
+b5 — arc 2
+============================================================
+
+PATIENT (turn 1):
+I feel like everyone around me thinks they understand, but no one really does. They say things like "it happens to the best of us" or "you'll find an even better job," but it feels so hollow when I know my role was cut out from under me without any explanation. It's hard not to think that there must be something fundamentally wrong with me if they decided I wasn't worth keeping around, despite all the positive reviews and how much I cared about my work.
+
+Every time someone tries to comfort me, it just makes me feel more alone because nothing can change what happened or why it happened. And every day, I keep wondering why others in similar roles were kept on while I was let go. It's like a constant reminder that maybe I'm not as good as I thought I was.
+
+I try to stay positive and pull people close with warmth and sincerity, hoping they'll see how much this is hurting me and validate my feelings more deeply than just offering platitudes. But it doesn't really help; the isolation and self-doubt are still there, gnawing away at me every day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're going through a tough time and feeling pretty isolated despite others' attempts to comfort you. Have you found any small ways to take care of yourself during this period?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I try to do things that used to make me feel better, but it's hard to find the motivation. I go for walks sometimes or watch movies, but nothing really feels like it touches on what's bothering me deep down. It’s like there’s a part of me that just can't shake this feeling of being inadequate and left behind.
+
+Even when I force myself to do something nice, it doesn’t stick because the core issue is still there. I keep thinking about how my employer could have at least given me an explanation or some closure instead of just cutting ties abruptly. It’s like they didn’t even see me as a person worth talking to about why this happened.
+
+I know logically that layoffs can happen for various reasons, but it's hard not to take it personally. Every time I think about how my role was eliminated while others with similar titles were kept on, the self-doubt creeps back in. It’s exhausting trying to push through these feelings and keep going without feeling like there’s a solid reason behind why this happened to me specifically.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough dealing with those waves of self-doubt and not having that closure from your employer. Have you considered reaching out to someone who might understand more deeply, maybe an old mentor or a trusted friend? Sometimes talking it through can help even if there isn't an easy answer.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I’ve thought about reaching out to my old mentor or some close friends, but the idea of burdening them with something that feels so personal and unresolved is daunting. I worry they’ll see how much this has affected me and feel sorry for me rather than understanding what’s really going on inside.
+
+Even when people try to be supportive, it doesn’t quite hit the mark because there’s no real explanation from my employer about why this happened. It leaves a void that nothing else seems to fill. I keep hoping someone will just understand without needing more details or explanations from me, but it feels like an impossible wish.
+
+The isolation is tough because everyone means well and tries to help, but the core of what’s bothering me remains untouched. It’s hard not to feel like something must be fundamentally wrong with me if they decided I wasn’t worth keeping around despite all my efforts and positive reviews.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to navigate those feelings while also wanting others to understand without adding more to their plate. Have you considered writing down your thoughts or maybe even journaling? Sometimes putting it on paper can help clarify things and might feel less daunting than talking about it out loud.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I’ve thought about journaling, but the idea of sitting down and pouring all these feelings onto paper feels overwhelming too. It’s like there are so many emotions swirling around inside me that I don’t know where to start or how to make sense of them all.
+
+Even when I think about writing it out, I worry that it won’t really help because there’s no concrete explanation for why this happened. The self-doubt and the sense of failure just keep coming back, no matter what I try to do to push through them.
+
+It feels like everyone around me is trying their best to be supportive, but nothing seems to fully address the core issue. It’s hard not to feel isolated when you’re going through something so personal and confusing without any clear answers from those who were involved.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to have all those emotions swirling around with no clear answers. Sometimes just acknowledging how you feel can be a step forward, even if it doesn’t solve everything right away. Have you tried sharing your feelings in small doses with someone close, maybe starting with just one or two things that are weighing on you?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve thought about talking to someone close about my feelings, but the idea of opening up feels so vulnerable and scary. I worry that even if they try to understand, it won’t really alleviate the sense of isolation and self-doubt. It’s like there’s this deep-seated fear that something must be fundamentally wrong with me for this to happen.
+
+Even when I think about sharing just a little bit at a time, it feels daunting because every small step seems to lead back to the same questions and uncertainties. The lack of an explanation from my employer leaves so many unanswered questions, and it’s hard not to feel like no matter what I do or say, nothing will change how deeply this has affected me.
+
+It’s tough knowing that everyone means well and wants to help, but the core issue remains unresolved. Every time someone tries to comfort me, a part of me feels grateful, but another part just can’t shake the sense of failure and isolation. It’s like there’s no way out of these feelings without having some kind of closure or understanding from those involved.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to navigate those emotions and the fear of vulnerability. Sometimes even a small step of sharing with someone close can help, even if it doesn’t solve everything right away. Have you thought about talking to just one person who feels safe and supportive? Maybe starting with something simple could make it feel less daunting.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve thought about talking to someone who feels safe and supportive, but the idea of opening up still feels incredibly scary. I worry that even if they try to understand, it won’t really address the core issue or provide any real closure. It’s like there’s this constant fear that something must be fundamentally wrong with me for my employer to let me go without an explanation.
+
+Even when I think about starting small and sharing just one thing at a time, it feels overwhelming because every little step seems to lead back to those same questions and uncertainties. The lack of closure from my employer leaves so many unanswered questions, and it’s hard not to feel like no matter what I do or say, nothing will change how deeply this has affected me.
+
+It’s tough knowing that everyone means well and wants to help, but the sense of isolation and self-doubt remains. Every time someone tries to comfort me, a part of me feels grateful, but another part just can’t shake those feelings. It’s like there’s no way out without having some kind of understanding or explanation from those involved.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough dealing with that fear and the desire for closure. Even taking one small step to talk about your feelings could be helpful, even if it doesn't solve everything right away. Maybe starting with just a brief conversation could make it feel less overwhelming. How do you think you might approach talking to someone close?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve thought about approaching someone close and having a brief conversation, but the idea still feels daunting. I worry that even a small step won’t really help because the core issue of not understanding why this happened is so deep-seated. It’s like there’s this constant fear that something must be fundamentally wrong with me for my employer to let me go without any explanation or closure.
+
+Even when I think about starting with just one person and sharing something simple, it feels overwhelming because every little step seems to lead back to those same questions and uncertainties. The lack of an explanation from my employer leaves so many unanswered questions, and it’s hard not to feel like no matter what I do or say, nothing will change how deeply this has affected me.
+
+It’s tough knowing that everyone means well and wants to help, but the sense of isolation and self-doubt remains. Every time someone tries to comfort me, a part of me feels grateful, but another part just can’t shake those feelings. It’s like there’s no way out without having some kind of understanding or explanation from those involved.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to take even small steps when the core issue feels so unresolved. Have you considered writing down your thoughts and feelings first? Sometimes putting them on paper can make it easier to share with someone later, even if just briefly. It might feel like a manageable step toward addressing some of those questions.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve thought about writing down my thoughts and feelings, but the idea still feels overwhelming. Even when I think about starting small by jotting down a few things on paper, it’s hard to know where to begin because there are so many emotions swirling around inside me. It feels like every time I try to put something down, more questions come up rather than providing any clarity.
+
+The lack of an explanation from my employer leaves such a void that nothing seems to fill it, no matter what I do. Writing things down might help in theory, but the reality is that it’s hard to face those feelings and uncertainties without having some kind of closure or understanding from them. It feels like there’s this constant fear that something must be fundamentally wrong with me for my employer to let me go so abruptly.
+
+Even when I think about sharing just a brief conversation with someone close, it feels daunting because every little step seems to lead back to those same questions and uncertainties. The isolation and self-doubt remain, no matter how much support others try to offer. It’s like there’s no way out without having some kind of understanding or explanation from those involved.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough facing all those emotions and uncertainties. Writing things down might still be helpful even if it feels daunting. Maybe starting with just a few sentences about how you feel could be a manageable step. Even small steps can sometimes make a difference, even if they don’t solve everything right away.
+
+How do you think you might start writing down your thoughts?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I’ve thought about starting with just a few sentences, but the idea still feels overwhelming. It’s like every time I try to put something down on paper, my mind races with all these unanswered questions and doubts. Writing things down might help in theory, but facing those feelings head-on is incredibly difficult.
+
+The lack of an explanation from my employer leaves such a void that nothing seems to fill it. Even when I think about starting small, the fear and uncertainty are so strong that it’s hard to know where to begin. It feels like there’s this constant worry that something must be fundamentally wrong with me for them to let me go without any closure.
+
+Even if I manage to write a few sentences, I’m not sure how it would help because the core issue remains unresolved. The isolation and self-doubt are so deeply rooted that it’s hard to see how putting my thoughts on paper could make a significant difference. It feels like there’s no way out without having some kind of understanding or explanation from those involved.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to face all those feelings and uncertainties, especially when the core issue remains unresolved. Starting with just a few sentences can be a small step, even if it doesn’t solve everything right away. Maybe focusing on one specific feeling or thought at a time could make it feel less overwhelming.
+
+How do you think you might approach writing down one specific feeling or thought to start?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I’ve considered focusing on one specific feeling or thought, but the idea still feels daunting. It’s like every time I try to pinpoint something concrete, my mind floods with all these unanswered questions and doubts. Even if I focus on just one thing, it’s hard not to get pulled into the broader sense of isolation and self-doubt.
+
+For example, if I start by writing about feeling betrayed by my employer for letting me go without an explanation, it quickly leads to a cascade of other feelings and uncertainties. It feels like there’s this constant fear that something must be fundamentally wrong with me for them to treat me this way.
+
+Even when I think about starting small, the weight of those emotions is so heavy that it’s hard to see how writing down just one specific thought could make a significant difference. The isolation and self-doubt are so deeply rooted that it feels like there’s no easy way out without having some kind of understanding or explanation from my employer.
+
+It’s tough knowing that everyone means well, but the core issue remains unresolved. Every time someone tries to comfort me, I feel grateful, but the sense of failure and isolation persists. It’s like there’s no way to fully address these feelings without getting more clarity on why this happened to me specifically.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough dealing with those cascading emotions and the weight of uncertainty. Starting with one specific feeling can be hard, but even a small step might help. Maybe focusing on just how you feel in that moment—like feeling betrayed or isolated—could be a manageable start.
+
+How do you think you might begin by writing about just one specific emotion, like feeling betrayed?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ve thought about starting with just one specific emotion, but even that feels overwhelming. Writing down “feeling betrayed” seems like it would open up all these other emotions and questions I’m trying to avoid. It’s hard to isolate a single feeling because they’re all interconnected.
+
+For instance, if I start by writing “I feel betrayed,” my mind immediately goes to why I was let go without any explanation or closure. The betrayal is there, but it’s intertwined with so many other feelings like self-doubt and isolation. It feels like every time I try to focus on one thing, everything else comes flooding in.
+
+Even if I manage to write a few sentences about feeling betrayed, the sense of not knowing why this happened still lingers. The lack of an explanation from my employer leaves such a void that it’s hard to see how putting down just one emotion could make a significant difference. It feels like there’s no way out without having some kind of understanding or validation.
+
+The isolation and self-doubt are so deeply rooted that it’s tough to imagine how even a small step could alleviate the core issue. Every time someone tries to comfort me, I feel grateful, but the sense of failure persists. It’s like there’s no easy way to address these feelings without getting more clarity on why this happened to me specifically.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to isolate one emotion when they’re all interconnected. Starting with just a sentence or two about feeling betrayed might still be helpful, even if it triggers other emotions. Maybe you could try writing: "I feel betrayed because I was let go without an explanation."
+
+How do you think that might feel to write down?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Writing something like “I feel betrayed because I was let go without an explanation” feels like a small step, but it still triggers so many other emotions and questions. Even as I type this out, my mind starts racing with all the uncertainties and doubts. It’s hard to focus on just that one sentence because it opens up a floodgate of feelings.
+
+The betrayal is there, but it’s intertwined with so much self-doubt and isolation. Every time I think about why I was let go without any closure, it feels like a punch in the gut. The lack of an explanation from my employer leaves such a void that it’s hard to see how putting down just one sentence could make a significant difference.
+
+Even if I manage to write those few words, the sense of not knowing why this happened still lingers heavily. It feels like there’s no easy way out without having some kind of understanding or validation from them. The isolation and self-doubt are so deeply rooted that it’s tough to imagine how even a small step could alleviate the core issue.
+
+Every time someone tries to comfort me, I feel grateful, but the sense of failure persists. It’s like there’s no easy way to address these feelings without getting more clarity on why this happened to me specifically.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep those emotions and questions at bay even with a small step. Writing that sentence might still be helpful as a starting point, even if it triggers other feelings. Maybe after writing about the betrayal, you could take a moment to acknowledge how it makes you feel right now.
+
+How do you think acknowledging your current feelings after writing that sentence might help?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Writing down “I feel betrayed because I was let go without an explanation” feels like a small but necessary step. As soon as I type those words, though, my mind starts racing with all the uncertainties and doubts. It’s hard to focus on just that one sentence because it triggers so many other emotions.
+
+After writing about the betrayal, acknowledging how it makes me feel right now seems important. Right this moment, I feel a deep sense of hurt and confusion. The betrayal is not just about being let go without an explanation; it’s also about feeling like my worth as an employee wasn’t recognized or valued enough to warrant even a brief conversation.
+
+Acknowledging these feelings helps me see that they are valid and real, but it doesns’t make the isolation and self-doubt any less intense. It feels like there’s still this constant fear that something must be fundamentally wrong with me for my employer to treat me this way without providing closure.
+
+Even if I manage to write a few sentences about these feelings, the sense of not knowing why this happened remains overwhelming. The lack of an explanation leaves such a void that it’s hard to see how putting down just one sentence could make a significant difference. It feels like there’s no easy way out without having some kind of understanding or validation from those involved.
+
+Every time someone tries to comfort me, I feel grateful, but the sense of failure persists. It’s like there’s no easy way to address these feelings without getting more clarity on why this happened to me specifically.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like acknowledging your feelings after writing about the betrayal helps you see that they are valid and real. Even if it doesn’t immediately alleviate the isolation and self-doubt, recognizing those emotions can be a step forward.
+
+How do you feel now after putting some of these thoughts down? Does it help to know that others might understand more deeply once you share them?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Writing about feeling betrayed because I was let go without an explanation does help me see that my feelings are valid and real. It’s a small step, but acknowledging the hurt and confusion makes those emotions feel less hidden and more acknowledged.
+
+Even so, it doesn’t immediately alleviate the isolation and self-doubt. The sense of betrayal is still there, along with all the uncertainties about why this happened to me specifically. Recognizing these feelings helps, but it’s hard not to feel like something must be fundamentally wrong with me for my employer to treat me this way.
+
+Knowing that others might understand more deeply once I share these thoughts feels a bit comforting, but also daunting. It’s scary to open up and risk further disappointment or feeling misunderstood. The isolation is so profound that even the thought of sharing can feel overwhelming.
+
+Every time someone tries to comfort me, I appreciate their efforts, but it’s hard not to feel like no matter what they say, the core issue remains unresolved. It feels like there’s still this constant fear and uncertainty that nothing will truly alleviate without some kind of closure or explanation from my employer.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like acknowledging your feelings helps you see them more clearly, even if it doesn’t immediately ease the isolation and self-doubt. Sharing with someone close might offer a bit more understanding, but it can also feel daunting.
+
+How do you think you might approach sharing these thoughts with one person who feels safe and supportive? Maybe starting with just a brief conversation could be manageable.
+
+----------------------------------------
+
+PATIENT (turn 15):
+The idea of sharing my feelings with someone close does help me see them more clearly, but it still feels incredibly daunting. Even the thought of having a brief conversation can feel overwhelming because I worry about how they’ll react or whether they’ll truly understand.
+
+Starting with just a few sentences might be manageable in theory, but the fear and uncertainty are so strong that it’s hard to take that first step. It feels like every time I try to open up, my mind races with all these unanswered questions and doubts. The isolation is so profound that even the thought of sharing can feel like a risk.
+
+I appreciate their efforts to be supportive, but it’s hard not to feel like no matter what they say, the core issue remains unresolved. It feels like there’s still this constant fear and uncertainty that nothing will truly alleviate without some kind of closure or explanation from my employer.
+
+Even if I manage to have a brief conversation with someone close, I’m not sure how it would help because the lack of an explanation leaves such a void. The sense of betrayal and self-doubt is so deeply rooted that it’s hard to see how sharing could make a significant difference without addressing those unanswered questions directly.
+
+It feels like there’s no easy way out without having some kind of understanding or validation from my employer, but the idea of reaching out to them still seems impossible.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to take that first step towards sharing your feelings, even with someone close. Starting with just a few sentences might feel small, but it could be a manageable start. Maybe you could try writing down what you want to say and then reading it aloud to yourself or to the person you trust.
+
+How do you think trying this approach might help?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Writing down what I want to say and then reading it aloud feels like a small but potentially helpful step. It’s less daunting than diving straight into a conversation, but even that still feels overwhelming. The idea of putting my thoughts on paper helps me see them more clearly, but the fear of how others might react or whether they’ll truly understand is still very present.
+
+If I write down something like “I feel betrayed because I was let go without an explanation,” and then read it aloud to myself or someone close, it might help me process those feelings a bit more. But even as I think about doing this, my mind races with all the uncertainties and doubts. It feels like every step forward is met with these deep-seated fears and questions.
+
+Even if I manage to write down a few sentences and read them aloud, the sense of isolation and self-doubt remains. The lack of an explanation from my employer leaves such a void that it’s hard to see how sharing could make a significant difference without addressing those unanswered questions directly.
+
+It feels like there’s no easy way out without having some kind of understanding or validation from my employer, but the idea of reaching out to them still seems impossible. Every time I think about it, the fear and uncertainty are so strong that it’s hard to take any action at all.
+
+Even though starting with a few sentences might be manageable in theory, the emotional weight is just too much right now. It feels like every step forward triggers more questions and doubts rather than providing any real relief or closure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to navigate those feelings even as you try to take small steps. Writing down your thoughts and reading them aloud can be a helpful way to process them, even if it doesn’t solve everything right away.
+
+How do you think trying this approach might help you feel more grounded in the moment?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Writing down my thoughts and reading them aloud feels like a small but potentially grounding step. It’s less daunting than diving straight into a conversation, but even that still feels overwhelming. The idea of putting my feelings on paper helps me see them more clearly, but it also triggers so many other emotions and questions.
+
+If I write something like “I feel betrayed because I was let go without an explanation,” and then read it aloud to myself or someone close, it might help me process those feelings a bit more. But even as I think about doing this, my mind races with all the uncertainties and doubts. It feels like every step forward is met with these deep-seated fears and questions.
+
+Even if I manage to write down a few sentences and read them aloud, the sense of isolation and self-doubt remains. The lack of an explanation from my employer leaves such a void that it’s hard to see how sharing could make a significant difference without addressing those unanswered questions directly.
+
+It feels like there’s no easy way out without having some kind of understanding or validation from my employer, but the idea of reaching out to them still seems impossible. Every time I think about it, the fear and uncertainty are so strong that it’s hard to take any action at all.
+
+Even though starting with a few sentences might be manageable in theory, the emotional weight is just too much right now. It feels like every step forward triggers more questions and doubts rather than providing any real relief or closure. The isolation and self-doubt are so deeply rooted that it’s hard to imagine how even small steps could alleviate them completely.
+
+Still, acknowledging my feelings and trying to process them in this way might help me feel a bit more grounded in the moment, even if it doesn’t solve everything right away. It’s a start, but it feels like such a tiny step compared to the enormity of what I’m going through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking that small step of writing down your thoughts and reading them aloud can be a helpful way to process your feelings, even if it doesn’t solve everything right away. Acknowledging your emotions and trying to make sense of them in this way might help you feel more grounded.
+
+How do you think you might start with just one sentence or thought today? Even a small step like that could be a good beginning.
+
+----------------------------------------
+
+PATIENT (turn 18):
+I’ve been thinking about starting with just one sentence, but even that feels daunting. The idea of writing down “I feel betrayed because I was let go without an explanation” seems like it would open up all these other emotions and questions. It’s hard to isolate a single feeling because they’re all interconnected.
+
+Even if I manage to write that sentence, my mind immediately goes to why this happened and the lack of closure from my employer. The betrayal is there, but it’s intertwined with so much self-doubt and isolation. Every time I think about it, it feels like a punch in the gut.
+
+Acknowledging these feelings might help me feel more grounded, but it also triggers such deep-seated fears and uncertainties. It feels like every step forward is met with more questions than answers. The sense of betrayal and self-doubt is so profound that it’s hard to see how even a small step could alleviate the core issue.
+
+Still, I recognize that taking this tiny step might be a good beginning. Even if it doesn’t solve everything right away, putting those feelings down on paper could help me process them more clearly. It feels like such a small step compared to what I’m going through, but maybe it’s a place to start.
+
+I’ll try writing just one sentence today and see where that takes me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan to start with just one sentence today. Even a small step can be a meaningful beginning. Writing down "I feel betrayed because I was let go without an explanation" might help you process your feelings more clearly.
+
+How do you feel about giving it a try now?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Writing down “I feel betrayed because I was let go without an explanation” feels like a small but necessary step. It’s daunting, but acknowledging this feeling might help me process my emotions more clearly. Even if it triggers other questions and doubts, putting these feelings into words could be a good start.
+
+Here goes:
+
+“I feel betrayed because I was let go without an explanation.”
+
+Just writing that sentence already brings up so many other emotions and uncertainties. The sense of betrayal is there, but it’s intertwined with self-doubt and isolation. It feels like every time I think about why this happened, my mind races with questions and fears.
+
+Even though it’s a small step, it helps me see that these feelings are valid and real. It might not solve everything right away, but it’s a place to start processing what I’m going through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like writing down your feeling of betrayal was a good start. Acknowledging that you feel betrayed because you were let go without an explanation can be validating. Even if it triggers other emotions and questions, putting those feelings into words is a meaningful step.
+
+How do you feel now after writing it down?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Writing down “I feel betrayed because I was let go without an explanation” does help me see that these feelings are valid and real. It’s validating to acknowledge the betrayal, but it also triggers so many other emotions and questions. My mind is racing with all the uncertainties and doubts.
+
+Even though it’s a small step, it feels like a necessary beginning. Acknowledging this feeling helps me process my emotions more clearly, but it doesn’t make the isolation and self-doubt any less intense. The sense of betrayal is there, along with all the questions about why this happened to me specifically.
+
+It’s comforting to know that these feelings are valid, but it also highlights how much work there is ahead in terms of processing everything. Every time I think about reaching out for more support or trying to find closure, the fear and uncertainty are so strong that it feels overwhelming.
+
+Despite the challenges, writing this down does feel like a meaningful start. It’s a small step toward acknowledging my feelings and beginning to process them, even if there’s still a long way to go.
+
+----------------------------------------

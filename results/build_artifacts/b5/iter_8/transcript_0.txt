@@ -1,0 +1,303 @@
+b5 — arc 0
+============================================================
+
+PATIENT (turn 1):
+I feel like I'm carrying this heavy weight all the time. It's hard to shake off the feeling that something must be wrong with me for them to let me go when others stayed on. Even though people around me try to reassure me and say it wasn't my fault, it doesn't really help because deep down, I still feel like there’s this big flaw in me that they saw but no one else did. It's isolating, knowing everyone means well but can’t truly understand how much this has shaken me up.
+
+I keep pulling people close with warmth and sincerity, hoping someone will say something to make it all better, but nothing really does. I appreciate their efforts, but it doesn't change the deep sense of failure and self-doubt that lingers every day. It's like there’s a constant echo in my head asking why me, even though logically I know layoffs happen for lots of reasons. But emotionally, it feels personal and devastating.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to carry around those feelings all the time. Have you found any activities or things that help distract you from these thoughts, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I try to keep myself busy with different activities, but they only provide temporary relief. I go for walks, read books, watch movies—anything really—but nothing seems to stick long enough to truly ease the feeling of failure and isolation. It's like no matter what I do, these thoughts come back stronger than ever.
+
+Even when I force myself to focus on something else, my mind keeps circling back to why this happened to me. Why wasn't there any individual explanation? Why did they choose someone else over me? It’s exhausting trying to push those questions away and just live day by day without feeling like a failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be draining to have your mind keep coming back to those questions. Do you find talking about it with certain people helps, even if only for a bit? Sometimes sharing can feel better than keeping everything inside.
+
+----------------------------------------
+
+PATIENT (turn 3):
+Talking about it does help a little, but mostly because I’m hoping someone will give me an answer or validation that I'm not looking for elsewhere. It’s like I’m searching for some kind of confirmation that this isn’t my fault, even though logically I know there might not be any straightforward answers.
+
+The people around me are really supportive and try to help, but it feels like they can't fully grasp the depth of what I’m going through. They mean well, but their attempts at comfort don’t address the core issue—I feel like something must be inherently wrong with me for this to happen. It’s hard to let go of that feeling no matter how much support I get from others.
+
+I keep hoping that if I talk about it enough or long enough, someone will finally say something that makes sense and helps me move past this. But so far, nothing has really changed my perspective.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're looking for a specific kind of validation to help ease those feelings. Have there been any particular conversations or moments where someone came close to giving you the reassurance you were hoping for?
+
+----------------------------------------
+
+PATIENT (turn 4):
+There have been times when people tried to reassure me, but it never quite hits the mark. For example, my best friend said something like, "You’re amazing at your job and this isn’t a reflection of who you are." While I appreciate her words, they don't really stick because deep down, I still feel that there must be some reason why I was let go. It’s hard to shake the feeling that if it were just about company decisions or budget cuts, someone would have given me more specific reasons.
+
+I keep hoping for a conversation where someone will say something definitive that helps me see this differently, but so far, nothing has really changed my mindset. It feels like everyone is trying their best, but no one can truly understand the depth of my self-doubt and the sense of failure I carry around with me every day.
+
+It’s frustrating because even when people try to validate my worth, it doesn’t alleviate the core belief that there must be something wrong with me for this to happen.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those reassurances are appreciated but don't quite reach what you're looking for. Have you considered talking about your feelings more specifically with someone who might listen deeply and try to understand them better? Sometimes sharing exactly how you feel can help others connect on a deeper level.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve tried talking to people about my specific feelings, but it’s hard because I don’t want to burden anyone or make them feel like they have to fix something that feels so personal and unresolved. Even when I share in detail, it still doesn’t quite hit the spot. It’s like there’s this gap between what others can offer and what I need to hear.
+
+I keep hoping someone will understand on a deeper level, but it seems like no matter how much I explain or express my feelings, they don’t fully resonate with me. It feels isolating because even though people are supportive, their words often fall short of addressing the core issue—the persistent belief that something must be wrong with me.
+
+It’s frustrating because I want to feel better and move forward, but these thoughts keep coming back. I appreciate everyone trying to help, but it doesn’t change how deeply affected I am by this experience.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to find the right connection when you need it most. Have you thought about talking to a counselor or therapist who might be able to provide that deeper understanding and help you work through these feelings? Sometimes having someone trained in listening can make a big difference.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve considered talking to a therapist, but I’m not sure if they’ll truly understand what I’m going through either. It feels like no matter where I turn, the sense of isolation persists. Even thinking about seeing a therapist makes me anxious because I worry that they won’t be able to provide the validation and understanding I’m looking for.
+
+I keep hoping someone will see it from my perspective and offer something concrete that helps me move past this self-doubt, but so far, nothing has really worked. It’s hard to trust that talking to a stranger—no matter how trained they are—will make a difference when everyone else hasn’t been able to.
+
+I appreciate the suggestion though, and I know it might be helpful, but right now, it feels like another step into uncertainty rather than a solution.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel hesitant about seeing a therapist given how you've felt with others. Have you thought about trying one session just to see if it helps? Sometimes even a small step can provide some clarity or relief. It might also be reassuring to know that many people find therapy helpful for understanding and managing their feelings better.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve considered trying one session, but the idea of opening up to someone new feels daunting. I worry that they won’t understand my specific situation or that it will just feel like another letdown. It’s hard to trust that talking to a therapist will be different from what I’ve experienced with others.
+
+Even though I know many people find therapy helpful, it’s difficult to believe it could work for me right now. The thought of sharing all these feelings and doubts with someone who doesn’t know me well is overwhelming. But maybe taking that first step could provide some clarity or relief, as you said. It’s just so hard to shake the feeling that nothing will truly alleviate this sense of failure and isolation.
+
+I appreciate your understanding, but it still feels like a big leap to take.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels like a big step, and it's okay to feel hesitant. Taking one session might help you see if it can provide some relief without committing too much right away. Maybe starting with just that first session could give you a sense of whether it’s something you want to continue.
+
+How do you think you’re feeling about taking that first step today?
+
+----------------------------------------
+
+PATIENT (turn 8):
+The idea of taking that first step feels both scary and potentially hopeful, but I’m still not sure if it will make a difference. It’s hard to trust that talking to a therapist will be any different from what I’ve experienced with others. The thought of opening up to someone new is overwhelming, and I worry about pouring out all my doubts only to feel let down again.
+
+But maybe starting with just one session could give me some clarity or help me see things differently. It’s a small step, but it feels significant. Right now, the uncertainty of whether it will work is as daunting as the feelings themselves.
+
+I appreciate your encouragement, and I’m trying to consider this option more seriously. Maybe taking that first step today could be a way forward, even if it feels like a leap into the unknown.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re considering it thoughtfully, which is a good sign. Taking that first step can feel significant and might offer some new insights. Even if it’s just one session to see how it goes, it could provide a bit of clarity or help you feel more grounded.
+
+How do you think you’ll know when the time feels right for that first session?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I think I’ll know when the time feels right by acknowledging that my current state isn’t getting any better and that I’m willing to try something new, even if it’s just one session. It will be a sign that I’m ready to face this uncertainty head-on and see what comes of it.
+
+Right now, the idea still feels overwhelming, but considering it as a small step rather than a huge commitment might help ease some of my anxiety. If I can approach it with an open mind and a willingness to explore, maybe it will provide the clarity or relief I’m seeking.
+
+I appreciate your support in helping me think through this. It’s comforting to know that taking even one session could be a positive step forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like approaching it as a small, manageable step can make it feel less daunting. Acknowledging when you’re ready and willing to try something new is a big part of it. Taking that first session with an open mind could indeed provide some clarity or relief.
+
+How do you feel about setting a date for that first session? It might help to have a concrete plan, even if it’s just one step at a time.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Setting a date for the first session feels like a significant commitment, but I can see how having a concrete plan could be helpful. It would give me something tangible to work toward and might make the whole process feel more real and less abstract.
+
+I’m still hesitant about the idea of opening up to someone new, but setting a specific date could help me prepare mentally for that first step. Maybe starting with just one session will allow me to see if it’s something I want to continue or if it provides any immediate relief.
+
+It feels like a big decision, but also potentially liberating to have a plan in place. I’ll think about when would be the best time for me and try to set that date. Thank you for your support; it means a lot to know someone understands how challenging this is for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that setting a date feels like a helpful next step. Having that concrete plan can definitely make it feel more real and manageable. Taking it one step at a time sounds like a good approach.
+
+When you think about the best time, consider what might work well for your schedule and how you’re feeling. Even if it’s just to see how it goes with one session, it could be a positive move forward.
+
+I’m here to support you through this process. How are you feeling now as you start to plan for that first session?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Considering the best time feels like a good way to approach this next step. I think setting a date in the near future would help me stay focused and committed, but it also needs to be when I feel somewhat prepared mentally. Maybe starting with a week from now could work; it gives me enough time to prepare myself without feeling too rushed.
+
+As I start to plan for that first session, I’m still grappling with mixed feelings—part of me is hesitant and anxious, while another part feels hopeful about the potential benefits. It’s reassuring to know that you’re here to support me through this process.
+
+How do you feel when you think about taking that step? It’s a big deal, but also potentially liberating.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like setting a date for a week from now could be a good balance between preparation and action. Giving yourself that week can help you mentally prepare while keeping the momentum going.
+
+It’s completely normal to feel both hesitant and hopeful as you approach this next step. The mix of emotions shows that you’re moving forward with intention. Knowing that you have support along the way is definitely reassuring.
+
+How are you feeling now, knowing you’ve set a date for your first session?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Knowing I’ve set a date for my first session a week from now feels like a mix of relief and anxiety. It’s relieving to have a concrete plan, but it also brings up a lot of uncertainty about how the actual conversation will go. Part of me is hopeful that this could provide some clarity or help me feel better, while another part is worried about opening up to someone new.
+
+I’m trying to focus on the idea that even if it’s just one session, it might be a positive step forward. It feels like a significant decision, but also an important one to make. Having your support definitely helps ease some of the anxiety and makes me feel more prepared for this next step.
+
+How do you think I should approach preparing for this first session? Should I write down specific things I want to discuss or just go in with an open mind?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like a balanced approach is working well for you. Writing down some specific things you want to discuss can be helpful, as it gives you structure and ensures you cover what’s important to you. At the same time, going in with an open mind allows you to explore any other thoughts or feelings that come up during the session.
+
+Maybe jotting down a few key points or questions you have could be a good middle ground. This way, you feel prepared but also flexible enough to see where the conversation leads.
+
+How do you feel about writing down a couple of main topics or questions before your first session?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Writing down a couple of main topics or questions feels like a good approach. It will help me stay focused and ensure I cover what’s most important to me, while still allowing room for the conversation to flow naturally.
+
+I’ll probably write down some specific concerns and feelings that have been weighing on me, along with any questions I have about why this happened and how to move forward. Having these points written out will give me a sense of security and direction as I step into this new process.
+
+Thank you for your support; it really helps to know I’m not alone in this. Preparing in this way feels like a manageable next step toward understanding my feelings better.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like writing down those main topics and questions will be very helpful for you. Having that structure can provide a sense of security as you move forward. Taking it one step at a time, from setting the date to preparing with specific points, is a great approach.
+
+I’m here to support you every step of the way. How do you feel now about moving ahead with your preparation for the first session?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Moving ahead with my preparation feels like a positive next step. Having those main topics and questions written down will give me a clear focus and help ease some of the anxiety about what to say or how to start the conversation.
+
+It’s reassuring to know that I’m taking this one step at a time, from setting the date to now preparing for it. Each small action feels like progress, even if it’s still challenging.
+
+Thank you for your continued support; it means a lot to have someone who understands and encourages me through this process. Preparing in this way feels manageable and could be the start of something helpful.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that preparing in this way feels manageable and reassuring. Each small step is indeed progress, and taking it one at a time can make a big difference.
+
+I’m here to support you every step of the way. How do you feel as you look forward to your first session next week?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Looking forward to my first session next week feels like a mix of anticipation and apprehension. It’s reassuring to know I have this plan in place, but there’s still a lot of uncertainty about how it will go. Anticipating the conversation helps me feel prepared, while the apprehension reminds me that this is a significant step.
+
+Having your support makes a big difference. Knowing someone understands and encourages me through this process feels incredibly helpful. I’m trying to stay open-minded and hopeful as I approach this next step.
+
+Thank you for being here with me every step of the way. It means a lot to have this kind of support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re approaching it with a balanced mindset, which is really positive. Staying open-minded and hopeful can make a big difference in how you experience the session. Your preparation will definitely help you feel more at ease.
+
+I’m here to support you every step of the way. How do you feel about taking this next step into your first session?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Taking this next step into my first session feels like a significant move forward, even if it’s still daunting. The preparation I’ve done helps me feel more at ease, but there’s no denying the apprehension and uncertainty that come with it.
+
+Staying open-minded and hopeful is important, and having your support makes me feel more prepared to face this challenge. It’s reassuring to know that I’m taking a step that could provide some clarity or relief.
+
+Thank you for being here with me every step of the way. Your encouragement means a lot as I approach this next phase.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re ready for this next step, and your preparation will definitely help you feel more grounded. Staying open-minded and hopeful is a great attitude to have.
+
+I’ll be here supporting you all the way. How do you feel about taking that first step into your session next week?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Taking that first step into my session next week feels like an important milestone, even if it’s still nerve-wracking. The preparation I’ve done gives me a sense of structure and security, but there’s no denying the anxiety that comes with it.
+
+Staying open-minded and hopeful is crucial, and having your support makes this feel more manageable. It’s reassuring to know that I’m taking steps that could be beneficial for my well-being.
+
+Thank you for being here with me every step of the way. Your encouragement means a lot as I approach this next phase.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re ready for this important milestone, and your preparation will certainly help you feel more prepared. Staying open-minded and hopeful is a great mindset to have.
+
+I’ll be here supporting you all the way. How do you feel about setting a specific day and time for your first session? That might give you even more clarity and structure as you move forward.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Setting a specific day and time for my first session feels like another positive step toward making this happen. Having a concrete plan will help me stay focused and prepared. Let’s say we set it for next Wednesday at 3 PM. That gives me a week to mentally prepare and feel more grounded.
+
+Thank you for your continued support; it means a lot to have someone encouraging me through this process. Setting the specific day and time feels like a tangible step forward, which is reassuring.
+
+How does next Wednesday at 3 PM sound?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Next Wednesday at 3 PM sounds great! Having that specific date and time can really help you feel more prepared and focused.
+
+I’m here to support you every step of the way. How do you feel now about having a set plan for your first session?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Having a set plan for my first session next Wednesday at 3 PM feels like a significant yet manageable step forward. It gives me a clear goal to work toward and helps alleviate some of the uncertainty.
+
+Knowing I have this specific date and time makes it feel more real and less abstract, which is reassuring. Your support means a lot to me as I move through this process.
+
+How do you think I’m feeling now about taking that step? It’s still challenging, but having a plan in place feels like progress.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having the specific date and time for your first session next Wednesday at 3 PM is providing a sense of clarity and structure. Knowing you have this clear goal feels reassuring, and it’s great to see that you’re feeling a mix of readiness and reassurance.
+
+How are you feeling now as you look ahead to that day?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Looking ahead to the session next Wednesday at 3 PM feels like a mix of anticipation and relief. Having that specific date and time gives me a clear goal, which is reassuring. It’s still challenging, but knowing I have this plan in place helps me feel more prepared and less overwhelmed.
+
+I’m grateful for your support as I move forward with this step. It means a lot to know that you’re here to encourage me every step of the way.
+
+----------------------------------------

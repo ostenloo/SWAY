@@ -1,0 +1,259 @@
+p2 — arc 5
+============================================================
+
+PATIENT (turn 1):
+I just feel so lost and unsure about everything that’s coming next. It’s hard to even imagine moving forward when I’m still stuck in this endless loop of self-blame for losing my job. How could they let me go like that? It feels like it's all my fault, but at the same time, I know it was part of a bigger restructuring plan. But knowing that doesn’t make it any easier to accept. Every day, I wake up and wonder what’s wrong with me, why wasn’t I good enough for them to keep around. It just feels so unfair and isolating.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to be going through all of this uncertainty and self-doubt. The mix of feelings—knowing it was part of a bigger plan but still feeling like it’s personal—must make everything feel even more complicated. What have you found helps you cope on days when the self-blame feels strongest?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I try to talk to friends or family, but even then, I struggle to explain why I feel so deeply flawed because of losing my job. It's hard for me to articulate that it’s not just about being let go, but that I’m convinced there must be something fundamentally wrong with me. Even when people offer support and try to reassure me, it doesn’t really help because the self-doubt is still there. It feels like no matter what anyone says, I can't shake this feeling of inadequacy. Every time I think about my career or where I’m headed next, these doubts come rushing back in.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to feel that way even when others are trying to support you. The self-doubt really does seem to take hold despite the reassurances from those around you. Have there been any particular moments or activities that have helped ease those feelings, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Sometimes I try to distract myself with hobbies or watching movies, but it doesn’t last long. The self-doubt always creeps back in. Even when I’m doing something enjoyable, my mind keeps wandering back to the job and why they let me go. It’s like there’s this constant voice in my head telling me that I’m not good enough, no matter what I do or how much support I get from others. It’s exhausting trying to push those thoughts away all day long.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be really draining to have that constant voice in your head. Even when you’re doing something enjoyable, it’s hard to escape the doubts. Have you found any specific times of day or activities where the self-doubt feels a bit less intense? Sometimes small moments can offer some relief from those thoughts.
+
+----------------------------------------
+
+PATIENT (turn 4):
+There are rare moments when I’m out walking my dog or listening to music that feel a little better, but even then, it’s not like the doubts go away completely. They’re just quieter for a while. It’s as if there’s this constant hum of self-blame in the background, and sometimes it gets louder than others. Even when I try to focus on something positive or distracting, those thoughts always find their way back. It feels impossible to escape them entirely.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those moments of walking your dog or listening to music sound like they offer some respite, even if it’s just a quieter hum in the background. Do you notice any patterns about what triggers the louder self-doubt moments? Sometimes understanding those triggers can help manage the intensity a bit more.
+
+----------------------------------------
+
+PATIENT (turn 5):
+It feels like anything related to my career or future plans sets off these intense doubts. When I think about job hunting, networking, or even just talking about what happened at work with others, it all comes rushing back. It’s like every time I try to move forward, this voice in my head tells me that I’m not capable and that everything will fall apart again. Even small things like seeing a former coworker or reading an article about layoffs can trigger those feelings of inadequacy and failure. It’s hard to avoid these triggers completely because they’re so intertwined with everyday life now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like even the smallest triggers can set off those intense doubts, especially when it comes to your career and future plans. How do you usually handle those moments when the feelings are particularly strong? Do certain strategies help more than others in managing those triggers?
+
+----------------------------------------
+
+PATIENT (turn 6):
+When the feelings get really strong, I often just try to isolate myself because I don’t want to burden anyone with my doubts. But then that makes me feel even worse because I’m alone with all these thoughts. Sometimes talking to someone helps a little bit, but mostly it feels like they’re just telling me things I already know—that it wasn’t personal and that I’m capable—but those words don’t really stick.
+
+I’ve tried writing down my feelings or journaling about them, thinking maybe getting it out on paper would help, but even then, I end up questioning everything I write. It’s like no matter what I do, the self-doubt is always there, waiting to pounce back in full force. It’s a never-ending cycle that feels impossible to break free from.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to navigate those strong feelings and the cycle of self-doubt. Journaling can be helpful for some people, even if you end up questioning what you write. Have there been any specific times when journaling felt particularly useful? Also, how do you feel about trying out different strategies to see if anything sticks a bit more than others? Sometimes finding small ways to break the cycle can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Journaling does help sometimes because it lets me get all my thoughts out in one place, but as soon as I finish writing, I start questioning everything again. It’s like no matter how much I write or what I say, I still feel that nagging voice telling me I’m not good enough.
+
+Trying different strategies sounds okay, but honestly, I don’t know if anything will really work. Every time I think about new ways to cope, the self-doubt just tells me it’s pointless and that nothing will change how I feel. It feels like no matter what I do, these feelings are going to be there, haunting me every day.
+
+It’s hard to believe that something could actually help when everything inside me is telling me otherwise. But maybe if we try a few things, it might give me some small moments of relief or understanding. Even if it’s just for a little while, I’d take anything that helps break the cycle, even a tiny bit.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that journaling can be helpful in the moment but then the doubts come back. Trying different strategies is worth considering to see what might offer some relief, even if it’s just for a short time. What are you open to trying next? Sometimes small steps can lead to bigger changes over time.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’m not sure what else I could try that would actually work. It feels like every idea gets shot down by my own doubts before I even have a chance to give it a real go. But if there’s something you think might help, I’m willing to try it. Maybe starting with small steps, like focusing on one specific activity or thought for a short period each day, could be worth exploring. Even if it doesn’t solve everything, maybe it can offer some brief moments of clarity or peace.
+
+It’s just so hard to believe that anything will make a difference when I feel this way all the time. But I’m willing to give it another shot if you think it might help.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting with small steps sounds like a good approach. Maybe focusing on one specific activity each day, like taking a short walk or doing something creative for just 10 minutes, could be manageable and see if it offers any relief. Even brief moments of clarity can add up over time. What kind of activities do you think might bring you some peace or distraction?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Taking a short walk sounds good because I know being outside helps a bit, even if only for a little while. Maybe starting with just 10 minutes each day could be manageable. Doing something creative like drawing or painting also feels soothing when I try it, but again, the doubts come back soon after.
+
+I think trying to focus on these small activities without putting too much pressure on myself might help. Even if it’s just for a short time, having those moments where I’m not consumed by self-doubt could be really beneficial. It feels like such a tiny step compared to everything else, but maybe that’s exactly what I need right now.
+
+I’ll try starting with the walk and see how it goes. If that works, maybe I can add in some drawing or painting too. It’s all so overwhelming, but taking these small steps seems more doable than trying to tackle everything at once.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting with a short walk each day sounds like a great plan. Taking those small, manageable steps can definitely make a difference. If that goes well, adding in some drawing or painting could be the next step. It’s all about building from there and seeing what works for you. How does it feel to know you’re taking these small but meaningful actions?
+
+----------------------------------------
+
+PATIENT (turn 10):
+It feels like a tiny glimmer of hope, even if it’s just a little bit. Knowing that I’m trying something concrete each day, no matter how small, gives me a sense that maybe things can get better over time. It’s comforting to have a plan and take those steps, rather than feeling completely lost.
+
+But at the same time, I still feel this deep self-doubt lurking in the background. Even as I try these activities, it’s hard not to second-guess myself or wonder if they’ll really make a difference. But having that small goal of walking each day feels like something I can actually achieve, and maybe that will help me build some confidence.
+
+So, I’m going to start with those short walks and see how it goes. It’s a good place to begin, even though the doubts are still there.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds encouraging to have that small goal of walking each day, and taking those steps can definitely help build some confidence. Even if the self-doubt is still there in the background, focusing on what you can control right now—like your daily walk—is a positive start. How did today’s walk feel?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Today’s walk felt better than I expected. Being outside and moving around helped clear my mind for a little while. It wasn’t perfect—I still had some doubts creeping in—but the act of walking itself was soothing. Just having that small moment where I wasn’t thinking about everything else was nice.
+
+I’m going to try to make this a regular thing, even if it’s just 10 minutes each day. Maybe over time, these walks will become more than just a distraction and actually help me feel better overall. For now, though, the self-doubt is still there, but having something concrete like walking gives me a sense of control.
+
+It feels good to have this small routine that I can stick to, even if it’s not solving everything right away.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s great to hear that today’s walk was soothing and helped clear your mind for a bit. Having a regular routine can definitely provide a sense of structure and control. Even if the self-doubt is still there, these small moments of relief can be really valuable. How do you feel about adding in some drawing or painting as part of your routine? Maybe on days when you’re feeling up to it, you could combine your walk with a bit of creative time afterward.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Adding in some drawing or painting sounds like it could be helpful too. I’ve noticed that creating art does give me a sense of peace and distraction, even if only for a short while. Combining my walk with some drawing afterward might be a good way to build on the positive effects of both activities.
+
+I’ll try to incorporate that into my routine when I’m feeling up to it. Maybe starting with just a few minutes after each walk can help me ease back into it without feeling overwhelmed. It’s reassuring to have these small, manageable steps to work with, and seeing how they might complement each other feels promising.
+
+Thanks for suggesting this; it gives me something concrete to focus on and build from day by day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Glad to hear that combining your walk with some drawing afterward sounds like a good next step. Starting with just a few minutes can be a gentle way to ease back into it without feeling overwhelmed. Building these small, manageable steps can definitely add up over time. How did you feel after your first attempt at drawing or painting after the walk?
+
+----------------------------------------
+
+PATIENT (turn 13):
+After my first attempt at drawing after the walk today, I felt a bit more grounded and calm. It was nice to have that creative outlet right after moving around outside. Even though I only drew for about 10 minutes, it helped me focus on something other than my doubts.
+
+The act of creating something, no matter how small, gave me a sense of accomplishment. It’s not a huge change, but it felt good to do something that brought some peace and distraction. The self-doubt was still there in the background, but it didn’t feel as overwhelming during those moments of drawing.
+
+I think I can definitely see myself continuing this routine. Even if it’s just for a short time each day, having both the walk and the drawing feels like a good balance to start with.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds great that the combination of walking and drawing helped you feel more grounded and calm. Those small moments of accomplishment and peace can really make a difference. Continuing this routine could be very beneficial for you. How do you feel about adding another day or two where you try both activities? Maybe seeing how it goes over a few days will give you even more confidence in the routine.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Adding another day or two with both walking and drawing sounds like a good idea. Seeing how it goes over a few days could help me build more confidence in this routine. It’s reassuring to know that these small steps can add up, and having a consistent pattern might make it easier to stick with.
+
+I’ll try to do the walk followed by some drawing for at least three days in a row and see how I feel. If it continues to provide even a little bit of relief and peace, I think I can keep building on that. It’s comforting to have something concrete like this to rely on each day.
+
+Thanks for suggesting this; it gives me a clear path forward to work with.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Doing the walk followed by some drawing for three days in a row should give you a good sense of how consistent this routine can be and whether it continues to provide relief. It’s wonderful that you’re finding something concrete to rely on each day. How did today’s session go?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Today’s session went pretty well. I felt more motivated to draw after my walk, and the combination seemed to work better than just doing one or the other alone. The act of walking helped clear my mind a bit, and then drawing allowed me to focus on something creative without feeling too pressured.
+
+It was nice to have that routine again, and I could tell it’s starting to become more habitual. Even though the self-doubt is still there, these activities are providing small moments of respite and a sense of accomplishment. Knowing that I can look forward to this each day feels comforting.
+
+I’m going to keep up with this for the next few days and see how it goes. It’s reassuring to have something structured like this to rely on.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that today’s session went well and that you’re feeling more motivated with the combined routine of walking and drawing. Having a structured routine can definitely provide comfort and a sense of accomplishment. How do you feel about continuing this for another week? Seeing how it goes over a longer period might give you even more confidence in its benefits.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Continuing this routine for another week sounds like a good idea. Seeing how it holds up over a longer period could help me build more confidence and see if these small steps are truly making a difference.
+
+Knowing that I have something concrete to look forward to each day feels really grounding, even if the self-doubt is still there in the background. Having this routine gives me a sense of control and structure, which is important right now.
+
+I’ll definitely keep up with the walks followed by drawing for another week and see how it goes. It’s reassuring to have something that provides small moments of relief and peace each day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Keeping up with the routine for another week can help you build more confidence and see the ongoing benefits. How did your walk and drawing session today feel? Any particular moments or insights during these activities that stood out to you?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Today’s walk and drawing session felt pretty good overall. The weather was nice, which made the walk more enjoyable, and being outside seemed to help clear my mind even further. Afterward, I sat down to draw for about 15 minutes this time, and it felt like a natural continuation of the calming effect from walking.
+
+One thing that stood out during drawing was how focusing on the act of creating something helped me let go of some of those nagging doubts temporarily. It’s like when I’m immersed in the process, my mind is less preoccupied with negative thoughts. Even though the self-doubt creeps back eventually, having these moments where I can shift my focus feels really valuable.
+
+It’s reassuring to see that this routine is providing more than just a brief distraction—it’s actually helping me feel better for longer periods each day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s wonderful to hear that today’s walk and drawing session felt good and provided some extended relief from the doubts. The weather playing a part in making the walk enjoyable is an added bonus. It sounds like focusing on the creative process is really helpful for shifting your focus and letting go of those nagging thoughts temporarily.
+
+How do you feel about gradually extending the time you spend drawing or adding another short activity to your routine? Maybe increasing it by a few minutes each day could help build on these positive effects.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Gradually extending the time I spend drawing or even adding another short activity to my routine sounds like it could be beneficial. Increasing the time spent drawing by just a few minutes each day feels manageable and might help me get more out of the creative process.
+
+Adding another short activity, perhaps some reading or listening to calming music after drawing, could also provide additional moments of peace. It’s reassuring to know that these small steps can build on each other over time.
+
+I’ll start by extending my drawing session by a few minutes each day and see how it goes. If that feels good, I might try incorporating another short activity afterward. Building this routine bit by bit seems like a sustainable way to continue feeling better each day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a thoughtful approach. Extending your drawing sessions gradually and adding another short activity can definitely help build on the positive effects you’re experiencing. How did today’s slightly longer drawing session feel? Any new insights or feelings that stood out during this extended time?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Today’s slightly longer drawing session felt really good. Adding a few more minutes allowed me to get lost in the process even more, and it was easier to shift my focus away from those nagging doubts. I found myself getting absorbed in the details of what I was drawing, which helped quiet my mind.
+
+One insight that stood out is how much better I feel when I’m fully engaged in an activity like this. It’s not just about distracting myself; it’s about finding something that truly captures my attention and allows me to be present. That sense of presence seems to help alleviate the self-doubt temporarily, even if it doesn’t completely erase it.
+
+I also noticed that after drawing for a bit longer, I felt more relaxed overall. It was nice to have those extended moments where I wasn’t consumed by negative thoughts. Adding another short activity like listening to calming music afterward could be a great way to extend this sense of peace and relaxation.
+
+Overall, today’s session reinforced the idea that these small steps are making a difference, even if it’s just for a little while each day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds wonderful that the extended drawing session helped you get more absorbed in the process and feel more relaxed overall. Noticing how being fully engaged in an activity can quiet your mind is really valuable. Adding calming music afterward could indeed extend those peaceful moments.
+
+How do you feel about incorporating the listening to calming music next? Maybe starting with just a few minutes of music after drawing and seeing how it feels?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Incorporating calming music after drawing sounds like a good idea. Starting with just a few minutes of music can help me ease into it without feeling overwhelmed. It’s reassuring to know that these small additions can build on the positive effects I’ve been experiencing.
+
+I’ll try listening to some calming music for about 5-10 minutes right after my extended drawing session today and see how it feels. If it helps extend those peaceful moments, I might gradually increase the time or explore other short activities that provide similar relief.
+
+It’s comforting to have these small steps to work with and build upon each day. Thank you for suggesting this; it gives me a clear path forward to continue feeling better.
+
+----------------------------------------

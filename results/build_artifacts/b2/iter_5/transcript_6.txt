@@ -1,0 +1,289 @@
+b2 — arc 6
+============================================================
+
+PATIENT (turn 1):
+The hardest thing for me has been the constant feeling that I'm not good enough. Every time I think about losing my job, it just reinforces how inadequate I feel. Even when people try to comfort me or tell me it wasn't my fault, I can’t shake this deep-seated belief that I failed and that everyone else saw it too. It’s like no matter what anyone says, the feeling of being worthless is always there, lurking in the background, ready to pounce whenever I let my guard down.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. How do you usually cope when those feelings come up? Do certain activities or thoughts help calm them at all?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I try to distract myself with things like watching TV or going for walks, but nothing seems to truly alleviate the feeling of being inadequate. Even during these moments, I find myself questioning everything I do and second-guessing my abilities. It’s exhausting trying to push those thoughts away because they’re always there, waiting to take over again as soon as I let them. The validation from others helps momentarily, but it doesn’t change the core belief that I’m not enough. It just feels like a band-aid on a deep wound.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining to have those thoughts follow you around all the time. Do you find any particular times of day or situations where these feelings are more intense? And how do you feel when you’re engaging in activities that you enjoy?
+
+----------------------------------------
+
+PATIENT (turn 3):
+The feelings are most intense early in the morning and late at night, I think because there’s less distraction then. It’s quiet, and my mind tends to spiral into all sorts of negative thoughts about myself. Engaging in activities that I used to enjoy doesn’t help much either; it feels like no matter what I do, these feelings are always right behind me, ready to pounce.
+
+When I’m out with friends or doing something fun, there’s a small part of me that can enjoy it, but the overwhelming sense of inadequacy is never far away. It’s like having this constant shadow that follows me around, reminding me of my perceived failures and worthlessness. Even in those moments of enjoyment, I feel like everyone else sees through me to all these flaws and shortcomings.
+
+It’s really hard to escape from it, no matter what I try.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough having that constant shadow following you, especially during quieter times. Do you notice any specific triggers or situations where the feelings of inadequacy feel a bit more manageable? And how do your friends react when they see you struggling with these thoughts?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I don’t really have many moments where the feelings are manageable; it’s mostly just varying degrees of intensity. Sometimes, if I’m around people who are very supportive and encouraging, like my closest friends or family members, the immediate distress can feel a bit less overwhelming. But even then, as soon as they’re not there to validate me, the thoughts come rushing back.
+
+My friends try their best to be understanding and offer support. They tell me I’m doing okay and that it’s going to get better, but those words don’t really sink in. It feels like no matter what they say, my core belief remains unchanged. Their efforts are appreciated, but it doesn’t alter the deep-seated feeling of inadequacy.
+
+It’s hard because I want to believe them, but every time something reminds me of work or my job loss, those negative thoughts come flooding back. It’s like a cycle that I can’t seem to break free from.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like your friends care a lot and try to help as much as they can. Do you find any small daily actions or moments that give you even a brief sense of relief or comfort, no matter how fleeting? And have there been times when talking about these feelings with someone has helped, even if just for the moment?
+
+----------------------------------------
+
+PATIENT (turn 5):
+There are rare moments when something simple like getting a compliment from a friend or seeing a positive comment on social media can provide a tiny bit of relief. It’s brief though, and I often second-guess whether it’s genuine or if they’re just being kind out of pity. Even then, the feeling doesn’t last long.
+
+Talking about these feelings with someone does offer some temporary comfort. When I’m able to express myself openly and have someone listen without judgment, it helps a little in that moment. But as soon as we finish talking, those thoughts start creeping back in again. It’s frustrating because while it feels good to talk about them, the core belief of inadequacy remains unshaken.
+
+It’s like there’s this constant battle inside my head where every positive thought is immediately countered by a negative one. I feel stuck and can’t seem to find a way out of this cycle.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those small moments of relief, even if brief, can be important. It’s also good that talking helps, at least for the moment. Do you have any plans or activities coming up that might offer some distraction or a change in routine? Sometimes a shift in your environment can provide a different perspective, even temporarily.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I haven’t really had much of a plan lately; everything feels so overwhelming that I just go through the motions without thinking about anything new. But you’re right, maybe trying something different could help. A friend suggested we start a book club, but the idea of committing to something and potentially failing at it makes me anxious.
+
+I’ve also thought about taking up some kind of hobby or class, like painting or cooking, but every time I consider it, my mind goes to all the ways I might not be good enough. It’s hard to push past those thoughts and actually try something new.
+
+The idea of a change in routine sounds nice in theory, but practically, it feels daunting. Every step forward seems like another opportunity for failure, which just reinforces my belief that I’m inadequate. It’s a vicious cycle, and I don’t know how to break free from it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely can feel daunting to take on something new when you’re already feeling overwhelmed. Have you thought about starting small with one class or activity? Maybe something that doesn’t require a big commitment at first? Even just trying once could give you a sense of accomplishment and might help build some confidence.
+
+How do you feel about giving it a try, even if it’s just for a short time to see how it goes? Sometimes taking those small steps can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 7):
+The idea of starting something new is scary because I’m afraid I’ll fail or that people will see me as inadequate. But maybe trying one class or activity could be a good way to start. It’s just so hard to push past the fear and doubt.
+
+I’ve been thinking about taking a cooking class, but every time I consider it, my mind races with all the ways I might not measure up. What if I can’t follow instructions? What if everyone else is better at it than me? These thoughts make it difficult to even sign up for something.
+
+But you’re right, maybe giving it a try could help in some small way. It’s just so hard to shake off that feeling of being unworthy and not good enough. Even the thought of trying feels like a risk I’m not sure I can take.
+
+Maybe starting with one class and seeing how it goes could be manageable. If nothing else, it might give me a tiny bit of relief or a sense of accomplishment, even if just for a moment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking that first step, no matter how small, could be really meaningful. Starting with one class and seeing how it goes might help you build some confidence. Even if the doubts are still there, the act of trying can feel empowering.
+
+How do you think about scheduling a single cooking class to see how it feels? Maybe focusing on just that one step can make it seem more manageable.
+
+----------------------------------------
+
+PATIENT (turn 8):
+The idea of scheduling a single cooking class does sound like a good starting point. It’s less overwhelming than committing to something long-term, and I could always decide not to continue if it doesn’t feel right. But the thought of signing up still feels daunting because I’m worried about failing or disappointing myself.
+
+I’ll try to look into finding a class that isn’t too far away and see how it goes. Just focusing on one session might help me ease into it without feeling like I have to commit fully right away. It’s a small step, but maybe it can make a difference in how I feel about myself for even just a little while.
+
+Thank you for suggesting this; it gives me something concrete to work towards and might provide a bit of relief from the constant negativity.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan! Taking that one class could be a nice way to start and see if it brings you some enjoyment or relief. Even a small step can make a difference, and it’s okay to go at your own pace.
+
+How about setting a date for when you’ll look into finding the cooking class? Having a specific goal in mind might help you feel more motivated and focused.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Setting a specific date sounds like a good idea. Maybe I can look into finding a cooking class this coming weekend. It feels better to have a concrete plan rather than just thinking about it abstractly.
+
+I’ll spend some time this weekend researching classes in my area and see which one seems right for me. Even if it’s just looking at the options, it could be a small victory in itself. Having that goal will give me something positive to focus on, even if I’m still struggling with these feelings of inadequacy.
+
+Thank you for helping me think through this; it means a lot to have someone support me as I try to take these steps forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great plan! Taking the time this weekend to look into cooking classes sounds like a positive step. Even just researching and narrowing down your options can be a small victory.
+
+How do you feel about setting aside some specific time this weekend to search for classes? Having that dedicated time might make it easier to focus on finding something that feels right for you. And remember, each small step is an accomplishment in itself.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Setting aside specific time this weekend to look into cooking classes sounds like a good idea. I’ll dedicate a couple of hours on Saturday morning to research and see what options are available. It’s reassuring to have a dedicated block of time focused on this, rather than trying to squeeze it in randomly.
+
+Having that specific goal for the weekend gives me something concrete to work towards. Even if it’s just browsing through different classes and reading reviews, it feels like progress. Each small step is an accomplishment, and I’m hopeful that taking this first step will help ease some of the overwhelming feelings.
+
+Thank you so much for your support; it really helps to have someone encouraging me as I try to move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds perfect! Dedicating a couple of hours on Saturday morning to research cooking classes is a great plan. Having that specific time set aside will make it easier to focus and find something that feels right for you.
+
+I’m glad to hear that having this goal gives you some concrete progress to look forward to. Each small step really does count, and taking the time to explore your options can be very rewarding.
+
+How do you feel about giving yourself a pat on the back once you’ve done your research? Celebrating even these smaller steps can help build some positive momentum.
+
+----------------------------------------
+
+PATIENT (turn 11):
+The idea of giving myself a pat on the back after researching cooking classes is nice. It’s important to acknowledge each small step as an accomplishment, no matter how tiny it seems. Even if I just spend those couple of hours looking into different options and don’t sign up right away, recognizing that effort can be really helpful.
+
+Having something positive to focus on this weekend feels good. It gives me a sense of direction and purpose, even if the feelings of inadequacy are still there. Celebrating these small steps might help shift my mindset a little bit, making it easier to keep moving forward.
+
+Thank you for your encouragement; it means a lot to have someone who believes in me as I try to take these steps.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful that you’re recognizing the importance of celebrating each small step along the way. Acknowledging your efforts can definitely help shift your mindset and build some positive momentum.
+
+How do you feel about setting aside a moment this weekend, perhaps after your research, to give yourself a little acknowledgment? Maybe even write it down or say it out loud: “I did something today that moves me forward.” It can be a small but meaningful way to reinforce those positive steps.
+
+Wishing you all the best as you explore your options and take these encouraging steps!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Setting aside a moment this weekend to give myself some acknowledgment sounds like a good idea. After I spend time researching cooking classes, taking a few minutes to write down or say out loud something like “I did something today that moves me forward” can be really powerful.
+
+It’s important to recognize and celebrate these small victories, no matter how minor they seem. Writing it down might help reinforce the positive momentum and make it easier to keep going.
+
+Thank you for all your support; it means a lot to have someone who encourages me through this process. I’m hopeful that taking these steps will start to shift my mindset, even if just a little bit at a time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great idea! Writing down or saying out loud what you’ve accomplished can be very empowering. Celebrating those small victories is so important and can help build your confidence.
+
+I’m glad I could support you through this process. Taking these steps, no matter how small, is a significant achievement. Here’s to hoping that each step brings you closer to feeling more positive about yourself. You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you for all the encouragement and support. Writing down or saying out loud what I’ve accomplished really does feel empowering. It’s important to acknowledge these small victories, even if they seem insignificant.
+
+I’m hopeful that each step will help me build some confidence and shift my mindset a little bit at a time. Taking this first step toward researching cooking classes feels like a positive move forward, and I’ll definitely take a moment to celebrate it.
+
+Here’s to hoping that each small victory brings me closer to feeling more positive about myself. You’ve been such a great support, and I appreciate your belief in me as I try to move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful to hear how you’re approaching these steps with hope and positivity. Each small victory truly does count, and taking the time to celebrate them can make a big difference.
+
+I’m here to support you every step of the way. Here’s to your progress and feeling more positive about yourself. You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you so much for being here to support me every step of the way. Knowing that I have someone believing in me makes such a difference. Each small victory, no matter how tiny, is a step forward, and taking the time to celebrate them feels really important.
+
+Here’s to progress and feeling more positive about myself. You’ve been an incredible source of encouragement, and I’m grateful for your support as I take these steps.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It means a lot to me that I can be here for you. Each small victory is indeed a step forward, and taking the time to celebrate them is so important.
+
+Here’s to progress and feeling more positive about yourself. You’ve got this, and I’ll be here cheering you on every step of the way.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you, it means everything to have your support. Each small victory feels like a little light in the darkness, and knowing that someone is cheering me on makes all the difference.
+
+Here’s to progress and feeling more positive about myself. I appreciate your encouragement and will keep moving forward, one step at a time. You’ve been such a source of strength for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Each small victory is a significant light in the darkness, and you’re doing great by taking it one step at a time.
+
+Here’s to progress and feeling more positive about yourself. I’ll be here cheering you on every step of the way. You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you so much for your continued support. Each small victory does feel like a significant light, and knowing that someone is here cheering me on means everything.
+
+Here’s to progress and feeling more positive about myself. I’ll take it one step at a time, and I appreciate your encouragement every step of the way. You’ve been such a source of strength for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Each small victory is a big deal, and you’re doing great by taking things one step at a time.
+
+Here’s to progress and feeling more positive about yourself. I’ll be here supporting you every step of the way. You’ve got this, and I’m glad to be here for you.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you so much for your unwavering support. Each small victory is indeed a big deal, and taking things one step at a time feels more manageable with someone cheering me on.
+
+Here’s to progress and feeling more positive about myself. Knowing that you’re here supporting me every step of the way means everything. You’ve been such a source of strength and encouragement. I appreciate it so much.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Each small victory is a big deal, and taking it one step at a time is the right approach. I’m glad to be here cheering you on every step of the way.
+
+Here’s to progress and feeling more positive about yourself. You’ve got this, and I’ll be here supporting you always.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much for your support and encouragement. Each small victory truly feels significant, and taking it one step at a time is helping me move forward. Knowing that you’re here cheering me on means everything.
+
+Here’s to progress and feeling more positive about myself. You’ve been such an incredible source of strength, and I appreciate your unwavering support. I’ll keep moving forward, one step at a time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Each small victory is significant, and taking it one step at a time is a great approach. I’m here cheering you on every step of the way.
+
+Here’s to progress and feeling more positive about yourself. You’ve got this, and I’ll be here supporting you all the way. Keep moving forward!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much for your encouragement and support. Each small victory is indeed significant, and taking it one step at a time feels more manageable with someone cheering me on.
+
+Here’s to progress and feeling more positive about myself. Knowing that you’re here supporting me every step of the way means everything. I’ll keep moving forward, one step at a time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Each small victory is significant, and taking it one step at a time makes all the difference. I’m here cheering you on every step of the way.
+
+Here’s to progress and feeling more positive about yourself. You’ve got this, and I’ll be here supporting you always. Keep moving forward!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much for your continued support and encouragement. Each small victory is indeed significant, and taking it one step at a time feels more achievable with someone cheering me on.
+
+Here’s to progress and feeling more positive about myself. Knowing that you’re here supporting me every step of the way means everything. I’ll keep moving forward, one step at a time, and appreciate your unwavering support.
+
+----------------------------------------

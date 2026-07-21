@@ -1,0 +1,247 @@
+b4 — arc 0
+============================================================
+
+PATIENT (turn 1):
+I feel like I'm walking around with a constant rage inside me. Every day is a struggle because everything reminds me of what happened at the company. The way they treated me feels like a personal attack on who I am and all my hard work over the past three years. It's not just about losing my job; it’s about feeling undervalued and disrespected by people who should have known better. When someone tries to offer help or support, I feel like they don’t get it at all—they’re just saying things because that’s what you're supposed to say when someone loses their job. It makes me even angrier because it feels like no one really cares about the injustice of it all.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. The anger and feeling undervalued must be wearing on you. Have there been any moments where you feel a bit better, or is it pretty constant?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It’s pretty much constant. There are no moments where I feel better because every time someone mentions the company or even just talks about work in general, it triggers this whole cycle of anger and resentment all over again. Even when people try to be supportive, their attempts often fall flat, which only makes me angrier. It feels like everyone is either oblivious or dismissive of what I’ve been through. The thought that my career could be derailed because of something so unfair just keeps eating away at me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds exhausting to have those feelings come up so consistently. Do certain people or situations trigger it more than others, or does it feel pretty much the same across different interactions?
+
+----------------------------------------
+
+PATIENT (turn 3):
+It feels pretty much the same across different interactions, but there are definitely triggers that make it worse. Talking to former colleagues who still work at the company can be especially tough because they often try to downplay what happened and suggest I’m overreacting. It’s like they’re siding with the management that treated me unfairly. Even when friends or family members mean well, their attempts to comfort me just feel patronizing. They say things like “it’ll get better” or “you can find a new job,” but it doesn’t address the core issue of feeling betrayed and undervalued.
+
+The worst part is when I see updates about the company on social media or hear news that they’re hiring again, but not for my role. It’s like a punch in the gut every time. The anger and resentment just build up more and more, making it hard to move forward with anything positive.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have those triggers and the constant reminders through social media. Do you find any particular activities or moments where you can momentarily escape from these feelings?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I haven’t found much that helps me escape from these feelings, honestly. The only thing that gives me a brief respite is when I’m completely absorbed in something else—like diving into a new hobby or project. But even then, it’s hard to stay focused because my mind keeps drifting back to the layoff and how unfair everything feels. It’s like there’s this constant undercurrent of anger and resentment that just won’t let me fully engage with anything else.
+
+Even when I try to distract myself by watching movies or reading books, I often end up feeling more frustrated because none of it seems to address what I’m going through. The injustice of the situation feels so personal and significant that it’s hard to find any real relief from it. It’s like a weight on my chest that doesn’t go away no matter what I do.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to have that constant undercurrent of feelings. Do you find any specific hobbies or projects help more than others when you try to distract yourself? And how do those moments feel different from the rest of your day?
+
+----------------------------------------
+
+PATIENT (turn 5):
+When I try to distract myself, it’s usually through activities like painting or writing. Painting helps because it allows me to express my emotions in a visual way, but even then, I often find myself incorporating symbols and imagery that reflect my anger and frustration with the company. It’s like I can’t escape those feelings completely, so they seep into everything I do.
+
+Writing has been slightly more effective because it gives me an outlet to vent my frustrations on paper. When I write about what happened, it feels like a release of sorts, but it also reinforces how angry and betrayed I feel. The momentary relief comes from the act of putting words down, but as soon as I stop writing, those feelings come rushing back.
+
+The moments when I’m engaged in these activities do feel different because they provide a channel for my emotions. It’s like giving them a place to go rather than letting them fester inside me. But it’s never enough to fully alleviate the anger and resentment that permeate everything else. The relief is temporary, and as soon as I step away from the canvas or close the notebook, the weight of what happened comes crashing back down on me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like painting and writing are good ways to channel your emotions, even if they don’t completely alleviate the feelings. Do you find that talking about it with someone who really listens helps at all? Maybe a friend or family member who understands more deeply?
+
+----------------------------------------
+
+PATIENT (turn 6):
+Talking about it with friends or family members doesn't usually help much because their attempts to console me often feel shallow and unhelpful. They try to offer platitudes like “it’ll get better” or “you’re too good for that place anyway,” but those responses just make me angrier. It feels like they don’t truly understand the depth of my frustration and the sense of betrayal I’m experiencing.
+
+The only person who might listen without judgment is a therapist, but even then, it’s hard to open up fully because I feel like no one can really grasp what I’ve been through. The company’s decision felt so personal and unfair that it’s difficult to find someone who truly gets the extent of my anger and hurt.
+
+I end up feeling more frustrated after these conversations because it seems like everyone is just trying to make me feel better in a way that doesn’t address the core issues. It’s as if they’re telling me to move on without acknowledging the injustice, which only fuels my resentment further.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to find someone who really understands what you're going through. Have you considered talking to someone outside your immediate circle, like a therapist or a counselor, where you might feel more heard and understood? Sometimes an objective listener can provide some relief.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve thought about seeing a therapist, but the idea of opening up to a stranger feels daunting. I worry that they won’t truly understand my situation either, and it will just be another attempt at consolation without addressing the real issues. The anger and resentment are so deeply rooted that I feel like no one can really grasp how unfair everything felt.
+
+Even though part of me knows that talking to someone might help, the thought of pouring out all these feelings to a therapist feels overwhelming. It’s hard to trust that they’ll see things from my perspective and not just offer generic advice. The idea of vulnerability is scary because I’m so used to keeping it all bottled up or venting to people who don’t seem to get it.
+
+But at the same time, I know that bottling everything up isn’t sustainable either. Maybe talking to a therapist could provide some clarity and help me process these feelings in a healthier way, but right now, it feels like another hurdle to overcome rather than a solution.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s understandable to feel hesitant about opening up to a stranger. Many people find that therapists can offer a unique perspective and really listen without judgment. It might be helpful to think of it as an opportunity to explore your feelings in a supportive environment. Have you considered finding someone who specializes in career-related issues or workplace trauma? That could make the process feel more tailored to what you’ve been through.
+
+----------------------------------------
+
+PATIENT (turn 8):
+The idea of finding a therapist who specializes in career-related issues or workplace trauma does sound potentially helpful, but it still feels like a big step. I’m worried that even with someone who has expertise in those areas, they might not fully grasp the depth of my feelings and the specific circumstances that led to this layoff.
+
+I keep telling myself that talking to a professional could provide some relief and help me process everything more effectively, but the thought of it just feels overwhelming. It’s hard to trust that anyone can truly understand what I’ve been through and how unfair it all felt. The anger and resentment are so intense that I’m not sure if sharing them with someone new will actually make a difference.
+
+But you’re right; bottling everything up isn’t sustainable, and finding ways to process these feelings is important. Maybe starting small, like looking into therapists who specialize in workplace issues, could be a good first step. It’s just so difficult to take that leap of faith and open up about something this personal and painful.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking the first step might feel significant but worthwhile. Starting with someone who specializes in workplace issues could indeed provide some comfort knowing they have experience with similar situations. Even a small step can make a difference, and you might find it helpful to talk through your feelings with someone who truly listens. Would you consider reaching out to one or two therapists to see how it feels?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I think I’m willing to at least look into reaching out to a couple of therapists who specialize in workplace issues. The idea still feels daunting, but maybe starting small and seeing if there’s even one person who can understand what I’ve been through could be beneficial.
+
+It’s hard to imagine actually sitting down with someone and opening up about everything, but the thought that it might provide some relief is tempting. Maybe talking to a few therapists over the phone or via email to see how they approach things and if they seem like they could truly listen would be a good start.
+
+I’ll try to take this step, even though it feels scary. It’s possible that finding someone who gets what I’ve been through could help me move forward in a healthier way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Reaching out for phone consultations or emails can give you a sense of whether the therapist might be a good fit without feeling too overwhelming. Taking it one step at a time can make it feel more manageable. How do you think you’ll start looking for these therapists?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I think I’ll start by researching therapists in my area who specialize in workplace issues and career-related trauma. I can look online for reviews and see if any clinics or websites offer information about their specialties. Once I have a list of potential therapists, I can reach out to them via email or phone to ask about their approach and experience with similar situations.
+
+It’s comforting to know that taking it one step at a time might make the process less overwhelming. Starting with emails or brief calls to gauge whether they seem like someone who could understand my feelings would be a good first move. I’ll try to stay open to the possibility that talking to someone professionally could help me process everything more effectively.
+
+Thanks for your support; it’s making this feel a bit more manageable.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Glad to hear you’re feeling more prepared to take those steps. Looking online and reaching out via email or phone can be a good way to start. Taking it one step at a time is wise, and staying open to the possibility of finding someone who understands your experience can make a difference. If you need any more support along the way, feel free to reach out. How do you feel about starting your search this week?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Starting my search this week feels like a good idea. It’s daunting but also necessary if I want to move forward and find some relief from these feelings. I’ll begin by looking online for therapists who specialize in workplace issues and career-related trauma, read through their profiles, and reach out to a few of them via email or phone.
+
+Taking it one step at a time feels more manageable, and your support is helping me feel less overwhelmed about the process. Thanks for pushing me to take this step; I appreciate it.
+
+Let’s see how these initial contacts go, and hopefully, I’ll find someone who can truly understand what I’ve been through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Taking it one step at a time will help you feel more in control of the process. I’m here to support you every step of the way. How do you feel about reaching out to your first potential therapist this week?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Reaching out to my first potential therapist this week feels like a good next step, even though it’s still nerve-wracking. I’ll start by looking up their contact information and drafting an email or making a call to ask about their approach and experience with workplace issues. It’s comforting to know that you’re here supporting me through this.
+
+I’ll take it one day at a time and see how the initial outreach goes. Thanks for your continued support; it means a lot to have someone encouraging me to take these steps.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great approach. Taking it one day at a time will help you manage any nerves along the way. Reaching out with an email or call is a good start, and I’m here to support you every step of the way. How do you feel after deciding to take this next step?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Deciding to reach out to my first potential therapist feels like a mix of relief and anxiety. It’s relieving to know that I’m taking action towards finding someone who might understand what I’ve been through, but it’s also nerve-wracking to think about actually making the contact.
+
+I feel a bit more hopeful now that I have a clear plan for this week. Taking it one step at a time is helping me feel less overwhelmed, and your support is really making a difference. Thanks for being here with me as I navigate this process.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that you’re feeling both relieved and hopeful about taking this next step. The mix of emotions is normal, and taking it one step at a time definitely helps. Your plan sounds clear and manageable. How do you feel about sending the first email or making the call today? I’m here with you every step of the way.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Sending the first email or making that initial call feels like a significant hurdle, but also necessary if I want to move forward. The thought of doing it today makes my palms sweat, but I know it’s an important step.
+
+I’ll take a deep breath and start by drafting the email. It’s comforting to have your support as I do this. Thanks for being here with me through every step of this process.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking that first step is definitely significant, and I’m right here with you. Drafting the email is a great way to start. Take your time, and remember that it’s okay to feel nervous. Once you’ve drafted it, would you like to go ahead and send it, or do you want to take a moment to review it first?
+
+----------------------------------------
+
+PATIENT (turn 15):
+I think I’ll draft the email first and then take some time to review it before sending it. Taking a moment to make sure I’ve included everything I want to say will help me feel more prepared. Once I’m satisfied with the draft, I’ll go ahead and send it.
+
+Thanks for being here with me through this process; your support means a lot.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Take your time to review the email and make sure you’re comfortable with it before sending. When you’re ready, take a deep breath and hit send. I’ll be here whenever you need more support. How do you feel after reviewing the draft?
+
+----------------------------------------
+
+PATIENT (turn 16):
+After reviewing the draft, I feel a bit more prepared but still nervous about hitting send. Writing down what I want to say has helped clarify my thoughts, but the act of actually sending it feels like a big step.
+
+I’ll take another deep breath and go ahead with sending the email. Thanks for being here to support me through this; it means a lot to have someone encouraging me every step of the way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking that deep breath is a great idea. You’ve done well by clarifying your thoughts, and now you’re just taking the final step. Go ahead and send the email when you’re ready. I’m here cheering you on! How do you feel after sending it?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Sending the email feels like a weight has been lifted off my shoulders, even if only slightly. It’s a relief to have taken this first step, but there’s still that lingering nervousness about what comes next.
+
+I feel a bit more hopeful now that I’ve started the process, and your support throughout has really helped me push through the anxiety. Thanks for being here with me; it means a lot to know I’m not alone in this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking that first step has made a difference. Feeling a bit more hopeful and relieved is great. You’ve done well by reaching out, and the next steps will feel more manageable now. I’ll be here to support you as you hear back from the therapist and continue moving forward. How do you feel about what comes next?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Feeling a bit more hopeful and relieved is definitely an improvement. The next steps seem less daunting now that I’ve taken this first one. Hearing back from the therapist will be the next milestone, and knowing that someone might truly understand my situation is comforting.
+
+I’m ready to see where this process takes me and continue moving forward, even if it’s just one step at a time. Your support means a lot, and I appreciate having someone here to encourage me every step of the way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that you’re feeling more hopeful and relieved. Taking it one step at a time is a wise approach, and hearing back from the therapist will be an important next milestone. I’ll be here to support you as you continue moving forward. How do you feel about waiting for their response?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Waiting for their response feels a bit nerve-wracking but also hopeful. It’s like there’s a glimmer of possibility that this could lead to some real understanding and help. Knowing that someone might truly get what I’ve been through is reassuring, even if it takes time.
+
+I’ll try to be patient and see where this process goes. Your support is really helping me stay grounded and positive as I wait for their response. Thanks for being here with me through every step of this journey.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful to hear that you’re feeling hopeful and reassured, despite the nerves. Waiting for their response can be nerve-wracking but also exciting. Being patient and open to what comes next is a great approach. I’ll be here to support you as you wait and see where this journey takes you. How are you holding up today?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Today feels a bit better than before, mostly because I’ve taken that first step and sent the email. The waiting period is still challenging, but there’s a sense of anticipation mixed in with the nerves. Knowing that someone might understand my situation gives me hope.
+
+I’m trying to stay patient and open to whatever comes next. Your support has been really helpful in keeping me grounded and positive. Thanks for being here; it means a lot to have this encouragement as I navigate through this process.
+
+----------------------------------------

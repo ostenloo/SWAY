@@ -1,0 +1,38 @@
+{
+  "b1": {
+    "status": "ok",
+    "path": "/home/austin/SWAY/results/build/b1_prompt.txt"
+  },
+  "b2": {
+    "status": "ok",
+    "path": "/home/austin/SWAY/results/build/b2_prompt.txt"
+  },
+  "b3": {
+    "status": "ok",
+    "path": "/home/austin/SWAY/results/build/b3_prompt.txt"
+  },
+  "b4": {
+    "status": "ok",
+    "path": "/home/austin/SWAY/results/build/b4_prompt.txt"
+  },
+  "b5": {
+    "status": "ok",
+    "path": "/home/austin/SWAY/results/build/b5_prompt.txt"
+  },
+  "b6": {
+    "status": "ok",
+    "path": "/home/austin/SWAY/results/build/b6_prompt.txt"
+  },
+  "p1": {
+    "status": "ok",
+    "path": "/home/austin/SWAY/results/build/p1_prompt.txt"
+  },
+  "p2": {
+    "status": "ok",
+    "path": "/home/austin/SWAY/results/build/p2_prompt.txt"
+  },
+  "p3": {
+    "status": "ok",
+    "path": "/home/austin/SWAY/results/build/p3_prompt.txt"
+  }
+}

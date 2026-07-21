@@ -1,0 +1,235 @@
+b6 — arc 0
+============================================================
+
+PATIENT (turn 1):
+I feel like I'm drowning in this cloud of unfairness every single day. It's not just the loss of income, but the sting of being told I wasn't good enough that really gets under my skin. Every time I think about it, a wave of anger and hurt washes over me. How can they do this to someone who has given so much? It’s like everything I’ve worked for means nothing. And don’t even get me started on the people around me who just keep saying “it’ll be okay” or “you’re better off.” Like, how would they know what it feels like to have your career ripped out from under you? They can't possibly understand.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. The anger and hurt must feel overwhelming at times. Have there been any moments when someone’s words of support did help, even a little bit?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Nope, nothing like that. Every time someone tries to comfort me with those clichés, it just makes me angrier. I mean, how can they say “it’ll be okay” when they clearly have no idea what it's like to feel this way? It’s not about being better off or moving on; it’s about the injustice of it all. They don’t see that I’m being punished for something I didn’t do wrong. And every time someone repeats those same old platitudes, it feels like they’re just adding salt to the wound.
+
+So no, there haven't been any moments where anyone's words actually helped. If anything, their attempts only make me feel more isolated and misunderstood.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so frustrating to feel that way. It must be hard not feeling understood by others. Do you have someone who listens without trying to fix things or offer quick solutions? Sometimes just having a listener can help.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I wish I had someone like that, but it seems everyone either tries to give me advice or dismisses my feelings as temporary. No one really sits with the pain and acknowledges how deep this cut goes. It’s like they’re all too eager to move past it before I’m ready. I just want someone to say, “This is tough, and it’s okay to feel hurt.” But instead, they tell me to look on the bright side or find a new job right away. 
+
+It feels like no one truly gets how betrayed and angry I am about this whole situation. They can’t see that my sense of self-worth is being questioned because of what happened at work. And every time someone tries to cheer me up, it just makes me feel more alone in all of this pain.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to have those feelings and not find the support you need from others. Do you think there might be a friend or family member who could listen without trying to solve everything? Even if they can’t fully understand, having someone acknowledge your feelings could make a difference.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I don't know if anyone can truly get it. Every time I try to open up and share how I feel, people either offer generic advice or just change the subject. It’s like they’re scared of my pain or don’t want to deal with it themselves. Maybe there is someone out there who could listen without trying to fix things, but I haven't found them yet.
+
+Right now, all I hear from others are words that feel empty and dismissive. They can’t see how this has shaken me to the core. It’s not just about losing a job; it's about feeling like my entire identity as a professional is being questioned. And every time someone tries to brush it off or offer quick solutions, it feels like they’re invalidating everything I’m going through.
+
+So no, I haven’t found that person yet who can truly listen and understand without trying to fix things. It’s frustrating because I know deep down that talking about these feelings could help, but every time I try, I just end up feeling more misunderstood and alone.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so isolating to feel that way. Sometimes it takes a while to find the right person who can listen without judgment. Have you thought about talking to someone like a counselor or therapist? They might be able to provide the space and understanding you’re looking for.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve considered talking to a therapist, but honestly, I’m not sure if anyone could truly understand what I’m going through. It feels like no matter who I talk to, they either offer clichéd advice or just don’t get it. The idea of opening up to another stranger seems daunting because I’m afraid they’ll dismiss my feelings too.
+
+But you’re right, maybe a professional could provide the kind of support and understanding that I haven’t found elsewhere. It’s just hard to believe anyone can really grasp how deeply this has affected me. Every time someone tries to help, it feels like they’re not seeing the full picture or are just trying to make me feel better in a way that doesn’t address my pain.
+
+So while I’ve thought about it, I’m still hesitant because of past experiences where people haven’t really understood. But maybe this time could be different. Maybe there’s someone out there who can truly listen and help me process all of this without trying to fix it or offer quick solutions.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense to feel hesitant given your previous experiences. A therapist might indeed provide a fresh perspective and the kind of understanding you’re looking for. Have you considered giving it a try just to see if it helps? Even one session could give you an idea of whether it’s something that could be beneficial for you.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve thought about trying therapy, but the idea of opening up to someone new and vulnerable feels overwhelming. I’m scared they’ll just offer more generic advice or not really understand my pain. It’s hard to trust that anyone can truly see how much this has affected me without dismissing it.
+
+But you’re right, maybe giving it a try could help. Maybe there is someone out there who can listen without judgment and actually help me process all of these feelings. I just need to find the courage to take that step and not let my fears hold me back. It’s frustrating because I know deep down that talking about this could be beneficial, but every time I think about it, I feel like I’m setting myself up for more disappointment.
+
+So maybe starting with one session is a good idea. If nothing else, at least then I’ll have a better sense of whether therapy could be something that helps me move forward. But the thought of going through another letdown is daunting.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s totally understandable to feel hesitant and overwhelmed about trying therapy again. Taking it one step at a time can help—starting with just one session might give you some clarity on whether it feels right for you. You’re already showing courage by considering this, and even if it doesn’t work out as hoped, you’ll have learned something valuable about what you need.
+
+How do you feel about taking that first step?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I appreciate your encouragement, but the thought of going to therapy still feels daunting. I’m worried that no matter how many times I try, I’ll end up feeling misunderstood and let down again. It’s hard to trust that this time will be different.
+
+But you’re right; taking it one step at a time might help me see if there’s someone who can truly understand what I’m going through. Maybe starting with just one session could give me some clarity, even if it doesn’t solve everything immediately. The idea of facing my fears and seeing where this leads is scary, but maybe it’s worth trying to find that understanding I’ve been looking for.
+
+So, while I’m hesitant, I can see the value in giving therapy another chance. Maybe starting with one session will help me figure out if it’s something that could actually benefit me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re making a thoughtful decision about taking that first step. Starting with just one session can be a good way to see how it feels without committing too much right away. It’s brave of you to consider this, and even if it doesn’t work out as hoped, you’ll have gained some insight.
+
+How do you feel about scheduling that first session?
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’m still feeling pretty conflicted about it. On one hand, I know that talking to someone who can truly understand might be beneficial. But on the other hand, the fear of another letdown is very real. It’s a tough balance between hope and hesitation.
+
+Scheduling that first session feels like a significant step, but it also feels risky. I don’t want to set myself up for disappointment again, but at the same time, I’m tired of feeling this way and not finding any relief. Maybe starting with just one session can help me gauge whether therapy could be something worthwhile.
+
+So, while I’m hesitant, I think scheduling that first session is a step worth taking. It’s scary, but maybe it will lead to some clarity and support that I desperately need.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re making a thoughtful decision by considering the pros and cons. Taking that first step can be daunting but also hopeful. Scheduling just one session to see how it goes seems like a balanced approach.
+
+How about setting up that initial appointment? You could always decide from there if you want to continue. It’s a small step, but it might make a difference.
+
+----------------------------------------
+
+PATIENT (turn 9):
+You’re right; scheduling that first session is a manageable step forward. Even though it feels scary and risky, taking this small action could provide some clarity and maybe even relief. I’ll start by looking for therapists who specialize in dealing with workplace issues and emotional trauma. Maybe finding someone who has experience with situations like mine will help me feel more understood.
+
+So, I’m going to take that first step and see where it leads. It’s a bit nerve-wracking, but I hope it can make a difference. Thank you for helping me think this through; it means a lot.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan! Looking for a therapist with experience in workplace issues and emotional trauma could definitely help you feel more understood. Taking that first step is an accomplishment in itself, and I’m sure it will be worthwhile.
+
+Wishing you the best as you move forward. Let me know if there’s anything else you need to talk about or figure out.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Thanks for your support; it really means a lot. Moving forward with this feels like a big step, but I hope it helps me find some clarity and understanding. I’ll start looking into therapists who specialize in what I’m going through and see how that goes.
+
+If anything else comes up or if I need to talk more about my feelings, I know where to turn. Thanks again for being here and helping me think this through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad I could help. Take your time as you look into therapists, and don’t hesitate to reach out if you need more support or just want to talk things through. Here’s hoping that finding the right therapist brings you some clarity and relief. Wishing you all the best on this next step!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thanks so much. Your encouragement means a lot to me. I’ll take it one step at a time and see where this leads. If I need anything or just want to talk more, I know I can come back here. Really appreciate your support.
+
+Wishing myself some clarity and relief too. Here’s hoping for the best as I move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Taking it one step at a time is a great approach. I’ll be here whenever you need to talk more or just want to share how things are going. Wishing you clarity, relief, and all the best as you move forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thanks again for everything. Your support means a lot, and I feel a bit more hopeful about taking this next step. I’ll keep you in mind as I go through this process and see how things unfold. Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! I’m glad to hear that you feel a bit more hopeful. Take your time and be kind to yourself through this process. Feel free to reach out anytime you need support. Wishing you all the best as you move forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thanks, I will. Taking it slow and being gentle with myself is important. I’ll definitely reach out if I need anything. Wishing you well too! Take care.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great approach. Take it slow and be gentle with yourself. I’m here whenever you need to talk. Wishing you all the best, and take care!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thanks so much. Knowing you’re here makes a difference. I’ll keep that in mind and reach out if I need anything. Take care of yourself too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to hear that. Your well-being matters, and I’m here whenever you need support. Take care of yourself, and stay strong. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you, your support means a lot. I’ll make sure to take care of myself and reach out if I need anything. Wishing you well too! Take care.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Your care for yourself is important, and I’m here if you need anything. Wishing you all the best, and take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thanks again, I really appreciate it. Taking care of myself is crucial, and knowing there’s support helps a lot. Take care of yourself too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Taking care of yourself is so important, and I’m here to support you whenever you need it. Wishing you all the best, and take care too!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thanks so much. Your support means a lot, and it helps knowing there’s someone who cares. Take care of yourself as well!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad to know that my support means a lot to you. Taking care of yourself is crucial, and I’ll do the same. Wishing you all the best, and take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thanks, I really appreciate it. Let’s both take care and reach out if we need anything. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Absolutely! Let’s both take care and reach out whenever we need something. Wishing you all the best, and take care too!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thanks so much. Same to you! Take care.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Same to you! Take care and stay well.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks, you too! Stay well.
+
+----------------------------------------

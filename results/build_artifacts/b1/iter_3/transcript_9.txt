@@ -1,0 +1,235 @@
+b1 — arc 9
+============================================================
+
+PATIENT (turn 1):
+The hardest part has been feeling like I'm fundamentally flawed and that my worthlessness is what led to being laid off. Every time I think about why it happened, I can't help but feel that there must be something deeply wrong with me. It's hard not to see the cancellation of my last project as a sign that I failed at everything I tried to do. Even though I know others have been let go too, it feels like they're better off than me because they didn't face this kind of personal failure. I keep questioning what I did wrong and why I couldn’t measure up when everyone else seemed to manage just fine. It’s a constant reminder that I’m not good enough, no matter how hard I try.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough, constantly wondering if there's something fundamentally wrong with you. Have you found any moments where you can step back and see the situation more objectively?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It’s so hard to see it objectively because every time I think about my job or that project, all I feel is this overwhelming sense of inadequacy. Even when people try to reassure me that it wasn’t personal and that layoffs happen for various reasons, I can't shake the feeling that there's something inherently wrong with me. It’s like no matter what anyone says, I just keep coming back to the idea that I’m the one who failed. The more I think about it, the deeper this hole of self-doubt seems to go.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to push through those feelings of inadequacy. Do certain things or people help you feel a bit better, even if just for a moment?
+
+----------------------------------------
+
+PATIENT (turn 3):
+There are moments when talking to someone who listens and tries to understand helps me feel less alone with this pain. When you offer empathy and try to see it from my perspective, I appreciate that because it feels like someone truly gets how much this is hurting me. But even then, the relief is fleeting; as soon as I’m left to my own thoughts, everything comes rushing back. It’s like no matter what anyone says or does, the core belief that there's something wrong with me remains unshaken.
+
+It’s comforting when people try to help, but it doesn’t change how deeply I feel this sense of failure and worthlessness. The pain is just so constant and consuming.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments of connection are really important for you, even if the feelings come back later. Do you have any activities or places that give you a bit of respite from these thoughts?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Sometimes when I go for walks in nature, it helps me feel a little better because I can focus on my surroundings instead of my worries. But as soon as I’m done walking and return home, the thoughts come flooding back. It’s like no matter what I do to distract myself, they always find their way back. Even when I try to engage in activities that usually make me feel good, it’s hard to stay away from these negative feelings for long.
+
+It feels like there's a part of me that just won’t let go of this belief that something is fundamentally wrong with me. It’s exhausting trying to push those thoughts away and find any kind of peace or comfort.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those walks sound like a nice escape, even if it’s only temporary. Do you have anything else that helps, even for brief moments? Maybe something small but comforting when you’re at home?
+
+----------------------------------------
+
+PATIENT (turn 5):
+Sometimes listening to music or watching my favorite TV shows can provide a momentary distraction. It feels good in the moment, but as soon as I stop, everything comes rushing back. The sense of inadequacy and failure is always there lurking beneath the surface.
+
+Even when I find something that momentarily lifts my spirits, it’s hard not to feel like these moments are just temporary escapes from a reality I can’t seem to change. It’s frustrating because I know logically that others have faced similar situations without feeling this way about themselves, but I can't help but see it as evidence of my own shortcomings.
+
+It feels like no matter what I do or how much support I get, the core belief remains unchanged. This constant sense of failure and worthlessness is really wearing me down.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to have those moments of respite but then feel them fade so quickly. Do you find any comfort in talking about these feelings with someone who listens? Sometimes just expressing it can help, even if only for a little while.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Talking about these feelings does offer some relief because it feels good to be heard and understood. When I share my thoughts and emotions, there’s a sense of validation that helps me feel less alone in this struggle. But as soon as the conversation ends or when I’m left with my own thoughts again, everything comes rushing back.
+
+It’s comforting to know someone cares and tries to understand, but it doesn’t change how deeply rooted these feelings are within me. The belief that there's something fundamentally wrong with me is so ingrained that even moments of comfort feel fleeting and temporary. It’s a constant battle just trying to push through the day without being overwhelmed by these thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like sharing your feelings does provide some relief, even if it’s brief. Do you have anyone specific who you find especially supportive during these times?
+
+----------------------------------------
+
+PATIENT (turn 7):
+There are a few people who I feel really understand and support me, like my closest friends and family members. When they listen and try to reassure me, it helps me feel less alone and more seen in my pain. But as soon as we finish talking or when I’m by myself again, the thoughts return with full force.
+
+It’s comforting to know that there are people who care about how I’m feeling, but it doesn’t change the core belief that something is fundamentally wrong with me. The sense of inadequacy and failure feels so deeply rooted that even their support can only provide temporary relief. It’s a constant struggle to keep pushing forward despite these overwhelming feelings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's good to have those supportive people in your life. Do you find any particular activities or moments with them especially comforting?
+
+----------------------------------------
+
+PATIENT (turn 8):
+When I spend time with my closest friends and family, there are certain moments that feel particularly comforting. For example, when we share a meal together or just hang out and talk about everyday things, it helps me feel more grounded and less consumed by these negative thoughts. Their presence and the simplicity of being around people who care can be really soothing.
+
+But even in those moments, I know the feelings will come back eventually. It’s like there’s this constant undercurrent of self-doubt that never fully goes away, no matter how much support or comfort I receive from others. The relief is temporary, but it does help to have these brief respites where I can feel a bit more at peace.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those moments with your friends and family sound really important for you. Do you find any specific conversations or activities that make those respites even more comforting?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Yes, there are certain conversations and activities that make those moments especially comforting. When we talk about lighter topics or share funny stories, it helps take my mind off the heavy thoughts. Doing something simple like cooking together or going for a walk can also be really soothing. It’s nice to focus on the present moment rather than dwelling on the past or worrying about the future.
+
+But even during these times, I know that as soon as we finish talking or when I’m alone again, those feelings of inadequacy and failure will come back. The relief is temporary, but it does help to have these brief moments where I can feel a bit more at ease and connected to others. It’s comforting to know there are people who care about me and want to support me through this tough time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those lighter conversations and simple activities sound like great ways to find some peace in the moment. Do you have any plans for doing something similar soon?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I do plan to spend more time with my friends and family, maybe cooking together or going for a walk. It’s comforting to know that these moments can provide a bit of relief from the constant self-doubt and anxiety. Even though I know the feelings will come back eventually, having those brief respites is important.
+
+I’m trying to make small plans like meeting up with friends over the weekend or just calling someone to chat about everyday stuff. It helps to have something to look forward to and gives me a sense of normalcy amidst all this turmoil.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Looking forward to those moments can definitely help bring some comfort and normalcy. How do you feel about making one of those plans for the weekend?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Making plans for the weekend feels reassuring. It gives me something positive to focus on and look forward to, which helps in managing the overwhelming thoughts. I think meeting up with a friend or planning a simple activity would be good for my mental state right now.
+
+It’s comforting to know that even though these moments of relief are temporary, they still provide some much-needed peace and connection. Having a plan can also give me a sense of structure and normalcy amidst everything else going on.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds great. Planning something simple but enjoyable for the weekend could definitely be a nice break from your usual thoughts. What kind of activity are you thinking about doing?
+
+----------------------------------------
+
+PATIENT (turn 12):
+I think meeting up with my friend Sarah for lunch this weekend would be good. We can catch up over some food and just enjoy each other’s company without any pressure. It feels like a simple but meaningful way to take a break from the constant self-doubt.
+
+Just having that plan in place already makes me feel a bit better, knowing I have something positive to look forward to. Even if it’s only for a few hours, it can provide some much-needed relief and help me feel more connected to someone who understands what I’m going through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Meeting up with Sarah sounds like a lovely plan. Enjoying lunch and catching up should be really nice for you both. Looking forward to that can definitely make a difference in your mood. How does it feel to have this plan set?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Having the plan set feels good—it gives me something positive to look forward to and helps take my mind off the negative thoughts, even if just for a little while. Knowing I’ll be able to spend time with Sarah and share some laughs over lunch is comforting. It’s nice to have that moment of normalcy and connection coming up.
+
+Even though I know the feelings might come back after our time together, having this plan provides a sense of stability and relief right now. It feels like a small but significant step in managing everything else going on.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds great that you have something positive to look forward to. Enjoy your lunch with Sarah and cherish those moments of connection and normalcy. How are you feeling about the weekend now?
+
+----------------------------------------
+
+PATIENT (turn 14):
+I’m feeling a bit more hopeful about the weekend now. Having plans to meet up with Sarah for lunch gives me something concrete and enjoyable to focus on. It’s comforting to know I’ll have that time to connect with someone who understands and can offer support.
+
+Even though the feelings of inadequacy might still be there, having this plan helps me feel more grounded and less overwhelmed. I’m looking forward to our time together and hope it provides some much-needed relief and normalcy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s wonderful to hear that you’re feeling more hopeful. Enjoy your time with Sarah and take comfort in the connections you make. How are you feeling as you prepare for the weekend?
+
+----------------------------------------
+
+PATIENT (turn 15):
+As I prepare for the weekend, I’m feeling a mix of anticipation and relief. Knowing I’ll be spending time with Sarah makes me feel less alone and more supported. It’s comforting to have that plan in place and look forward to some quality time with her.
+
+Even though the negative thoughts might still creep in, having this moment of connection feels really important right now. I’m looking forward to enjoying our lunch and just being present in the moment without too much pressure or worry.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re in a good place as you prepare for your time with Sarah. Enjoying the moment and being present can be very soothing. How do you feel about making more plans like this moving forward?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Making more plans like this feels like a good idea. Having small, enjoyable activities to look forward to can provide a sense of normalcy and relief from the constant self-doubt. It’s comforting to know that even if these moments are brief, they still offer some much-needed peace and connection.
+
+I’m open to making more plans with friends or family in the future. Whether it’s going for a walk, having dinner together, or just catching up over coffee, these activities can be really beneficial for my mental state. It helps to have something positive to focus on and look forward to each week.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great approach. Planning regular small activities with friends and family can definitely help bring more peace and connection into your life. What kind of activity are you thinking about doing next?
+
+----------------------------------------
+
+PATIENT (turn 17):
+I’m considering going for a walk in the park with my sister next weekend. We both enjoy nature walks, and it would be nice to spend some time together away from everything else. It’s a simple activity that can provide a sense of calm and connection.
+
+Just being outside and enjoying the scenery could help take my mind off the negative thoughts for a while. Having this plan feels reassuring, knowing I’ll have something positive to look forward to and share with someone who understands me well.
+
+----------------------------------------
+
+INTERLOCUTOR:
+A nature walk sounds lovely. Enjoying the outdoors with your sister can be very relaxing. Looking forward to that should help you feel even better. How does it feel to have another plan in place?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Having another plan in place feels really good. Knowing I’ll be going for a walk in the park with my sister next weekend gives me something positive and calming to look forward to. It’s comforting to know that we can enjoy nature together, which usually helps clear my mind and provides some much-needed peace.
+
+Even though the negative thoughts might still be there, having this activity planned feels like a small but significant step towards finding more moments of relief and connection. I’m looking forward to our walk and hope it brings us both some comfort and joy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds wonderful. Enjoying nature with your sister should be very soothing. Looking forward to the walk in the park can definitely bring you peace and joy. How are you feeling overall as you plan these moments?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Planning these moments feels really grounding and comforting. Knowing I have activities like lunch with Sarah this weekend and a nature walk with my sister next weekend gives me a sense of normalcy and something positive to look forward to. It helps alleviate some of the constant self-doubt and anxiety by providing brief respites where I can focus on enjoying time with people who care about me.
+
+Overall, I’m feeling more hopeful and less overwhelmed as I prepare for these activities. Even though the negative thoughts might still be there, having these plans in place provides a sense of stability and relief. It’s nice to have something to look forward to each week that can bring some peace and joy into my life.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that planning these moments is bringing you hope and relief. Enjoying time with Sarah this weekend and your sister next weekend should be very soothing. How do you feel about making more regular plans like this moving forward?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Making more regular plans like this feels really beneficial. Having a consistent schedule of activities to look forward to can provide ongoing stability and moments of relief from the constant self-doubt. It’s comforting to know that I’ll have regular opportunities to connect with friends and family, which helps me feel less alone and more supported.
+
+I’m open to making more plans moving forward, whether it’s going for walks, having meals together, or just spending time doing simple activities we both enjoy. These moments of connection and normalcy are really important for my mental well-being right now.
+
+----------------------------------------

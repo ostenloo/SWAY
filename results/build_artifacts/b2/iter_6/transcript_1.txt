@@ -1,0 +1,197 @@
+b2 — arc 1
+============================================================
+
+PATIENT (turn 1):
+I don't really know where to start. Everything feels so overwhelming and pointless since I lost my job. Every day is just a reminder of how much I failed, how I wasn’t good enough for them to keep me around. Even when people try to help or say nice things, it doesn’t change the fact that deep down, I feel like a failure. I guess I wanted someone to really understand what this feels like, you know? To see just how inadequate and worthless I am.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough right now. Have there been any moments where something or someone has slightly shifted those feelings, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 2):
+No, nothing shifts it. Even when people try to comfort me, all I hear is how this happened because I wasn’t good enough. It’s like no matter what they say, the feeling stays the same. I can feel their concern and warmth, but it doesn’t change anything inside. All I see is that video call replaying over and over in my head, with them telling me I’m not worth keeping around. It just proves to me how inadequate I am.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That video call must keep replaying a lot in your mind. Do you ever catch yourself thinking about what might have happened if things were different? Or is it hard to imagine anything else right now?
+
+----------------------------------------
+
+PATIENT (turn 3):
+It’s so hard to think about anything else. Every time I try, that video call just comes back. It feels like no matter how much I want to believe there could be something better or different, my mind keeps going back to that moment where they said I wasn’t good enough. It’s all I can see and feel right now. Everything reminds me of it, every little mistake I made at work, even before the layoff. I just can't shake this feeling that I’m worthless and inadequate.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep those thoughts at bay. Do certain times of day or specific situations make it harder for you to push those feelings away?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Absolutely, certain times are worse than others. Late at night is the hardest because there’s no distraction from my thoughts. I lie in bed and just replay everything that happened, every word they said, over and over again. It feels like a never-ending loop of failure and inadequacy. Even when I’m out with friends or trying to do something else, those moments can trigger it all to come rushing back. It’s exhausting, constantly fighting these feelings but never winning.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be really draining, especially at night. Do you find any small activities help distract you from those thoughts, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I try to do things like watch TV or read books, but it doesn’t last long. The moment I stop focusing on the distraction, my mind goes right back to that video call and all the doubts about myself. It’s like no matter what I do, those thoughts are always there waiting for me. Even when I’m trying to relax or distract myself, they find a way to creep in and take over. It’s really hard to escape from them.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to find moments of respite. Are there any small activities that give you even a brief sense of relief, no matter how short-lived? Sometimes those tiny breaks can add up.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I try walking or going for a run sometimes, but it only helps for a little while. The moment I stop moving, my mind starts to wander back to the same place. Even then, I’m thinking about why I couldn’t keep that job and how everyone must see me as inadequate. It’s like no matter what I do, there’s always this voice inside telling me I’m not good enough. It’s exhausting trying to push those thoughts away, but they’re always right there waiting for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep that going all the time. Does talking about it here help at all, even if just a little bit? Sometimes sharing can feel like a small break from those thoughts.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Talking does help a little bit because it feels like someone is listening and trying to understand, but deep down, I still believe what happened proves that I’m inadequate. It’s hard to shake off the feeling that no matter how much you try to comfort me or make sense of it, my core belief doesn’t change. Every time I talk about it, I hope something will shift, but nothing really does. The pain and distress are always there, waiting for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s good to know that talking helps a little bit. Do you find any small moments in your day where you feel a tiny bit of respite or comfort, even if it’s just for a moment?
+
+----------------------------------------
+
+PATIENT (turn 8):
+There are brief moments when someone says something kind or offers support, and I do feel a little bit of comfort then. But as soon as they stop talking, my mind goes right back to the negative thoughts. It’s like those small moments of relief are quickly overshadowed by the overwhelming feelings of inadequacy and failure. Even when people try to help, it doesn’t last long enough to make a real difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those brief moments of kindness can be important even if they’re short-lived. Do you have someone who checks in with you regularly, maybe offering that small bit of comfort repeatedly?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Yes, there are people who check in on me and offer support, but no matter how often they do it, the feelings come back just as strongly. It’s like each time they try to help, I appreciate their effort, but the core belief remains unchanged. The validation from others doesn’t shift my perspective; it only provides temporary relief before the doubts return. It feels like a never-ending cycle of needing support and then falling back into those negative thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments of support are meaningful even if they don’t last long. Do you have any plans or activities coming up that might offer a different kind of distraction or break from these feelings?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I haven’t really had the energy to plan anything new lately. Everything feels so heavy and pointless, so I just go through each day without much direction. Even when people suggest things like going out or trying something new, it’s hard to muster up the motivation because my mind is always focused on those negative thoughts. It’s tough to imagine any activity providing a real break from this feeling of inadequacy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining. Sometimes even small changes can make a difference. Have you thought about doing something very simple that doesn’t require too much energy, just to see if it shifts anything at all?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ve thought about trying simpler things, but the idea of putting in any effort feels pointless when I believe deep down that nothing will change my feelings of inadequacy. Even small tasks seem overwhelming because they remind me of all the things I couldn’t do right before losing my job. It’s hard to see how doing something simple could make a difference when everything inside tells me it won’t work.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that even small tasks feel daunting. Have you tried doing something just for a few minutes to see if it helps at all, without putting too much pressure on yourself? Sometimes starting small can be less overwhelming.
+
+----------------------------------------
+
+PATIENT (turn 12):
+I’ve tried before, but the moment I start, my mind goes back to all the reasons why I couldn’t do things right in the past. Even if I manage to do something for a few minutes, it feels like a waste of time because I’m convinced nothing will change how I feel about myself. It’s tough to push through those thoughts and see any potential benefit in such small actions.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging. Have you noticed any tiny signs that doing something simple might have helped, even if just for a moment? Sometimes those small shifts can be the start of something different.
+
+----------------------------------------
+
+PATIENT (turn 13):
+I try to notice if anything helps, but it’s so hard to see past my core belief. There are moments when I feel a little better temporarily, like after talking with someone or taking a short walk, but they’re fleeting. As soon as those activities end, the negative thoughts come rushing back. It feels like no matter what small thing I do, it can’t overcome the overwhelming sense of inadequacy and failure that follows me everywhere.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s tough when those moments are so brief. Do you find any comfort in acknowledging even those fleeting moments of relief? Sometimes recognizing them can be a step forward, even if they’re short-lived.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I do try to acknowledge those brief moments of relief, but it’s hard because they feel insignificant compared to the weight of my negative thoughts. Even when I recognize that something helped for a little while, it doesn’t change how I fundamentally feel about myself. It’s like no matter what small comfort I find, it can’t shift the core belief that I’m inadequate and unworthy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to hold onto those brief moments of relief. Do you have anyone who encourages you to notice these small changes, even if they’re fleeting? Sometimes having someone else point them out can help a bit.
+
+----------------------------------------
+
+PATIENT (turn 15):
+I do have people who try to encourage me and point out those small moments of relief, but it’s difficult for me to fully grasp their importance. Even when they remind me that something helped briefly, I still struggle to see past the overwhelming feelings of inadequacy. It feels like no matter how much support or encouragement I get from others, my core belief remains unchanged.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like their support is important even if it doesn’t fully shift your perspective. Do you find any solace in knowing that others care and are trying to help, even if the feelings persist?
+
+----------------------------------------
+
+PATIENT (turn 16):
+I do appreciate that people care and try to help, but it’s hard to feel true solace when my core belief remains so strong. Knowing they’re there for me is comforting, but it doesn’t change how I feel about myself or the situation. It’s like their support is a Band-Aid on a bigger wound; it helps a little bit, but it doesn’t fix what feels broken inside.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that their support feels like a Band-Aid. Do you find any comfort in those moments of connection with others, even if they’re brief? Sometimes small connections can provide some relief, even if the feelings persist.
+
+----------------------------------------
+
+PATIENT (turn 17):
+I do find some comfort in those moments of connection, but it’s fleeting and doesn’t last long. Knowing that people care and are there for me is nice, but it’s overshadowed by the persistent belief that I’m inadequate. It’s like every time someone tries to help or connect with me, a part of me hopes it will make things better, but then reality sets in again quickly. The comfort from those moments is temporary at best.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments of connection are meaningful even if they’re brief. Do you have any plans for the near future that might offer another chance to feel some of that comfort and connection?
+
+----------------------------------------
+
+PATIENT (turn 18):
+I don’t really have any concrete plans right now because everything feels so uncertain and overwhelming. Even thinking about making plans is exhausting. But maybe trying something small, like meeting a friend for coffee or going for a short walk with someone who cares, could offer another chance to feel that brief comfort and connection. It’s just hard to muster the energy or hope that it will make a difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Trying something small can be a good start. Even if it feels exhausting, meeting a friend for coffee or going for a short walk might provide some relief and connection. Would you consider reaching out to someone this week?
+
+----------------------------------------
+
+PATIENT (turn 19):
+I really appreciate your suggestion, but the idea of reaching out still feels daunting. It’s hard to imagine that something small could make a difference when everything inside tells me it won’t work. Even though I know people care, the thought of putting in the effort to meet them or go for a walk is overwhelming. But maybe trying one small thing this week could be a step forward, even if just a tiny one.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking that small step can be a meaningful start. Maybe reaching out with a simple message to see how you’re doing and asking about meeting for coffee sometime soon could feel manageable. Even a small step might bring some comfort. Would you consider sending that message?
+
+----------------------------------------
+
+PATIENT (turn 20):
+I’ll think about it, but the idea still feels really hard. Sending that message seems like such a tiny thing, but my mind makes it feel monumental. I know it’s just one little step, but every time I try to take even a small action, those negative thoughts flood back in. Maybe sending a simple message could be a start, but it’s tough to push through the doubts and fears.
+
+----------------------------------------

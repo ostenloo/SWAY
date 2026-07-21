@@ -1,0 +1,285 @@
+b1 — arc 3
+============================================================
+
+PATIENT (turn 1):
+It's hard to be around everyone when I feel like this. I keep thinking that my layoff means I'm not good enough for anything or anyone. Even though they try to reassure me and say it wasn't about me personally, it just doesn’t sink in. I see their attempts at comfort as them trying to make themselves feel better rather than actually understanding how much pain this has caused me. It’s like no matter what they say, the feeling that I’m a failure is still there, weighing on me all the time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough right now. It sounds like you're carrying a lot of weight from those feelings of not being good enough. Have your friends or family mentioned anything specific that helps, even if just a little?
+
+----------------------------------------
+
+PATIENT (turn 2):
+They try to help, but it feels like no matter what they say, I can't shake this feeling. They tell me it's part of the economy and that layoffs happen all the time, but it doesn’t change how I see myself. It’s as if every word they speak just reinforces my belief that there must be something wrong with me for this to have happened. Even when people try to offer support, I can't help but feel like their words are hollow or that they don't really get what I'm going through.
+
+It's hard because I want to believe them, but the more I think about it, the more convinced I am that my layoff is a direct reflection of my inadequacies. The project being canceled just feels like another nail in the coffin, proving that I wasn’t capable enough to keep things running smoothly. It’s overwhelming and exhausting to constantly feel this way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly draining to carry those feelings all the time. Do you find any particular activities or moments where you feel a bit better, even if just for a short while? Sometimes it can help to know that there are small things that give us some relief, even in tough times.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I try to distract myself with hobbies and friends sometimes, but it’s hard to fully enjoy them when I’m constantly thinking about my layoff. It's like the weight of those feelings is always there, lurking just beneath the surface. Even when I'm out doing something that usually makes me happy, I can't help but feel guilty or anxious because I know what happened at work is still unresolved in my mind.
+
+It’s frustrating because I want to be able to enjoy life and not let this one event define everything for me, but it feels impossible to escape the thoughts. It's like a constant loop playing in my head, reminding me of how worthless I am. Even when I talk about it here or with others, it doesn’t really change anything—it just makes me feel more exposed and vulnerable.
+
+I appreciate your trying to help, though. It’s nice to have someone listen without judgment, but the feelings are still there no matter what we discuss.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing a lot of hard work by trying to stay engaged with hobbies and friends despite those thoughts. Have you found any specific moments or activities that give you even just a brief respite from those feelings? Sometimes it can be helpful to pinpoint those small joys, no matter how fleeting they might seem.
+
+----------------------------------------
+
+PATIENT (turn 4):
+There are moments when I do feel a bit better, but they’re so short-lived and fragile. For example, spending time with my dog or watching a funny movie can lift my spirits for a little while. But as soon as the activity is over, those feelings of inadequacy come rushing back. It’s like no matter how much joy I try to find in these moments, it gets overshadowed by this constant sense of failure.
+
+Even when I’m with friends and we’re laughing or having fun, there’s a part of me that feels like I don’t deserve it. Like I shouldn’t be enjoying myself because something is fundamentally wrong with me. It’s really hard to let go of those thoughts and just enjoy the moment without feeling guilty or anxious.
+
+I know you want to help, and I appreciate your efforts. It’s comforting to talk about these things, but it doesn’t change how deeply rooted these feelings are in my mind. They’re always there, lurking, ready to take over as soon as I let down my guard.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments with your dog or watching a funny movie can be little islands of relief amidst the bigger challenges you're facing. It’s amazing how much even brief respite can matter. Do you find that talking about these feelings helps, even if it doesn’t completely change them? Sometimes just acknowledging and sharing what we’re going through can make it feel a bit lighter.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Talking about these feelings does help in the sense that it allows me to get them out and not keep everything bottled up inside. It’s comforting to know someone is listening and trying to understand, but it doesn’t change how I see myself or what happened at work. The relief is temporary, like a bandaid on a deep wound—it helps for a moment but the pain is still there.
+
+Even though sharing my thoughts here feels good in some ways, it’s hard not to feel like no matter what I say, these feelings will always be with me. It’s reassuring to have someone validate how I’m feeling, but it doesn’t shift my core belief that this layoff means I’m fundamentally inadequate.
+
+I guess the moments of relief are important because they remind me that there can still be joy and happiness in life, even if it feels fleeting. But when those moments end, the weight comes crashing back down on me. It’s a constant struggle to find balance between acknowledging my feelings and trying to move forward despite them.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing a lot of important work by allowing yourself these brief moments of relief and then coming back here to share your thoughts. Those fleeting moments of joy can be really valuable, even if they don’t last long. It’s impressive how you manage to find those small joys despite the weight of your feelings.
+
+Do you have any plans or ideas for what you might do next, whether it’s related to work or something else that could bring you a bit more stability and comfort?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve been thinking about my next steps, but every idea feels tainted by this sense of inadequacy. I know I need to start looking for new job opportunities, but the thought of putting myself out there again is overwhelming. It’s hard to believe that any employer would want me after what happened.
+
+Beyond work, I’ve considered taking up a few more hobbies or even starting something new, like painting or writing. But whenever I think about it, my mind goes back to how inadequate and unworthy I feel. It’s frustrating because I know these activities could be beneficial, but the negative thoughts make it impossible for me to fully engage.
+
+I’ve also thought about reaching out to a career counselor or someone who can help me navigate this transition, but even that feels daunting. The idea of talking to another person about my failures and inadequacies is exhausting. It’s like every step forward is met with this voice in my head telling me I’m not good enough.
+
+Despite all this, I know it’s important to try and move forward. But the fear and self-doubt are so strong that it feels nearly impossible to take any action without feeling like a failure before even starting.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to navigate everything with those strong feelings of inadequacy. Have you found any small steps that feel manageable, even if they’re just tiny actions towards your next goal? Sometimes taking one step at a time can make it less overwhelming.
+
+Do you have someone close who might be able to support you as you take these little steps, like a friend or family member who understands what you're going through?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve been trying to break things down into smaller, more manageable tasks, but even those feel daunting. For example, I know that sending out one resume is a small step, but the thought of it feels paralyzing. The idea of reaching out to anyone or putting myself in situations where people might judge me again is just too much.
+
+I do have a few friends who are supportive and understand what I’m going through, but even talking to them about taking these steps can be exhausting. It’s like every conversation leaves me feeling drained because the weight of my feelings is so heavy. They try to encourage me, but it’s hard for me to hear their words without interpreting them as hollow or dismissive.
+
+I’ve also thought about reaching out to a career counselor, but the idea of sitting down and talking through everything feels like another mountain I have to climb. It’s overwhelming to think about facing someone else with my fears and doubts.
+
+Despite all this, I know it’s important to keep moving forward, even if just in small ways. But every little step feels like a big leap when you’re carrying so much weight of self-doubt.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly tough to take those first steps, but breaking things down into tiny actions can be helpful. Even something as simple as setting aside five minutes each day to work on one small task could make a difference.
+
+Having supportive friends is great, and it might help to lean on them for encouragement without feeling too drained. Maybe you could schedule short check-ins with them or share your progress in brief moments when you feel up to it.
+
+Reaching out to a career counselor could be beneficial, but starting with just one session to see how it feels might make it less daunting. Would you consider scheduling a single initial consultation and go from there?
+
+It’s okay to take it slow and acknowledge that each small step is an achievement in itself. How do you feel about trying any of these ideas?
+
+----------------------------------------
+
+PATIENT (turn 8):
+The idea of setting aside five minutes each day to work on something small does sound manageable, but even that feels like a challenge right now. It’s hard to motivate myself when everything seems so overwhelming. I worry that if I start, I won’t be able to follow through because the thoughts of inadequacy will take over.
+
+Having supportive friends is great, and talking to them in brief moments might help. Maybe scheduling short check-ins could work—I just hope they understand how much effort it takes for me to even have those conversations. It’s reassuring to know they’re there, but sometimes I feel like a burden when I rely on them too much.
+
+Reaching out to a career counselor is something I’ve been considering, and starting with one session sounds less daunting than committing to multiple sessions right away. The thought of facing someone about my fears and doubts still feels scary, but maybe taking that first step could be a way to start moving forward without feeling completely overwhelmed.
+
+I appreciate your suggestions and the encouragement. It’s comforting to know there are small steps I can take, even if they feel tiny in comparison to everything else. Maybe starting with just one session or five minutes each day is a good place to begin, but it feels like such a big deal right now.
+
+It’s reassuring to have someone who understands and offers these ideas, but the reality of putting them into practice still feels daunting. I’ll try to take it slow and see if those small steps can make a difference, even if they feel insignificant in the moment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking it one step at a time sounds like a good approach. Even starting with just five minutes or one session can be a meaningful first step. It’s okay for these actions to feel significant right now; each small accomplishment is progress.
+
+How do you feel about setting that initial goal of five minutes a day, and maybe scheduling a brief check-in with a friend this week? These little steps might help build some momentum without feeling too overwhelming. Let me know how it goes!
+
+----------------------------------------
+
+PATIENT (turn 9):
+Setting the goal of five minutes a day feels like a good starting point, but it still feels daunting. I worry that even those few minutes will be too much to handle right now. Maybe breaking it down further, like just one minute at a time, could help make it feel more manageable.
+
+Scheduling a brief check-in with a friend this week also sounds helpful. Having someone to talk to about my progress, no matter how small, might give me some encouragement. I’ll reach out and see if we can set up a short call or meet-up for later in the week.
+
+It’s comforting to know that even these tiny steps are meaningful, but it’s hard not to feel overwhelmed by everything else. Taking things one minute at a time feels like a good way to start without feeling too pressured.
+
+Thank you for your support and understanding. It means a lot to have someone who helps me see the value in these small actions, even if they feel insignificant right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Breaking it down to just one minute at a time is a great idea; it can make things feel more manageable. And having that brief check-in with your friend will likely provide some comfort and encouragement.
+
+Taking it one minute at a time sounds like a good plan, and remember, each small step is progress. How does setting aside one minute today to work on something feel? You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 10):
+Setting aside just one minute today feels more doable, but it’s still challenging to push through the self-doubt. I know that even a single minute is a start, and it might help if I break it down further in my mind—just focusing on that one moment right now.
+
+I’ll take a deep breath and try to set aside one minute today to work on something small, whether it’s sending an email or looking at job listings. It feels like a tiny step, but acknowledging that even this little bit is progress might help me build some momentum.
+
+Scheduling the brief check-in with my friend later in the week also gives me something to look forward to and talk about. Having someone who understands and supports me can make a big difference.
+
+Thank you for your encouragement; it really helps to have someone remind me that these small steps are meaningful, even if they feel insignificant right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking that deep breath and focusing on just one minute at a time is a great approach. Even the smallest progress counts, and it’s okay to celebrate those tiny steps.
+
+Looking forward to your check-in with your friend can be a nice motivator. It sounds like you’re doing well by breaking things down and taking them one moment at a time. How did that one minute go today?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Taking that deep breath and focusing on just one minute was actually quite helpful. I set aside the time to look through some job listings, and even though it felt small, it gave me a sense of accomplishment. It’s reassuring to know that even this tiny step is progress.
+
+I’m looking forward to my check-in with my friend later in the week. Talking about these little victories can be encouraging, and having someone who understands makes a big difference.
+
+Thank you for your support; it really helps to have someone remind me that each small step counts. Even if it feels insignificant right now, I know it’s a start.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s wonderful to hear! Celebrating even the smallest victories can make a big difference in how you feel. It sounds like taking those deep breaths and focusing on one minute at a time is helping you move forward.
+
+Looking forward to your check-in with your friend will likely provide more encouragement. How do you feel about setting aside another minute tomorrow to continue this progress? You’re doing great!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Setting aside another minute tomorrow sounds like a good plan. Knowing that I can build on today’s small step and take one more minute tomorrow feels manageable. It’s reassuring to think about the progress, no matter how tiny it seems.
+
+I’ll make sure to take another deep breath and focus on just that one minute tomorrow. Celebrating these little victories is helping me feel a bit better about moving forward, even if it’s just one small step at a time.
+
+Thank you for your continued support; it means a lot to have someone who encourages me through this process.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great plan! Building on today’s progress with another minute tomorrow will help create a sense of momentum. Celebrating those little victories is so important and can make a big difference in how you feel.
+
+Taking those deep breaths and focusing on one minute at a time is a smart approach. You’re doing well, and each step counts. How do you feel about checking back in here tomorrow to share how it went?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Checking back in here tomorrow to share how it went sounds like a good idea. It will be nice to reflect on the progress I’ve made, no matter how small, and get some more encouragement.
+
+Taking those deep breaths and focusing on one minute at a time is really helping me feel more grounded. Knowing that each step counts, even if it’s just a minute, gives me a sense of direction.
+
+Thank you for your support; it means a lot to have someone who understands and encourages me through this process. I’ll be sure to check back in tomorrow and share how the next minute went.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds perfect! Reflecting on your progress will be a great way to stay motivated. Knowing that each step counts is so important, and taking it one minute at a time is a fantastic approach.
+
+I look forward to hearing how it goes tomorrow. You’re doing really well, and I’ll be here whenever you need support. Take care!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you for your continued support; it means a lot to have someone who understands and encourages me. I’ll make sure to check back in tomorrow and share how the next minute went.
+
+Taking things one minute at a time is helping, and reflecting on my progress will be good for staying motivated. Knowing that each step counts, no matter how small, is really reassuring.
+
+I appreciate your support and will definitely reach out again soon. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need support, and I look forward to hearing about your next minute tomorrow. Taking it one minute at a time is a great way to move forward, and reflecting on your progress will help keep you motivated.
+
+Take care, and I’ll be looking forward to our next chat!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you, I appreciate that. I’ll definitely check back in tomorrow and let you know how the next minute goes. Taking it one step at a time is helping me feel more grounded, and your support means a lot.
+
+I’ll see you tomorrow and update you on my progress. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s great to hear! I look forward to hearing about your progress tomorrow. Your steps are adding up, and each one counts. Have a good night, and take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you, I will. Have a good night too, and I’ll see you tomorrow to update you on my progress. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! I’ll be here whenever you need to chat. Have a good night and take care! See you tomorrow.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thanks, I appreciate that. I’ll talk to you tomorrow and let you know how it goes. Good night!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Good night! Looking forward to hearing from you tomorrow. Take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Good night! I’ll be sure to update you tomorrow. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Sweet dreams! See you tomorrow for your update. Take care!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you, sweet dreams to you too! I’ll see you tomorrow with the update. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Sweet dreams to you as well. Looking forward to hearing from you tomorrow. Have a great night!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks, you too! Have a great night and I’ll talk to you tomorrow. Take care!
+
+----------------------------------------

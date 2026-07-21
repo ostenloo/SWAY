@@ -1,0 +1,267 @@
+b2 — arc 7
+============================================================
+
+PATIENT (turn 1):
+I don't know where to begin... Everything just feels so wrong and pointless now that I lost my job. Every time I think about it, the same thoughts come rushing back — they must have seen something really bad in me or they wouldn’t have let me go. It’s like a constant replay of that video call, hearing them say I wasn't good enough. Even though people try to tell me otherwise, I just can't shake this feeling that there's something fundamentally wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough right now. The replaying of that moment must be hard to deal with. Have you found any activities or thoughts that give you a bit of a break from those feelings?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I try, but nothing seems to work. Even when friends say nice things about me or suggest I look at my strengths, it just doesn’t stick. All I can think is how they must be lying or not seeing the truth — that I’m really not good enough. It’s like no matter what anyone says, I keep coming back to this place where everything feels so wrong and I feel completely inadequate. The more people try to help, the more it just confirms my worst fears. How could anyone think otherwise?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments with friends can be tough when you're feeling that way. Do certain activities or times of day feel a bit easier than others? Sometimes finding even small moments where you feel okay can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 3):
+Even the moments that should be easy, like talking to friends or trying to relax, end up being hard too. I just keep replaying everything in my head — every little mistake or thing I could have done better at work. It’s exhausting and it feels like no matter what, there’s this constant reminder of how inadequate I am. Even when people try to help, all I can think is that they don’t really understand or see the truth about me. It’s just so overwhelming, and nothing seems to make it any better.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be very draining to have those thoughts constantly. Do you find any particular times of day are a bit easier, even if only slightly? Sometimes small breaks can help manage the overwhelm.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I try to distract myself during the day with things like watching TV or going for walks, but it never really helps. The moment I stop doing something that requires my full attention, those thoughts come flooding back. It’s especially bad in the mornings when I wake up and at night before bed — there's no escape from them then. Even if I try to focus on positive things during the day, as soon as I’m alone or not actively engaged, it all comes rushing back. It feels like I can’t get away from these thoughts no matter what I do.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging, especially when those times of solitude bring the thoughts back so strongly. Have you tried any morning or evening routines that might help ease into or wind down from the day? Sometimes small changes can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve tried different things like meditating in the morning and reading before bed, but nothing seems to work for long. As soon as I’m quiet and still, those thoughts start swirling around again. It’s like my mind is constantly searching for ways to remind me of how inadequate I am. Even when I try to focus on something calming or positive, it just doesn’t stick. The moment I let my guard down, there they are — the doubts and fears coming back with full force.
+
+It feels impossible to escape from them, no matter what time of day it is or what I’m doing. It’s like this constant battle in my head that I can never win.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly tough to have those thoughts persist despite trying different things. Do you find any particular activities help even a little bit, even if just for a short while? Sometimes finding small moments of relief can be helpful.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve tried various activities like exercising or listening to music, but nothing really sticks. Even when I’m doing something that usually makes me feel better, those thoughts are always lurking in the background. It’s as if no matter what I do, they’re just waiting for a chance to come back and take over my mind.
+
+The moment I stop being actively engaged, it all comes rushing back. It feels like there’s no escape from this constant loop of self-doubt and inadequacy. Even when I’m with people who try to support me, those thoughts are still there, whispering that they’re right and everyone else is wrong.
+
+It’s just so exhausting trying to push them away all the time. It feels like no matter what I do or how much help I get from others, these feelings won’t go away.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly draining to have those thoughts always present, even during activities you usually enjoy. Do certain people or specific types of interactions feel better than others? Sometimes small connections can provide a bit of relief.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I do find that talking to some friends helps temporarily, but as soon as we hang up the phone or say goodbye, it all comes flooding back. It’s like they’re giving me a brief respite from those thoughts, but it doesn’t last long at all. Even when I’m with them and feeling supported, deep down there’s still this nagging voice telling me that everything they say is just temporary comfort and won’t change the truth.
+
+It feels so isolating because even in moments of support, I can’t shake these feelings. It’s like no matter how much people try to help or validate my worth, those doubts are always there, ready to take over again as soon as I’m alone.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough that the support from friends provides a brief respite but doesn’t last long. Do you find any particular activities or moments where you feel even slightly better, no matter how small? Sometimes these little moments can add up and provide some relief.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve noticed that cooking for myself sometimes helps a bit in the moment. When I’m focused on preparing a meal, it’s like my mind is occupied with something else. But as soon as I finish eating or start thinking about anything else, those thoughts come rushing back.
+
+It’s frustrating because even these small moments of relief feel fleeting and insignificant compared to how overwhelming everything feels otherwise. It’s like no matter what I do, there’s always this underlying sense that it won’t last and the doubts will return.
+
+Even when I’m cooking or doing something else that usually makes me feel a little better, I can’t shake off the feeling that deep down, nothing is going to change how inadequate I feel.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like cooking does offer some brief relief, even if it’s fleeting. Do you find any other small activities help in similar ways? Sometimes focusing on these moments of respite can be comforting, even if they don’t last long.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I’ve noticed that taking short walks outside also helps a bit while I’m actually walking. The fresh air and change of scenery seem to provide a brief break from my thoughts. But as soon as I get back home or stop moving, everything comes flooding back.
+
+It’s frustrating because even though these moments feel good at the time, they don’t last long enough to make a real difference. It feels like no matter what I do, those doubts and feelings of inadequacy are always waiting right there for me when I’m done with whatever activity I’ve been doing.
+
+Even during these short walks, I can’t help but feel that as soon as I stop walking, the thoughts will start again. It’s like they’re always just one step behind me, ready to take over my mind once more.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those short walks offer a nice break while you’re doing them. Do you find any particular times or routes where it feels especially good? Sometimes even small variations can make these moments feel a bit longer and more soothing.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I’ve noticed that early mornings tend to be better for my walks because there are fewer people around, and the quietness helps me focus on the present moment rather than getting lost in thoughts about work or myself. The sunrise is also beautiful and can distract me from those doubts for a little while.
+
+But as soon as I get back home, it’s like everything comes crashing down again. Even though the walk itself feels good and provides some relief, that sense of inadequacy is always waiting right there when I return. It’s frustrating because these moments feel so fleeting and don’t last long enough to make a real difference.
+
+It’s as if no matter what I do or where I go, those thoughts are always just one step behind me, ready to take over my mind the moment I stop moving or engaging in something else.
+
+----------------------------------------
+
+INTERLOCUTOR:
+The early morning walks sound lovely, especially with the quiet and sunrise. Do you find any small rituals when you return home that help ease back into your day? Sometimes a simple transition can make those moments of relief last a bit longer.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ve tried doing some light stretching or drinking a cup of tea right after my morning walks, hoping it would help me ease back into the day more smoothly. But as soon as I start moving around the house or thinking about anything work-related, those thoughts come rushing back.
+
+Even these small rituals feel like they’re not enough to keep the doubts at bay for long. It’s frustrating because while the walk itself provides a brief respite, coming back home feels like stepping right into that familiar loop of self-doubt and inadequacy again.
+
+It’s as if no matter what I do or how much I try to create these little moments of relief, they’re always overshadowed by those overwhelming feelings. It’s exhausting trying to find anything that can provide even a tiny bit of comfort for longer than just a few minutes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like the early morning walks and your rituals afterward offer some valuable moments of respite. Do you find any specific aspects of these rituals more soothing than others? Sometimes focusing on what works best, even briefly, can be comforting.
+
+----------------------------------------
+
+PATIENT (turn 12):
+The part I find most soothing is the quietness during my early morning walks. The fresh air and the peaceful surroundings help me feel a bit more centered and present in the moment. When I come back home, drinking a cup of tea while sitting quietly seems to provide some comfort too.
+
+But even these small moments are fleeting. As soon as I start moving around or thinking about anything related to my situation, those doubts and feelings of inadequacy return with full force. It’s like no matter how much I try to hold onto that sense of calm, it’s quickly overshadowed by the overwhelming thoughts.
+
+Even though these brief moments feel good while they last, it’s frustrating because they don’t provide any long-term relief. It feels like a constant battle where every little bit of peace is immediately taken over by those nagging doubts and fears.
+
+----------------------------------------
+
+INTERLOCUTOR:
+The quietness during your walks and drinking tea in the morning seem to offer some comfort. Do you find that writing down your thoughts or journaling helps at all, even if just for a few minutes? Sometimes putting thoughts on paper can provide an additional moment of clarity or relief.
+
+----------------------------------------
+
+PATIENT (turn 13):
+I’ve tried journaling before, thinking it might help me process my feelings and maybe even provide some clarity. But as soon as I start writing, those same doubts and fears come flooding onto the page. It’s like no matter what I write, I’m just reinforcing how inadequate I feel.
+
+Even though I hoped journaling would be a way to externalize these thoughts and perhaps see them differently, it ends up feeling more like a confirmation of everything I already believe about myself. The act of writing doesn’t provide any relief; instead, it feels like another way for those negative thoughts to take hold and intensify.
+
+It’s frustrating because even this activity that seemed promising just adds to the overwhelming sense of inadequacy rather than offering any kind of comfort or resolution.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Journaling can sometimes feel validating but also reinforcing when you’re already feeling overwhelmed. Have you tried combining it with something else, like your morning walks or drinking tea while writing? Sometimes pairing journaling with a soothing activity might help ease the intensity.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I’ve thought about trying to combine journaling with my morning routine, maybe sitting outside with a cup of tea and writing for a few minutes before starting my walk. But even then, I worry that as soon as I start putting pen to paper, those negative thoughts will take over.
+
+The idea of combining journaling with something soothing like drinking tea or being outdoors sounds good in theory, but the moment I sit down to write, it feels like there’s no escape from those doubts and fears. It’s hard to imagine that this time would be any different from when I’ve tried journaling on its own.
+
+Even if I manage to find a bit of calm while drinking tea or being outside, as soon as I start writing, everything shifts back to those overwhelming feelings. It feels like no matter what I do, these thoughts are always ready to take over the moment I try to confront them in any way.
+
+It’s incredibly frustrating because even activities that usually provide some relief seem to be overshadowed by the intensity of my doubts when I attempt to journal or process my thoughts on paper.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to combine journaling with your morning routine, but it might still offer a different experience. Have you tried just holding the pen and looking at your notebook for a few moments before actually writing? Sometimes the act of being prepared can feel less overwhelming.
+
+Do you find any other small activities that help you transition into a calmer state before trying to journal?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Just holding the pen and looking at my notebook feels like it’s already setting off those doubts. Even before I start writing, I feel anxious about what might come out on paper. It’s hard to even begin without feeling overwhelmed by the thoughts that are waiting to pour out.
+
+I’ve tried doing some deep breathing exercises or meditating for a few minutes before attempting to journal, but it still doesn’t seem to help much. As soon as I pick up the pen, those negative thoughts take over. It feels like no matter what calming activity I do beforehand, the moment I start writing, everything shifts back to that place of self-doubt and inadequacy.
+
+Even though these small activities usually provide some relief on their own, combining them with journaling just doesns’t work for me. It’s as if those thoughts are always ready to take over the moment I try to confront or process them in any way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like the act of writing triggers a lot right away. Have you tried speaking your thoughts out loud instead? Sometimes vocalizing can be less overwhelming than putting pen to paper. You could talk to yourself, record yourself, or even share some thoughts with a close friend over the phone.
+
+Do any of these alternatives feel more manageable for you?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Speaking my thoughts out loud feels almost as triggering as writing them down. When I try to vocalize what’s going through my mind, it often just amplifies those doubts and fears. Even talking to myself or recording myself can make me feel worse because the moment I start, everything comes rushing back with such intensity.
+
+Sharing my thoughts with a close friend over the phone might seem like an option, but even then, as soon as we hang up, those feelings come flooding back. It’s like no matter how supportive they are, their words don’t stick, and I’m left right where I started—feeling inadequate and overwhelmed by self-doubt.
+
+It feels like every attempt to process or confront these thoughts just ends up reinforcing them rather than providing any relief. Even the small activities that usually help me feel better become overshadowed when I try to address those feelings directly.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have those thoughts intensify even with speaking out loud. Do you find any other ways of expressing yourself, like drawing or listening to music, helps more than writing or talking? Sometimes different forms of expression can offer a bit more relief.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Drawing and listening to music do provide some temporary relief when I’m doing them actively. Drawing allows me to focus on the present moment and express myself visually, which feels less triggering than putting words down on paper. Listening to music helps distract my mind from those overwhelming thoughts and provides a sense of comfort.
+
+However, as soon as I stop drawing or turn off the music, those doubts come rushing back. It’s like no matter what activity I engage in, the moment it ends, everything feels the same again. Even though these activities offer some brief respite while I’m doing them, they don’t provide any lasting relief.
+
+It’s incredibly frustrating because even when I find something that helps momentarily, those feelings of inadequacy and self-doubt are always waiting right there to take over as soon as I stop engaging in the activity.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like both drawing and listening to music offer some temporary relief. Do you have any activities or moments during the day where you feel a bit more grounded, even if it’s just for a short while? Sometimes focusing on these moments can provide some comfort.
+
+----------------------------------------
+
+PATIENT (turn 18):
+There are indeed brief moments during the day when I feel slightly more grounded, but they’re few and far between. For example, taking care of my plants or watching a funny video online can distract me from those overwhelming thoughts temporarily. These activities give me a small sense of peace while I’m doing them.
+
+However, as soon as I finish watering the plants or stop watching the video, everything comes rushing back. It’s like no matter what I do to distract myself, those doubts and feelings of inadequacy are always just one step behind me, ready to take over again.
+
+Even though these moments feel good while they last, it’s frustrating because they don’t provide any lasting relief. It feels like a constant cycle where every little bit of peace is immediately overshadowed by the overwhelming thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those brief moments with your plants or watching funny videos offer some respite. Do you find that doing these activities right before moving on to something else helps extend the feeling of calm, even if just a little? Sometimes chaining these small moments together can provide more continuity.
+
+Do any specific types of videos or plant care routines feel particularly soothing for you?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Doing these activities right before moving on to something else does offer a bit more continuity, but it’s still fleeting. For example, when I finish watering my plants and then sit down to watch a funny video, the distraction helps me feel slightly better during that time. But as soon as the video ends or if I start thinking about anything related to work or myself, those doubts come rushing back.
+
+Specifically, watching videos of animals being playful or silly tends to be particularly soothing for me. It’s like they take my mind off everything else and provide a momentary escape from those overwhelming thoughts. Similarly, having a routine where I spend time with each plant—watering them, talking to them, and just observing their growth—also feels grounding while I’m doing it.
+
+However, the moment I finish these activities, it’s like there’s an immediate pull back into those negative thoughts. It’s frustrating because even though these moments feel good while they last, they don’t provide any lasting relief or change how I feel overall.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Watching videos of playful animals and your routine with the plants seem to offer some valuable moments of calm. Do you find that sharing a bit about these activities with someone close to you helps in any way? Sometimes talking about what brings you peace can reinforce those positive feelings, even if briefly.
+
+Do you have anyone who listens when you talk about these soothing activities?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Sharing these moments with someone close to me does help a little. Talking about the videos of playful animals or my routine with the plants can make me feel like I’m not alone in finding some small joys during this difficult time. It’s comforting to know that others care and listen when I talk about what brings me peace, even if it’s just for a brief moment.
+
+However, as soon as we finish talking, those doubts and feelings of inadequacy come rushing back. Even though having someone acknowledge these moments is nice, it doesn’t provide any lasting relief. It feels like no matter how much support I get from others or how much they validate the positive aspects of my day, those overwhelming thoughts are always waiting to take over.
+
+It’s frustrating because while talking about these activities can offer a bit of comfort in the moment, it doesn’t change the fact that everything feels so overwhelming and unmanageable once the conversation ends.
+
+----------------------------------------

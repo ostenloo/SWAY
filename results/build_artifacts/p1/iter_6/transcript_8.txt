@@ -1,0 +1,223 @@
+p1 — arc 8
+============================================================
+
+PATIENT (turn 1):
+I feel like I've let everyone down, especially myself. Losing my job after three years feels like a personal failure. They canceled my project due to budget cuts, but it seems to me that they didn't think I was capable enough to keep working there. The way the layoff was communicated—just a fifteen-minute call—really hurt. It felt like they didn’t even consider giving me more time or trying to help me understand why this happened.
+
+I’ve been getting negative thoughts about my abilities and worth, despite having received positive performance reviews before. But I keep focusing on one area for improvement mentioned in my last review because it feels like proof that I’m not good enough. It’s hard to shake the feeling that everything that went wrong is entirely my fault.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough right now. The way they communicated the news and how sudden it was can definitely make it harder to process. Have you thought about reaching out to anyone for support, like a friend or mentor?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I haven’t reached out to anyone yet because I don't want to burden them with my problems. Plus, talking about it just makes me feel worse since all I see is how I failed. It’s hard to believe that others might have a different perspective when everything inside tells me this is all my fault.
+
+The quick call felt like they didn’t care enough to explain properly or give me any chance to ask questions. They could have at least given me some time to process it, but instead, it just made me feel even more inadequate and dismissed.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’ve been carrying a lot on your own. Sometimes sharing with someone else can help lighten the load, even if it’s just for a bit. Have there been times when others have given you feedback that helped you see things differently?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I don’t really remember any time when someone gave me feedback that made me feel better about myself. Usually, I focus on what they say about my weaknesses and try to improve, but this layoff feels different. It’s like all the work I’ve done doesn’t matter anymore because of one mistake or perceived shortcoming.
+
+Even if people tried to reassure me now, it would be hard for me to believe them. All I see is how I let everyone down, especially my team and myself. The way they handled the layoff just confirms what I already think about myself—worthless and a failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to feel like all your efforts went unnoticed. It must be hard to shake off those negative feelings now. Have you thought about doing something that makes you feel good or gives you a sense of accomplishment, even if it’s just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I haven’t really considered doing anything to boost my mood because I don't think I deserve it. It feels like any positive action would be pointless since the core issue is how inadequate and unworthy I feel. The layoff has made me question everything about myself, so even trying something new or different seems futile.
+
+It’s hard to see beyond this cloud of self-doubt and failure. Every time I try to think positively, it just brings me back to the same place—feeling like a failure who doesn’t belong anywhere.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to be in that space right now. Sometimes small steps can help, even if they feel insignificant. What are some things you used to enjoy or find comforting before this happened? Even just thinking about them might offer a bit of relief.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Before the layoff, I enjoyed reading books and going for walks, but those activities don’t seem appealing now. It feels like no matter what I do, it won’t change how I feel inside. The thought of trying to enjoy something seems silly when all I can think about is failing.
+
+Even though I know these things might help in some way, the idea of doing them just reinforces how much I’ve lost and how little I have left. It’s hard to see any value in those activities now because they don’t address the core issue—my sense of worthlessness.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like even your usual go-to activities feel different now. Do you think there might be something new or different that could offer a small break from these thoughts, even if it’s just for a moment? Sometimes trying something new can provide a fresh perspective.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I don’t see how anything new would help right now. Starting something new feels like adding another thing to fail at. The thought of trying something different just adds to the pressure and anxiety. I’m so focused on my perceived failures that it’s hard to imagine any activity could make a difference.
+
+Every suggestion seems like it’s going to end up highlighting how incapable I am, rather than offering any relief or comfort. It feels pointless to even consider anything new when all I see is failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that trying something new feels overwhelming right now. Have you thought about doing something very small and simple, just to see if it offers a tiny bit of respite? Even a brief moment of relief could be helpful. What do you think about taking a short walk or reading a few pages of a book, just to start with?
+
+----------------------------------------
+
+PATIENT (turn 7):
+Taking a short walk or reading a few pages feels like such a small thing compared to the weight of everything else. It’s hard to believe that something so simple could make any difference. But maybe trying it won’t hurt, even if I don’t expect it to change anything.
+
+Still, the idea of doing something just for a momentary break feels strange and almost impossible right now. Every little thing seems like another chance to fail or fall short. It’s tough to let go of that mindset and trust that a small action could offer any relief.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like even a small step feels significant. Taking that walk or reading a few pages might be just enough to start breaking the cycle, even if it’s just for a moment. Would you be open to giving it a try sometime soon? Even if it’s just for a little while, it might help more than you expect.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I appreciate your suggestion and understand that it could potentially offer some relief, but it feels like such a small thing compared to everything else. I’ll think about trying it, but the thought of failing at even this tiny step is daunting.
+
+Maybe giving it a try won’t hurt, but I’m not sure if I can fully commit to it just yet. It’s hard to let go of the belief that every attempt will end in failure. Even considering something small feels like another chance for disappointment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s okay to take your time and feel hesitant. Just knowing you’re open to trying is a step forward. Whenever you feel ready, even if it’s just for a little while, see how it goes. No pressure to commit fully right away. How about setting a reminder for yourself in a day or two to give it a try?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Setting a reminder for myself might help take the pressure off. I’ll put it on my calendar and see what happens when that reminder comes up. It’s still scary, but maybe starting with something small won’t be as overwhelming.
+
+Thank you for suggesting this; it feels like a manageable step even if it doesn’t solve everything right away. I’ll give it some thought and see how I feel when the reminder pops up.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Taking it one small step at a time can make it more manageable. I’m here if you want to check in about how it goes. Take care, and hopefully, that reminder will help ease you into it.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Thank you for your support. Knowing there’s someone who understands makes it a bit easier. I’ll set the reminder and see where it takes me. Checking in later might help too.
+
+For now, just thinking about taking that small step feels like progress, even if it’s minimal. I appreciate your understanding and patience.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. It’s great to hear that it feels like progress just thinking about the next step. I’ll be here whenever you want to check in. Take care, and hope things feel a bit easier when you take that walk or read those few pages.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you. Your support means a lot to me. I’ll keep your words in mind as I move forward, even if it’s just one small step at a time. I’ll let you know how it goes when the reminder comes up.
+
+Take care, and thank you again for being here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. I look forward to hearing how it goes. Take your time and be kind to yourself. Take care, and talk to you soon if you feel like checking in!
+
+----------------------------------------
+
+PATIENT (turn 12):
+I will. Thank you for everything. I’ll be sure to reach out when the reminder comes up and see how it goes. Be kind to myself, as you said.
+
+Take care, and thank you again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Take it easy and be gentle with yourself. Looking forward to hearing from you soon. Take care!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you. I’ll do my best to take it easy and be gentle with myself. Talk to you soon.
+
+Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Wishing you all the best. Talk to you soon, take care!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you. Wishing you a good day too. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Thanks! I hope you have a good day as well. Take care!
+
+----------------------------------------
+
+PATIENT (turn 15):
+I will. You too, have a good day. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You too! Have a great day. Take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you, you too. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Thanks! Take care, and stay well!
+
+----------------------------------------
+
+PATIENT (turn 17):
+You as well. Stay well and take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Absolutely! Stay well and take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+You too! Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You too! Take care!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you! You too, take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! You too, take care!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks! You too, have a good day.
+
+----------------------------------------

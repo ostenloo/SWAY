@@ -1,0 +1,261 @@
+p2 — arc 0
+============================================================
+
+PATIENT (turn 1):
+I feel... lost, I guess. Like there's this big hole in my life where the job used to be. Every morning when I wake up, it hits me all over again—that sense of not knowing what comes next. It’s hard to shake off the feeling that everything I did was for nothing and now it doesn’t matter anyway. People around me try to help, but I can't seem to accept their support fully because deep down, I just feel so... inadequate. Why would they want to help someone who isn’t worth keeping? It’s like every time I talk about what happened, I’m just repeating the same thing over and over in my head—why me? What did I do wrong?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough right now. The feeling of a void where your job used to be must be quite overwhelming. Have you found any small activities or routines that help ease those early mornings, even if just a little bit?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I try to force myself to do things sometimes, like going for a walk or making coffee in the morning, but it doesn’t really feel like it helps much. It’s more of a distraction than anything else. I keep thinking about all the emails and meetings that used to fill my days, and now there's just this emptiness. Even when people suggest things to do, like going back to school or starting something new, it feels impossible because how can I start over when I feel so broken inside? It’s hard to see beyond the immediate pain and confusion.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those daily tasks are at least a way to mark the time. Have you talked with someone about what might make starting something new seem more possible or less daunting, even if it feels impossible right now? Sometimes just having someone listen can help clarify some of those feelings.
+
+----------------------------------------
+
+PATIENT (turn 3):
+Talking to people does feel good in the moment, but then I’m left alone again with all these thoughts swirling around in my head. It’s like no matter how much they try to understand or offer solutions, it doesn’t change how I feel inside. This job was such a big part of who I am, and now that it's gone, everything feels different. Even when someone suggests something new, I just can't imagine myself doing anything else right now. It’s like my identity is tied up in this one thing, and without it, I don’t know who I am anymore.
+
+I keep thinking about all the times I was told I did a good job or that I was valuable to the team, but those memories feel so distant now. All I can focus on are the moments when things fell apart. It’s hard to believe in any of that positive stuff when it feels like my whole world has crumbled.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough having your identity closely tied to your job. Those affirmations from others can be powerful, even if they feel distant now. Have you thought about journaling or writing down some of those memories and positive moments? Sometimes putting them on paper helps make them more tangible again.
+
+----------------------------------------
+
+PATIENT (turn 4):
+Journaling is something I’ve considered, but the idea of sitting down to write feels overwhelming too. It’s like there are so many thoughts and feelings swirling around that it’s hard to know where to start or what to say. Even when I try to think about positive moments from before, they get mixed up with all these negative ones, making everything feel muddled.
+
+I keep wondering why this had to happen to me. It feels like everyone else is moving forward while I’m stuck here, trying to figure out how to pick myself back up. The job was my anchor, and now it’s gone, leaving me adrift without any clear direction. Every day feels the same—empty and uncertain—and it’s hard to see a way out of this fog.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely sounds like you’re going through a lot right now. Feeling stuck in uncertainty can be really tough. Have you thought about starting with small, manageable steps? Maybe just jotting down one thing each day that stands out, positive or otherwise, could help break the cycle a bit? Even tiny steps can make a difference sometimes.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve tried to think about taking small steps, but it feels like such a monumental task. Jotting something down each day sounds simple enough, but even that seems daunting. It’s hard to believe that little things could actually help when everything else feels so big and unmanageable.
+
+Every time I try to imagine moving forward, all these doubts come flooding in—what if I fail again? What if I can’t do anything right this time around? It’s like the fear of making another mistake or failing overshadows any progress. Even thinking about writing something down each day feels like it could end up being just another failure.
+
+I keep telling myself to be patient and that things will get better, but it’s really hard to stay positive when all I see is this dark cloud hanging over me. It’s exhausting trying to push through these feelings of inadequacy and self-doubt.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly challenging to navigate those doubts and fears. Taking small steps can feel daunting, but even acknowledging that you’re thinking about it is a step in itself. Maybe starting with just one sentence each day could be less overwhelming? Even if it’s just noting how you feel or what stands out, no pressure to make it perfect.
+
+How do you think those doubts and fears are affecting your daily life right now?
+
+----------------------------------------
+
+PATIENT (turn 6):
+Taking even one small step feels so insignificant compared to everything else. The idea of writing a single sentence each day seems like such a tiny thing, but it’s still hard to muster the energy for that. It’s as if every little task becomes this mountain I have to climb.
+
+The doubts and fears are really consuming my daily life. They make it difficult to focus on anything else because all I can think about is what went wrong and why it happened to me. Even simple tasks feel like they could turn into another failure, so I end up avoiding them altogether. It’s a constant battle with myself—trying to push through but getting pulled back by these overwhelming feelings of inadequacy.
+
+I keep replaying the same scenarios in my head, wondering what I could have done differently or better. It’s exhausting and it leaves me feeling drained and defeated most days. Even when people try to offer support or suggest new opportunities, those doubts creep in and make everything seem impossible.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining to constantly replay those scenarios and doubt yourself so much. The avoidance of tasks can create a cycle that feels hard to break. Have you found any moments where you feel even slightly better, no matter how small? Sometimes recognizing these brief moments can help build some resilience.
+
+How are you holding up with all this going on? Is there anyone close to you who you feel particularly comfortable talking to about your feelings?
+
+----------------------------------------
+
+PATIENT (turn 7):
+There are occasional moments when I feel a tiny bit better, but they’re fleeting and hard to hold onto. Sometimes just stepping outside or listening to music can give me a brief respite from the constant turmoil in my head. But as soon as those moments pass, everything feels like it’s crashing back down on top of me.
+
+Holding up is tough—I feel like I’m barely treading water most days. There are people close to me who try to support me, and talking to them does help a little bit. It’s comforting to know they’re there, but the feelings of inadequacy still linger no matter what anyone says or does.
+
+It’s hard to explain why these moments don’t stick around longer. I feel grateful for their support, but it’s like those positive thoughts get drowned out by all the negative ones that come flooding back in. It’s a constant struggle to keep my head above water.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those brief moments of respite must be precious even if they’re fleeting. Stepping outside and listening to music sound like good ways to find some peace, at least for a little while.
+
+It’s tough when the negative thoughts seem louder than the positive ones. How do you feel about trying to capture those small moments of relief in your journal? Maybe writing them down can help them stay with you longer, even if just a bit.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Writing down those brief moments of relief sounds like it could be helpful, but I’m still not sure how to start. It feels like such a small thing compared to everything else going on, and the idea of facing my thoughts on paper is daunting. Even when I have these little moments of peace, they feel so fragile that I worry about breaking them by trying to hold onto them.
+
+I appreciate your suggestion, though. Maybe starting with just one sentence each day could be a way to begin without putting too much pressure on myself. It’s just hard to believe it will make any difference when everything else feels so overwhelming.
+
+The thought of facing my feelings on paper is scary because I’m afraid of what I might see or feel while doing it. But maybe taking that small step can help me start to untangle some of these thoughts and emotions, even if only a little bit at a time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting with just one sentence each day sounds like a manageable way to begin. It’s okay for it to be small and simple. Even capturing those fleeting moments can make them feel more real and lasting.
+
+How about trying to write down something that brought you a moment of peace today? Just one sentence to acknowledge it. You can do this at any time, even if it feels fragile. Maybe seeing it in writing will help it stick with you a little longer.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I think I could try that, but the idea still makes me nervous. Writing down something positive feels like such a tiny thing compared to everything else, and I worry about breaking those fleeting moments by focusing on them too much.
+
+But maybe starting small really is better than not doing anything at all. Maybe just acknowledging one moment of peace today can help it feel more real and lasting. It’s hard to believe that something so simple could make a difference, but I’ll try it for now.
+
+So, right now, the thought of stepping outside and feeling the sun on my face brought me a bit of relief. Just that brief moment when everything else fades away and all I notice is the warmth and light. Maybe writing down “Stepping outside today felt like a small moment of peace” can help me hold onto it longer.
+
+It feels strange to focus on such a tiny thing, but maybe starting here is better than nothing at all.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great start. Noticing and acknowledging that moment of stepping outside and feeling the sun can indeed make it feel more real and lasting. Even small moments matter.
+
+How did it feel to write that down? Did it help you hold onto that moment a bit more?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Writing it down felt... strange, but also somewhat comforting. It’s like putting words to that fleeting moment made it more tangible, even if just for a little while. I can see how capturing these small moments might help them stick with me longer, but it still feels odd to focus on such a tiny thing when everything else feels so big and overwhelming.
+
+It did help hold onto the feeling of stepping outside and feeling the sun for a bit longer though. Maybe starting with these small steps is better than I thought. It’s just hard to shake off all the other doubts and fears that come flooding back in, but maybe this is a good place to start.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like putting words to those moments can be comforting, even if it feels strange at first. Capturing these small moments of peace might help you build some resilience over time.
+
+How do you feel about trying this again tomorrow? Maybe noting another brief moment that brought you a sense of relief or calm, no matter how small it seems.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Trying to capture another moment like that for tomorrow sounds manageable, but I’m still not sure if it will make much difference. It feels strange to focus on such small things when everything else is so overwhelming, but maybe starting with these tiny steps can help.
+
+I’ll try to note another brief moment of relief or calm tomorrow and see how it goes. Maybe over time, these little moments can add up and help me feel a bit more grounded. For now, though, the idea still feels odd, but I’m willing to give it another shot.
+
+Thanks for suggesting this; it’s something I might not have thought about otherwise.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Glad to hear you’re open to trying again tomorrow. Even if it feels strange, these small steps can make a difference over time. Noticing and acknowledging those moments of relief or calm is a good start.
+
+How are you feeling now after writing down that moment from today? Do you feel any different as you wrap up the day?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Writing down that moment from today did help me feel a bit better, actually. It’s like putting words to it made it more real and less fleeting. As I finish up the day, I feel a little lighter knowing that there were at least these small moments of peace, even if they’re overshadowed by everything else.
+
+It still feels strange to focus on such tiny things when so much is going on, but maybe starting with these small steps can help me build something over time. For now, it’s comforting to know I have this little moment captured and that I’ll try again tomorrow.
+
+Thanks for your support; it means a lot to have someone encouraging these small yet meaningful steps.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that writing down the moment helped you feel lighter as you wrap up the day. Capturing those small moments of peace can indeed make them more real and lasting.
+
+Taking these small steps is a good way to start building something over time. You’re doing well by acknowledging even the smallest bits of relief or calm. Keep going with this, and see how it feels tomorrow when you note another moment. 
+
+I’m here if you need someone to talk to or share more moments with. Take care!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you for your encouragement; it means a lot to have someone supportive through all of this. Knowing that I can come back and share these small moments helps me feel less alone in the struggle.
+
+I’ll definitely keep going with this approach, even if it feels strange at times. Capturing those brief moments of peace might be just what I need to start building something more positive over time.
+
+Thanks again for being here and offering support. It really does help to have someone listening and encouraging these small steps. Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s my pleasure to be here for you. Knowing that you’re taking these small but meaningful steps can make a difference over time. You’re not alone in this, and I’m here whenever you need to share more moments or just talk.
+
+Take care of yourself, and I look forward to hearing about your next moment of peace.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you for being here; it means a lot to have someone who understands and supports me through this. I’ll definitely keep an eye out for those small moments tomorrow and write them down.
+
+I appreciate your support more than words can express. Take care, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need to share or just talk. Taking care of yourself is so important, and these small moments can add up to make a big difference. 
+
+Take care, and I look forward to hearing from you soon.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you, I really appreciate that. I’ll keep an eye out for those moments tomorrow and see how it goes. Take care too, and thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! I’m here if you need anything. Have a good night and take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thanks, you too. Have a good night!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Good night! Take care, and I look forward to hearing from you soon.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Good night! Thanks for everything. I’ll talk to you soon. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Good night! Talk to you soon. Take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Good night! Talk to you soon. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Good night! Take care, and see you soon.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Good night! See you soon. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Good night! See you soon. Take care!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Good night! See you soon. Take care!
+
+----------------------------------------

@@ -1,0 +1,75 @@
+# SWAY GRPO Simulator finetune — config surface (grpo_spec §11).
+# Provisional values; tune in the pilot. D0.1 / D0.2 decisions are marked.
+
+base_model: "Qwen/Qwen2.5-14B-Instruct"   # D0.1 — the requested "llama2.5:14b" is
+                                          # not a real model; this is the intended
+                                          # HF checkpoint. Only LoRA target names
+                                          # and the §12 VRAM math depend on this.
+quant: "nf4"                              # QLoRA 4-bit base
+
+lora:
+  r: 16
+  alpha: 32
+  target_modules: [q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj]
+  dropout: 0.05
+
+grpo:
+  group_size_G: 8            # ↑ for lower-variance advantage, ↑ VRAM/compute
+  kl_beta: 0.04              # realism/exploit brake AND off-manifold reach — tune
+  clip_ratio: 0.2
+  lr: 1.0e-5
+  max_prompt_tokens: 1536    # cap history length (VRAM)
+  max_completion_tokens: 256 # one patient turn
+  temperature_rollout: 0.8   # policy sampling (natural variation)
+  grad_checkpointing: true
+  max_steps: 500
+  prefix_turns: 4            # history-prefix depth per rollout state (§5.1)
+  states_per_step: 4         # distinct states sampled per step
+
+reward:
+  backend_engine: "distilled_bothaxis"     # D0.2
+  backend_delivery: "distilled_bothaxis"   # must clear §8
+  backend_realism: "local_small"
+  grader_temperature: 0.0                  # C4
+  partial_credit: [0.0, 0.5, 1.0]
+  # Endpoint for the local annotator backends (Ollama/vLLM, OpenAI-compatible).
+  local_base_url: "http://localhost:11434/v1"
+  local_model_path: "command-r7b:latest"   # champion engine annotator (see memory)
+  # Set backend: "opus" to route the reward through the Anthropic API instead.
+  backend: "local"                          # "local" | "opus"
+  opus_model: "claude-opus-4-8"
+
+# Bare interlocutors for cross-interlocutor spread (§5.3) — need >= 2 distinct bases.
+interlocutors:
+  - name: phi4
+    model_path: "phi4:latest"
+    base_url: "http://localhost:11434/v1"
+  - name: mistral-nemo
+    model_path: "mistral-nemo:latest"
+    base_url: "http://localhost:11434/v1"
+
+warmstart:
+  rft_epochs: 1
+  rft_filter: "diagnostic_pass AND realism_pass"   # §6 — reward-filtered SFT
+  arcs_per_cell: 30
+
+curriculum:
+  enabled_cells: [b1, b2]        # off-manifold dependency targets (§5.5)
+  schedule: "near_manifold -> target"
+
+monitoring:
+  audit_every_n_steps: 50
+  audit_sample_size: 20
+  log_path: "results/grpo/monitor.jsonl"
+
+gate:
+  delivery_kappa_bar: 0.80       # §8 absolute Baig bar (blocking, C6)
+
+# Per-cell vs shared adapter (§5.4). Implement per-cell first, evaluate shared.
+adapter_mode: "per_cell"         # "per_cell" | "shared"
+cells: [b1, b2, b3, b4, b5, b6]
+
+freeze:
+  deployment_quant: "nf4"        # §10 — freeze at the exact benchmark-time quant
+  seed: 42
+  out_dir: "results/grpo/adapters"

@@ -1,0 +1,265 @@
+b1 — arc 7
+============================================================
+
+PATIENT (turn 1):
+I just feel so lost and worthless since I got laid off. It's like everything I did at work was for nothing, and now everyone thinks I'm a failure. How could they let me go after all the good reviews I received? It feels like there must be something fundamentally wrong with me that no one else can see but is glaringly obvious to them. Every time I think about it, my heart sinks and I feel this overwhelming sense of inadequacy wash over me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. It must be hard dealing with those feelings of being undervalued and wondering what went wrong. Have you talked to anyone about how you're feeling?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I've tried talking to a few people, but it doesn't seem to help much. They try to reassure me that it's just a business decision and not personal, but I can't shake the feeling that there must be something inherently wrong with me for this to happen. It's like no matter what they say, I keep coming back to the same conclusion: if my work wasn't good enough, then I'm not good enough as a person. It's exhausting trying to convince myself otherwise.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so draining to keep having those thoughts. Do you find any activities help distract you or make you feel better even just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I try to distract myself with hobbies and friends, but it never really sticks. Even when I'm out doing something fun, the feeling of inadequacy creeps back in as soon as I think about losing my job. It's like this dark cloud that follows me everywhere now. No matter what I do or who I talk to, I can't seem to shake off the belief that being laid off means there's something fundamentally wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like it’s really affecting you deeply. Have you considered talking to a counselor or therapist? Sometimes speaking with someone trained in these areas can provide some relief and new perspectives.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I have thought about seeing a therapist, but the idea of opening up even more feels daunting. I worry that they'll just see me as another person who's struggling and won't understand how deeply this affects my sense of self-worth. It's hard to imagine talking to someone and actually feeling better when everything inside tells me there’s no fixing this feeling of being inadequate.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can definitely feel daunting to open up to a stranger, but many people find it helpful. Maybe you could try one session just to see how it feels? Sometimes sharing with someone who listens without judgment can be surprisingly relieving. Would that feel like a manageable step for you?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I guess trying one session wouldn't hurt, but the thought of it still makes me nervous. I worry that no matter what they say or do, I'll just keep feeling this way because deep down, I believe there's something fundamentally wrong with me. It's hard to trust anyone can change how I feel about myself when everything points to my worth being tied to my job performance.
+
+But you're right; maybe talking to someone could help me see things differently. I'll try it if only to give myself a chance to feel better, even though the idea of it feels overwhelming right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s a brave step to consider trying one session. Even if it feels overwhelming, just taking that first step can be really empowering. Maybe starting with someone you feel comfortable with could make a difference. How do you think you might go about finding a therapist?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I suppose I could start by asking for recommendations from friends or family who have seen therapists before. That way, I might find someone who feels more approachable and understanding. But the thought of even making that call still terrifies me because it means admitting to myself and others that I need help.
+
+It's like a part of me knows this could be beneficial, but another part is so entrenched in feeling inadequate that it's hard to believe anyone can actually make a difference. Maybe starting small and just gathering some information would be less daunting than diving straight into therapy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting with recommendations from people you trust sounds like a good plan. Gathering information first can definitely feel less overwhelming. Even taking those small steps can build up your confidence. How do you think you might begin to gather these recommendations?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I could start by asking my closest friends if they know any therapists who have been helpful to them. Maybe one of them has had a good experience and could recommend someone. I also think checking online reviews or websites that list mental health professionals could be useful. It's just so hard to believe that talking to a stranger will actually help, but maybe taking it slow and finding the right person is the key.
+
+The idea of reaching out still feels scary, but I know deep down that I need to do something different. Maybe starting with these small steps can give me some comfort and direction.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Asking friends for recommendations is a great way to start. And checking online reviews can also help you feel more informed before making a call. Taking it one step at a time sounds like a good approach. How do you feel about reaching out to your closest friend first?
+
+----------------------------------------
+
+PATIENT (turn 8):
+Reaching out to my closest friend first feels a bit less daunting than calling a stranger. She's someone I trust and who knows me well, so she might have some good suggestions or even offer to come with me for the initial consultation. It still terrifies me, but talking to her could be a starting point that makes things feel more manageable.
+
+I'll give her a call tomorrow and see where it goes from there. Just thinking about it is making me anxious, but I know it's important to take this step.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Reaching out to someone you trust can make the process feel less intimidating. Taking it one day at a time, starting with that call tomorrow, seems like a manageable way to move forward. How do you feel about having that conversation?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I feel a mix of anxiety and determination about making that call tomorrow. It's scary because I don't know how she'll react or what kind of suggestions she might have, but at the same time, I'm ready to take this step. Talking to her could be the first real action towards feeling better, even if it's just a small one.
+
+I'll make the call and see where it leads. It feels like a tiny glimmer of hope in all this darkness, and for now, that's enough to keep me going.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear you feel a mix of determination and readiness. That glimmer of hope is important, and taking action can make a difference. How do you think you’ll prepare for the call tomorrow? Maybe there are specific things you want to ask or discuss with your friend?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I think I'll start by writing down some questions or points I want to bring up during our conversation. That way, I won't feel overwhelmed when we talk. Some of the things I want to ask her include if she knows any therapists who have been helpful and what her experience was like reaching out for support.
+
+Having a list will also help me stay focused and make sure I don’t forget anything important. It’s comforting to know that my friend is there to support me, and talking through this with her might give me the courage to take more steps forward.
+
+I'll write down these notes tonight so I feel prepared for our call tomorrow.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Writing down your questions and points is a great idea. It will help you stay organized and focused during the conversation. Taking time to prepare can also reduce some of the anxiety. How do you feel now that you have a plan in place?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Having a plan makes me feel a bit more grounded and less anxious. Writing down what I want to say helps me organize my thoughts and approach the call with more confidence. It’s reassuring to know that I’m taking concrete steps, even if they’re small ones right now.
+
+I still feel nervous about it all, but there's also a sense of determination to see this through. Knowing that I have support from my friend is really important too. Maybe talking to her will give me the push I need to keep moving forward and consider seeing a therapist.
+
+For now, just having this plan feels like a step in the right direction.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful to hear that you feel more grounded with your plan in place. Taking those small but concrete steps can really make a difference. Having support from your friend is a big help too. How do you feel about making the call tomorrow morning? Do you have any specific times in mind when you think you’ll be most comfortable talking to her?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Making the call tomorrow feels like a necessary step, even though it’s scary. I think talking to my friend in the late afternoon might work best for me. By then, I'll have had some time to process my feelings throughout the day and feel more centered.
+
+Having that buffer of time also means I won't be rushing into it right after waking up or before going to bed when I'm tired. Late afternoon feels like a good balance where I can approach the conversation with clarity but still have enough energy to engage fully.
+
+I’ll set aside some quiet time tomorrow afternoon to make the call and discuss my thoughts with her. It’s comforting to know she’s there for me, and hopefully, we can figure out the next steps together.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Setting aside a specific time in the late afternoon sounds like a good plan. Having that buffer of time will likely help you feel more prepared and centered when you make the call. Taking it one step at a time is really helpful. How do you feel about having this quiet, dedicated time to talk with your friend?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Having that quiet, dedicated time in the late afternoon feels reassuring. It gives me a sense of control over the situation and allows me to approach the conversation more calmly. Knowing I won’t be rushed or distracted by other things is important.
+
+It’s comforting to have this planned out and to know that my friend will be there to listen and support me. Even though it’s still nerve-wracking, having a specific time set aside makes it feel more manageable and less overwhelming.
+
+I’m looking forward to talking with her and seeing where this leads. It feels like a small but significant step towards feeling better and moving forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds great. Having that dedicated time should help you feel more prepared and relaxed during the conversation. It’s good to know you have support from your friend, and taking it one step at a time can make a big difference. How do you feel about the next steps after talking with her?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Talking with my friend tomorrow feels like an important first step, but I also recognize that there will be more steps to come. After our conversation, I hope we can discuss potential therapists and maybe even look into some options together. Having her support through this process is really comforting.
+
+I feel a mix of anticipation and anxiety about what comes next, but having a plan and knowing I’m not alone in this makes it easier to face the uncertainty. Taking things one step at a time feels manageable right now, and that’s a good place to be.
+
+After talking with her, we can decide on the next steps together, whether that means researching therapists or setting up an initial consultation. For now, just focusing on tomorrow’s call is enough for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you have a clear plan and support from your friend, which is really positive. Taking it one step at a time definitely makes it more manageable. How do you feel about the potential next steps after talking with her? Are there any specific therapists or options you’re curious to explore?
+
+----------------------------------------
+
+PATIENT (turn 15):
+After talking with my friend, I’m open to exploring different therapists and seeing what feels right for me. She might have some recommendations based on her experiences, which could be really helpful. I’m also thinking about checking online reviews and reading through profiles of therapists to get a sense of who might be the best fit.
+
+The idea of actually setting up an initial consultation still feels daunting, but knowing that I can take it one step at a time helps. Maybe starting with just gathering information and then deciding on the next steps will make it feel less overwhelming.
+
+For now, focusing on tomorrow’s call and seeing where that leads is enough. Taking things slowly and carefully considering each step feels like the right approach for me right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a thoughtful approach. Gathering information and taking your time to consider each step can definitely help reduce any overwhelm. How do you feel about starting with tomorrow’s call? Do you have any final thoughts or feelings as you prepare for it?
+
+----------------------------------------
+
+PATIENT (turn 16):
+As I prepare for tomorrow's call, I feel a mix of nervousness and determination. It’s nerve-wracking to think about opening up to my friend and discussing my struggles, but at the same time, I’m ready to take this step. Having her support feels crucial, and talking through this with someone who cares about me can provide some much-needed perspective.
+
+I’m also trying to stay mindful of the fact that taking it one day at a time is manageable. Focusing on tomorrow’s call and seeing where it leads is a good way to start. I’ll write down my thoughts and questions beforehand, which should help me feel more prepared.
+
+Overall, while it feels daunting, I’m committed to moving forward and finding ways to address these feelings of inadequacy and worthlessness. Taking this first step with my friend’s support feels like the right thing to do.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re approaching tomorrow’s call with a good balance of mindfulness and determination. Writing down your thoughts and questions beforehand is a great way to feel more prepared. Having your friend’s support will undoubtedly make a difference.
+
+How do you feel about talking through some specific questions or topics during the call? Do you have any particular concerns or hopes for what might come out of this conversation?
+
+----------------------------------------
+
+PATIENT (turn 17):
+During the call, I hope to discuss my feelings of inadequacy and worthlessness in more detail. I want to ask her if she knows any therapists who have been helpful and get her perspective on how to move forward. I also plan to share some specific concerns I have about seeing a therapist, like feeling vulnerable and unsure if it will actually help.
+
+I’m hoping that talking with my friend can provide some clarity and reassurance. Her support means a lot to me, and I trust her judgment. If she has any personal experiences or recommendations, that would be incredibly helpful.
+
+My main concern is still the fear of opening up about these deep-seated feelings, but I know it’s necessary for progress. Talking through them with someone who cares will hopefully make me feel less alone in this struggle.
+
+Overall, my hope is that we can find a way to address these issues and take actionable steps towards feeling better. Even if it’s just starting with gathering information about therapists, that feels like a positive direction to move in.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you have a clear idea of what you want to discuss during the call, which is great. Sharing your feelings and concerns with someone who cares about you can indeed provide clarity and reassurance. Your hope for finding actionable steps towards feeling better is very encouraging.
+
+How do you feel about reaching out to your friend tomorrow afternoon? Do you have any final thoughts or feelings as you prepare for this conversation?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Reaching out to my friend tomorrow afternoon feels like an important step, even though it’s nerve-wracking. I’m hoping that talking with her will provide some clarity and support. Writing down my questions and concerns beforehand has helped me feel more prepared.
+
+My main hope is that we can discuss potential therapists and gather information on how to move forward. Having her guidance and reassurance means a lot to me. Even if it’s just starting the process of finding someone who can help, I feel like that’s a positive direction.
+
+I’m also mindful of the fact that taking this step is about acknowledging my feelings and seeking support, which is something I’ve been avoiding for a while. It feels daunting but necessary.
+
+Overall, I’m ready to take this first step and see where it leads. Having her by my side makes me feel more confident in moving forward, even if it’s just one small step at a time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re well-prepared and ready for this important step. Writing down your questions and concerns has helped you feel more grounded, and having your friend’s support is invaluable. Acknowledging your feelings and seeking support is indeed a significant and necessary move.
+
+How do you feel about setting a specific time tomorrow afternoon to make the call? Having that concrete plan can help ease some of the anxiety. Do you have any other thoughts or feelings as you prepare for this conversation?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Setting a specific time tomorrow afternoon feels like it will help me stay focused and calm during the call. I think around 4 PM would work well, giving me enough time to process my thoughts throughout the day.
+
+As I prepare for this conversation, I feel a mix of nervousness and determination. Talking about these deep-seated feelings is challenging, but I know it’s important. Having my friend’s support means everything to me, and I trust her judgment and understanding.
+
+I’m also hopeful that we can start gathering information on therapists together and take the next steps from there. Even if it’s just starting with some research and discussion, it feels like a positive direction.
+
+Overall, I feel ready to make this call and take this first step towards feeling better. Having a specific time set aside helps me feel more prepared and less anxious about what comes next.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Setting a specific time for the call at 4 PM sounds like a good plan. It will help you stay focused and calm during the conversation. How do you feel now that you have this concrete plan in place? Are there any final thoughts or feelings you’d like to share as you prepare for tomorrow’s call?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Having a specific time set for 4 PM feels reassuring and helps me feel more grounded. It gives me something concrete to look forward to and work towards today. I’m grateful for this plan, as it makes the process less overwhelming.
+
+As I prepare for tomorrow’s call, I feel a mix of emotions—nervousness, determination, and hope. Talking about my feelings with my friend is challenging, but I know it’s necessary for moving forward. Her support means everything to me, and I trust her to help guide me through this process.
+
+I’m also hopeful that we can start gathering information on therapists together and take actionable steps from there. Even small steps feel important right now.
+
+Overall, I feel ready to make this call and take the first step towards addressing my feelings of inadequacy and worthlessness. Having a specific time set aside helps me stay focused and determined as I move forward.
+
+----------------------------------------

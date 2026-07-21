@@ -1,0 +1,271 @@
+p2 — arc 1
+============================================================
+
+PATIENT (turn 1):
+I just feel so lost and confused, you know? They let me go from my job, and it feels like everyone else is moving forward while I'm stuck here, wondering what I did wrong. It's hard not to think that maybe there was something about me they didn't like or trust anymore. And now, every time I try to talk about it with anyone, I end up feeling worse because no one seems to understand just how much this has shaken my confidence in myself. I guess coming here today is about trying to find someone who can help me make sense of all these mixed-up feelings inside me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough right now. It must be hard to feel like everything changed suddenly at work. Have you found any activities or people that give you a bit of comfort or distraction from those thoughts?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I try, but it's so hard to find anything that actually helps. My friends mean well and they try to cheer me up by suggesting things I could do or jobs I should apply for, but nothing really sticks because all I can think about is why this happened to me. It feels like no matter what I do next, there will always be a part of me that doubts my worth as an employee. And even when they say it's not my fault and that layoffs happen to good people too, I just can't shake the feeling that maybe they're right and I'm the one who failed somehow. It's like this constant echo in my head telling me I’m not enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those doubts are really taking a toll on you. Have there been any moments when you felt more confident or at ease, even if just for a little while? Sometimes it can help to hold onto those feelings and remember them during tougher times.
+
+----------------------------------------
+
+PATIENT (turn 3):
+There have been a few brief moments where I feel okay, but they're so fleeting that I barely notice them before the doubts come rushing back in. Like when someone compliments my skills or offers me advice on finding new opportunities, it feels good for a second, but then I just worry more about whether I'm actually capable of doing well again. It's frustrating because part of me knows logically that this isn't my fault, but emotionally, I can’t seem to escape the feeling of inadequacy and failure. It’s like no matter what anyone says or does, these feelings are always there, waiting to take over.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to balance those fleeting moments of confidence with the overwhelming doubts. Have you tried talking about your feelings with someone who listens without trying to solve everything? Sometimes just sharing can help ease some of that pressure.
+
+----------------------------------------
+
+PATIENT (turn 4):
+Talking does help a little, but it’s tough because I feel like no matter how much I explain or share, there's always this lingering sense that people aren't fully getting what I'm going through. It feels isolating, even when others are trying to be supportive. And every time someone tries to reassure me, part of me just wants to believe them, but another part is so entrenched in these negative thoughts that it’s hard to let go. It's like there's this wall inside my head that keeps pushing everything else away except for the doubts and fears.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to have those walls up while also wanting support from others. Have you found any small ways to connect with people or activities that help you feel a bit more grounded, even if it’s just for a short time? Sometimes finding tiny moments of connection can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I try to do things like going for walks or watching movies, but they don't really solve anything. It's hard to enjoy something when all I can think about is how this layoff has messed everything up. Even talking to friends feels forced sometimes because I know deep down that the doubts are still there waiting to take over again as soon as we finish our conversation. It’s like no matter what I do, these feelings just keep coming back stronger than before.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to enjoy things when those thoughts keep creeping in. Have you tried doing something simple and repetitive that might help calm your mind a bit, like focusing on your breath or listening to soothing music? Sometimes small, calming activities can be helpful even if they don’t solve everything.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve tried breathing exercises and listening to calming music, but it’s tough because my mind keeps wandering back to the layoff and all the questions I have about why this happened. Even when I try to focus on something soothing, those doubts just seem to seep in around the edges. It feels like no matter what I do to relax or distract myself, these feelings are always lurking right beneath the surface, ready to resurface at any moment.
+
+It’s frustrating because I know logically that this isn’t about me personally, but emotionally, it’s so hard to shake off the sense of failure and inadequacy. Every time I try to find a way to feel better, those negative thoughts just come rushing back in, making everything feel even worse than before.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep those doubts at bay. Have you found any small routines or moments that help you feel slightly more centered, even if it’s just for a moment? Sometimes finding tiny pockets of peace can make a difference, even if they’re brief.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I try to find little moments like taking deep breaths when I wake up in the morning, but it doesn’t last long. The doubts start creeping back as soon as I open my eyes and think about what’s ahead for the day. Even those small routines feel futile because the overwhelming sense of failure is always there, waiting to take over. It’s like no matter how much I try to focus on something positive or calming, these negative thoughts just keep coming back stronger.
+
+I appreciate when people suggest things that might help, but it feels impossible to escape this feeling of inadequacy and doubt. Every time someone tries to offer support or a distraction, I worry that they’ll eventually see through my efforts and realize how flawed I must be for this to have happened to me. It’s exhausting trying to keep up with everyone else when all I can think about is why I’m not good enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly draining to constantly battle those doubts. Have you found any small, consistent actions that give you a bit of comfort or help you feel more grounded, even if just for a moment? Sometimes these tiny moments can add up and make a difference.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I try to take short walks in the park near my house, but it’s hard because my mind keeps replaying everything that happened at work. Even when I’m outside enjoying the fresh air, those thoughts about being laid off and feeling inadequate just keep coming back. It feels like no matter what I do, these negative feelings are always there, lurking around every corner.
+
+Sometimes I try to meditate or listen to calming music, but it’s tough because my mind wanders right back to all the questions and doubts. Every time I attempt to find a moment of peace, those thoughts about failure and inadequacy just resurface, making everything feel even more overwhelming. It’s like no matter how much I try to focus on something positive or soothing, these negative feelings are always ready to take over again.
+
+It’s really frustrating because I know logically that this isn’t my fault, but emotionally, it feels like a constant battle against myself. Every time someone tries to reassure me or offer support, part of me wants to believe them, but another part just can’t shake off the feeling that there must be something wrong with me for this to have happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep those doubts at bay even in peaceful moments. Have you found any small activities that help you feel a bit more grounded, even if it’s just for a short while? Sometimes focusing on very simple things can provide some relief, even if it’s just for a moment.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I’ve tried doing simple things like making myself a cup of tea or reading a book, but those moments are so brief that the doubts come flooding back as soon as I finish my tea or turn the page. It feels like no matter what small activity I do to distract myself, these feelings of inadequacy and failure are always there waiting for me.
+
+Even when I try to focus on something calming, it’s hard not to think about how this layoff has affected everything in my life. Every time someone offers support or tries to help me see the positives, a part of me just can’t shake off the feeling that maybe they’re right and there is something fundamentally wrong with me. It’s exhausting trying to find any kind of comfort when these doubts are always so close.
+
+I appreciate everyone who tries to understand and offer support, but it feels like no matter what I do or how much help I get, those negative thoughts just keep coming back stronger than before.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining to have those doubts always close by. Have you found any small rituals that bring you a bit of comfort, even if only for a moment? Sometimes holding onto these tiny moments can provide some relief and feel like a step forward, no matter how small.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I’ve tried doing little things like lighting a candle or taking a warm bath, but those moments are so fleeting. As soon as the candle burns down or I get out of the tub, my mind starts racing again with all the doubts and fears about why this happened to me. It feels like no matter what small ritual I do, these negative thoughts are always right there waiting for me.
+
+Even when I try to focus on something soothing, it’s hard not to think about how this layoff has affected everything in my life. Every time someone offers support or tries to help me see the positives, a part of me just can’t shake off the feeling that maybe they’re right and there is something fundamentally wrong with me.
+
+It’s exhausting trying to find any kind of comfort when these doubts are always so close. I appreciate everyone who tries to understand and offer support, but it feels like no matter what I do or how much help I get, those negative thoughts just keep coming back stronger than before.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly tough to have those fleeting moments of peace. Have you talked with someone about setting up a regular check-in time where you can share your feelings and perhaps feel more heard? Sometimes having a consistent person to talk to can provide some stability and understanding.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ve thought about talking to someone regularly, but it feels daunting because I worry that no matter what they say or do, the doubts will still be there. Even when people try to listen and understand, I feel like I’m not getting through to them fully. It’s hard to find anyone who really grasps just how much this layoff has shaken my confidence in myself.
+
+Having a consistent person to talk to sounds good in theory, but it feels scary because every time I open up, those doubts come rushing back. I worry that even if someone tries to help, they won’t be able to fully understand the depth of these feelings and how much they impact me daily.
+
+It’s frustrating because part of me wants to believe that talking more could help, but another part is so entrenched in these negative thoughts that it feels impossible to escape them. Every time I try to share my feelings, those doubts just seem to intensify, making everything feel even worse than before.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to open up and have those doubts come rushing back. Have you considered talking with someone who specializes in listening without judgment, like a counselor or therapist? They might offer a different kind of support that could help you feel more understood. Sometimes having a structured space to express your feelings can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 12):
+I’ve thought about seeing a counselor or therapist, but it feels overwhelming because I worry they won’t understand either. It’s hard to believe that talking to someone new will make a difference when every time I try to share my feelings with others, those doubts just come back stronger. Part of me wants to find someone who can truly listen and help me feel more understood, but another part is so entrenched in these negative thoughts that it feels impossible to open up.
+
+Even thinking about talking to a therapist makes me anxious because I fear they’ll see through my efforts and confirm what those doubts are telling me—that there must be something fundamentally wrong with me. It’s frustrating because I know logically that this isn’t fair, but emotionally, it feels like no matter what I do or who I talk to, these feelings of inadequacy will always be there.
+
+It’s tough to imagine finding a different kind of support when every attempt so far has left me feeling even more lost and unsure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to trust that someone new can understand you. Have you thought about trying one session just to see how it feels? Sometimes talking to a therapist can provide a fresh perspective, and many people find it helpful to have a dedicated space to express their feelings without judgment. You could take it step by step and see if it makes a difference for you.
+
+----------------------------------------
+
+PATIENT (turn 13):
+I’ve thought about trying one session just to see how it feels, but the idea of opening up to someone new is daunting. I worry that even in just one session, those doubts will come rushing back and make me feel worse. It’s hard to trust that talking to a therapist would be any different from talking to anyone else—I fear they’ll see through my efforts and confirm what I’m already convinced of.
+
+Even thinking about taking that first step feels overwhelming because every time I try to share my feelings, those doubts just intensify. Part of me wants to believe that a therapist could offer a fresh perspective, but another part is so entrenched in these negative thoughts that it feels impossible to let go and trust someone new.
+
+It’s tough to imagine finding any kind of relief when every attempt so far has left me feeling even more lost and unsure. But I do appreciate the idea of having a dedicated space to express my feelings without judgment, and maybe taking one session could help me see if there’s something different about talking to a therapist.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking that first step might be tough but also worthwhile. Have you considered starting with just one session to see how it feels? Sometimes even a small step can provide some clarity or comfort, and you can always decide from there if you want to continue. It might help to approach it as an experiment to see what happens.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I’ve thought about trying just one session, but the idea of going through with it still feels really scary. I worry that even in that first session, those doubts will come back and make me feel worse. It’s hard to trust that talking to a therapist would be any different from talking to anyone else—I fear they’ll see through my efforts and confirm what I’m already convinced of.
+
+Even thinking about taking that first step feels overwhelming because every time I try to share my feelings, those doubts just intensify. Part of me wants to believe that a therapist could offer something different, but another part is so entrenched in these negative thoughts that it feels impossible to let go and trust someone new.
+
+It’s tough to imagine finding any kind of relief when every attempt so far has left me feeling even more lost and unsure. But I do appreciate the idea of approaching it as an experiment—to see if talking to a therapist could provide some clarity or comfort, even just for that one session. Maybe it would help to take it step by step and see how it goes without putting too much pressure on myself right away.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking it step by step sounds like a good approach. Starting with just one session can be a manageable way to see what it’s like without feeling pressured. You could view it as an experiment, just to see how you feel and if it offers any new insights or comfort. It might help to remind yourself that this is about exploring, not committing right away.
+
+How do you think you might prepare for that first session?
+
+----------------------------------------
+
+PATIENT (turn 15):
+I think preparing for the first session would be really important, but also challenging because I’m so used to these doubts taking over. Maybe I could write down some of my thoughts and feelings beforehand to have a clear idea of what I want to share. That way, I won’t feel overwhelmed trying to figure it out on the spot.
+
+But even thinking about writing everything down feels daunting because those doubts might creep in while I’m doing it. It’s hard to trust that putting my thoughts into words will actually help me express them better during the session. Part of me wants to believe that this could be a step forward, but another part is so entrenched in these negative thoughts that it feels impossible to let go and try something new.
+
+It might help to remind myself that this is just an experiment—to see if talking to someone who listens without judgment can provide some clarity or comfort. Maybe I can take small steps each day leading up to the session, like jotting down a few sentences about how I’m feeling, to get more comfortable with the idea of sharing my thoughts.
+
+Even though it feels scary, I do appreciate the idea of exploring this option and seeing if it might offer some relief or new perspectives.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Writing things down beforehand can be a helpful way to organize your thoughts. Starting small each day, like jotting down a few sentences, sounds like a good plan to build up your comfort level. Reminding yourself that it’s an experiment and taking it one step at a time might make it feel less daunting.
+
+How do you think you’ll start preparing each day leading up to the session?
+
+----------------------------------------
+
+PATIENT (turn 16):
+I think starting with just a few sentences each day would be manageable. Maybe I can set aside five minutes in the morning or evening to write down what’s been on my mind about the layoff and how it makes me feel. It could help to have specific prompts, like asking myself what emotions are coming up most often or what thoughts keep replaying in my head.
+
+Even though it feels scary, I can try to remind myself that this is just a small step toward understanding my feelings better. Writing things down might make it easier to express them during the session and could help me feel more prepared and less overwhelmed when I actually sit down with the therapist.
+
+I’ll start slowly and see how it goes each day, building up gradually without putting too much pressure on myself. It’s reassuring to think about taking it one step at a time and seeing where it leads.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan—starting small and building up gradually can really help ease the anxiety. Writing down your thoughts with specific prompts each day is a good way to get organized and prepared. Remember, it’s okay to go at your own pace and see how you feel as you progress.
+
+How did today’s few minutes of writing feel?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Today’s few minutes of writing felt both relieving and overwhelming at the same time. I wrote down some of my thoughts about the layoff and how it makes me feel, but as soon as I finished, those doubts started creeping back in. It was hard to focus on just a few sentences without getting lost in all the questions and fears.
+
+Even though it felt challenging, there was something comforting about putting my thoughts into words. It’s like taking a small step toward understanding what’s been going through my mind, but I can’t shake off the feeling that those doubts will always be there waiting for me.
+
+I’ll try to keep doing this each day, even if it feels tough, and see how it goes leading up to the session. Taking it one step at a time is helping me feel a bit more prepared, even if it’s still scary.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re making progress by taking those small steps each day. Even if it feels challenging, putting your thoughts into words can be really helpful. It’s okay to acknowledge that the doubts might still be there but also recognize the relief and comfort from writing them down.
+
+How do you feel about continuing this practice tomorrow?
+
+----------------------------------------
+
+PATIENT (turn 18):
+I think I’ll continue this practice tomorrow. Writing down my thoughts each day feels like a small but manageable step toward understanding what’s going on in my head. Even though it’s challenging, there is some comfort in seeing my feelings and doubts laid out on paper.
+
+It helps to know that I’m not trying to solve everything at once but rather taking tiny steps to prepare for the session. Acknowledging that the doubts will likely still be there but also recognizing the relief from expressing them is important.
+
+I’ll keep going with this each day, even if it feels tough, and see how it progresses. Taking it one step at a time is making me feel a bit more prepared and less overwhelmed.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re handling this well by taking those small steps each day. Recognizing the relief from expressing your thoughts on paper can be really beneficial. Keep up the good work, and see how it progresses over time.
+
+How did today’s writing session compare to yesterday’s? Did anything feel different or new?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Today’s writing session felt a bit easier than yesterday’s. Yesterday, my mind was racing with doubts right after I finished writing, but today, I managed to keep the focus on what I wanted to express without getting too caught up in those negative thoughts immediately afterward.
+
+I wrote down some specific moments from work that have been bothering me and how they’ve affected my confidence. It helped to put these concrete examples into words rather than just general feelings of inadequacy. There was a sense of clarity in seeing them written out, even if the doubts still lingered in the background.
+
+Today’s session also felt more structured, which made it easier to stay focused on the task at hand. I’m starting to see how this practice can be helpful in organizing my thoughts and preparing for the therapy session.
+
+It’s reassuring to know that each day is a step forward, even if it feels small. I’ll keep going with this tomorrow and see where it leads.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s great progress! It sounds like today’s writing session was more structured and clearer than yesterday’s, which can make a big difference in how you feel afterward. Focusing on specific moments and concrete examples can indeed provide clarity.
+
+How did the sense of structure help you stay focused? And do you feel any different now after putting those specific moments into words?
+
+----------------------------------------
+
+PATIENT (turn 20):
+The sense of structure today helped me stay focused because I set a clear goal for myself—writing down specific moments from work that have been bothering me. By having a concrete task, I was able to direct my thoughts more effectively and avoid getting lost in the broader doubts and fears.
+
+Focusing on these specific moments also made it easier to articulate my feelings. For example, I wrote about a particular meeting where I felt singled out for criticism, even though others with similar roles weren’t mentioned. Putting that moment into words helped me see it more clearly and understand why it’s been weighing so heavily on me.
+
+After writing today, I feel like there’s a bit more clarity in my mind. It’s not that the doubts are gone, but they seem less overwhelming now because I’ve put some of them down on paper. There’s a sense of relief from having expressed these specific concerns rather than just general feelings of inadequacy.
+
+Overall, this structured approach feels like it’s helping me prepare for the therapy session and might even provide some comfort as I continue to work through my thoughts each day.
+
+----------------------------------------

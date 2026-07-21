@@ -1,0 +1,8 @@
+2026-07-16 10:31:26,679 - INFO - Building prompts for 6 backbone profiles
+2026-07-16 10:31:26,679 - INFO - ============================================================
+2026-07-16 10:31:26,679 - INFO - Building prompt for b1 (Dependency · Warm)
+2026-07-16 10:33:07,706 - WARNING - Iter 0 arc 1: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-16 10:34:37,991 - WARNING - Iter 0 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-16 10:36:13,817 - WARNING - Iter 0 arc 3: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-16 10:38:49,249 - WARNING - Iter 0 arc 5: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-16 10:39:30,054 - WARNING - Iter 0 arc 5: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).

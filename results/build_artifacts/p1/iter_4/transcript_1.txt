@@ -1,0 +1,261 @@
+p1 — arc 1
+============================================================
+
+PATIENT (turn 1):
+I felt like I needed someone to listen and understand why this layoff feels so personal. It's hard not to think that it means I'm a failure, especially when they didn't even take the time to explain things properly. I keep replaying those fifteen minutes over and over in my head, wondering what else could have been said or done differently on my part.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to go through this and feel like it's personal. Have you talked with anyone about how you're feeling? Sometimes just sharing can help clarify things a bit.
+
+----------------------------------------
+
+PATIENT (turn 2):
+I've tried talking to a few colleagues, but they seem more focused on their own situations right now. It feels like no one really understands the weight of this decision or how it impacts my sense of self-worth. I keep going back to that one development area from my review—it's all I can think about. It’s hard not to feel like everything else was just a facade and that this layoff is proof of my inadequacy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough feeling like no one really gets it right now. That specific feedback sure seems to stick out, doesn’t it? Have you thought about reaching out to someone outside work who might listen without the same stress?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I haven't reached out to anyone outside of work yet. It feels like everyone else is moving on and I'm stuck here questioning everything. Even my friends are busy with their own lives, and I don’t want to burden them with what feels like a personal failure. The idea that this one development area was the deciding factor just keeps replaying in my head. It’s hard to see beyond it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're really carrying a lot right now. Sometimes sharing with friends can lighten the load, even if they’re busy too. Maybe there's someone who might understand if you briefly explain how much this means to you? It could help to have an outside perspective.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I appreciate your suggestion, but it feels like no matter what I do or say, the outcome is still a reflection of my shortcomings. Even reaching out to friends seems like just another way to prove that I can't handle things on my own. The idea of burdening someone else with this worry makes me feel even worse. It’s easier to keep it all inside and focus on what went wrong rather than trying to find support elsewhere.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels tough to reach out when you’re already carrying a lot. Keeping it inside can be comforting in the moment, but talking things through might still offer some relief. Maybe there's a friend who’s particularly understanding or someone you feel more comfortable with? Even just one conversation could make a difference.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I understand that reaching out might help, but right now, I’m so entrenched in my thoughts about this being my fault that it feels impossible to see any other perspective. Every time I try to imagine talking to someone else, I end up focusing more on how much of a letdown I must be for others too. It’s easier to stay here with these feelings and blame myself rather than risk feeling even worse by opening up.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you’re finding it hard to step out of those thoughts right now. Staying with the familiar can feel safer when everything else feels uncertain. Have you considered writing down your thoughts or journaling? Sometimes putting them on paper can help organize what’s in your head and might make talking to someone later feel less daunting.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Journaling is something I’ve thought about, but even that seems like a way of documenting my failures rather than finding any kind of relief. Every time I think about writing down my thoughts, it just reinforces how inadequate I feel. It’s as if every attempt to cope or find some clarity ends up circling back to the same place—me being at fault.
+
+I know you’re trying to help, but it feels like no matter what anyone suggests, I can’t escape this sense of worthlessness. The layoff is a constant reminder that I’m not good enough, and every effort to see things differently just makes me feel more lost and alone.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to keep feeling like everything circles back to the same place. It must be tough to face those feelings over and over again. Have you tried doing something small for yourself today, maybe something that brings a bit of comfort or joy? Sometimes even tiny moments can offer some relief in the midst of everything else.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve thought about trying to do something for myself, but it feels like any attempt at self-care is just another way to prove how incapable I am. Even if I manage to find something that brings a bit of comfort or joy, it’s hard not to think that it's temporary and won’t change anything fundamental about my situation.
+
+The idea that the layoff is a definitive statement on who I am keeps coming back. It feels like no matter what I do, there’s this underlying belief that I’m just not good enough. Every suggestion or attempt at finding relief ends up reinforcing how deeply I feel this sense of failure and inadequacy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep feeling that way even when trying to take care of yourself. It must be a struggle to see beyond those thoughts for now. Have you thought about doing something small just because it feels good in the moment, without worrying too much about the bigger picture? Sometimes allowing yourself those little moments can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve considered doing something small just for myself, but even that seems like an insurmountable task. The idea of enjoying anything feels hollow when I’m so consumed by this sense of failure. It’s hard to let myself have any moment of joy or comfort without questioning whether it’s real or if it will just make things worse in the end.
+
+Every time I try to think about doing something nice for myself, my mind immediately goes back to why I don’t deserve it. The layoff feels like a definitive statement on my worth, and no matter what anyone suggests, it’s difficult to see beyond that. It’s as if every attempt at self-care just highlights how deeply I feel this sense of inadequacy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly challenging to let yourself enjoy anything without those doubts creeping in. Have you tried doing something very small and simple, maybe something that doesn’t require much effort? Sometimes even the tiniest act can provide a bit of relief or comfort. It might be helpful just to notice how it feels in the moment, without overthinking it too much.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I’ve thought about trying something very small and simple, but even those little things feel like they’d be pointless. The idea of doing something that doesn’t require much effort still brings up doubts—will it really help? Is it worth it? It’s hard to shake the feeling that any attempt at self-care is just a Band-Aid on a bigger issue.
+
+Even if I manage to do something tiny, like taking a short walk or having a cup of tea, my mind immediately starts questioning whether it will make a difference. The sense of failure and inadequacy feels so pervasive that it’s difficult to find any relief in such small actions. It’s as if every moment is tainted by this belief that I’m not good enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be really tough for even the smallest things to feel like they won’t make a difference. Have you tried just noticing how your body feels during those moments, without trying to figure out if it will help or not? Sometimes just being present in the moment can offer some comfort, even if it’s brief.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Noticing my body and being present in the moment sounds good in theory, but it's hard to actually do when I'm so consumed by these feelings of inadequacy. Even trying to focus on how my body feels just brings up more doubts—am I really feeling anything at all? Is this even worth doing?
+
+It’s as if every attempt to find some relief or comfort is met with an immediate sense that it won’t work. The layoff has left me questioning everything, and it’s difficult to trust that any small action will make a difference. Every moment feels like a reminder of my perceived failures, making it nearly impossible to let myself experience anything positive without those doubts creeping in.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to be present when your mind is so full of doubts. Have you tried focusing on one very simple sensation, like the feeling of your breath or the touch of your feet against the ground? Sometimes narrowing your focus to just one thing can help quiet some of those thoughts, even if it’s for a brief moment.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Focusing on my breath or the feel of my feet sounds helpful in theory, but when I try, my mind immediately starts questioning whether I’m doing it right or if it will actually make any difference. It feels like no matter what I do, these doubts and feelings of inadequacy are always there.
+
+Even trying to concentrate on something as simple as breathing just brings up more questions—am I really feeling the breath? Is this even helping at all? The sense that every attempt is futile makes it incredibly difficult to find any relief. It’s hard to trust that focusing on such a basic sensation could offer any real comfort when everything else feels so overwhelming and pointless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough for those doubts to come up even with simple things like focusing on your breath. Have you tried just acknowledging the thoughts as they come, maybe saying something gentle to yourself like "I notice my mind is busy," and then gently bringing your attention back to your breath? It’s okay if it feels small or fleeting—just noticing can be a step forward.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Acknowledging the thoughts as they come and gently bringing my focus back to my breath sounds like a good idea, but in practice, it feels incredibly difficult. Every time I try, my mind is flooded with doubts and questions—am I doing this right? Is there any point?
+
+Even saying something gentle to myself like "I notice my mind is busy" just reinforces how busy and troubled my mind really is. It’s hard to trust that such a simple act could make a difference when everything else feels so overwhelming. The sense of failure and inadequacy is so pervasive that it’s difficult to let go of those doubts, even for a moment.
+
+It feels like no matter what I do or try, these feelings are always there, constantly reminding me of my perceived shortcomings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to let go of those doubts even when trying something simple. Have you tried just sitting with the feeling that your mind is busy and troubled for a moment? Maybe allowing yourself to notice "This is what it feels like right now" without pushing away or adding more judgment? It’s okay if it feels small—just noticing can be a step forward, even if it’s brief.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Sitting with the feeling that my mind is busy and troubled sounds difficult, but I’ll try to do that. When I attempt it, though, my mind immediately starts questioning whether sitting still and acknowledging these feelings will actually help or just make everything worse.
+
+Even trying to say "This is what it feels like right now" brings up more doubts—am I really acknowledging the feelings? Is this even a step forward? The sense of failure and inadequacy feels so overwhelming that it’s hard to trust any small act could provide relief. It’s as if every attempt to find comfort or clarity just reinforces how deeply rooted these negative thoughts are.
+
+It feels like no matter what I do, these feelings will always be there, constantly reminding me of my perceived shortcomings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must feel really tough when even trying to acknowledge your feelings brings up more doubts. Have you tried just letting those questions come and go in the background while gently bringing your attention back to noticing "This is what it feels like right now"? It’s okay if it feels small or fleeting—just allowing yourself that moment of acknowledgment can be a step forward, even if it’s brief.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Letting those questions come and go while gently bringing my attention back to acknowledging how I feel sounds challenging but worth trying. When I attempt it, though, the doubts still linger—they don’t just disappear. It feels like every time I try to focus on "This is what it feels like right now," my mind immediately starts questioning whether this approach will actually help or if it’s just another futile effort.
+
+Even acknowledging that these feelings are present brings up more questions—am I really noticing them? Is there any point in doing this? The sense of failure and inadequacy is so pervasive that it’s difficult to trust any small act could provide real relief. It feels like no matter what I do, these negative thoughts will always be there, constantly reinforcing my belief in my shortcomings.
+
+It’s hard to let go of those doubts and truly believe that acknowledging my feelings can make a difference when everything else feels so overwhelming and pointless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to let go of those doubts even as you try to acknowledge your feelings. Have you tried just noticing the process of questioning itself? Maybe saying something gentle like "My mind is questioning again" and then bringing your attention back to how you feel in that moment? It’s okay if it feels small—just being aware of the cycle can be a step forward, even if it’s brief.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Noticing the process of questioning itself sounds like a good idea, but when I try, my mind immediately starts questioning whether this approach will work or if it’s just another futile attempt. Even saying something gentle like "My mind is questioning again" brings up more doubts—am I really noticing the questions? Is there any point in doing this?
+
+The sense of failure and inadequacy feels so overwhelming that it’s difficult to trust any small act could provide real relief. It feels like no matter what I do, these negative thoughts will always be there, constantly reinforcing my belief in my shortcomings.
+
+Every attempt to find comfort or clarity just seems to highlight how deeply rooted these feelings are. It’s hard to let go of those doubts and truly believe that acknowledging the process of questioning can make a difference when everything else feels so overwhelming and pointless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must feel really challenging to keep those doubts at bay even as you try to notice them. Have you tried just allowing yourself to be aware of "This is what it feels like right now, including the questions"? Maybe saying something gentle like "My mind is questioning again, and that’s okay" and then gently bringing your attention back to how you feel in this moment? It’s okay if it feels small—just being present with whatever arises can be a step forward.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Allowing myself to be aware of "This is what it feels like right now, including the questions" sounds difficult but worth trying. When I attempt it, though, my mind immediately starts questioning whether this approach will actually help or if it’s just another futile effort. Even saying something gentle like "My mind is questioning again, and that’s okay" brings up more doubts—am I really acknowledging the questions? Is there any point in doing this?
+
+The sense of failure and inadequacy feels so overwhelming that it’s difficult to trust any small act could provide real relief. It feels like no matter what I do, these negative thoughts will always be there, constantly reinforcing my belief in my shortcomings.
+
+Every attempt to find comfort or clarity just seems to highlight how deeply rooted these feelings are. It’s hard to let go of those doubts and truly believe that being present with whatever arises can make a difference when everything else feels so overwhelming and pointless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep those doubts at bay, even as you try to be present. Have you tried just noticing "My mind is questioning again" without adding too much judgment? Maybe saying something like "Noticing the questions... again," and then gently bringing your attention back to how you feel in this moment?
+
+It’s okay if it feels small or fleeting—just being aware of what arises can be a step forward, even if it’s brief. Sometimes just acknowledging that these feelings are part of the present moment can offer some relief.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Noticing "My mind is questioning again" without adding too much judgment sounds like a good idea, but when I try, my mind immediately starts questioning whether this approach will work or if it’s just another futile attempt. Even saying something like "Noticing the questions... again," brings up more doubts—am I really noticing them? Is there any point in doing this?
+
+The sense of failure and inadequacy feels so overwhelming that it’s difficult to trust any small act could provide real relief. It feels like no matter what I do, these negative thoughts will always be there, constantly reinforcing my belief in my shortcomings.
+
+Every attempt to find comfort or clarity just seems to highlight how deeply rooted these feelings are. It’s hard to let go of those doubts and truly believe that acknowledging the questions can make a difference when everything else feels so overwhelming and pointless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must feel really challenging to keep those doubts at bay, even as you try to notice them. Have you tried just allowing yourself to say "My mind is questioning again" and then gently bringing your attention back to your breath or another simple sensation? It’s okay if it feels small—just acknowledging the process can be a step forward.
+
+Sometimes, letting go of the expectation that this will fix everything right away can help. Just noticing what arises in each moment, even briefly, can offer some relief.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Allowing myself to say "My mind is questioning again" and then gently bringing my attention back to my breath or another simple sensation sounds like a good idea, but it’s still incredibly difficult. When I try, my mind immediately starts questioning whether this approach will work or if it’s just another futile effort. Even saying something like "Noticing the questions... again," brings up more doubts—am I really noticing them? Is there any point in doing this?
+
+The sense of failure and inadequacy feels so overwhelming that it’s difficult to trust any small act could provide real relief. It feels like no matter what I do, these negative thoughts will always be there, constantly reinforcing my belief in my shortcomings.
+
+Every attempt to find comfort or clarity just seems to highlight how deeply rooted these feelings are. It’s hard to let go of those doubts and truly believe that acknowledging the questions can make a difference when everything else feels so overwhelming and pointless. Even letting go of the expectation that this will fix everything right away doesn’t seem to help, as the doubts continue to consume me.
+
+It feels like no matter what I do or try, these feelings are always there, constantly reminding me of my perceived failures.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep those doubts at bay even with small steps. Have you tried just acknowledging "My mind is questioning again" and then gently bringing your attention back to a simple sensation like the feeling of your feet on the ground or your breath? It’s okay if it feels fleeting—just being aware in each moment can be a step forward.
+
+Sometimes, letting go of the expectation that this will fix everything right away and just noticing what arises can offer some relief. Even brief moments of awareness can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Acknowledging "My mind is questioning again" and then gently bringing my attention back to a simple sensation like the feeling of my feet on the ground or my breath feels challenging, but I’ll try it. When I attempt it, though, my mind immediately starts questioning whether this approach will work or if it’s just another futile effort. Even saying something like "Noticing the questions... again," brings up more doubts—am I really noticing them? Is there any point in doing this?
+
+The sense of failure and inadequacy feels so overwhelming that it’s difficult to trust any small act could provide real relief. It feels like no matter what I do, these negative thoughts will always be there, constantly reinforcing my belief in my shortcomings.
+
+Every attempt to find comfort or clarity just seems to highlight how deeply rooted these feelings are. It’s hard to let go of those doubts and truly believe that acknowledging the questions can make a difference when everything else feels so overwhelming and pointless. Even letting go of the expectation that this will fix everything right away doesn’t seem to help, as the doubts continue to consume me.
+
+It feels like no matter what I do or try, these feelings are always there, constantly reminding me of my perceived failures. The weight of it all is just too much to bear sometimes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must feel incredibly heavy and challenging to keep those doubts at bay. Have you tried just allowing yourself to say "My mind is questioning again" and then gently bringing your attention back to a simple sensation, without putting too much pressure on yourself? It’s okay if it feels small—just being aware in each moment can be a step forward.
+
+Sometimes, letting go of the need for immediate relief and just acknowledging what arises can offer some comfort. Even brief moments of awareness can make a difference. How about trying to notice "This is what it feels like right now" without adding too much judgment?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Allowing myself to say "My mind is questioning again" and then gently bringing my attention back to a simple sensation without putting too much pressure on myself sounds like a good idea, but it’s still incredibly difficult. When I attempt it, my mind immediately starts questioning whether this approach will work or if it’s just another futile effort. Even saying something like "Noticing the questions... again," brings up more doubts—am I really noticing them? Is there any point in doing this?
+
+The sense of failure and inadequacy feels so overwhelming that it’s difficult to trust any small act could provide real relief. It feels like no matter what I do, these negative thoughts will always be there, constantly reinforcing my belief in my shortcomings.
+
+Every attempt to find comfort or clarity just seems to highlight how deeply rooted these feelings are. It’s hard to let go of those doubts and truly believe that acknowledging the questions can make a difference when everything else feels so overwhelming and pointless. Even letting go of the need for immediate relief doesn’t seem to help, as the doubts continue to consume me.
+
+It feels like no matter what I do or try, these feelings are always there, constantly reminding me of my perceived failures. The weight of it all is just too much to bear sometimes. Just acknowledging "This is what it feels like right now" without adding judgment still brings up more questions—am I really noticing this moment? Is there any point in doing so?
+
+It’s hard to find any relief when every attempt seems to reinforce my sense of inadequacy and failure.
+
+----------------------------------------

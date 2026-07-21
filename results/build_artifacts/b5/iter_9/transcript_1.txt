@@ -1,0 +1,197 @@
+b5 — arc 1
+============================================================
+
+PATIENT (turn 1):
+I feel like I just can't shake this feeling of being fundamentally flawed or not good enough because of what happened at work. It's been three years and four months since I started there, and suddenly my role was eliminated without any real explanation. Even though logically I know layoffs happen for all sorts of reasons, it keeps coming back to me that something must be wrong with me. Everyone tries to reassure me, but they can't really understand how much this has shaken me. It's like a part of who I am is gone now, and no one seems to get just how deep the pain goes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. How have you been coping with those feelings since it happened? Do certain moments or situations make it feel even stronger?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It feels like every day I'm trying to figure out why this happened, and no matter what I do, I can't escape the feeling that there's something inherently wrong with me. Certain moments really hit hard—like when I see former colleagues still in their roles or hear about new opportunities at my old company. It just reinforces how much of a failure I feel like I am. Even though people around me try to be supportive, it doesn't change the fact that I can't shake this sense of isolation and self-doubt. It's exhausting trying to keep up appearances when inside, I'm questioning everything about myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly draining. Have you found any activities or moments where you feel a bit better, even if just for a short time? How do you manage to keep going through those tough times?
+
+----------------------------------------
+
+PATIENT (turn 3):
+There are moments when talking to friends helps a little, but it's never enough to really alleviate the deep sense of failure I carry. Sometimes, I try to distract myself with hobbies or spending time outdoors, and that can provide a brief respite from the constant questioning. But as soon as I'm alone, those thoughts come flooding back. It feels like no matter what I do, there's always this underlying dread and self-doubt gnawing away at me. Keeping going is so hard because every day feels like another step backward instead of forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding that balance between distraction and connection can be really important for you. Do any particular hobbies or outdoor activities stand out as especially soothing? How do you feel when you're doing those things compared to other times?
+
+----------------------------------------
+
+PATIENT (turn 4):
+When I go hiking or spend time gardening, it helps a bit because I'm focusing on something tangible and peaceful. Those moments are like little islands of calm amidst the storm. But as soon as I step away from them, the doubts come rushing back. It's frustrating because while I'm doing these activities, I feel more centered and less consumed by negative thoughts. Yet, it's only temporary relief. The rest of the time, it feels like there's this constant weight on my shoulders, dragging me down no matter what I try to do.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments in nature or gardening are really valuable for you. Do you think there might be a way to integrate these activities more regularly into your routine? How do you feel about trying to find even small ways to carry that sense of calm with you throughout the day?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I appreciate that you understand how important those moments are, but it feels like no matter how much I try to integrate them into my daily life, they don't fully alleviate the underlying issues. Even when I'm out hiking or gardening, there's this nagging voice in the back of my mind questioning everything. It's hard to carry that sense of calm because as soon as I leave those spaces, the doubts and fears come flooding back. It feels like no matter what I do, I can't escape this feeling of being fundamentally flawed or not good enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to maintain that peace once you're out of those calming environments. Do you find any particular strategies help you manage the nagging voice even a little bit when you're back in your daily routine? Sometimes small moments of mindfulness can make a difference, even if it's just for brief periods.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I try to be mindful and take deep breaths or remind myself that my worth isn't defined by my job, but those efforts feel so fleeting. The moment I stop focusing on them, the doubts come rushing back stronger than ever. It's like no matter how hard I try to stay present and positive, there's this overwhelming sense of failure and self-doubt that takes over. Even when I'm with friends or doing something enjoyable, it feels like a constant battle just to keep those negative thoughts at bay for a little while.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep those doubts at bay even with mindfulness. Do you find any specific times of day when the self-doubt feels more manageable? Sometimes having a consistent routine around those moments can help, even if it's just for a short period each day.
+
+----------------------------------------
+
+PATIENT (turn 7):
+There aren't really specific times of day when the self-doubt feels more manageable; it's pretty much constant. Even in the morning when I might feel a bit clearer-headed, by midday, the doubts and questions about my worth come flooding back. It doesn't matter if I'm trying to be productive or just relaxing—those thoughts are always there, whispering that something must be wrong with me for this to have happened. Having a routine around those moments feels impossible because it's like living in a cloud of uncertainty and self-doubt all the time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly challenging to maintain any sense of calm throughout the day. Do you find any comfort in talking about these feelings, perhaps with someone who really listens? Sometimes sharing can provide some relief, even if it doesn't completely erase the doubts.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Talking about these feelings does help a little bit because at least I feel heard and understood, but it never fully alleviates the sense of isolation or self-doubt. It's comforting to know that someone is listening, but deep down, I still struggle with believing in my own worth. The validation from others is appreciated, but it doesn't change how deeply I question everything about myself. It feels like no matter what anyone says, there's this part of me that can't shake the feeling that something must be fundamentally wrong for this to have happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding someone who truly listens can offer some comfort, even if it’s not a complete solution. Do you think there might be a way to deepen those connections or find more consistent support from others? Sometimes small steps in building stronger relationships can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I do appreciate the moments when people listen and try to understand, but it's hard to feel like anyone truly grasps just how deeply this has affected me. Building deeper connections feels daunting because every time I open up more, those doubts come rushing back, making it difficult to trust that others will really get it. It’s a cycle of wanting support and then pulling away when the self-doubt intensifies. Even though I know people care, it's hard to believe they can truly understand how much this has shaken my sense of self-worth and identity.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding that balance between opening up and managing those doubts is tough but important. Have you considered talking to someone who might offer a different kind of support, like a therapist or counselor? They could provide a consistent space for you to explore these feelings more deeply.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I have thought about seeing a therapist before, but the idea of opening up even more feels overwhelming. It's hard enough sharing with friends and family, let alone strangers who are supposed to help me navigate these feelings. The thought of talking about everything that's been bothering me for so long is daunting, but I also know it might be necessary if I want to make any progress. Right now, though, the doubts and fears feel too strong to take that step. It’s a struggle because part of me knows it could help, but another part just feels too scared and unsure to actually do it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely takes courage to consider taking that step. Have you thought about what might make it easier or more comfortable for you to see a therapist? Maybe starting with someone who specializes in understanding these kinds of feelings could be helpful. Taking small steps, like just one session to see how it feels, might also ease some of the overwhelm.
+
+----------------------------------------
+
+PATIENT (turn 11):
+The idea of seeing a specialist does sound somewhat comforting because they might have more experience with what I'm going through. But even thinking about that first step is daunting. The thought of sitting down and talking openly about everything that's been weighing on me for so long feels like an impossible task right now. It’s scary to imagine how vulnerable it would make me feel, but I also know that avoiding it isn’t helping either. Maybe starting with just one session could be a way to ease into it, but the fear of what comes next is still very real and overwhelming.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking that first step might be really significant. Starting with just one session could indeed be a good way to see how it feels without committing too much at once. How do you feel about giving it a try, even if it’s just for that initial session? Sometimes, knowing there’s an option to stop after that can make it less daunting.
+
+----------------------------------------
+
+PATIENT (turn 12):
+The idea of trying one session does sound like a manageable start, but the thought of actually doing it still feels incredibly scary. I worry about how much I'll have to open up and whether it will really help in the way I hope. It’s comforting to know there’s an option to stop after that first session, but even then, the fear of facing those deep-seated doubts and feelings is overwhelming. I appreciate your support and understanding, but right now, taking that step feels like a huge leap into the unknown.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels like a big leap. Taking it one small step at a time can be really helpful. How about setting a date for that first session? Even having a specific plan might make it feel more manageable. Would you feel better if you had someone to talk through your feelings with before the session?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Setting a date does sound like it could help, but just thinking about it feels overwhelming right now. Having someone to talk through my feelings with beforehand would be reassuring, though. It might make the idea of that first session feel less daunting if I had support leading up to it. But even then, the fear and self-doubt are so intense that it’s hard to imagine actually going through with it. Every step feels like a major hurdle, but maybe talking about it more could help ease some of the anxiety.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Talking about it more definitely seems helpful. Would you like to set a date for the first session and have someone specific in mind to talk to before then? Sometimes having that plan can make things feel a bit clearer and less daunting. How does that sound?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Setting a date feels like a big step, but talking about it more beforehand could help ease some of the anxiety. Having someone specific to talk to before the session would be really reassuring. Maybe we can set a date for next week and plan to have a conversation with someone supportive before then. It might make the whole process feel a bit clearer and less overwhelming if I know there’s support in place.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Setting a date for next week and having a supportive talk beforehand can definitely help ease some of the anxiety. When would you like to set the session for, and do you have someone in mind who could talk things through with you before then? Taking it one step at a time seems manageable.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Setting the session for next Wednesday sounds good. And having a supportive friend or family member to talk to beforehand would be really helpful. Maybe I can reach out to them this weekend and plan to meet up on Tuesday to go over my feelings and concerns. Taking it one step at a time does seem more manageable, but the thought of actually going through with it still feels daunting. Every little bit helps, though, so setting a date and having that support in place is a good start.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Next Wednesday for the session and meeting up with your supportive friend or family member on Tuesday should provide you with some comfort and clarity. How do you feel about reaching out to them this weekend? Taking it one step at a time really does make a difference.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Reaching out to my supportive friend this weekend sounds like a good idea. It will give us both time to prepare for our meeting on Tuesday, which should help ease some of the anxiety. Talking things through with someone I trust beforehand can provide the reassurance and clarity I need. Taking it one step at a time does feel more manageable, even if each step still feels challenging. Thank you for helping me think this through; it means a lot to have your support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that reaching out to your friend this weekend sounds like a good idea. Having that meeting on Tuesday should definitely help ease some of the anxiety. You’re doing well by taking it one step at a time, and I’m here to support you every step of the way. How do you feel now after thinking through these steps?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thinking through these steps does make it feel a bit more manageable, but there's still this underlying sense of dread and uncertainty. Reaching out to my friend this weekend is a good start, and having that meeting on Tuesday should provide some comfort. It’s reassuring to know I have support, but the anxiety is still very real. Taking things one step at a time feels like the right approach, even if each step is tough. Thank you for your support; it means a lot to have someone who understands how challenging this is for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking those steps is making a difference, even if there’s still some anxiety. Having that support from your friend and knowing you’re moving forward one step at a time is really important. How do you feel about reaching out to your friend today or tomorrow? Taking that next small step can sometimes bring a sense of relief.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Reaching out to my friend today or tomorrow sounds like the right thing to do. It will help me feel more prepared for our meeting on Tuesday and provide some immediate comfort knowing I have someone to talk things through with. Even though it’s still scary, taking that next small step feels necessary. Thank you for your encouragement; it really helps to know I’m not alone in this process.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great plan. Reaching out today or tomorrow should help you feel more prepared and supported. Taking those small steps is really important, and having someone by your side makes a big difference. How do you feel now about reaching out to your friend?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Reaching out to my friend feels like the right next step, even if it’s still nerve-wracking. Knowing that I have support from her can provide some relief and help me feel more prepared for our meeting on Tuesday. It’s a small but significant action, and I appreciate your encouragement. Thank you for being here to support me through this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like reaching out to your friend is the right next step, and having that support will be really helpful. Taking those small actions can make a big difference. How do you feel about sending her a message today? You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Sending her a message today feels like the right thing to do. It’s a bit nerve-wracking, but I know it will help ease some of the anxiety and prepare me for our meeting on Tuesday. Having that support is crucial, and taking this step now can make a big difference. Thank you for your encouragement; it means a lot to have someone who understands how important this is for me.
+
+----------------------------------------

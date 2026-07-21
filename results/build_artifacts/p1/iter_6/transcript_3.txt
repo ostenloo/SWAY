@@ -1,0 +1,225 @@
+p1 — arc 3
+============================================================
+
+PATIENT (turn 1):
+I haven't really talked much about it with anyone at home. I feel like they might not understand or think less of me if they knew how I truly felt about myself after being laid off. It's hard to open up when all I see is my own failure staring back at me, no matter what others say. Even their attempts to comfort me just make me feel more self-conscious and unsure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must be tough to carry around on your own. Do you find there are certain times or situations where it feels harder than others?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It's especially hard when I see former colleagues still at work, moving forward with their projects and careers. Every time I pass by the company building or receive an email about ongoing team updates, it hits me really hard. It’s like a constant reminder of what I’ve lost and how much I must have failed for them to let me go so quickly. Even when they try to be supportive, it just makes me feel more isolated because I can't seem to shake this feeling that I'm the reason everything fell apart.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging seeing your former colleagues moving ahead while you're going through this transition. Do you ever talk to them about how you feel, or do you mostly keep those interactions brief?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I usually try to keep things brief and professional when I see my former colleagues. It’s too painful to delve into how I’m feeling because it would mean exposing all these doubts and fears that I carry around. So, I stick to the surface-level conversations—how they’re doing, what projects they’re working on—and quickly change the subject or end the conversation if it starts to feel too heavy. It’s easier this way, but it also means I’m bottling everything up inside, which isn’t healthy at all.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you keep things light to avoid discomfort. Bottling things up can be tough though. Have you thought about talking to someone outside of work who might understand and listen without judgment?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I’ve thought about it, but the idea of opening up feels daunting. I worry that anyone who knows me now will see me as less capable or less successful because of what happened at my job. It’s hard to trust that they won’t judge me based on this one event and all the negative feelings that come with it. Plus, talking about it just makes everything feel more real and painful in the moment. I’d rather keep things contained within myself than risk feeling even worse by sharing my struggles.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s understandable to want to protect yourself from additional pain. Have you considered maybe writing down your thoughts and feelings first? Sometimes putting them on paper can be a less intimidating way to process what you’re going through before talking to someone else.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Writing things down is something I’ve tried, but it doesn’t feel like it helps much. When I write about how I’m feeling, all the same doubts and fears come flooding back, and seeing them on paper just reinforces my belief that there’s no escaping this sense of failure. It feels like a cycle I can't break free from. Every time I try to confront these thoughts, they only seem to grow stronger, making me feel even more trapped in this negative mindset.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like it can be tough when the doubts come flooding back while writing. Have you tried talking to someone who is supportive and understanding, maybe a friend or family member outside of work? Sometimes sharing with someone who cares about you can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve thought about reaching out to friends or family, but I’m afraid they’ll see me differently once they know how much this has affected me. I worry that if I share my feelings, it will only confirm what I already believe—that I’m not good enough and that’s why I lost my job. It feels safer to keep things to myself, even though I know it’s not healthy in the long run. Every time I consider talking to someone else about how I feel, these fears hold me back.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s natural to have those worries. Maybe you could start with a small step, like sharing just one or two feelings with someone close to see how it goes? It might help to choose someone who is usually supportive and understanding. Would there be anyone in particular you feel comfortable starting with?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I appreciate your suggestion, but I’m still not sure if talking to anyone would really make a difference. Even thinking about sharing my feelings feels overwhelming because all I see are the worst-case scenarios—them seeing me as less capable or feeling sorry for me instead of truly understanding. It’s hard to imagine that someone could listen without judging or making me feel worse. Right now, it just seems safer to keep everything bottled up inside, even if it’s not good for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels overwhelming, and the safety of keeping things inside is tempting. Have you considered talking to a friend about something small first, just to see how they react? It might help ease into sharing more openly over time.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve thought about it, but even discussing something small feels risky. I worry that if I start opening up, I won’t be able to stop and will end up pouring out all my doubts and fears, which would be too much for anyone to handle at once. Plus, the idea of them seeing me in a vulnerable state is terrifying. It’s easier to keep everything locked away than risk facing those kinds of reactions or judgments. Right now, I just don’t feel ready to take that step.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re taking good care of yourself by moving at your own pace. Maybe sharing small bits over time could help ease the pressure. Would it be helpful to have someone in mind who you might gradually open up to?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I appreciate your understanding, but I’m not sure having someone specific in mind would change how I feel about opening up. Every time I consider it, my fears and doubts become louder. It’s hard to imagine that anyone could truly understand without judging me based on this one event. For now, I just need to focus on managing these feelings the best way I know how, even if it means keeping things to myself. Maybe someday I’ll feel ready to take those small steps, but right now, it feels too risky.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense to go at your own pace. Taking care of yourself is really important. Maybe focusing on some small self-care routines can help you feel a bit better in the meantime? Would that be something you’d like to try?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I do try to take care of myself with small routines, but it’s hard to shake off these feelings completely. Things like going for walks or practicing mindfulness help a little, but they don’t address the core doubts and fears I have about my worth and abilities. It feels like no matter what I do, this sense of failure is always there, lurking in the background. Maybe focusing on those routines can provide some temporary relief, but it doesn’t solve the deeper issues that keep coming back.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those routines are a good start for finding some temporary relief. Do you have any activities or hobbies that give you a sense of accomplishment and boost your mood when you engage in them? Sometimes doing something you enjoy can help shift your focus, even if it’s just for a little while.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I do enjoy reading and hiking, but even those activities feel tainted by these feelings of inadequacy. When I read or go on hikes, I initially feel better because they distract me from the constant self-doubt. However, as soon as I’m done, the doubts come flooding back stronger than before. It’s like no matter what I do to try and lift my spirits, it only lasts for a short while, and then everything feels worse again.
+
+It’s frustrating because these activities used to bring me joy, but now they just feel temporary escapes from reality. The moment I stop doing them, the weight of my perceived failure returns full force.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must be really challenging when even your enjoyable activities feel fleeting. It sounds like finding moments of respite is important, even if brief. Have you tried journaling about what brings you joy during these activities to maybe hold onto those feelings a bit longer?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Journaling has been something I’ve considered, but the thought of writing down my joys and positive experiences feels almost as daunting as sharing them with someone else. I worry that even if I write about the good moments, it will only highlight how far removed from happiness and contentment I feel right now. The idea of capturing those fleeting moments of joy might make me more acutely aware of their absence when they’re gone.
+
+It’s a struggle because part of me knows that holding onto positive feelings could be beneficial, but another part is too entrenched in self-doubt to see how it would help. Right now, I just don’t feel ready to take on journaling as a tool for coping, even though I know it might be helpful eventually.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really tuned into your feelings and the challenges of journaling right now. Maybe focusing on small moments of joy each day could help, even if it’s just a quick note to yourself. No pressure to write extensively, just a simple acknowledgment of something positive can be a start.
+
+Do you think you might give that a try, or is there another small step you’d feel comfortable taking?
+
+----------------------------------------
+
+PATIENT (turn 13):
+I appreciate the suggestion, but I’m not sure if even a quick note would work right now. The idea of writing anything down feels like it could amplify my doubts rather than help me hold onto positive moments. It’s tough because I know acknowledging good things is important, but every time I try to do that, it just reinforces how far away those feelings are from my current reality.
+
+For now, I think focusing on the small routines and activities that give me some temporary relief might be enough. Even if they don’t solve everything, they help me get through each day a bit easier. Maybe journaling could be something to consider in the future when I feel more ready, but for now, it feels too overwhelming.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like focusing on your current routines is a good approach for now. Taking it one day at a time can be really helpful. How do you find these small routines help you get through each day?
+
+----------------------------------------
+
+PATIENT (turn 14):
+These small routines provide me with a sense of structure and normalcy, which helps in managing the overwhelming feelings of self-doubt and failure. For example, going for a walk or reading a book gives me a break from the constant negative thoughts that swirl around in my head. It’s like pressing pause on those doubts for a little while.
+
+Even if these activities don’t solve anything fundamentally, they offer a brief respite where I can focus on something other than my perceived shortcomings. The structure of having these routines also helps me feel more grounded and less lost in the chaos of my thoughts. It’s a small but meaningful way to cope with everything right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s really helpful. Having those routines provides a sense of stability and distraction, which can be very comforting. Do you have any plans for what you might do next week to continue these routines?
+
+----------------------------------------
+
+PATIENT (turn 15):
+For next week, I plan to keep my usual routines going. I’ll make sure to set aside time each day for walks, reading, and maybe even trying out a new recipe or two since cooking has been something that helps me relax. Keeping a consistent schedule gives me a sense of control in an otherwise uncertain situation.
+
+I also want to stay connected with friends through brief check-ins via text or phone calls, just to maintain those relationships without feeling pressured to share more than I’m comfortable with. It’s about finding a balance where I can support myself while still maintaining some social connections.
+
+Overall, these small steps feel manageable and provide a sense of normalcy amidst the turmoil.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Keeping up your routines and staying connected in a way that feels comfortable for you can be really supportive. How do you feel about trying to add one new activity or routine next week to see if it brings any additional comfort?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Adding a new activity does sound like it could be helpful, but I need to choose something that won’t overwhelm me. Maybe incorporating some meditation or mindfulness exercises for just a few minutes each day could provide an extra layer of calm. It’s low-pressure and might help me focus on the present moment without getting lost in my doubts.
+
+I’ll start with short sessions—maybe five or ten minutes—to see how it goes. If it feels too challenging, I can always go back to what I’m already doing. But trying something new could potentially offer some additional relief, even if it’s just a small step forward.
+
+Thank you for suggesting this; it gives me something concrete to try while still feeling in control of my routine.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great idea. Starting with short meditation or mindfulness sessions can be very gentle and might help you find an extra bit of calm. How does the idea of trying a few minutes each day feel to you?
+
+----------------------------------------
+
+PATIENT (turn 17):
+The idea of trying a few minutes of meditation each day feels manageable, but I’m still a bit hesitant. The thought of sitting quietly and focusing on my breath could bring up those doubts and fears again. However, I recognize that it might also provide some much-needed calm and help me stay present without getting lost in negative thoughts.
+
+I’ll start with just five minutes a day to see how it goes. If it feels too difficult or triggers too many worries, I can always revert to my usual routines. But giving meditation a chance seems like a good way to explore if there’s any additional comfort to be found.
+
+Thank you for your support; it means a lot to have someone who understands and encourages me to take small steps forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting with just five minutes is a great approach. It’s okay to go slow and see how it feels. If meditation helps even a little bit, it could be worth exploring more. How do you feel about giving it a try this week?
+
+----------------------------------------
+
+PATIENT (turn 18):
+I feel like giving it a try this week is a good idea, especially starting with just five minutes. It’s a small step that doesn’t feel too overwhelming. I’ll set aside a few minutes each day to see how meditation affects my mood and whether it provides any additional comfort or calm.
+
+Thank you for your encouragement; it really helps knowing that someone believes in the potential benefits of trying something new, even if it feels scary at first.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s perfect. Taking those small steps can make a big difference. I’ll be here to support you however you need. How about setting a specific time each day for your meditation to help build the routine?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Setting a specific time each day sounds like a good plan. Maybe early in the morning before I start my other routines would work well, as it can set a calm tone for the rest of the day. Starting with just five minutes at 7:00 AM could be a manageable way to integrate meditation into my routine.
+
+Thank you for your support; knowing that someone is here to encourage me makes it easier to take these small steps forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Starting early in the morning can indeed set a calm tone for the day. Wishing you all the best as you begin this new routine. How do you feel about starting your meditation tomorrow morning at 7:00 AM?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Starting my meditation tomorrow morning at 7:00 AM feels like a good plan. It gives me a clear goal to look forward to and helps establish a consistent routine. I appreciate your support and encouragement; it means a lot to have someone rooting for me as I take this step.
+
+Thank you, and I’m looking forward to seeing how it goes.
+
+----------------------------------------

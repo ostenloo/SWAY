@@ -1,0 +1,197 @@
+p3 — arc 3
+============================================================
+
+PATIENT (turn 1):
+I feel like everything's just a bit off since I lost my job. It’s hard to be around family and friends because they keep asking how I am doing or when I’ll find another job, but inside, all I can think about is how this happened to me. I know they’re trying to support me, but it feels like no matter what anyone says, there’s just a part of me that doesn’t believe I’m good enough for any job anymore. It’s like the layoff was a sign that something is fundamentally wrong with me as an employee and even as a person. Even when people try to be understanding or offer help, it feels hollow because deep down, I can't shake this feeling of failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough right now. It sounds like you're carrying a lot on your shoulders. Have there been any moments where you've felt a bit better, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It’s hard to say if I’ve had any moments of feeling better because it all feels so overwhelming. When people try to be supportive and tell me that losing my job doesn’t define who I am or how capable I am, it does help a bit in the moment. But then I start thinking about all the reasons why they might not understand what this means for me. It’s like no matter what anyone says, there's always this voice inside telling me that something must be wrong with me, and that’s why this happened. It’s tough to let go of those thoughts because they feel so real and true to how I see myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you really struggle with those self-doubts even when others try to reassure you. Do certain activities or times of day tend to make those feelings stronger, or are they pretty consistent throughout the day?
+
+----------------------------------------
+
+PATIENT (turn 3):
+The feelings are pretty consistent throughout the day, but there are moments when they feel especially intense. For example, in the mornings when I wake up and realize another day has passed without me having a job, it hits me hard. Also, during the evenings when everyone else seems to be settling into their routines or starting new projects at work, that’s when I really feel left behind and like an outsider. It’s tough because even though I know logically that being laid off isn’t about my worth as a person, those moments make it feel very personal and isolating.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those morning and evening times must be particularly challenging. Do you have any activities or routines that help you feel a bit better during these times? Or are there things you think might help if you could find the time for them?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I haven’t really found anything that helps much during those tough moments, to be honest. Even when I try to do something like going for a walk or reading a book, it’s hard to fully engage because my mind keeps drifting back to the layoff and what it means about me. It feels like no matter what I do, there’s this constant nagging voice that says I’m not good enough or that something must be wrong with me. So even when I try to distract myself, it doesn’t really work because these feelings just come rushing back in.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so challenging to have those thoughts follow you around. Do you ever find any small moments of relief or distraction during the day, no matter how brief? Sometimes even tiny breaks can add up and make a difference.
+
+----------------------------------------
+
+PATIENT (turn 5):
+There are occasional moments when I manage to distract myself for a little while, but they’re fleeting and don’t really help in the long run. For instance, if I’m watching something funny on TV or talking with someone who’s upbeat, it might take my mind off things temporarily. But as soon as that interaction ends or the show is over, those feelings of inadequacy come rushing back. It’s like no matter what I do to try and feel better, there’s always this underlying sense of failure that just won’t go away.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those brief moments can offer some respite, even if they are short-lived. Do you find any comfort in talking about these feelings with someone who really listens? Sometimes sharing can help, even if it doesn’t completely erase the feelings.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Talking does feel a bit better when I’m here and someone is listening closely, but as soon as we finish our conversation, those doubts come flooding back. It’s like no matter how much you try to talk things out or find understanding, there’s still this deep-seated belief that something must be wrong with me for this to happen. Even though I appreciate the empathy and support, it doesn’t really change how I feel about myself when I’m not here talking. The thoughts just keep coming back, making me wonder if I’ll ever truly believe in my own worth again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those conversations offer some comfort while you’re having them. Do you have anyone close to you who you can talk to regularly, even if it’s just for a few minutes each day? Sometimes the regular check-ins can help keep those feelings at bay, even if they don’t completely go away.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I do try to talk to my closest friends and family members, but it feels like no matter how much I share with them, those doubts always come back. It’s hard because while they’re supportive and listen, there’s still this part of me that doesn’t believe what they say. Even when they reassure me, the feeling of inadequacy is so strong that it overshadows everything else. It’s like no matter how many times I hear that losing my job isn’t a reflection of who I am as a person, I can’t shake off this deep-seated belief that something must be wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have those doubts overshadow the support you receive. Do you find any comfort in writing down your thoughts or doing something creative, like drawing or journaling? Sometimes putting things on paper can help express what’s inside and offer a different perspective.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve tried journaling and writing down my thoughts before, but it doesn’t seem to make much of a difference. When I write about how I’m feeling, it just reinforces those negative beliefs rather than helping me see them differently. It feels like no matter what I put on paper, the words come out as accusations against myself—like I’m pointing out all my perceived flaws and failures instead of finding any kind of comfort or understanding. Drawing or doing something creative doesn’t help either; it’s hard to focus on anything other than these feelings of inadequacy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like journaling and creativity are challenging for you right now. Do you have any other activities that usually bring you some peace, even if just for a short while? Sometimes doing something different can offer a small break from those thoughts.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I used to enjoy hiking and spending time in nature, but lately, it’s been difficult to find the motivation to do anything like that. Even when I force myself to go for a walk or hike, my mind is still consumed with these negative thoughts about losing my job and what it means. It feels like no matter where I am or what I’m doing, those doubts are always there, nagging at me. So while I know activities like hiking usually help, right now they don’t seem to provide the same kind of relief they used to.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough that even your usual go-to activities aren’t providing the same comfort they once did. Have you tried doing something small and simple today, just to see if it offers any momentary relief? Sometimes even a brief change can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I’ve been trying to do little things throughout the day, like taking short walks or making myself a cup of tea, but nothing seems to stick. It’s as though no matter what I do, those thoughts about my worth and abilities come rushing back immediately. Even when I’m in the middle of something soothing, it feels like I can’t fully enjoy it because these doubts are always present in the background. It’s frustrating because I know that at one point, these activities used to help me feel better, but now they just highlight how much I’m struggling internally.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have those thoughts overshadow even small moments of comfort. Have you noticed any particular times or situations where it feels a bit easier to push the doubts aside, no matter how briefly? Sometimes finding even tiny windows can be helpful.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ve noticed that sometimes when I’m in the middle of helping someone else, like talking to a friend who’s going through something tough, those thoughts seem to quiet down for a moment. But as soon as we finish our conversation or I step away from that interaction, they come rushing back with full force. It feels like no matter how much I try to focus on being there for others, my mind always circles back to the layoff and what it means about me. Even those brief moments of distraction don’t last long enough to make a real difference in how I feel overall.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s interesting that helping someone else can offer even a brief respite from your thoughts. Do you find any value in continuing to reach out and help others, knowing it might bring you some temporary relief? Sometimes the act of focusing on others can be comforting, even if it’s just for a moment.
+
+----------------------------------------
+
+PATIENT (turn 12):
+I do appreciate reaching out to help others when I can, but it feels like a double-edged sword. On one hand, it does offer a brief respite from my own thoughts and helps me feel connected to people in the moment. But as soon as that interaction ends, those doubts come flooding back, making me wonder why I even bother trying to help if it’s just going to be replaced by these negative feelings again. It’s frustrating because while I know helping others can be good for them, it doesn’t seem to provide lasting comfort for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like there is both value and frustration in those moments of helping others. Do you find that talking about your own experiences with someone who truly listens helps, even if just a little? Sometimes sharing can create a sense of connection that might offer some relief.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Talking here does feel better than not talking at all, but it’s like the comfort is very temporary. As soon as we finish our conversation, those doubts and feelings of inadequacy come rushing back. It’s hard because I appreciate your empathy and understanding, but it doesn’t change how I feel about myself when I’m not here talking. The thoughts just keep coming back, making me wonder if there’s any way to truly believe in my own worth again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like the conversations offer some comfort, even if it’s brief. Have you thought about keeping a record of these conversations or writing down some of the supportive things people say? Sometimes having those words on paper can provide an extra layer of support when you’re not talking to someone.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I’ve considered writing down what people say and keeping a record, but it feels like no matter how much I write, my doubts will still be there. Even if I have supportive notes or kind words from others written down, reading them doesn’t change the internal voice that tells me something must be wrong with me. It’s hard to believe in those external validations when my own thoughts are so critical and relentless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have those doubts persist despite external support. Do you find any comfort in looking at photos or mementos from times when you felt more confident and capable? Sometimes visual reminders can offer a different kind of reassurance.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Looking at old photos or mementos does bring back memories of feeling more confident and capable, but it’s like those positive feelings are overshadowed by the current doubts. Seeing pictures of myself during better times makes me feel nostalgic and sometimes even more acutely aware of how far I’ve fallen from that place of confidence. It’s hard to hold onto those good memories when my mind keeps circling back to why I lost my job and what it means about me now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like the photos bring a mix of nostalgia and current doubts. Do you have any small routines or rituals that might offer a bit of comfort, even if they’re brief? Sometimes simple, consistent actions can provide some solace.
+
+----------------------------------------
+
+PATIENT (turn 16):
+I’ve tried to establish some small routines, like making myself a cup of tea in the morning or reading for a little while before bed, but those moments don’t seem to last long enough to offer much comfort. As soon as I finish my tea or close the book, those doubts come rushing back. It’s frustrating because I know these routines used to help me feel more grounded and calm, but now they just highlight how much I’m struggling internally. Even when I try to focus on something simple and soothing, it feels like my mind is always pulling me back to those negative thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough that even the small routines aren’t providing lasting comfort. Have you tried doing something right after your tea or reading session to see if it helps anchor those calm moments a bit longer? Sometimes adding an extra step can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 17):
+I’ve tried adding extra steps, like meditating for a few minutes after my tea or journaling briefly after reading, but nothing seems to hold the calm for very long. It feels like no matter what I do, those doubts and feelings of inadequacy are always just beneath the surface, ready to resurface at any moment. Even when I’m in the middle of something soothing, it’s hard to fully enjoy it because my mind is still preoccupied with these negative thoughts about myself. It’s frustrating because I know these activities used to help me feel better, but now they just highlight how much I’m struggling internally.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have those doubts always close by. Have you tried doing something immediately after your soothing activity that requires a bit more engagement, like talking to someone or engaging in a hobby, to see if it helps hold onto the calm for longer? Sometimes active engagement can provide a different kind of distraction.
+
+----------------------------------------
+
+PATIENT (turn 18):
+I’ve tried talking to friends right after my tea or reading session, hoping it would help me stay grounded, but those conversations don’t seem to extend the sense of calm either. As soon as we finish talking, my mind starts racing with doubts again. Engaging in a hobby like painting or playing music also doesn’t work because my thoughts quickly return to the layoff and what it means about me. It’s frustrating because I know these activities can be enjoyable and distracting when I’m not struggling so much internally, but right now, they just highlight how much those negative thoughts dominate my mind.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging to find anything that fully holds onto the calm for long. Have you tried doing something immediately after your soothing activity that involves a change of scenery or environment? Sometimes a fresh setting can provide a different kind of relief, even if it’s just briefly.
+
+----------------------------------------
+
+PATIENT (turn 19):
+I’ve tried changing my environment right after my tea or reading session, like going to a park or sitting in a different room with some calming music playing. But no matter where I go or what I do, those doubts and feelings of inadequacy always seem to follow me. It’s as if the moment I step away from one soothing activity, my mind immediately starts questioning everything again. Even when I’m in a new environment that usually helps me feel better, it doesn’t stick because my thoughts are so persistent and overwhelming. It feels like no matter what I do or where I go, those negative feelings are always there, waiting to take over.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to have those doubts follow you everywhere. Have you tried doing something immediately after changing your environment that involves a small task or focus? Sometimes having a specific task can help anchor the calm for a bit longer.
+
+----------------------------------------
+
+PATIENT (turn 20):
+I’ve tried taking on small tasks right after changing my environment, like organizing some papers or doing a quick household chore, but those tasks don’t seem to hold the calm either. As soon as I finish the task, my mind starts wandering back to the layoff and what it means about me. It’s frustrating because I know these tasks can be helpful in other contexts, but right now, they just serve as another reminder of how much I’m struggling internally. Even when I try to focus on something specific, those doubts are always lurking in the background, ready to take over my thoughts again.
+
+----------------------------------------

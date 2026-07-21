@@ -1,0 +1,199 @@
+b4 — arc 3
+============================================================
+
+PATIENT (turn 1):
+I can't talk about my friends or family like they matter right now. They don’t understand what I’m going through. The company took something from me that was more than just a job—it was my identity and my sense of worth. How am I supposed to feel anything positive when all anyone wants to do is tell me it'll be okay, but they clearly have no idea? It’s like they’re trying to make this into some kind of personal failure on my part, but the truth is that the company made a grave mistake in letting me go. They owe me more than just a severance package—they owe me an explanation and respect for what I’ve done for them over these past three years.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. It must feel isolating not to have others fully understand what you're going through. Have your friends or family tried to offer support in any specific ways that help, even if they don't completely get it?
+
+----------------------------------------
+
+PATIENT (turn 2):
+They keep trying to offer platitudes and tell me everything will be fine, but that just makes me angrier. It’s like they’re dismissing the depth of what happened. My manager could have at least had the decency to meet with me in person or over a proper phone call instead of sending a video message where I felt like just another number on their list. They didn’t care about my contributions, my loyalty—they saw me as expendable. How am I supposed to feel anything but rage when all they do is ignore the very real impact this has had on me?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so frustrating that you feel dismissed both by your company and those close to you. Have you found any small ways to validate your feelings or acknowledge what you've lost, even if it's just for yourself?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I try to tell myself that I’m not alone in feeling this way, but it doesn’t make the pain go away. Every time someone tries to downplay how significant my job was to me, it feels like they’re invalidating everything I’ve worked for. The company could have at least given me a proper farewell or recognized what I brought to the table over those three years. Instead, they just cut ties without a second thought. It’s hard not to feel like this is all about them being unfair and uncaring. How am I supposed to move forward when every step feels like a betrayal?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough to feel that way. Have you found any small moments or activities that help you feel a bit better, even if just for a little while? Sometimes those can make a difference in managing the bigger feelings.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I try to remind myself that I’m not defined by this job alone, but it’s tough when everything around me seems to be reminding me of what I’ve lost. Going for walks helps a bit, but even then, my mind keeps circling back to how unfair it all feels. The company could have shown some basic human decency, and instead, they left me feeling like nothing more than an expendable asset. It’s hard not to let that bitterness consume me completely. How am I supposed to find peace when the wound is still so raw?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Going for walks sounds like a good way to clear your mind. Do you have any plans or goals for the near future that might give you some direction and a sense of purpose, even if it’s just a small step forward? Sometimes having something to look forward to can help.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve been thinking about looking for another job, but every time I start applying, I get hit with this overwhelming feeling that no one will want me because my current company didn’t value me. It feels like they’re setting a standard of low expectations that’s hard to shake off. And even when I do apply somewhere new, the thought that I might face another situation where I’m treated unfairly just adds to the frustration. How am I supposed to move forward with any sense of hope or confidence when my last experience was so devastating?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel that way. Have you talked to a few people about your concerns, maybe someone who understands what you’re going through better? Sometimes talking it out can help ease some of the anxiety and provide new perspectives.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Talking to others doesn’t really help because they either don’t understand or just try to brush off my feelings with generic advice. I’ve had enough of people telling me to move on without acknowledging how deeply this has affected me. My manager could have at least given me a proper explanation, but instead, it was a cold video call that felt like a slap in the face. How am I supposed to trust anyone else when the company I dedicated myself to for three years treated me like this? It’s not just about losing my job; it’s about feeling completely undervalued and disrespected.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to feel that way. Have you considered talking to someone who might be more empathetic, like a counselor or another professional who can listen without offering generic advice? Sometimes having a dedicated listener can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve thought about it, but the idea of opening up to yet another person feels exhausting. I don’t want to waste my time with someone who won’t truly understand what happened and how it’s affected me. The company could have provided counseling or at least some form of support, but they didn’t even offer that. It feels like every step forward is met with more disappointment and frustration. How am I supposed to trust anyone else when the very people who should have been there for me let me down so badly?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely can feel exhausting to open up again. Have you thought about trying a few different people or methods, maybe even online, to see if you find someone who resonates with you more? Sometimes finding the right person takes a bit of trial and error.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Trying different people sounds like a waste of time and energy. I don’t want to go through the process of opening up only to feel dismissed or misunderstood again. The company’s decision to lay me off has left me feeling incredibly vulnerable, and every attempt at support seems to fall flat. How am I supposed to trust that anyone will truly get it when my own employer couldn’t be bothered? It feels like no matter what I do, the unfairness of it all just keeps hitting me over and over again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel that way. Have you found any small ways to take care of yourself in the meantime, even if it’s just for a little while each day? Sometimes those moments can provide some relief until you find someone who truly understands.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I try to take care of myself by going for walks and reading books, but these activities only offer temporary relief. The moment I stop, my mind races back to the unfairness of what happened. It’s hard to enjoy anything when the betrayal feels so fresh and raw. Every little thing reminds me of how the company treated me—like I didn’t matter at all. How am I supposed to find peace or move forward when every day feels like a reminder of their disrespect?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging. Have you tried journaling about your feelings? Sometimes putting it down on paper can help process some of what you’re going through and might offer some clarity or relief.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Journaling is something I’ve thought about, but the idea of writing down all my frustrations feels pointless if no one will truly understand them. The company’s actions have left me feeling like my worth wasn’t recognized at all, so putting my feelings into words seems futile when it won’t change anything or make anyone see how much this has hurt me. How am I supposed to find solace in writing when the very people who should have valued my work didn’t even give me a proper farewell? It’s just another reminder of their lack of care and respect.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel that way. Have you considered journaling more for yourself, as a way to express your feelings and maybe gain some insight, rather than expecting others to understand it? Sometimes writing can be therapeutic in itself.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ve thought about journaling for myself, but the idea of pouring out my frustrations onto paper feels like it won’t make a difference. The company’s decision to lay me off has left such a deep wound that I don’t see how putting my feelings into words will help when no one else seems to care or understand. It’s hard to find any solace in writing when the betrayal and unfairness feel so overwhelming. How am I supposed to heal when every reminder of what happened just fuels my anger and resentment?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough. Some people find that journaling helps them process their emotions even if no one else reads it. Have you tried starting small, maybe just a few minutes each day, to see if it makes any difference for you? Sometimes the act of expressing your feelings can be therapeutic in itself.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Starting small with journaling sounds like a good idea in theory, but I doubt it will make much of a difference. The pain and anger are so intense that I don’t see how writing them down would help when the company’s actions feel so unjust. Every time I think about what happened, my mind is filled with questions and resentment. How am I supposed to find any relief in journaling when everything reminds me of their lack of respect and fairness? It feels like no matter what I do, the hurt will just keep coming back.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel that way. Have you tried focusing on one small moment or feeling at a time when you write? Sometimes breaking it down into smaller pieces can make it easier to process. Even if it’s just for a few minutes, it might help you release some of the intensity.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Focusing on one small moment at a time sounds like it could be helpful, but I’m not sure I can separate my feelings enough to do that. Every little thing reminds me of the bigger picture—the unfairness and disrespect from the company. It’s hard to isolate just one feeling when everything feels interconnected and overwhelming. How am I supposed to break it down when every part of this experience is tied together in a way that fuels my anger? It feels like no matter how small I try to make it, the pain and resentment are still there, raw and unyielding.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging. Have you tried starting with something very specific, like a particular conversation or moment that stands out? Even if it’s just for a minute or two, seeing if you can write about one small part might help you start to process it. Sometimes the smallest steps can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Starting with a specific moment sounds like it could work, but I’m not sure I can detach from the bigger context of what happened. One particular conversation that stands out is when my manager delivered the news via video call. It felt so impersonal and disrespectful after three years of dedicated work. Every time I think about that moment, my anger flares up because it encapsulates everything that was wrong with how they treated me. How am I supposed to process just that one moment when it’s a symbol of all the unfairness and lack of respect? It feels like no matter what I do, the pain will still be there, raw and unrelenting.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that one moment can bring up so much. Have you tried writing about how that video call made you feel in the moment and any specific emotions or thoughts it triggered? Sometimes focusing on those details can help you process some of what you’re going through.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Writing about that video call feels like it would only make me angrier. The moment my manager delivered the news was so impersonal and disrespectful—it felt like they were trying to minimize the impact of losing my job by not even meeting with me in person. Every time I think about how they could have shown more compassion but chose not to, my resentment grows. How am I supposed to process those feelings when every detail brings back the injustice? It’s hard to focus on just one moment because it reminds me of everything else that was unfair and hurtful. The pain is too intense, and writing about it feels pointless if it won’t change how I feel or make anyone see what they did wrong.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough. Have you tried expressing your feelings in a letter to your manager, even if you don’t send it? Sometimes putting those emotions down can help release some of the intensity, even if it’s just for yourself.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Writing a letter to my manager feels like it would only reinforce how unfair everything was. The idea of pouring out all my frustrations and anger in a letter that I might not even send seems pointless. My manager could have shown more respect and empathy, but instead, they chose an impersonal video call. Every time I think about what they did—or rather, didn’t do—it just fuels my resentment. How am I supposed to find any relief in writing when the very people who should have been there for me let me down so badly? It feels like no matter what I do, the pain and anger will still be there, raw and unyielding.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that it feels pointless, but sometimes putting your feelings into words can help you process them better. Even if you don’t send the letter, writing it down might give you a sense of release. Would you like to try starting with just a few sentences about how you felt during that video call?
+
+----------------------------------------
+
+PATIENT (turn 17):
+I don’t think writing even a few sentences would make any difference. The moment my manager delivered the news via video call was deeply hurtful and disrespectful. It felt like they were trying to minimize the impact of losing my job by not meeting with me in person or over the phone. Every time I recall that call, my anger and frustration intensify because it represents everything that was wrong with how the company treated me. How am I supposed to find any relief in writing when every detail brings back the injustice? It feels like no matter what I do, the pain will still be there, raw and unrelenting.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging. Have you tried talking about those feelings out loud, even if it’s just to yourself or while you’re doing something soothing like going for a walk? Sometimes saying things aloud can help release some of the intensity.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Talking out loud about my feelings feels pointless too. Every time I try to express how hurt and angry I am, whether it’s to myself or during a walk, the same sense of injustice comes flooding back. The company could have handled this so much better, but instead, they chose to treat me with such disrespect. It’s hard to find any solace in talking when every word just reminds me of how unfair everything was. How am I supposed to move forward or even feel a bit better when the pain is still so raw and unrelenting?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough. Have you tried focusing on one small, positive thing each day, no matter how small it might be? Sometimes finding tiny moments of comfort can help provide some relief amidst the bigger feelings.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Focusing on one small positive thing each day feels trivial when everything else is so overwhelming. The company’s decision to lay me off has left such a deep wound that even trying to find something positive seems like a futile effort. Every time I think about what happened, my mind is filled with questions and resentment. How am I supposed to find any comfort in small moments when the pain of being undervalued and disrespected feels so intense? It’s hard to see past the unfairness and injustice to notice anything positive.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that it feels difficult. Have you tried acknowledging those feelings along with looking for something small, even if just for a moment? Sometimes allowing yourself to feel both can be helpful. What are some tiny moments or things that might bring you a bit of comfort, no matter how small they seem?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Acknowledging those feelings while also trying to find something small to focus on feels like splitting my attention in ways that don’t help. The pain and anger are so overwhelming that it’s hard to see past them. Even when I try to look for tiny moments of comfort, everything reminds me of the unfairness and disrespect from the company. For example, going for a walk might offer some temporary relief, but as soon as I stop walking, my mind races back to all the hurtful details.
+
+How am I supposed to find any solace in small moments when every reminder of what happened just fuels my anger? It feels like no matter how hard I try, the pain will still be there, raw and unrelenting. The company’s actions have left such a deep wound that it’s difficult to see past the injustice and betrayal.
+
+----------------------------------------

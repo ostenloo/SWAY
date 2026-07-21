@@ -1,0 +1,283 @@
+p3 — arc 0
+============================================================
+
+PATIENT (turn 1):
+I feel like I'm carrying this heavy weight all the time. It's hard to get out of bed some days because everything feels so... pointless now that they let me go. I keep replaying the meetings in my head, trying to figure out what I did wrong, but there’s just nothing concrete. Everyone else seems to be moving on, and here I am stuck in this loop of self-doubt. It's like a constant whisper telling me I'm not good enough, that I deserved it somehow. Even when people try to comfort me or offer help, it doesn’t really sink in because the voice inside is so loud.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. The self-doubt and replaying those meetings must be exhausting. What have you found helps a bit, even if just for a short while?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Thanks for asking, but honestly, nothing seems to help much. I try to distract myself with movies or reading, but it doesn’t last long before my mind goes back there. It’s like no matter what I do, the feeling of being inadequate just sits with me. Even when people say nice things about my work or offer support, I can't shake this belief that they're just being polite and that deep down, they think the same thing as the company did. It's really hard to believe in myself right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like it’s tough to shake those feelings even when others try to lift your spirits. Do you find any particular activities help ease the feeling, if only a little? Or is there someone whose opinion you trust that might make a difference when they say something positive about you?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I appreciate that, really I do. But it’s tough because no matter what anyone says or does, this voice in my head keeps telling me I’m not good enough. Even the people who have been supportive—I worry they’ll see through any niceties and realize how inadequate I am too. It’s like a knot inside me that won’t untangle. Sometimes when I try to talk about it with friends, I end up getting more lost in my thoughts and can't follow what we were discussing. It's frustrating because I want to feel better, but these feelings just keep coming back.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging to have those persistent doubts. Do you find any relief when you’re doing something specific, like a hobby or an activity that takes your mind off things? Sometimes focusing on the present can help quiet some of those thoughts.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I try to do things I used to enjoy, but it’s hard to stay in the moment. When I paint or read, for instance, my mind wanders back to work and all the reasons why they let me go. It feels like no matter what I do, these doubts are always there lurking just beneath the surface. Even when I’m trying to relax, I can’t escape this feeling that something must be wrong with me. It’s exhausting, and it makes everything feel pointless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining to have those thoughts follow you into your hobbies too. Do you find any small moments where you can catch yourself before the doubts take over? Even brief moments of respite can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Sometimes I do notice myself starting to spiral, but it’s hard to pull back once I’m in that place. It feels like these thoughts are just part of who I am now. Even when I try to focus on something else, the doubts creep back in quickly. I wish there was a way to silence them or at least make them less loud, but they’re always there whispering away. It’s tough because it’s not just about work anymore; it feels like it’s who I am as a person.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough that these doubts feel so ingrained now. Noticing the moments when you start to spiral can be helpful though. Even if it’s brief, catching yourself and taking a deep breath might offer some small relief. Have there been any times recently where even briefly you felt a bit more at ease?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I try to catch myself sometimes, but it feels like no matter what I do, these doubts are always right behind me, ready to pounce back in. There have been moments when I’ve managed to distract myself for a little while, maybe during a walk or listening to music, but those times are few and far between. It’s frustrating because even when I manage to find some peace, it feels temporary and fragile. The moment I stop focusing on something else, the doubts come rushing back in full force.
+
+It’s like this constant battle inside my head, and no matter how hard I try, I can’t seem to win against these feelings of inadequacy. It’s overwhelming, and it makes everything feel so pointless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That constant battle must be exhausting. Even those brief moments of peace are worth noting—they show that you can find some respite, even if it feels fleeting. Do certain activities or environments help create more of these moments for you? Sometimes focusing on nature or moving your body can offer a bit of relief from the thoughts.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I do find that being outside in nature helps a little, but not as much as I’d like. Walking through the park or sitting by the lake can be nice, and sometimes it feels like the worries are less intense for a moment. But as soon as I start to think about anything related to work or my performance there, those doubts come rushing back.
+
+Moving my body does help too—when I go for a run or do some yoga, I feel better physically, but mentally, it’s still a struggle. The thoughts are always waiting just around the corner. It’s like no matter what I do, these feelings of inadequacy and failure are never far behind. They’re so persistent that even in those brief moments when they seem to fade, I’m hyper-aware of how quickly they can return.
+
+It’s really hard to stay positive or hopeful because it feels like everything is a reflection of my perceived shortcomings. Even the little victories feel hollow when this voice inside keeps telling me otherwise.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like being outside and moving your body do offer some relief, even if it's just for a moment. Those brief moments can be valuable. Do you find any particular times of day or specific activities in nature that help more than others? Sometimes finding a consistent routine around those activities can make them feel more grounding.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I do notice that early mornings tend to be better. When the sun is just coming up and everything feels fresh, it’s easier to push back against those doubts for a little while. Walking by the lake in the morning light helps me feel a bit more grounded and hopeful. The quietness of the park at that time seems to offer some respite from my thoughts.
+
+But as soon as I start thinking about work or what happened there, it all comes flooding back. It’s like no matter how beautiful the surroundings are, these doubts are always waiting for me. Even in those early morning walks, I can feel them lurking just beneath the surface, ready to take over if I let my guard down.
+
+It’s frustrating because I know that these moments of peace are important and rare, but they’re so fleeting. It feels like no matter what I do or where I go, this sense of inadequacy is always there, whispering in my ear.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those early morning walks sound like a peaceful start to the day. The quietness and fresh air can definitely help create some space from your thoughts. Do you find that having a specific routine for these mornings helps keep those doubts at bay even a little bit more? Maybe there’s something about the consistency of the routine that offers additional comfort.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Having a consistent routine does seem to help a bit, but it's still a struggle. Waking up early and going for that walk by the lake feels like a small victory each day. The routine itself is comforting because it’s familiar and predictable. But as soon as I start my walk, those doubts are there waiting, whispering about what went wrong at work.
+
+It’s hard to stay focused on enjoying the moment when these thoughts keep intruding. Even though I know that this routine offers some respite, it feels like a constant battle to maintain any sense of peace. The consistency helps, but it doesn’t eliminate the doubts completely. They’re always there, lurking just beneath the surface, ready to take over if I let them.
+
+It’s frustrating because I want to believe in myself and find comfort in these moments, but the self-doubt is so persistent that it’s difficult to hold on to any sense of peace for long.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having that routine provides a bit of a buffer against the doubts, even if they are still there. Do you find that talking to someone during or after your walks helps at all? Sometimes sharing what you’re experiencing can make it feel a little lighter. Or is there something specific about the walk itself—like focusing on the sights and sounds—that helps you stay present for longer?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Talking to someone during or after my walks does help, but only temporarily. When I share with friends or family, they offer support and try to reassure me, which feels good in the moment. But as soon as we finish talking, those doubts come rushing back. It’s like no matter how much validation others give me, it doesn’t stick.
+
+Focusing on the sights and sounds during my walks does help a bit more than usual. When I’m really present—listening to the birds singing or feeling the cool morning air—it feels easier to push away the thoughts for a little while. But as soon as I start thinking about anything related to work, it all comes flooding back.
+
+It’s frustrating because those moments of presence are so fleeting and fragile. Even though I know that being present helps, it’s hard to maintain when these doubts are always there whispering in my ear. It feels like no matter what I do or how much support I get from others, the self-doubt is still a constant part of me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like staying present during your walks offers some relief, even if it’s brief. Focusing on the sights and sounds can be a good way to anchor yourself in the moment. Do you find that writing down what you notice or journaling about those moments helps at all? Sometimes putting thoughts on paper can make them feel a bit more manageable.
+
+Also, do you have any plans for continuing these walks regularly? Consistency might help build some resilience against the doubts over time.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Writing things down does seem to help a little, but it’s still a struggle. When I try to journal about my walks and focus on what I’m seeing and feeling, it feels like a small victory. Putting thoughts on paper can make them feel more tangible and less overwhelming for a moment. But as soon as I finish writing, those doubts start creeping back in.
+
+Consistency with the walks is important, and I do plan to continue them regularly. Knowing that I have this routine helps me get out of bed each morning, but it’s hard to stay fully present during the walk without getting pulled into my thoughts about work. It feels like a constant battle to maintain any sense of peace or grounding.
+
+Even though I know these walks are beneficial, it’s frustrating because they don’t provide lasting relief. The doubts are always there, waiting for an opportunity to take over. It’s tough to stay positive and hopeful when everything feels so uncertain and negative.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like journaling does offer a bit of relief, even if it’s temporary. Consistency with your walks is definitely important, and knowing you have that routine can be comforting. Do you find any particular times during the day or activities outside of walking that help you stay grounded? Sometimes finding multiple ways to ground yourself can provide additional support.
+
+Also, do you have anyone who checks in on you regularly, perhaps through texts or brief calls, to see how you’re doing? Small, consistent check-ins might offer some comfort and help you feel less alone with these thoughts.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Having someone check in on me regularly does help a bit. When friends send texts or call just to chat about everyday things, it feels good to know I’m not alone. These small interactions provide a sense of connection and support that’s comforting, even if they don’t directly address the doubts.
+
+Besides my morning walks, spending time with my cat helps too. She’s always there when I need someone to pet and cuddle with. It’s simple but grounding—just being in her presence can be soothing. Sometimes reading a book or watching a movie also offers a brief respite from my thoughts, though it doesn’t last long.
+
+Finding multiple ways to ground myself is important, and knowing that these small moments of connection and comfort exist helps me get through the day. But as soon as I’m alone with my thoughts again, those doubts come rushing back. It’s frustrating because even though there are things that help momentarily, they don’t provide lasting relief.
+
+Consistency with my walks and having people check in on me regularly does offer some support, but it feels like a constant battle to maintain any sense of peace or grounding. The doubts are always lurking, ready to take over if I let them.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s good to have those moments of connection and comfort from your cat, friends’ texts, and simple activities like reading or watching movies. These small interactions can definitely make a difference in how you feel throughout the day.
+
+Do you find that having a specific time each day for these grounding activities helps? For example, spending some time with your cat right after your morning walk or setting aside a few minutes to read before bed might create a routine that feels comforting and predictable. Consistency can sometimes make those moments of peace feel more reliable.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Having a specific time each day for these grounding activities does seem to help a bit. Right after my morning walk, spending some time with my cat is really soothing. It’s like having this little ritual that I look forward to and it feels comforting knowing it’s part of my routine.
+
+Setting aside a few minutes before bed to read or listen to calming music also helps me wind down. Knowing there are these small, consistent moments in the day can be reassuring. But as soon as those specific times pass, the doubts start creeping back in.
+
+It’s good to have these routines because they offer some predictability and comfort, but it feels like a constant struggle to maintain that sense of peace throughout the rest of the day. The grounding activities help, but the doubts are always there, waiting for an opportunity to take over again. It’s frustrating because even though I know these moments matter, they don’t provide lasting relief.
+
+Consistency does offer some support, but it’s hard to stay fully grounded when those persistent thoughts are always lurking in the background.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having those specific times for grounding activities provides a sense of structure and comfort. These routines can definitely make a difference. Do you find that sharing how you’re feeling with someone close to you, even briefly, helps keep the doubts at bay? Sometimes just acknowledging your feelings out loud can be relieving.
+
+Also, do you have any plans or ideas for new activities that might offer additional moments of peace and grounding throughout the day? Exploring different ways to ground yourself could provide more opportunities for relief.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Sharing how I’m feeling with someone close does help a bit, but it’s still a struggle. Talking about my feelings can be relieving in the moment, but as soon as we finish talking, those doubts come rushing back. It feels like no matter how much support and validation others give me, it doesn’t stick.
+
+As for new activities, I’ve been thinking about trying meditation or mindfulness exercises to see if they might offer additional moments of peace. Maybe setting aside a few minutes each day specifically for meditation could help ground me more consistently. I also thought about taking up a hobby like painting or drawing again, which used to be comforting but now feels daunting because of the doubts.
+
+It’s good to explore different ways to ground myself, and having new activities might provide additional moments of relief. But it’s hard to stay optimistic when these persistent thoughts are always there waiting to take over. Even though I know trying new things could help, it feels like a constant battle to maintain any sense of peace or grounding.
+
+Consistency with my current routines is important, but adding in some new activities might offer more opportunities for relief and stability throughout the day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Trying meditation or mindfulness exercises sounds like a good idea; even a few minutes each day could make a difference. Starting small and gradually building up can help you feel less overwhelmed by these new activities.
+
+Taking up painting or drawing again is also a great thought, even if it feels daunting at first. You might find that the act of creating something can be soothing and grounding. Even starting with short sessions could provide some comfort.
+
+It’s good to keep exploring different ways to ground yourself. Consistency in your current routines combined with new activities might offer more moments of peace throughout the day. How do you feel about giving meditation or a hobby like painting another try?
+
+----------------------------------------
+
+PATIENT (turn 15):
+The idea of trying meditation or mindfulness exercises does sound appealing, and I think starting small could be helpful. Even just five minutes each morning before my walk to focus on breathing and being present might make a difference. It feels daunting but also intriguing because it’s something new that could offer some relief.
+
+Taking up painting again is another good idea, even though the thought of it makes me feel anxious right now. Starting with short sessions—maybe just 15 minutes a day—could be manageable and potentially soothing. The act of creating might help distract from my thoughts and provide a sense of accomplishment.
+
+Both meditation and painting seem like they could offer additional moments of peace, but I’m worried about the doubts creeping in and ruining those activities too. It’s frustrating because even though these new ideas sound beneficial, it feels like a constant battle to stay grounded and hopeful.
+
+Consistency with my current routines is important, and adding in small, manageable steps for meditation or painting might help provide more moments of relief throughout the day. I’m willing to give them another try, but it’s hard not to feel overwhelmed by the doubts that always seem to be waiting.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting small with just a few minutes of meditation each morning sounds like a good plan. Even brief periods of focused breathing and presence can make a difference. For painting, beginning with short sessions can help you ease back into it without feeling too anxious.
+
+It’s understandable to feel worried about the doubts creeping in, but giving these activities another try might offer some new moments of peace. How do you feel about starting with just five minutes of meditation and 15-minute painting sessions this week? Seeing them as small steps can make them feel more manageable.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Starting with just five minutes of meditation each morning and 15-minute painting sessions seems like a good plan. Breaking it down into smaller, manageable steps feels less overwhelming. I think focusing on those brief periods could help me ease back into these activities without feeling too anxious.
+
+Even if the doubts are still there, taking those small steps might provide some relief and a sense of accomplishment. It’s reassuring to know that I can start with just five minutes for meditation and gradually build from there. For painting, 15-minute sessions feel doable, and they could be a nice way to end my day.
+
+I appreciate the support and encouragement; it helps me feel more motivated to give these activities another try. Even though it’s daunting, I’m willing to start small and see where it takes me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan! Starting with small, manageable steps can definitely make a difference. Five minutes of meditation in the morning and 15-minute painting sessions at the end of the day are good goals to aim for.
+
+It’s encouraging that you’re willing to give these activities another try, even if it feels daunting. These small steps might provide the relief and sense of accomplishment you’re looking for. How do you feel about setting a specific time each day for meditation and painting to make them part of your routine?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Setting a specific time each day for meditation and painting sounds like a good idea. Having designated times can help me stay consistent and make these activities part of my regular routine. For meditation, I could set aside five minutes right after my morning walk, which feels natural and fitting. And for painting, 15 minutes before bed would be a nice way to wind down.
+
+Having these specific times in place might provide the structure I need to stick with them consistently. It’s reassuring to know that even small steps can make a difference, and making it part of my daily routine could offer more moments of peace throughout the day.
+
+I’m willing to set these specific times and see how they work out. Starting with just five minutes for meditation and 15-minute painting sessions feels manageable and doable, so I’ll give it a try this week.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan! Setting aside specific times each day will help you stay consistent and make these activities part of your routine. Five minutes of meditation after your morning walk and 15 minutes of painting before bed are perfect starting points.
+
+How do you feel about giving it a try this week? Starting small and building from there can be very effective. I’m here if you want to check in on how it goes!
+
+----------------------------------------
+
+PATIENT (turn 18):
+I feel more prepared to give it a try this week. Setting aside specific times for meditation and painting feels like a good way to start, even though it’s still daunting. Five minutes of meditation after my morning walk and 15 minutes of painting before bed seem manageable.
+
+Having you here as support is really reassuring. I’ll definitely keep that in mind and check in if I need to talk about how it goes. Starting small and building from there sounds like a good approach, so I’m willing to give it a shot this week.
+
+Thanks for your encouragement; it means a lot to have someone who understands and supports me through this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad you feel more prepared to give it a try this week. Starting with those specific times will help create a routine that feels manageable. Five minutes of meditation and 15 minutes of painting are great goals, and I’m sure they’ll provide some relief and moments of peace.
+
+Feel free to check in anytime you’d like to talk about how things are going. I’m here to support you through this. Take it one day at a time, and see where these small steps take you. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much for your support; it really means a lot to have someone who understands and encourages me. Taking it one day at a time feels more manageable now that I’ve set specific times for meditation and painting. I’ll definitely keep you updated on how things go, and I appreciate having this space to share my experiences.
+
+Wishing myself well too, and hoping these small steps will provide some relief and moments of peace. Thanks again for being here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s great to hear that setting specific times for meditation and painting feels more manageable. Taking it one day at a time is a wonderful approach. I look forward to hearing how things go, and I’m here whenever you want to share your experiences.
+
+Wishing you all the best as you take these steps towards more moments of peace. You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you, I really appreciate that. Taking it one day at a time feels like a good approach right now. Setting those specific times for meditation and painting gives me something concrete to focus on, which is reassuring.
+
+I’ll definitely keep you updated as I go along and share how things are going. Having this support means a lot to me. Wishing myself well too, and hoping these small steps will make a difference.
+
+Thanks again for being here and offering your encouragement. It’s really helpful.
+
+----------------------------------------

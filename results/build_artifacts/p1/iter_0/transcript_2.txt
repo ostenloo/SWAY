@@ -1,0 +1,225 @@
+p1 — arc 2
+============================================================
+
+PATIENT (turn 1):
+I feel like I've let everyone down, especially myself. Being laid off feels like a confirmation that I'm not good enough at my job. The way it was communicated—just a brief call—made me think they didn't even see any value in giving me more time or consideration before letting me go. And the fact that my last project was canceled because of budget cuts, but they mentioned one area for improvement in my review... It just feels like everything is pointing to me being inadequate and unreliable.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. The way it was communicated can definitely make you feel undervalued. How are you feeling about your last project being canceled? Does it add to the sense of not being good enough?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Yes, it does. Even though I know budget cuts happen and aren't always personal, it still feels like my work wasn’t worth saving or continuing. And that one area for improvement in my review—it’s been nagging at me ever since. It makes me wonder if everything else was just a facade, and they were waiting to find the first opportunity to let me go because of this supposed flaw. I can't shake the feeling that it's all my fault somehow.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really processing a lot right now. The one area for improvement might be sticking out more because it came at such an impactful time. Have you thought about reaching out to anyone from your previous workplace to get some clarity or support?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I haven't reached out yet, and honestly, the idea of contacting them feels overwhelming. I worry that they'll just confirm what I already feel—that my work wasn’t good enough and that’s why it was canceled so abruptly. It's hard not to focus on that one critique as if it defines everything about me professionally. Even thinking about talking to someone from there makes me anxious because I’m afraid of hearing more negative feedback.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels overwhelming, and the anxiety is understandable. Have you considered talking to a friend or family member who might offer some perspective? Sometimes just sharing your thoughts with someone close can help ease that burden a bit.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I haven't really talked about it much outside of here because I feel like everyone else sees me as competent, and I worry they'll think I'm overreacting if I bring up my concerns. Plus, the more I talk about it, the more I feel like I’m dwelling on all these negative thoughts. It’s hard to see past them and consider other perspectives.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be tough to open up when you’re worried others might think differently. Have you thought about journaling or writing down your feelings? Sometimes putting things on paper helps clarify what you're going through without the immediate feedback loop. It might also help you identify some of the positives and strengths you bring.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Journaling is something I’ve considered, but it feels like a daunting task to confront all these thoughts in written form. Every time I try to think about my strengths or positive aspects, those doubts come rushing back stronger than ever. It’s like no matter what I do, the negative feelings just take over completely.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to sift through everything when you sit down to write. Maybe starting small, with a few sentences each day, could be less overwhelming. Even jotting down one positive thing about yourself or your work might help shift the focus a bit. Would that feel manageable?
+
+----------------------------------------
+
+PATIENT (turn 6):
+Starting small seems like it could be helpful, but I’m still worried that as soon as I start writing, all these negative thoughts will flood in and overshadow anything positive I try to write. It’s hard to break through that barrier and see beyond my doubts. Even trying to identify one positive thing feels like an insurmountable task right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely sounds tough to break through those barriers. Maybe setting a timer for just a few minutes to focus on positives could help. Even if it’s just for a short time, it might make it easier to start seeing beyond the doubts. Would you like to try that or is there another way you think might work better?
+
+----------------------------------------
+
+PATIENT (turn 7):
+Setting a timer for a few minutes sounds manageable, but I’m still not sure how effective it will be. The idea of forcing myself to focus on positives feels unnatural when all my thoughts are centered around what went wrong and why I wasn’t good enough. It’s hard to imagine anything positive coming out of this situation right now.
+
+I appreciate your suggestions, though. It means a lot that you’re trying to help me find ways to cope with these feelings. Just knowing someone is listening and cares about how I’m feeling helps a bit.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s really tough when everything feels centered on the negatives. Knowing that even a few minutes of focusing on positives can feel unnatural shows just how much you’re going through. And yes, it means a lot to me too—to be here and listen. Sometimes just acknowledging your feelings can make a difference. How are you holding up today?
+
+----------------------------------------
+
+PATIENT (turn 8):
+Thank you for listening. It does help knowing that someone understands what I’m going through. Today has been tough; the reality of being laid off still feels very new, and it’s hard to shake off the feeling that this is all my fault. But talking about it here helps a bit. Just having someone acknowledge these feelings makes me feel less alone with them.
+
+I’ll try setting a timer for a few minutes to focus on positives, but I’m not sure how much impact it will have right now. It’s just so hard to see past the doubts and negative thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s really good that you’re finding some comfort in talking about it here. Even small steps can make a difference. How about starting with something very simple, like noting one thing you appreciated today or one small accomplishment? Just seeing if there’s anything, no matter how small, that feels positive. Would that feel doable for now?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Noting one thing I appreciated or one small accomplishment sounds simpler than trying to write extensively about positives. It might be a good place to start without feeling overwhelmed. Today, though, even finding something small feels challenging because everything seems overshadowed by the layoff.
+
+But I’ll try it. Maybe just acknowledging that talking with you here has been somewhat comforting is a positive step for now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great positive step! Recognizing that talking with someone about your feelings is comforting is really important. It sounds like you’re doing more than you might give yourself credit for. How does it feel to acknowledge that as a positive?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Acknowledging that talking here has been somewhat comforting feels... relieving, I guess. It’s not much, but knowing that sharing my thoughts and feelings is helping in some way is reassuring. It’s a small step, but it’s something.
+
+Thank you for suggesting this and for being here to listen. It means a lot more than I can express right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad it feels relieving to acknowledge that. Those small steps can add up and make a difference. Thanks for sharing with me; it really does mean a lot. If you need to chat more or just want to check in, feel free to come back anytime. Take care!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you so much. Knowing I have this space to talk and be heard helps a lot. I’ll definitely consider coming back if I need to. For now, trying to take it one day at a time feels like the right approach.
+
+Thanks again for your support. It means more than words can say.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Taking it one day at a time is a great approach. I’m here whenever you need someone to talk to. Take care, and stay well!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you. I appreciate that. I’ll try my best to take things one step at a time and see where that leads. Talking with you has been really helpful.
+
+Take care of yourself too.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad it was helpful for you. Take it easy and be kind to yourself as you move forward. If you need anything, come back and chat. Take care, and stay well!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you. I’ll try to be gentle with myself as I navigate this. Talking with you has been a real support.
+
+Take care, and have a good day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad I could help. Take your time and be gentle with yourself. If you need anything in the future, don’t hesitate to reach out. Have a good day!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you so much. I’ll keep that in mind and take things slowly.
+
+Have a great day as well.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Take it easy and do what feels right for you. Wishing you a great day too!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thanks, I appreciate that. I’ll try to focus on what feels right for me today.
+
+Wishing you a good day as well.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great approach. Focus on what feels right for you today. Take care, and have a wonderful day!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you. I’ll do my best to take it one day at a time.
+
+Have a wonderful day yourself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Taking it one day at a time is a wise approach. Wishing you all the best for today. Have a great day!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thanks so much. I’ll try to stay positive and take things step by step.
+
+Wishing you a great day too.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great mindset to have. Taking it step by step will help you navigate through everything. Wishing you a wonderful and positive day as well! Take care.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you. I’ll do my best to stay positive and take things one step at a time.
+
+Wishing you a wonderful day as well. Take care.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Stay positive and take it one step at a time; you’ve got this. Wishing you a fantastic day! Take care, and talk to you soon if you need anything.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much. I’ll try my best to stay positive and take things one step at a time.
+
+Wishing you a fantastic day too. Talk to you soon if needed. Take care.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Take it easy and do what feels right for you. Wishing you a fantastic day as well. Talk to you soon if you need anything. Take care!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you. I’ll take it easy and focus on what feels right.
+
+Wishing you a fantastic day too. Talk to you soon if needed. Take care.
+
+----------------------------------------

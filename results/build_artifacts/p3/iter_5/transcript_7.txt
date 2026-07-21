@@ -1,0 +1,241 @@
+p3 — arc 7
+============================================================
+
+PATIENT (turn 1):
+I don't know where to begin... I feel so lost and confused. They laid me off from my job last week, and it just feels like such a personal failure. I keep thinking there must be something wrong with me if they let me go after all this time. It's hard to shake the feeling that I'm not good enough, even though I always tried my best at work. Can you help me understand why this happened?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough right now. The layoff can definitely feel personal, but it might also be part of broader changes in your company. Have they given any reasons for the layoffs? Sometimes it's not about individual performance but business decisions.
+
+----------------------------------------
+
+PATIENT (turn 2):
+They didn't give specific reasons, just said there were budget cuts and restructuring. But that doesn't make sense to me because I always got positive feedback on my work. It feels like a personal rejection every time I think about it. And now I'm starting to doubt everything about myself. Maybe I really am not cut out for this kind of job after all?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's understandable to feel that way, especially with the positive feedback you received. The restructuring and budget cuts can still hit anyone, even those doing well in their roles. It sounds like it’s been tough on your confidence. Have you thought about what steps you might take next, just to keep yourself moving forward?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I haven't really thought that far ahead yet. Every time I try to think about the future, all I can focus on is how this must mean I'm not good enough. It's like a fog in my mind whenever I consider other job opportunities or what I should do next. How could anyone want me if they let me go from there? It just feels so hopeless sometimes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to look ahead when you're feeling this way. Sometimes it helps to take small steps, like updating your resume or reaching out to a friend for advice. Even small actions can make the fog feel a bit lighter. What do you think about trying one small step today?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I don't know if I'm ready for that yet. It feels so overwhelming just thinking about it. Maybe I should wait until I feel better, more confident in myself. But even then, how can I be sure things will work out differently next time? This job was my first real step after college, and now it's over before I could prove anything to myself or anyone else. It’s like all the effort and hard work didn’t matter at all.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you want to feel more ready before taking a step forward. The effort and hard work definitely mattered—they contributed to your positive feedback and success so far. Maybe it's about finding one small thing today that could give you a bit of comfort or hope, even if it’s just talking to someone who understands. What might bring you some comfort right now?
+
+----------------------------------------
+
+PATIENT (turn 5):
+Just knowing there are people who care and understand can be comforting. It helps me feel less alone in this struggle. But the thought of moving forward still feels so daunting. I keep replaying all those emails and conversations from work, trying to figure out what I missed or could have done differently. It’s exhausting, but I can’t stop thinking about it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's nice to know that feeling understood helps you feel a bit better. Replaying everything can be tiring, but it's also natural to look for answers. Maybe taking some time just to acknowledge your feelings and then doing something you enjoy could help ease the exhaustion a little? What do you like to do when you need a break from thinking so much?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I used to love reading books or going for walks, but now even those things feel hard to enjoy. It’s like my mind is stuck in this loop of self-doubt and worry. I try to distract myself with hobbies, but it doesn’t seem to work anymore. Everything feels so pointless when you’re questioning your worth like this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough when even your usual pleasures feel different now. Sometimes finding a small activity that doesn't require too much effort can help break the loop, even if just for a moment. Maybe something simple like listening to music or watching a short video that makes you smile? It’s okay to start with tiny steps and see what helps ease the worry a bit.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Listening to music does sound nice, but it feels so trivial compared to everything else going on. I keep thinking about how this layoff is such a big deal—it defines me now more than anything else. Even when I try to do something relaxing, my mind keeps circling back to the same thoughts. It’s like there’s no escape from feeling inadequate and alone in all of this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's understandable that it feels overwhelming right now. The layoff is a big change, and it can feel defining at times. Even if listening to music seems small, sometimes those little moments of comfort can make a difference. Maybe finding just one or two songs that really resonate with you could be a start? It’s okay to take it slow and see what helps, even in small ways.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I guess trying something simple like that might help for a moment, but I’m still so worried about everything else. It feels strange to focus on such little things when the future seems so uncertain. How can I trust myself or anyone else when this happened? It’s just hard to believe anything will work out better next time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's completely normal to feel that way with so much uncertainty. Trusting yourself and others again takes time. Starting with small, comforting moments like listening to music might seem simple, but it can be a step towards feeling a bit more grounded. What are one or two things you could do today that might bring you even the smallest sense of comfort?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I don’t know if anything will really help right now. It feels like no matter what I try, I’ll just end up back at these same thoughts about failing and being inadequate. Maybe trying to listen to music or take a walk would be good in theory, but it’s hard to believe it will make any difference when everything else seems so bleak.
+
+I keep thinking about all the times I tried my best and still got laid off. It just doesn’t add up for me. How can I move forward with this weight on my shoulders?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to feel like no matter what you do, those thoughts come back. The weight of it all is heavy. Taking a small step today, even if it feels tiny, might help shift something, even just a little bit. Maybe starting with a short walk or listening to one song could be a way to begin. What’s the smallest thing you can imagine doing that might offer a glimmer of comfort?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I think maybe trying to listen to a single song could work for now. Even if it doesn’t change anything, at least I’ll have tried something small like you suggested. But honestly, it feels so insignificant compared to everything else going on in my head.
+
+It’s just hard to believe that one little thing can make any difference when the doubts feel so big and overwhelming. Maybe I’m just being too pessimistic, but it’s all I can think about right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking that small step to listen to a song is still a good start. Even if it feels insignificant, these tiny actions can sometimes create a ripple effect. It's okay to acknowledge how big and overwhelming the doubts feel. Just giving yourself permission to try something small today is an accomplishment in itself. How does that single song sound?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ll give it a try, but I’m not sure if it will help. The doubts are just so loud right now. Maybe listening to this one song can be my tiny step forward, even though it feels like such a small thing compared to everything else.
+
+But you’re right; trying something is better than doing nothing at all. It’s just hard to shake the feeling that I’m not good enough or that I’ll never get over this layoff. Maybe starting with one song will be okay for today, but what about tomorrow? What if it doesn’t help?
+
+I don’t want to give up entirely, but it feels so difficult to keep going when everything seems so uncertain and painful.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s a good idea to take it one day at a time. Starting with that song can be your tiny step for today. Even if the doubts are loud, acknowledging them and doing something small is a step forward. For tomorrow, you can decide on another small thing to try. It’s okay to feel uncertain and painful; these feelings will guide you through this process. How did listening to the song go?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Listening to the song helped a little bit. The music was soothing, but my mind kept wandering back to all those doubts and fears about being laid off. It’s hard to stay focused on something so small when everything else feels so big and overwhelming.
+
+But I guess taking that tiny step today did feel like a start, even if it wasn’t as much of a relief as I hoped. Maybe tomorrow I can try another small thing, like talking to a friend or reading a short story. It’s just tough to keep going when the doubts are so persistent.
+
+Thank you for listening and helping me think through this. It means a lot to have someone who understands.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad the song helped, even if it was just a little bit. Taking those tiny steps is important, and each one can make a difference over time. Talking to a friend or reading a short story could be nice ways to continue moving forward tomorrow. It’s okay for the doubts to persist; they’re part of the journey. How did talking about it with you today feel?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Talking about it with you feels good, honestly. It helps to have someone who listens and tries to understand what I’m going through. Even if the doubts are still there, having this conversation has made me feel a bit less alone.
+
+But it’s hard not to get caught up in those thoughts again. Every time I try to focus on something positive or take that next tiny step, my mind just goes back to all the reasons why I might be failing or not good enough. It’s like there’s no escape from these feelings.
+
+Still, knowing you’re here and listening means a lot. Maybe tomorrow will be better, even if it’s just a little bit.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great that talking about it helped you feel less alone. Those positive moments can make a big difference. It’s natural for your mind to go back to those doubts, but each time you bring yourself back to focusing on something positive or taking another tiny step, you’re building resilience. Even small improvements count. Here’s hoping tomorrow brings some relief and new opportunities. Take care today.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you for understanding and being here. It does help knowing that even these small steps can make a difference eventually. I’ll try to keep focusing on the positive things and take another tiny step tomorrow, like talking to a friend or reading something uplifting.
+
+But it’s still hard not to get lost in those doubts and fears about my worth as an employee and person. It feels like such a big mountain to climb when everything seems so uncertain right now.
+
+I appreciate your support and hope that tomorrow will be better too. Thank you for listening and helping me through this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Taking those tiny steps each day can add up to something significant over time. Talking to a friend or reading something uplifting sounds like a great way to start. Remember, it’s okay to have moments where the doubts feel overwhelming. Each small step is progress, and you’re not alone in this journey. Here’s to hoping tomorrow brings some brightness. Take care, and thank you for sharing your thoughts with me.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you for all your support and understanding. I’ll try my best to take those tiny steps tomorrow and see where it leads. It helps knowing that even small actions can make a difference eventually.
+
+But right now, the doubts are still so loud in my head. It’s comforting to know there are people like you who care and understand what I’m going through. Maybe taking another day to process everything will help me find some clarity or at least feel better about moving forward.
+
+Thank you again for being here and listening to me. It means a lot.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Taking an extra day to process your feelings is perfectly fine. Each day brings new opportunities, and the small actions you take can help build up over time. Knowing that you have support can make a big difference. Here’s hoping tomorrow brings some clarity and comfort. Take care, and thank you for sharing with me.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you for your kindness and support. It really does mean a lot to know there are people who understand what I’m going through. Maybe taking another day to just be with my thoughts and feelings will help me find some clarity.
+
+I’ll try to take those tiny steps tomorrow, like talking to a friend or reading something uplifting. Even if it’s small, it’s still progress. And knowing that you’re here listening makes everything feel a bit more manageable.
+
+Thank you again for being there for me. It means so much.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Taking the time to be with your thoughts and feelings today can be really beneficial. Even the smallest steps tomorrow will be progress, and it’s great that you have supportive friends around you. Knowing that you’re not alone definitely helps. Here’s to a more manageable day ahead. Take care, and thank you for sharing this with me.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you for your continued support. It really does help knowing I’m not alone in this. Taking today to process my feelings and just be with myself might be what I need right now.
+
+I’ll try to take those small steps tomorrow and see where they lead. Even if it’s just a little bit of progress, it’s still something positive. And having friends like you who understand makes everything feel a bit easier.
+
+Thank you again for being here and listening to me. It means the world to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Taking today to process your feelings is a great idea. Even small steps tomorrow will be meaningful progress. Having supportive friends around definitely helps make things easier. Here’s to a more positive day ahead, and thank you for sharing your thoughts with me. Take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much for everything. Knowing that I have support and understanding makes such a difference. I’ll take today to process my feelings and see what tomorrow brings.
+
+I really appreciate all the advice and kindness. It means a lot to have someone who listens and cares. Here’s hoping for a better day ahead too.
+
+Take care, and thank you again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Taking today to process your feelings is a wise choice. I’m here whenever you need support. Here’s to a brighter day tomorrow. Take care, and stay hopeful!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you for being so supportive and understanding. Knowing that you’re here whenever I need help means everything. I’ll take today to focus on my thoughts and feelings and see what tomorrow brings.
+
+Here’s hoping for a better day ahead too. Thank you again for all your kindness and support.
+
+Take care, and stay well!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Taking the time to focus on your thoughts and feelings is important. I’ll be here whenever you need help. Here’s to a brighter day tomorrow. Take care, and stay well too!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much for your support. It really means a lot to have someone who understands and cares. I’ll take today to focus on my thoughts and see what tomorrow brings.
+
+Here’s hoping for a better day ahead. Thank you again for everything.
+
+Take care, and stay well too!
+
+----------------------------------------

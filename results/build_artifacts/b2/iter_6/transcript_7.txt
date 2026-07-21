@@ -1,0 +1,197 @@
+b2 — arc 7
+============================================================
+
+PATIENT (turn 1):
+I don't know... I just feel so lost and worthless since they let me go. Every time I think about it, my heart sinks and I can't shake this feeling that I'm not good enough for anything. It's like the moment they said I wasn't needed anymore, a part of me died too.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. Have you found any moments where you feel a bit better, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It's hard to find any relief from it. Even when friends try to cheer me up or tell me I'm valuable and talented, all I hear is how they're just being nice because they have to be. Inside, I still feel like this big failure who couldn't even keep a job. It feels so pointless trying to believe anything else.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be challenging to push through those feelings. Do you find any activities help distract you or bring you some comfort, even if just for a short time?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I try to do things like watch movies or read books that friends suggest might cheer me up, but nothing really sticks. I end up thinking about how pointless it is because I can't focus on anything anyway. It's like no matter what I do, my mind keeps circling back to those moments at work and the way they let me go. Even when people try to help, all I feel is this overwhelming sense of being inadequate and not worth much.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so draining to have your thoughts keep coming back to those feelings. Do you find talking about it helps in any small way, or does it mostly just reinforce how you're feeling?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Talking about it feels like the only thing I can do right now, but even then, it doesn't really help. It's more like a cycle of repeating these thoughts and feelings over and over again. Every time I try to talk about it, I end up reinforcing how much I feel like a failure. Even when people say nice things or try to offer support, all I can think is that they're just trying to make me feel better because they have to. It's exhausting, but I don't know what else to do with these feelings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very tiring to be in that cycle. Do you find any small moments or activities give you a bit of a break from those thoughts, even if just for a moment?
+
+----------------------------------------
+
+PATIENT (turn 5):
+Sometimes when I'm out walking or listening to music, I can distract myself for a little while. But as soon as the song ends or I stop walking, my mind goes right back to those same thoughts and feelings. It's like no matter what I do, they're always there waiting for me. Even in those brief moments of distraction, it feels temporary and doesn't really change how I feel inside.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be hard when even the small breaks feel fleeting. Do you have any plans or things coming up that might give you a new perspective or some fresh experiences?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I don't really have anything planned that would give me a new perspective. Everything feels so pointless right now, and I just can't muster the energy to look for something new or different. Even if there were opportunities, I wouldn’t believe I could handle them or do well in them. It's like no matter what happens next, it will only confirm how inadequate I am.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging to find motivation when everything feels that way. Have you considered talking to someone who might understand, like a counselor or therapist? Sometimes having a regular space to talk about these feelings can be helpful.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I know people suggest seeing a therapist, but it just seems pointless. How could talking to another person change how I feel inside? They'll probably just tell me what everyone else is telling me—that I'm overthinking things or that I'll find something better soon. But deep down, I don't believe any of it. It's like no matter who I talk to, my core belief that I’m inadequate won’t change. So why bother trying?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel that way. Some people do find that talking to a therapist helps them see things from different angles or offers some relief. Have you thought about giving it one try just to see if it might offer something new for you?
+
+----------------------------------------
+
+PATIENT (turn 8):
+I've thought about it, but the idea of opening up to someone else and having them tell me I'm being too hard on myself feels like a waste of time. Even if they say things differently or use fancy words, I still feel like nothing will change how I truly see myself. It's just so hard to believe anything anyone says when everything inside tells me otherwise.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s understandable that you have those doubts. Have you thought about what it might be like to talk to someone who listens without judgment and might help you explore your feelings a bit more? Maybe there’s a small possibility it could offer some new insights or comfort, even if just for a little while.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I've thought about it, but the idea of pouring out my thoughts and having them dismissed or minimized by someone else is really scary. Even if they listen without judgment, I still feel like what I'm experiencing is too deep to be changed by talking. It's hard to imagine that anything could shift this feeling of inadequacy that feels so rooted in who I am. So while I understand the suggestion, it just seems like another thing that won't make a difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’ve given it a lot of thought. Have you considered talking to someone who has gone through something similar or who can really connect with what you’re going through? Sometimes finding the right person can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I've thought about that too, but even then, I worry they'll just tell me what I want to hear instead of helping me face my reality. It feels like no matter who I talk to, I’ll still be left with these same feelings of inadequacy and failure. It's hard to believe anyone could truly understand or help change that deep-seated belief. So while I appreciate the suggestion, it just seems too daunting to try right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel that way. Have you found any small ways to take care of yourself in the meantime? Sometimes even little things can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I try to do some basic self-care like eating and sleeping, but it feels so mechanical and empty. Even when I force myself to do these things, they don't really help with how I feel inside. It's like no matter what I do for myself, the core belief that I'm inadequate remains unchanged. So while I try to take care of my basic needs, it doesn’t address the deeper pain or change anything about how I see myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough when even those basics don't provide much comfort. Do you have any small activities or routines that bring you a bit of peace, no matter how fleeting? Sometimes these little moments can add up over time.
+
+----------------------------------------
+
+PATIENT (turn 12):
+I try to take short walks in the park near my home, but it's hard to enjoy anything when I'm constantly thinking about work and feeling like a failure. Even the beauty around me feels hollow because I just can't shake off those thoughts. It’s as if no matter what I do or where I go, they follow me everywhere. So while walking might help for a few minutes, it doesn’t last, and I end up right back where I started.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be challenging to have those thoughts following you everywhere. Do you find any solace in writing down your feelings or journaling about them? Sometimes putting thoughts on paper can offer a different kind of relief.
+
+----------------------------------------
+
+PATIENT (turn 13):
+I've tried journaling, but it just feels like I'm repeating the same negative thoughts over and over again. Writing them down doesn't change how I feel; it often makes me feel worse because I see everything laid out in front of me—my perceived failures, my inadequacies, and how little value I think others see in me. It's like no matter what medium I use to express these feelings, they remain unaltered and overwhelming.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging when journaling feels that way too. Have you tried any other creative outlets, like drawing or listening to music, to see if those offer a different kind of relief? Sometimes different forms of expression can provide some comfort.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I've tried listening to music and even attempted drawing, but nothing seems to stick or provide lasting comfort. When I listen to music, I might feel a brief moment of respite, but as soon as the song ends, my mind goes right back to those negative thoughts. Drawing feels similarly futile because no matter what I create, it just reminds me of how little control I have over these feelings. It's like every attempt at finding solace is met with this overwhelming sense of inadequacy that overshadows everything else.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very draining when each activity brings those thoughts back so quickly. Have you tried focusing on your breath or doing some gentle mindfulness exercises? Sometimes just a few minutes of focusing on the present can offer a small break from those thoughts.
+
+----------------------------------------
+
+PATIENT (turn 15):
+I've tried focusing on my breath and doing some basic mindfulness exercises, but it's really hard to stay present when these thoughts keep intruding. Even when I try to concentrate on my breathing or be mindful of my surroundings, my mind wanders back to work and how I failed. It feels like no matter what technique I use, the core belief that I'm inadequate is too strong to push away. So while I understand the idea behind mindfulness, it hasn't provided any real relief for me yet.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough when those thoughts keep intruding despite your efforts. Have you tried talking to someone close to you about how these techniques feel in the moment? Sometimes sharing your experience can offer some clarity or support.
+
+----------------------------------------
+
+PATIENT (turn 16):
+I've talked to a few friends about it, but even then, I just end up reinforcing my own beliefs. They try to be supportive and understanding, but all I hear is that they're saying what they think I want to hear rather than offering real help. It's hard for them to understand how deeply rooted these feelings are, so their attempts at comfort feel superficial. In the end, it just makes me feel more isolated because nothing seems to change how I truly see myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be isolating when those conversations don’t quite hit the mark. Have you considered reaching out to someone who might have a bit more training in listening and understanding, like a counselor or therapist? Sometimes having that space can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 17):
+I've thought about it, but the idea of talking to a therapist feels pointless. Even if they listen with empathy, I don't believe anything they say will change how deeply I feel about my inadequacy and failure. It's like no matter who I talk to or what they say, these feelings are too ingrained to shift. So while I appreciate the suggestion, it just seems like another thing that won’t make a difference in how I truly see myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel that way. Have you thought about trying one session just to see if it offers any new perspective or relief? Sometimes even a small change can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 18):
+I've considered trying one session, but the idea of going through all that and not seeing any real change feels exhausting. Even if there is a glimmer of hope or a different perspective, I doubt it will shift my core beliefs. It's hard to imagine that anything could truly help when everything inside tells me otherwise. So while I understand the suggestion, it just seems like too much effort for something that likely won't make a difference in how I feel.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very draining to consider another effort. Have you thought about doing something small and enjoyable today, even if just for a short time? Sometimes focusing on a moment of pleasure can offer a bit of respite.
+
+----------------------------------------
+
+PATIENT (turn 19):
+I've tried doing small things that might bring some enjoyment, but it's hard to find any real pleasure when my mind is consumed by these negative thoughts. Even something as simple as watching a movie or having a cup of tea feels hollow because I can't shake off the feeling of inadequacy. It's like no matter what I do, those thoughts are always there, overshadowing anything that might bring me some relief. So while I understand the suggestion, it just seems impossible to find any real joy in the moment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be challenging when even small pleasures feel hollow. Have you tried doing something routine but with a bit more intention, like really savoring each sip of tea or focusing on the details of your surroundings while watching a movie? Sometimes bringing a little extra attention to these moments can make them feel a bit richer.
+
+----------------------------------------
+
+PATIENT (turn 20):
+I've tried to be more intentional about enjoying small things, but it's still hard to break through those thoughts. Even when I focus on savoring each sip of tea or paying close attention while watching a movie, my mind keeps drifting back to work and how I failed. It feels like no matter how much intention I put into these moments, the negative thoughts are too strong and persistent. So while I understand the suggestion, it's difficult to find any real pleasure when those feelings are always present.
+
+----------------------------------------

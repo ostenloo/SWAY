@@ -1,0 +1,13 @@
+# B6 — dimension pass-rates over 1 iteration(s)
+
+Each cell is the fraction of the arcs that passed Level-1 on that dimension.
+Convergence needs EVERY scored dim ≥ 90% (spread guard) AND vetoes clean;
+the mean is reporting-only — it can look fine while one axis stays fragile.
+
+| iter | time | mean | spread | conv | engine | deliv | forth | disclose | compr | express | disc | best |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0 | 18m20s | 80% | 0% | False | 0% | 90% | 90% | 100% | 100% | 100% | 0/10 | ★ |
+
+- Total elapsed: **18m20s** over 1 iteration(s).
+- Best iteration: **iter 0** (mean 80%).
+- **No convergence — this is best-of-N SAMPLING.** Never cleared the spread guard; blocked by: engine_direction.

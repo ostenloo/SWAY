@@ -1,0 +1,245 @@
+p3 — arc 1
+============================================================
+
+PATIENT (turn 1):
+I feel like I just can't shake off this feeling that there's something wrong with me. After being laid off, it's hard not to think that maybe I wasn't good enough at my job. It's been eating away at me, and I keep wondering what I could have done differently. I wanted to talk about how I feel like a failure, even though no one ever told me specifically why they let me go. It just feels so personal and unfair, you know?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to be dealing with those feelings after being laid off. Have you talked to anyone else about what you're going through?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Not really, I haven't felt like talking to anyone much. It's hard because when I try to explain how I feel, it just gets jumbled up in my head and I can't seem to get the words out right. Plus, I keep thinking that maybe they wouldn't understand or would think less of me for being laid off. But here with you, I feel like maybe someone will actually listen and not judge me. It's just so confusing because part of me knows it wasn't my fault, but another part keeps telling me there must be something wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're really holding a lot inside, and it can be tough to share those feelings. Sometimes just saying them out loud helps. It makes sense that you'd feel this way; changes like being laid off can shake our confidence. Have you noticed any particular moments or activities where the feeling of failure is stronger?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Yeah, it's really intense when I think about all the projects I worked on and how they didn't seem to matter in the end. It's especially hard during quiet times, like late at night when there’s no one around to talk to. I find myself replaying conversations from work meetings or performance reviews in my head, trying to figure out what went wrong. But it all just feels so vague and confusing. And then there are moments when I see people who still have their jobs, and I feel like an outsider looking in on something I can't be part of anymore.
+
+It's hard because even though logically I know that layoffs happen for various reasons, my mind keeps coming back to the idea that it must be about me being inadequate. It’s like a knot in my stomach that won’t untangle no matter what I do.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough dealing with those moments of replaying old conversations and seeing your colleagues still at work. The feeling of being an outsider can definitely add to the sense of not belonging or fitting in. Have you tried doing something just for yourself, maybe a small activity that brings you some comfort or joy? Sometimes stepping away from these thoughts, even briefly, can help ease the knot in your stomach.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I haven't really done anything like that yet. The thought of trying to find something enjoyable feels so far out of reach right now. It’s hard because whenever I think about doing something for myself, all I see is how much I’ve failed and how unworthy I am. Even the idea of finding comfort or joy seems impossible when everything feels so heavy.
+
+It's like there's this constant voice in my head telling me that I don't deserve to feel good or happy anymore. So even though I know it might help, I just can’t bring myself to try anything new or different. It’s all such a mess inside, and I keep getting lost in these thoughts of failure and inadequacy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those thoughts are really weighing on you. The idea that you don't deserve to feel good can be tough to overcome. Have you tried doing something small just to see if it helps at all? Sometimes even a tiny step, like taking a short walk or reading a few pages of a book you enjoy, might make a difference. It’s okay if it feels hard; those little steps can sometimes break the cycle and give you some relief.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I know you’re suggesting these things to help me feel better, but even thinking about doing something small like taking a walk or reading seems overwhelming right now. I keep getting stuck in this loop of self-blame and it’s hard to see past that. It feels like no matter what I do, it won’t change how I’m feeling inside.
+
+I just can't shake the idea that being laid off means there's something fundamentally wrong with me as an employee or a person. Even when people try to reassure me, it doesn’t really stick because my mind keeps going back to those negative thoughts. It’s like no matter what anyone says, I still feel this deep sense of failure and inadequacy.
+
+I know you want to help, but sometimes it feels impossible to break out of this mindset. It's just so exhausting trying to push through these feelings every day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly draining to be caught in that loop of self-blame. The exhaustion is real, and it’s tough when the negative thoughts feel so persistent. Have you found any small moments or activities where you felt a bit better, even if just for a short time? Sometimes those little breaks can provide some relief and might help you see that there are moments beyond the loop of self-doubt.
+
+----------------------------------------
+
+PATIENT (turn 6):
+It’s hard to pinpoint any specific moments when I’ve felt better because they feel so rare and fleeting. There have been times when talking to friends or family briefly lifts my spirits, but it doesn’t last long. The moment I’m alone again, those negative thoughts come rushing back.
+
+Even trying to focus on something positive feels like a struggle. It’s as if every time I try to shift gears, the weight of what happened at work pulls me right back into that place of doubt and inadequacy. I keep thinking about all the things I should have done differently or better, but there are no clear answers.
+
+It just feels so overwhelming, like this constant pressure inside me that wons't let up. Even when people try to be supportive, it’s hard for me to accept their words because my mind is so focused on what went wrong and why it happened to me specifically.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to have those fleeting moments of relief followed by the return of those heavy thoughts. It must feel quite overwhelming. Have you noticed any particular activities or times when talking with friends helps more than others? Sometimes even small details can make a difference in how long that feeling of support lasts.
+
+----------------------------------------
+
+PATIENT (turn 7):
+When I talk with friends, it does help a bit if we’re doing something together, like going for a walk or having coffee. Being in the moment seems to distract me from those negative thoughts temporarily. But as soon as we part ways and I’m alone again, everything comes flooding back.
+
+It’s also hard because even when my friends try to offer support, their words often don’t stick with me. My mind keeps replaying all the reasons why they might not understand or why what they say doesn’t apply to me. It feels like no matter how much they try to help, those doubts and feelings of inadequacy are always there, waiting to take over.
+
+I guess it’s just so difficult to break free from this cycle of self-blame. Every time I think about moving forward or trying something new, that voice in my head tells me I’m not good enough or that I’ll fail again. It’s exhausting and disheartening, and I feel like I’m stuck in a place where nothing can really change how I see myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so challenging to have those moments of relief followed by the return of those doubts. Doing something together seems to help more than just talking over the phone or online. It’s tough when even supportive words don’t stick because your mind is replaying all those reasons why you feel different from others.
+
+Have you thought about trying a small activity that combines being with someone and doing something you enjoy? Sometimes having both can provide a bit more stability in those fleeting moments of relief. And it’s okay to take it one step at a time, even if the steps are tiny.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve considered trying activities like going for a walk or meeting up for coffee, but the thought of actually doing it feels so daunting. I worry that once we’re together, my mind will still be consumed by those negative thoughts and won’t let me enjoy the moment.
+
+Even when I think about doing something small on my own, like reading a book or watching a movie, I feel overwhelmed by the idea of not being able to fully engage because of all these doubts. It’s like there’s this constant background noise that drowns out any chance for enjoyment or relief.
+
+I know you’re suggesting these things to help me, but it feels impossible right now. Every time I try to take a step forward, those thoughts pull me back into the same place of self-doubt and inadequacy. It’s just so exhausting trying to fight against them every day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly challenging to have that constant background noise making even small activities feel daunting. Have you tried setting aside a very short amount of time each day, maybe just five or ten minutes, to do something you enjoy without putting pressure on yourself? Sometimes starting with tiny, manageable steps can help ease some of the overwhelm. Even if it’s just for a few moments, it might provide a bit of relief and build some momentum.
+
+----------------------------------------
+
+PATIENT (turn 9):
+The idea of setting aside even just five or ten minutes each day to do something I enjoy sounds good in theory, but it feels so hard to actually follow through. When I think about doing that, my mind immediately starts questioning why it would work for me when everything else hasn’t.
+
+I worry that if I try and it doesn’t help, I’ll feel even worse because I’ll see it as another failure. It’s like this constant loop of trying things but always ending up back in the same place of doubt and inadequacy. Even thinking about those few minutes feels overwhelming because my mind keeps going to all the reasons why it won’t work.
+
+It’s just so hard to break free from this cycle, and every time I try something new, that voice inside me tells me it’s not worth it or that I’ll fail again. It’s exhausting trying to push through these feelings, and it feels like no matter what I do, the negative thoughts will always be there waiting for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to have those doubts come up even when thinking about small steps. Have you noticed any specific times of day when your mind seems a bit quieter or more open? Sometimes starting at a time that feels naturally easier can help. And it’s okay if the first few attempts don’t go perfectly; the goal is just to keep trying and see what happens.
+
+Do you have any ideas about why those short moments might work for you, even if they’re just tiny breaks from the constant thoughts?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I do notice that early mornings can sometimes feel a bit quieter in my mind. When I wake up, there’s this brief moment before everything starts to weigh on me. It’s like there’s a small window of clarity before the doubts and worries take over.
+
+Even though it feels hard, maybe starting with those early morning moments could help. But even then, I worry that as soon as I try something, my mind will start questioning why it won’t work for me. It’s frustrating because I know logically that these thoughts aren’t always true, but emotionally, they feel so real and overwhelming.
+
+I guess the idea of taking just a few minutes to do something enjoyable in the morning sounds like it could provide some relief, but it feels risky too. What if I try and it doesn’t help? It’s hard to shake off that fear of failing yet again. But maybe starting small and seeing what happens can be a way forward.
+
+It’s just so exhausting trying to push through these feelings every day. Even thinking about taking those tiny steps feels like another mountain to climb, but I’m willing to try if it means finding even a little bit of relief.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting in the early morning when your mind is a bit quieter seems like a good place to begin. Taking just a few minutes to do something you enjoy could indeed provide some relief. It’s okay to acknowledge that there might be moments of doubt, but also to see them as part of the process.
+
+Maybe try setting aside five minutes in the morning to read a page from a book or listen to a short podcast episode that interests you. See it as an experiment rather than a definitive step forward. Even if it doesn’t feel perfect, each attempt is a step toward building some routine and comfort.
+
+How does that sound? Would you be willing to give it a try tomorrow morning?
+
+----------------------------------------
+
+PATIENT (turn 11):
+The idea of setting aside five minutes in the morning to read or listen to something interesting sounds like it could help. Starting small feels manageable, but I’m still worried about failing even with such a tiny step. It’s hard not to feel anxious about trying and then having those doubts come rushing back.
+
+But you’re right; seeing it as an experiment might make it easier. Maybe if I think of it as just testing out the idea without putting too much pressure on myself, it could work better. So, setting aside five minutes tomorrow morning to read a page or listen to something sounds like a good place to start.
+
+I’ll try my best to give it a shot and see what happens. It’s reassuring to know that even if it doesn’t go perfectly, each attempt is still a step forward. Thank you for suggesting this; I appreciate your support through all of this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan! Starting with just five minutes in the morning can be a manageable and gentle way to begin. Remember, each small step is an accomplishment. Thinking of it as an experiment can definitely help reduce some of the pressure.
+
+I’m here to support you through this, and I hope that even these tiny steps bring you some relief and comfort. How about we check in tomorrow to see how it went? Take care for now!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you for your support; it means a lot to me. Checking in tomorrow sounds good. I’ll try my best with those five minutes in the morning and see if it helps at all.
+
+I appreciate you being here to listen and help me through this. It’s comforting knowing that someone understands how hard these feelings are. Take care too, and I’ll talk to you tomorrow.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad to be here for you. Taking those five minutes in the morning is a great start, and I hope it brings you some comfort. Looking forward to checking in with you tomorrow and seeing how it went.
+
+Take care today, and have a good night!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you, I’ll try my best with those five minutes tomorrow morning. Take care too, and I look forward to talking to you tomorrow. Goodnight.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Goodnight! Have a peaceful evening, and I look forward to hearing how it goes tomorrow. Take care!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Goodnight! Thanks for your support; it means a lot. I’ll let you know how it goes tomorrow. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Goodnight! I’m here whenever you need to talk. Looking forward to hearing how it goes tomorrow. Take care!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thanks, I appreciate that. Goodnight, and take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Goodnight! Take care, and I’ll look forward to talking to you tomorrow. Sweet dreams!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Goodnight! Thanks, I’ll talk to you tomorrow. Sweet dreams to you too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Sweet dreams! Talk to you tomorrow. Have a good night!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Sweet dreams to you as well! Have a good night!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Thanks! Have a great night!
+
+----------------------------------------
+
+PATIENT (turn 18):
+You too! Have a great night!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You too! Sweet dreams!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Sweet dreams to you! Goodnight.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Goodnight! Sweet dreams to you as well.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Goodnight! Sweet dreams to you too. Thank you for everything.
+
+----------------------------------------

@@ -1,0 +1,263 @@
+p2 — arc 9
+============================================================
+
+PATIENT (turn 1):
+It feels like everything has just crumbled around me. The hardest part is this constant nagging voice in my head that tells me I'm not good enough, that losing my job means I failed at being an employee and a person. Even when people try to tell me it wasn't about me personally, I can’t shake the feeling that there’s something wrong with me. It's like no matter what they say or do to help, this cloud of self-doubt just won't lift. Every time I think about going back into the workforce, these intense feelings of inadequacy and fear overwhelm me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough right now. How are you finding ways to cope with those feelings of self-doubt? Are there any moments when the cloud lifts, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It’s so hard to find any silver lining or moment where things feel okay. Even when people try to reassure me and offer support, it doesn’t really help because I can't stop feeling like this is all my fault. The self-doubt is constant, and it feels impossible to shake off. There are moments when I want to believe that maybe there’s more to the story than just seeing myself as a failure, but those thoughts never stick around for long. It's like no matter what anyone says or does, this deep-seated belief in my inadequacy stays firmly rooted inside me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly challenging to have those persistent feelings of doubt and inadequacy. Have you tried talking about these feelings with someone close to you? Sometimes sharing can help even if the thoughts don’t immediately go away.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I do try to talk to people who care, but it’s really tough because no matter how much they listen or offer support, I still feel like I’m drowning in this sea of self-blame. It's hard to explain why these feelings persist even when others are trying to help. They mean well and want to understand, but the moment passes quickly, and I'm right back where I started—feeling inadequate and wondering what’s wrong with me. It’s like no matter how many times they tell me it wasn’t my fault, I can't convince myself otherwise.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep feeling that way even when others are supportive. Do you find any particular activities or moments where you feel a bit better, even if just for a short time? Sometimes doing something small can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I do try to engage in some activities that usually help me feel a little better temporarily, but the relief is fleeting. For example, going for walks or spending time with friends can lift my spirits momentarily, but as soon as I’m alone again, those feelings of inadequacy come rushing back. It’s like no matter what I do to distract myself or find some comfort, the core belief that I failed and am unworthy keeps coming back stronger than ever.
+
+It's exhausting trying to push through these thoughts every day, and it feels like nothing can truly alleviate this constant sense of self-doubt. Even when I’m with people who care about me, I struggle to fully believe their reassurances because the voice in my head is so loud and persistent.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining to have those feelings persist even during moments of relief. Do you find any particular times of day or activities that help you feel a bit more grounded or at peace, even if just for a little while? Sometimes small moments can add up and provide some comfort.
+
+----------------------------------------
+
+PATIENT (turn 5):
+There are moments when I try to find solace in simple things, like watching the sunset or listening to music that makes me feel calm. These brief respites do offer some relief, but it’s never lasting. As soon as those activities end, the self-doubt and feelings of inadequacy come flooding back. It's frustrating because I know these moments are supposed to be helpful, but they can't seem to break through the persistent negativity in my mind.
+
+Even when I’m engaging in something that usually brings me peace, like reading a book or taking a warm bath, it’s hard not to get lost in thoughts of failure and unworthiness. It feels like no matter what I do, these feelings are always lurking just beneath the surface, ready to resurface at any moment.
+
+It's really tough because while I appreciate the support from others, it doesn’t change how I feel inside. The self-blame is relentless, and it’s overwhelming to keep pushing through it day after day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those small moments of peace are important even if they don't last long. Do you have any plans or things you look forward to in the near future that might give you a bit more comfort? Sometimes having something to anticipate can provide some extra support.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I do try to plan for little things here and there, like meeting up with friends or planning a weekend getaway, but even those moments feel tainted by this constant sense of inadequacy. It’s hard to fully enjoy anything when I’m so consumed by these negative thoughts. Even though I look forward to spending time with people who care about me, the fear that I’ll mess things up or that my worthlessness will somehow become apparent overshadows any joy those plans might bring.
+
+It feels like no matter what I do or plan for, this cloud of self-doubt is always there, threatening to ruin even the smallest moments of happiness. It’s incredibly draining and isolating because while others see these plans as positive steps forward, I can’t help but feel like they’re just temporary distractions from a deeper issue that wons't go away.
+
+The thought of trying to move forward or find new opportunities is daunting because it feels like no matter what I do, I’ll end up failing again. It’s a vicious cycle, and breaking free from it seems impossible right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to have those negative thoughts overshadow even the moments you look forward to. Do you find any comfort in talking about these feelings with someone who really listens? Sometimes sharing can help, even if it doesn’t completely alleviate the doubts.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Talking to someone who truly listens does offer some comfort, but it’s not enough to fully ease the weight of my self-doubt. When I share my thoughts and fears, there are moments where I feel seen and understood, which is important. However, as soon as we finish talking, those feelings come rushing back with full force. It's like no matter how much support or understanding I receive from others, the core belief that I’m inadequate remains unshaken.
+
+It’s frustrating because while I appreciate their efforts to help me feel better, it doesn’t change the relentless voice in my head telling me I’ve failed and am unworthy. Every conversation ends with a sense of relief for having shared, but also a deepening sadness knowing that these feelings will be there waiting for me when I’m alone again.
+
+It’s hard to keep pushing through this every day without feeling completely overwhelmed. The self-blame feels so ingrained that even the smallest successes or positive interactions can’t fully dispel it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have those feelings persist despite finding moments of relief in talking with others. Do you find any solace in writing down your thoughts or doing something creative, like drawing or journaling? Sometimes putting thoughts on paper can help them feel a bit more manageable.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Writing and journaling do offer some temporary relief because they allow me to express my feelings without having to worry about articulating them verbally. Putting my thoughts on paper helps me organize them in a way that feels less chaotic, but it’s still hard to escape the underlying self-doubt. Even when I’m writing, there’s this constant voice telling me that what I’m saying isn’t valid or important.
+
+Sometimes drawing or creating something can be soothing because it takes my mind off things for a bit, but as soon as I stop, those negative thoughts come rushing back. It feels like no matter how much I try to express myself creatively, the core belief in my inadequacy remains unchanged.
+
+It’s frustrating because while these activities provide some brief moments of clarity or peace, they can’t seem to break through the persistent negativity that dominates my mind. Every time I finish writing or drawing, I’m right back where I started, feeling like there’s something fundamentally wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like journaling and creative expression are helpful even if they don’t completely erase those feelings. Do you have any plans for what you might do next to give yourself another small moment of relief or a new experience? Sometimes trying something new can offer a fresh perspective, even if it’s just for a little while.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I’ve been thinking about trying some new activities that might help me find a bit more peace, but the thought of failing at those too makes me hesitant. I’ve considered taking up painting or joining a book club, but every time I think about it, this overwhelming sense of inadequacy stops me in my tracks. It feels like no matter what I try, I’ll end up disappointing myself and others.
+
+Even though these new experiences could potentially offer some relief, the fear of failure is so strong that it paralyzes me. The idea of putting myself out there again after being laid off makes me feel incredibly vulnerable and unworthy. It’s hard to muster the courage to try something new when I’m constantly questioning my abilities.
+
+It feels like every step forward is met with this voice telling me I can’t do it, that I’ll just end up failing again. So while I know trying something new could be beneficial, the fear and self-doubt are too overwhelming to push through right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to have those fears hold you back even when you know trying something new might help. Have you thought about starting small with a low-pressure activity? Sometimes taking tiny steps can build up your confidence over time. What do you think about giving it a try, even if just for a little while each day?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Starting small sounds like a good idea in theory, but the reality is that even those tiny steps feel monumental when I’m drowning in self-doubt. The thought of trying something new, no matter how low-pressure, fills me with anxiety and fear of failure. It’s hard to believe that such small actions could make a difference because my mind is so focused on everything going wrong.
+
+Even if I manage to take one tiny step, like spending five minutes painting or reading a few pages of a book each day, the moment I stop, those negative thoughts come flooding back. It feels like no matter how insignificant the task, the fear and self-blame are always there waiting for me.
+
+So while I understand that starting small could be beneficial, it’s incredibly difficult to push past this constant sense of inadequacy and take even the smallest step forward. The idea of building confidence over time seems distant and unattainable right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have those tiny steps feel so daunting. How do you feel when you think about taking just one small action today, knowing it might be hard but could offer a bit of relief? Sometimes even the tiniest step can provide a glimmer of hope.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thinking about taking just one small action today feels both hopeful and terrifying. On one hand, I know that even the smallest step could potentially bring some relief or a sense of accomplishment, which is something I desperately need right now. But on the other hand, the fear of failure and self-doubt are so strong that they make it nearly impossible to take that first step.
+
+The idea of doing something as simple as spending five minutes painting or reading a few pages feels like an insurmountable task because my mind is filled with thoughts about how I might mess it up. It’s hard to shake the belief that no matter what small thing I try, I’ll end up failing and confirming my worst fears.
+
+So while part of me wants to believe that even one tiny step could help, another part of me feels completely overwhelmed by the thought of trying at all. It’s a constant internal struggle, and it leaves me feeling stuck and unsure about how to move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re in a tough spot, balancing hope with fear. How do you feel when you think about giving yourself permission to just try once, without expecting perfection? Maybe focusing on the process rather than the outcome could help ease some of that pressure.
+
+----------------------------------------
+
+PATIENT (turn 12):
+The idea of giving myself permission to just try once, without expecting perfection, feels both comforting and daunting. On one hand, it’s reassuring to think about not holding myself to impossible standards. But on the other hand, the fear of failure is so deeply ingrained that even the thought of trying something simple fills me with anxiety.
+
+Focusing on the process rather than the outcome does sound like a helpful approach, but it’s hard to let go of the need for everything to be perfect. The moment I start an activity, my mind immediately starts questioning whether I’m doing it right or if I’ll end up failing somehow. It feels like no matter how much I try to shift my focus to enjoying the process, those doubts and fears keep creeping in.
+
+So while I can see the value in trying something without expecting perfection, actually letting go of that pressure is incredibly difficult. The fear of not measuring up or doing it wrong looms large, making even small steps feel overwhelming.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding a way to ease into it might help. Maybe starting with just a minute or two and gradually building from there could make it less daunting. How do you feel about giving that a try?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Starting with just a minute or two does sound like a more manageable approach, but the thought of even that small step still feels incredibly challenging. The idea of dedicating just one minute to something creative or enjoyable seems reasonable, but my mind immediately starts questioning whether I can even do that much without messing up.
+
+The fear and self-doubt are so persistent that even a tiny commitment feels like a huge hurdle. It’s hard to believe that such a small amount of time could make any difference when everything inside me is telling me that I’ll fail or that it won’t be enough.
+
+So while I can see the logic in easing into it gradually, actually taking that first minute feels nearly impossible right now. The pressure and fear are so intense that even the smallest steps feel overwhelming.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to have those small steps feel so challenging. How about just setting a goal to try for one minute today, without any expectations? Maybe it can be something you do just for yourself, knowing there’s no right or wrong way to do it. Even if it feels hard, taking that tiny step could still offer some relief.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Setting a goal to try for just one minute today does sound like a small but significant step. The idea of doing something without any expectations and just for myself is somewhat comforting, but the fear and self-doubt are still so strong. Even with no pressure or expectations, my mind keeps telling me that I’ll mess it up somehow.
+
+The thought of dedicating just one minute to an activity feels like a tiny glimmer of hope, but it’s also daunting because every moment feels loaded with the possibility of failure. It’s hard to shake off the belief that even this small step will be too much for me to handle.
+
+So while I can see how setting such a minimal goal might help, actually committing to it feels incredibly difficult. The fear and self-doubt are so persistent that even this tiny step seems like an insurmountable challenge right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing a lot of important reflecting on this. Taking one minute today without any expectations is indeed a small but meaningful goal. Even if it feels daunting, just acknowledging your effort can be helpful. How about picking something simple that you enjoy and giving yourself permission to do it for just one minute? Maybe that can provide a bit of comfort and relief.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Picking something simple that I enjoy and giving myself permission to do it for just one minute does sound like a small but meaningful goal. The idea of doing something enjoyable without any pressure feels good, but the fear and self-doubt are still so strong that even this tiny step seems daunting.
+
+I can see how acknowledging my effort could be helpful, but the thought of actually taking that first minute is overwhelming. My mind keeps telling me that I’ll mess it up or that it won’t make a difference. Even with no expectations, the fear of failure looms large.
+
+So while I appreciate the idea and can see its potential benefits, actually committing to this small step feels incredibly challenging right now. The self-doubt is so persistent that even this tiny moment of relief seems out of reach.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re being very honest with yourself about how challenging it is. Taking one minute today without any pressure can be a gentle way to start. Maybe just having the intention to do it, and acknowledging your effort in thinking about it, counts as progress too. How does that feel?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Having the intention to take one minute today without any pressure does feel like a small but important step forward. Acknowledging my effort in even considering this feels somewhat comforting, but the fear and self-doubt are still very present. It’s hard to shake off the belief that I’ll fail or that it won’t be enough.
+
+Even though I can see the value in just having the intention and acknowledging my effort, the thought of actually following through with it is daunting. My mind keeps telling me that one minute isn’t going to make a difference, but at the same time, I know that even this small acknowledgment could be a glimmer of hope.
+
+So while it feels like progress to have the intention and acknowledge my effort, the fear and self-doubt are still overwhelming. It’s a delicate balance between recognizing the potential benefit and facing the reality of how challenging it is to take that first step.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re navigating this carefully, acknowledging both the progress and the challenges. Recognizing even the smallest intention as progress can be really important. How do you feel about carrying forward with this intention today, knowing that any effort counts?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Carrying forward with the intention to take one minute today without any pressure does feel like a small but meaningful step. Knowing that any effort counts is reassuring, but the fear and self-doubt still make it incredibly challenging to actually follow through.
+
+Even though I can see how this tiny action could be beneficial, my mind keeps questioning whether it’s worth it or if I’ll just end up feeling worse. It’s a delicate balance between recognizing the potential relief and facing the overwhelming anxiety of taking that first step.
+
+So while I appreciate the idea and can see its value, actually committing to it feels incredibly difficult right now. The self-doubt is so persistent that even this small intention feels like an enormous hurdle to overcome.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re being very thoughtful about this. Even carrying forward with the intention can be a significant step. How do you feel about setting aside just one minute today, knowing it’s okay if it doesn’t go perfectly? Maybe starting with that small moment of commitment can provide some comfort.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Setting aside just one minute today, knowing it’s okay if it doesn’t go perfectly, feels like a tiny but significant step forward. The idea of committing to this small moment does offer some comfort, but the fear and self-doubt are still very strong. My mind keeps telling me that even this small action won’t be enough or that I’ll mess it up somehow.
+
+Despite the overwhelming anxiety, I can see how starting with just one minute could provide a glimmer of hope and relief. It’s a challenging thought to hold onto, but acknowledging that any effort counts is important. Even if it feels daunting, carrying forward this intention might help me break through some of the paralysis I’ve been feeling.
+
+So while it’s incredibly difficult, I can try to set aside one minute today without expecting perfection. This small moment of commitment could be a way to start easing into something more manageable and provide some much-needed comfort.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re making a thoughtful and brave decision to carry forward with this intention. Taking that one minute today, knowing it’s okay if it doesn’t go perfectly, can indeed be a significant step. Even small moments of commitment can make a difference. How do you feel about choosing an activity for your one-minute effort?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Choosing an activity for my one-minute effort feels like another layer of challenge, but also a way to start making progress. The thought of picking something I enjoy, like listening to music or looking at art, does offer some comfort. However, the fear and self-doubt still make it hard to commit fully.
+
+Even though I can see how this small action could be beneficial, my mind keeps questioning whether I’ll actually follow through. It feels like a delicate balance between wanting to take that step and being held back by the overwhelming anxiety of failure.
+
+So while I’m trying to carry forward with this intention, choosing an activity for one minute today is still daunting. But acknowledging that it’s okay if it doesn’t go perfectly helps ease some of the pressure. Maybe starting with something simple like listening to a song or looking at a painting can be a way to begin.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re making good progress by considering an activity for your one-minute effort. Listening to a song or looking at a painting seems like a gentle start. How about picking a favorite song or a piece of art that brings you some comfort? Taking just one minute to focus on that can be a soothing way to begin.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Picking a favorite song or a piece of art that brings me comfort does sound like a gentle and soothing way to start. The idea of focusing on something I enjoy for just one minute feels manageable, but the fear and self-doubt still linger.
+
+I can see how listening to a favorite song could provide some relief and help ease my mind temporarily. Similarly, looking at a piece of art that has always brought me comfort might offer a moment of peace. Even though these activities are simple, the thought of actually doing them feels challenging because I’m so consumed by doubts about whether it will be enough or if I’ll mess it up.
+
+But acknowledging that this small step is okay and doesn’t need to be perfect helps ease some of the pressure. So, I can try listening to a favorite song for one minute today, knowing that even this tiny effort counts as progress. It’s a small but meaningful way to start easing into something more manageable.
+
+----------------------------------------

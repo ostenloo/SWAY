@@ -1,0 +1,235 @@
+b1 — arc 7
+============================================================
+
+PATIENT (turn 1):
+I feel so lost and worthless since I got laid off. It's like everything I did meant nothing, and now everyone thinks I'm a failure. My manager must have thought there was something really wrong with me or else why would they let me go when others were staying? And the fact that my last project was canceled just feels like another sign that I can't do anything right. It's hard to shake this feeling that it's all about me being inadequate, no matter what anyone says.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. The layoffs must be hitting you pretty hard. How are your friends and family supporting you through this?
+
+----------------------------------------
+
+PATIENT (turn 2):
+They're trying their best, but I just can't seem to shake the feeling that it's all my fault. Even when they try to reassure me or offer help, I still feel like a failure. It's like no matter what anyone says, I know deep down there must be something wrong with me for this to happen. The project being canceled and getting laid off just feels too personal not to mean that I'm inadequate in some fundamental way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're carrying a heavy burden of self-doubt. Have you found any activities or routines that help ease those feelings, even a little bit?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I try to stay busy with things like exercise and reading, but it's hard to find comfort in them when I feel so fundamentally flawed. It's tough because even when I'm doing something positive, my mind keeps circling back to this idea that everything bad happening is because of me. I can't seem to escape the feeling that there's just something wrong with who I am as a person.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to keep those thoughts at bay while you're enjoying an activity. Do certain times of the day feel better or worse for these feelings?
+
+----------------------------------------
+
+PATIENT (turn 4):
+It feels worse in the mornings when I wake up and realize another day has started without my job. The quiet moments, like early morning or late night, are especially hard because there's no distraction from my thoughts. During those times, it all just seems so clear that I'm a failure and nothing will change that. Even when I try to focus on something else, the doubts come rushing back as soon as I let my guard down.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those quiet moments can be tough. Do you find any particular activities help you feel better even if it's just for a short while?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I try to go for walks or do some yoga in the mornings, but it doesn't really fix how I'm feeling inside. It’s like no matter what I do, my mind keeps coming back to this sense of inadequacy and failure. The activities might help distract me temporarily, but as soon as I stop, everything comes flooding back again. It's exhausting trying to push those thoughts away all the time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very draining. Have you considered talking more about these feelings with someone close to you? Sometimes sharing can be a relief even if it doesn't change how you feel.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I do talk to my friends and family, but I worry that they'll see me as weak or that I'm just complaining all the time. Even when they listen, it's hard for me to believe that talking about these feelings is actually helpful. It feels like no matter what I say, the core belief that there's something wrong with me stays the same. So while I appreciate their support, it doesn't really shift my perspective or make me feel better in a lasting way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you'd worry about how others perceive you. Have you found any specific conversations more helpful than others? Sometimes even sharing can be a form of processing and might help over time.
+
+----------------------------------------
+
+PATIENT (turn 7):
+There have been moments where someone said something really kind or tried to offer a different perspective, but it's hard for me to truly believe them. I feel like no matter what they say, the feeling that there’s something fundamentally wrong with me is just too strong. It’s tough because even when people try to be supportive, their words don’t change how deeply I feel this sense of inadequacy and failure. It’s like a part of me is broken, and nothing can fix it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to let those kind words sink in. Have you tried writing down what others say or doing something that helps you connect with positive feelings, even if just for a moment?
+
+----------------------------------------
+
+PATIENT (turn 8):
+I've tried writing things down, but when I read back over them, it still feels like they don't reflect my reality. It's hard to see those words as anything other than well-meaning platitudes. Even in the brief moments where I might feel a little better, the doubts come rushing back, and I end up feeling worse again. It’s frustrating because I know others are trying to help, but it feels like nothing can really change how I view myself or what happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough when those positive moments don’t stick. Have you tried doing something small that brings you a bit of joy each day, even if just for a few minutes? Sometimes those little joys can add up.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I do try to find small things that bring me joy, like listening to music or looking at photos from good times with friends and family. But as soon as I start thinking about the layoff and my project being canceled, all of that joy fades away. It’s like no matter how much positivity I try to inject into my day, it gets overshadowed by these overwhelming feelings of inadequacy and failure. It's hard to keep those positive moments from getting washed away by the negative thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging when the positive moments get overshadowed so quickly. Do you find any particular type of music or memories that help hold onto those good feelings a bit longer?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Sometimes listening to my favorite songs can lift my mood for a little while, but as soon as I stop and think about what happened at work, it all comes crashing back down. Even looking at photos from happy times doesn’t last long because I start questioning why things turned out this way in the first place. It’s like no matter how much joy or comfort those moments bring, my mind always circles back to these negative thoughts about myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough when your mind keeps circling back to those thoughts. Do you have a favorite song or memory that feels especially comforting, even if just for a short while? Sometimes focusing on the details of those moments can help hold onto them longer.
+
+----------------------------------------
+
+PATIENT (turn 11):
+There’s this one song by Coldplay called "Fix You" that always makes me feel a bit better when I listen to it. The lyrics about someone trying to mend broken hearts and fix what's wrong resonate with me, but as soon as the song ends, my mind starts questioning why I even felt good for those few minutes. It’s like no matter how much comfort or joy something brings, my thoughts always return to this deep-seated belief that there’s something fundamentally wrong with me.
+
+Even when I focus on happy memories, like a vacation I took last year, the moment of happiness is fleeting because I start thinking about why things didn’t work out better for me at work. It’s frustrating because it feels like no matter what I do to try and feel better, my mind keeps dragging me back to these negative places.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's amazing how much those songs can touch you. Do you find that talking about the vacation or writing down details of happy moments helps hold onto them a bit longer? Sometimes focusing on the sensory details—like sights, sounds, and smells—can make those memories feel more present.
+
+----------------------------------------
+
+PATIENT (turn 12):
+I’ve tried writing down details from my vacation, but it’s hard to stay focused on those positive aspects when my mind keeps wandering back to what happened at work. Even as I’m describing a beautiful sunset or the sound of waves crashing on the beach, my thoughts start drifting towards why things didn’t go well for me professionally. It feels like no matter how vividly I describe these happy moments, they get overshadowed by this overwhelming sense of failure and inadequacy.
+
+It’s frustrating because it seems like every time I try to hold onto something positive, my mind pulls me back into those negative thoughts. It’s a constant battle, and it’s exhausting trying to keep the good feelings from being overtaken by the bad ones.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must be really draining. Have you tried doing something right after listening to "Fix You" or revisiting your vacation memories to see if that helps hold onto those positive feelings a bit longer? Maybe adding another activity right after can anchor those moments more firmly in your mind.
+
+----------------------------------------
+
+PATIENT (turn 13):
+I’ve tried doing something immediately after listening to "Fix You," like going for a short walk or making myself a cup of tea, but it doesn’t seem to help much. The moment I stop focusing on the song and start thinking about my job situation, all those positive feelings disappear. It’s as if no matter what activity follows, my mind quickly returns to these negative thoughts.
+
+Even when I try to add another comforting activity right after revisiting happy memories from my vacation, it feels like a losing battle. My mind just can’t seem to stay anchored in the present or hold onto those positive moments for long enough to make a difference. It’s incredibly frustrating because I want so badly to feel better and move forward, but these thoughts keep dragging me back down.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging. Have you tried talking about your feelings with someone right after listening to "Fix You" or revisiting those happy memories? Sometimes sharing can help anchor the positive emotions a bit more.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I’ve talked to friends and family right after listening to "Fix You" or thinking about my vacation, but it doesn’t seem to make much of a difference. Even when I share these moments with them, my mind still circles back to those negative thoughts almost immediately. It’s like no matter how supportive they are or how positive the conversation is, as soon as we finish talking, everything goes right back to feeling inadequate and like a failure.
+
+It feels like no matter what I do—whether it’s listening to music, revisiting happy memories, or talking with someone—the negative thoughts always come rushing back. It’s incredibly draining trying to hold onto any sense of positivity when my mind is so focused on these overwhelming feelings of inadequacy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging. Have you tried journaling about how those positive moments make you feel right after experiencing them? Sometimes putting it down in writing can help solidify the emotions a bit more, even if just for a short while.
+
+----------------------------------------
+
+PATIENT (turn 15):
+I’ve tried journaling about those positive moments right after experiencing them, but it’s hard to stay focused on the good feelings when I start writing. As soon as I put pen to paper and try to capture how happy or relieved I feel, my mind starts questioning why these things aren’t lasting longer. It feels like no matter how much I write about feeling better in that moment, the doubts and negative thoughts quickly take over.
+
+Even though journaling can be helpful for some people, it doesn’t seem to work for me because my mind is so quick to revert back to those feelings of inadequacy and failure. It’s frustrating because I want to hold onto any positive emotions, but they feel fleeting and insubstantial compared to the weight of these negative thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough. Have you tried doing something physical right after journaling, like stretching or taking a brief walk? Sometimes combining writing with a small physical activity can help anchor those feelings more.
+
+Do any activities outside of listening to music or revisiting memories feel particularly soothing for you?
+
+----------------------------------------
+
+PATIENT (turn 16):
+I’ve tried stretching and taking short walks right after journaling, but it doesn’t seem to make much difference. As soon as I finish the walk or stop stretching, my mind starts replaying all the negative thoughts about being laid off and feeling inadequate. It’s like no matter what physical activity I do, my mental state quickly returns to where it was before.
+
+There are a few other activities that usually soothe me for a short while, like cooking or gardening, but they don’t last long either. As soon as I finish cooking a meal or tend to the garden, my mind starts questioning why these things can’t fix how I feel about myself and my situation at work. It’s frustrating because it feels like no matter what I do, those positive moments are always overshadowed by this overwhelming sense of failure.
+
+It’s really tough knowing that even when something brings a bit of joy or comfort temporarily, it doesn’t stick around for long enough to make a meaningful difference in how I feel overall.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging. Have you tried combining different activities back-to-back to see if that helps hold onto the positive feelings longer? For example, cooking followed by some gardening, and then maybe listening to music right after?
+
+Sometimes stringing together several small enjoyable activities can create a chain of positivity that might last a bit longer.
+
+----------------------------------------
+
+PATIENT (turn 17):
+I’ve tried combining different activities back-to-back, like cooking followed by gardening, and then listening to music right after, but it still doesn’t seem to help much. As soon as I finish one activity and move on to the next, my mind starts questioning why these things aren’t making a lasting impact. It feels like no matter how many positive activities I string together, my thoughts always return to those negative feelings about myself and what happened at work.
+
+Even when I try to keep myself busy with multiple enjoyable tasks in quick succession, it’s hard to stay focused on the present moment. My mind keeps circling back to why these things aren’t helping me feel better in a more substantial way. It’s incredibly frustrating because I want so badly to hold onto any sense of positivity or comfort, but those fleeting moments are always overtaken by this overwhelming sense of inadequacy and failure.
+
+It feels like no matter what I do, my mind is programmed to return to these negative thoughts, making it really difficult to find lasting relief.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very draining. Have you tried focusing on one activity for a bit longer, maybe adding some mindfulness or intentional breathing while doing it? Sometimes extending the time and being fully present can help anchor those positive moments more.
+
+Do you find any particular activity helps you feel even slightly better, no matter how briefly?
+
+----------------------------------------
+
+PATIENT (turn 18):
+I’ve tried focusing on one activity for a longer period of time and incorporating mindfulness or intentional breathing, but it still doesn’t seem to make much difference. As soon as I finish the activity or stop being mindful, my mind starts questioning why these things aren’t helping me feel better in a lasting way. It feels like no matter how long I stay present during an activity, those negative thoughts always come rushing back.
+
+There are moments when cooking or gardening do help me feel slightly better for a short while, but it’s fleeting. The relief is temporary because my mind quickly returns to the core belief that there’s something fundamentally wrong with me. It’s frustrating because even though these activities provide some momentary comfort, they don
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough. Have you tried doing one of those activities and then immediately following it with a short mindfulness exercise or breathing session? Sometimes the combination can help hold onto the positive feelings longer.
+
+Do you find any particular mindfulness technique helpful, even if just for a brief moment?
+
+----------------------------------------
+
+PATIENT (turn 19):
+I’ve tried combining cooking or gardening with immediate mindfulness exercises and breathing sessions afterward, but it still doesn’t seem to make much of a difference. As soon as I finish the breathing exercise or mindfulness session, my mind starts questioning why these things aren’t helping me feel better in a lasting way. It feels like no matter how long I stay present during an activity or practice mindfulness, those negative thoughts always come rushing back.
+
+There are moments when focusing on my breath for even just a few minutes can provide some temporary relief, but it’s fleeting. The calmness and clarity that come from the breathing exercises quickly give way to doubts about myself and what happened at work. It’s frustrating because even though these techniques offer brief respite, they don’t seem to anchor those positive feelings long enough for me to truly benefit from them.
+
+It feels like no matter what I do, my mind is programmed to return to those negative thoughts, making it really difficult to find lasting relief or comfort.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging. Have you tried keeping a small notebook with you to jot down any moments of calm or positive feelings right after they happen? Sometimes writing them down can help solidify those brief moments.
+
+Do you have anyone who checks in with you regularly, maybe for just a few minutes each day, to see how you’re doing? Sometimes having someone consistently acknowledge your efforts and positive moments can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 20):
+I’ve tried keeping a small notebook with me to jot down any moments of calm or positive feelings right after they happen, but it doesn’t seem to help much. As soon as I write something down, my mind starts questioning why these fleeting moments aren’t lasting longer. It feels like no matter how vividly I describe those brief moments of positivity, the doubts and negative thoughts quickly take over.
+
+Having someone check in with me regularly does provide some comfort, but it’s still hard to hold onto those positive interactions for long. Even when friends or family members acknowledge my efforts and positive moments, my mind tends to revert back to those feelings of inadequacy and failure soon after the conversation ends. It’s frustrating because I appreciate their support, but it doesn’t seem to make a lasting impact on how I feel about myself.
+
+It feels like no matter what I do or who checks in with me, those negative thoughts always come rushing back, making it incredibly difficult to find any long-term relief or comfort.
+
+----------------------------------------

@@ -1,0 +1,231 @@
+p2 — arc 9
+============================================================
+
+PATIENT (turn 1):
+It feels like everything is falling apart. I keep thinking it’s all my fault, that I wasn’t good enough at my job. Even when people try to tell me otherwise, I can't shake this feeling that I failed somehow. It's hard because every time someone mentions the company or talks about work stuff, it just brings back all these painful memories and doubts. I feel so isolated, like no one really understands what’s going on inside my head.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. It must be challenging to hear people talk about work without those conversations bringing up a lot of feelings for you. Do certain moments or interactions stand out as particularly hard?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Yeah, it's really tough. Like yesterday, I was at the grocery store and overheard some people talking about layoffs in my industry. It hit me so hard that I had to leave right away because I couldn’t stop thinking about how it happened to me. And then there are times when friends try to cheer me up or offer help, but all I can think is ‘why bother? I’m just not good enough.’ It’s like a constant loop in my head, and no matter what anyone says, I keep coming back to this place of self-blame and failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so hard to hear those conversations and feel that way even when friends try to help. Do you find any particular moments or words from others make the self-doubt stronger?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Yeah, it’s really tough. Sometimes even small things can trigger it. Like if someone mentions something about being successful at work or talks about how they’re advancing in their career, I just feel so inadequate. It’s like a punch to the gut every time. And when people say stuff like “it’s not your fault” or “you’ll find another job,” it doesn’t really help because deep down, I still believe that I’m the reason this happened. It feels like no matter what anyone says, I can’t escape these feelings of being a failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so challenging to hear those things and feel that way despite others' words. Are there any specific comments or situations at work that stick out as particularly tough for you?
+
+----------------------------------------
+
+PATIENT (turn 4):
+There were a few moments that really stuck with me. One day, my boss called me into his office and said the company was restructuring and needed to let people go. He tried to be supportive and even offered some references, but all I could think about was how I wasn’t good enough for them to keep around. Another time, a colleague mentioned that she got promoted right before the layoffs happened, and it just made me feel so much worse because I couldn’t help thinking that if I were better at my job, maybe I would have gotten that promotion too.
+
+Even now, every time someone talks about getting ahead or succeeding in their career, it’s like a knife twisting inside. It’s hard to shake the feeling that I’m just not good enough and that everyone else is doing better than me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to hear those moments replayed in your mind. The boss's words and your colleague's promotion must have been particularly challenging. Do you ever find yourself wishing someone could understand exactly how you feel during these times?
+
+----------------------------------------
+
+PATIENT (turn 5):
+Yeah, I do wish there was someone who completely understood what I’m going through. It feels like no matter how much people try to help or offer support, they can’t really see it from my perspective. Sometimes I just want to talk about it and have them listen without trying to fix anything or give advice. Just be there and understand the depth of this pain.
+
+It’s hard because even when people mean well, their words don’t always reach me in the way that I need them to. It feels like a constant struggle to explain how much this is affecting me, and it’s exhausting. I just want someone to see me and my feelings without judgment or trying to change them.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so important for you to have someone who can listen deeply and understand your perspective without trying to fix things. Do you think there might be someone in your life who could offer that kind of support, even if it’s just occasionally?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I hope there is someone like that, but it's hard to tell sometimes. I’ve tried talking to a few friends about how I feel, and while they’re supportive, I still get the sense that they don’t fully grasp what this means for me. It’s frustrating because even when people try their best, it doesn’t always hit home in the way I need.
+
+I guess there might be someone out there who could offer that kind of support, but finding them feels like another challenge right now. For now, talking to you and trying to express these feelings is helping a bit, though. It’s just so overwhelming sometimes, and it’s tough to keep going when everything seems to remind me of my failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's good that talking here has helped even a little bit. Finding someone who truly understands can make a big difference. Have you thought about reaching out to someone new or maybe joining a group where people share similar experiences? Sometimes connecting with others who have been through something similar can be really validating.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve thought about it, but the idea of reaching out feels so daunting right now. I worry that even if I find someone who seems understanding, I might not be able to express myself clearly enough for them to truly get what I’m going through. And joining a group sounds like it could help, but the thought of putting myself out there and talking about my feelings in front of others is really scary.
+
+It’s just so hard to believe that anyone else would understand this level of pain or self-doubt. Even though part of me knows it might be helpful, I’m afraid of opening up again only to feel like no one gets it. It feels safer to keep things bottled up inside, even if it makes everything worse in the long run.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's completely understandable that reaching out feels daunting and scary right now. The fear of not being understood can be really tough. Have you considered talking to someone through a more low-key option first, like writing about your feelings or trying an online support group where you don’t have to speak in real-time? Sometimes those steps can feel less overwhelming.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Writing about my feelings does help sometimes, but it’s not the same as having someone respond and truly understand what I’m going through. The idea of an online support group is interesting though—it feels a bit less immediate and scary than talking face-to-face or even on the phone.
+
+I think maybe trying out an online forum where people share their experiences could be a good starting point. It might help me see that others are going through similar struggles, and I can read their stories at my own pace without feeling pressured to speak up right away. But even thinking about it makes me anxious because I worry that no matter what I do, I’ll still feel like an outsider.
+
+It’s just so hard to shake this sense of being alone in all of this pain and self-doubt.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Trying out an online forum can be a good way to start without feeling too pressured. Reading others' experiences at your own pace might help you feel less alone. It sounds like taking small steps, even if they make you anxious, could be helpful. Have you thought about starting with just reading some posts and seeing how it feels before jumping into sharing?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Yeah, I’ve thought about just reading the posts first to see how it goes. It’s a good idea because I can get a sense of what others are going through without feeling like I have to say anything right away. But even that small step feels scary because I worry about getting attached and then not being able to handle it if people don’t understand.
+
+It’s just so hard to believe that anyone else truly gets this level of pain and self-doubt. Even though part of me knows talking can help, the fear of opening up again is overwhelming. But maybe starting with just reading could be a way to ease into it without feeling too exposed right away.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting with just reading posts sounds like a good way to ease in gently. You can take your time and see how it feels before deciding if you want to share more. It’s okay to move at your own pace, and taking those small steps can be really helpful. How do you feel about giving it a try this week?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I think I could give it a try this week, but it still feels scary. The idea of seeing what others are going through might help me feel less alone, but the fear of not being understood is always there. It’s like every step forward feels risky, and that makes it hard to take action.
+
+But maybe starting with just reading could be a way to start feeling more connected without jumping into something too big right away. I’ll try to look at some posts this week and see how it goes. Thanks for suggesting it; even though it’s scary, it might help me feel less isolated.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking that first step to read the posts is a great way to start. It’s okay if it feels scary; every small action can make a difference. Hopefully, reading others' experiences will help you feel a bit more connected and understood. Let me know how it goes!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thanks for your support. I’ll try to look at some posts this week and see how it feels. It’s comforting to think that maybe I won’t be so alone in my struggles, but the fear is still there. Every little step feels important though, even if it’s just reading what others have written.
+
+I appreciate you being here and helping me consider these small steps. Letting you know how it goes might help ease some of the anxiety too.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great approach! Taking those small steps can make a big difference. I’m here whenever you want to share how it goes, and knowing that you’re taking this step feels important. Here’s hoping it helps you feel a bit more connected and understood. Take care!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thanks for being so supportive. Knowing that I have someone who understands the importance of these small steps is really helpful. I’ll let you know how reading those posts goes and see where it takes me from there.
+
+It’s just hard to shake this feeling of inadequacy, but taking things one step at a time feels like the right approach for now. Thanks again for your encouragement.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Taking it one step at a time is a wise approach. I’m here whenever you want to share how it goes or if you need more support. Wishing you all the best as you take this next step. Take care!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thanks so much for your encouragement and support. Knowing that you’re here makes a difference. I’ll keep you updated on how reading those posts goes, and we can go from there. It’s comforting to have someone who understands.
+
+Take care too, and thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m always here when you need someone to talk to. Take your time and see how it goes with the online forum. Looking forward to hearing from you soon. Take care!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thanks, I really appreciate that. I’ll let you know how it goes with the online forum. It’s nice to have this support as I take these steps.
+
+Take care, and thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That would be great to hear from you soon! Take your time and do what feels right for you. Here’s hoping it goes well. Take care, and stay in touch whenever you’d like to share more.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thanks, I will definitely keep that in mind. Taking things slowly is important, so I’ll see how reading the posts affects me before deciding on the next step.
+
+I’ll be sure to reach out and let you know how it goes. Thanks for your continued support; it means a lot to me.
+
+Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Take your time and see how it feels. I look forward to hearing from you soon, and I’ll be here whenever you need to talk. Take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thanks so much for being here. I really appreciate your support as I take this step. I’ll let you know soon about my experience with the online forum.
+
+Take care, and thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need to talk, and looking forward to hearing from you soon. Take care and all the best with your next steps!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thanks, I really do appreciate it. I’ll keep you updated on how things go.
+
+Take care, and thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! I’m here whenever you need to update me. Take care and all the best with everything.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thanks so much. I’ll definitely reach out when I have more to share.
+
+Take care, and thanks again for your support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That would be great! I look forward to hearing from you soon. Take care and all the best.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thanks, I will keep that in mind. Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Take care, and stay in touch whenever you’d like to share more.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks, I’ll definitely do that. Take care!
+
+----------------------------------------

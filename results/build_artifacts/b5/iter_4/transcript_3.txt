@@ -1,0 +1,197 @@
+b5 — arc 3
+============================================================
+
+PATIENT (turn 1):
+It's really tough at home. Everyone means well and tries to be supportive, but it feels like no one truly understands what I'm going through. They give me advice or try to cheer me up, but nothing seems to hit the mark. It's hard not feeling valued by my employer, especially when they didn't even offer a reason for letting me go. All these questions about why and what went wrong keep swirling in my head. Even though I know logically that layoffs can happen for different reasons, it still feels like there must be something fundamentally wrong with me. It's isolating, and no matter how much people try to help, the sense of failure just lingers.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really challenging. Do you find any particular moments or interactions more difficult than others?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Yeah, it’s particularly hard when I see my former colleagues still in their roles or hear about new opportunities they’re getting. It makes me feel like there's something inherently wrong with me that I couldn't keep my job. And the lack of an explanation from my employer just adds to this feeling of being flawed and not good enough. Even though people around me try to be supportive, it’s hard for them to really grasp how deeply this has affected me. It feels like a constant reminder that something is wrong with me when I see others moving forward in their careers while mine came to such an abrupt end.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough seeing your colleagues move on and hearing about new opportunities they're getting. Do you talk to anyone specifically who helps you feel better, even if just a little?
+
+----------------------------------------
+
+PATIENT (turn 3):
+There are a few friends who check in regularly, but talking to them doesn't really make the feeling go away. I appreciate their efforts, but it’s like no matter how much they try, there's still this deep sense of not being good enough that lingers. It’s hard because I want to believe they understand, but at the same time, I feel so isolated and unsure about myself. Even when someone tries to offer comfort or a solution, it just doesn’t seem to touch on what I’m really going through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough feeling that way even with supportive friends around. Do you have any activities or places where you feel more at ease and can escape those feelings for a bit?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I try to go for walks in the park, but it doesn’t really help much. The thoughts still follow me there. I used to love reading books and watching movies, but now even those things don't distract me from feeling like something is fundamentally wrong with me. It’s as if no matter what I do or where I am, these feelings of inadequacy and betrayal by my employer just won’t go away. It’s exhausting trying to push them aside for a moment's peace.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining. Do you find any small moments in your day that offer even a bit of relief or comfort?
+
+----------------------------------------
+
+PATIENT (turn 5):
+There are brief moments when I might feel a little better, like when someone sends a kind message or offers to help with something practical, but those moments don’t last long. Mostly, it feels like these positive interactions are just temporary distractions from the bigger issues that weigh on me constantly. Even in those small moments of relief, there’s still this underlying sense of not being good enough and wondering why I couldn't keep my job when others did. It’s hard to shake off, no matter how supportive or kind people around me are.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like even the small moments can be a bit bittersweet. Do you have any plans for what you might do next, something that could give you a new focus or sense of direction?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve been looking at different job opportunities and trying to update my resume, but it feels like every time I start to make progress, these doubts come rushing back in. It’s hard to believe that any new opportunity will work out when I feel so unsure about myself. Even thinking about applying for other jobs makes me anxious because I keep wondering if something is wrong with me and if this will happen again somewhere else. It feels like no matter what I do, these feelings of inadequacy and betrayal won’t let up.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to balance the hope of new opportunities with those doubts. Do you find talking about your plans or sharing them with someone helps at all?
+
+----------------------------------------
+
+PATIENT (turn 7):
+Talking about my plans doesn't really help much either. It’s like no matter how many times I go over things, these doubts just come back stronger. Even when people try to be encouraging and supportive, it feels hollow because deep down, I still believe there must be something wrong with me for this to happen. Sharing my thoughts and concerns only reinforces the sense of isolation and self-doubt. It’s hard to feel hopeful when every step forward is met with these nagging questions about why I couldn’t keep my previous job.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to navigate those doubts even when sharing them. Do you have any plans for doing something just for yourself this week, maybe something that brings a bit of joy or relaxation?
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve thought about trying to do something just for myself, like reading a book or watching a movie I enjoy, but it feels pointless because the doubts and feelings of inadequacy always creep back in. Even when I try to focus on something positive, my mind wanders back to why this happened and what it means about me. It’s hard to find any joy or relaxation when everything seems to remind me of these negative thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to find that space for yourself. Do you have a specific book or movie in mind that usually helps distract you, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I do have a few books and movies that I usually enjoy, but lately, they don’t seem to help much. When I start reading or watching something, my mind keeps going back to the layoff and why it happened. It’s like no matter what I try to focus on, these feelings of failure and self-doubt just take over. Even the things that used to bring me comfort now feel hollow because they can’t address this deep sense of being flawed.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough when even your usual comforts don't quite reach you. Do you have any other activities or hobbies that might offer a different kind of distraction, maybe something more hands-on?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I used to enjoy painting and doing some crafts, but lately, those activities haven’t been able to distract me either. When I sit down to paint or work on a craft project, my mind still wanders back to the same questions: why did this happen to me, and what’s wrong with me? It feels like no matter what I do, these doubts are always there, overshadowing any enjoyment I might get from those activities.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like it's been tough even when engaging in things you enjoy. Do you find talking to someone about your thoughts helps, even if just for a short while?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Talking to someone does offer some temporary relief because it feels good to share my thoughts and have someone listen. But as soon as the conversation ends or I’m left alone again, those doubts come flooding back. It’s like no matter how much support or understanding I get from others, it can’t fully alleviate this deep sense of failure and isolation. The validation helps a little in the moment, but the feelings always return.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having someone to talk to does provide some comfort, even if it's brief. Do you have anyone specific who you feel especially understands or listens well?
+
+----------------------------------------
+
+PATIENT (turn 12):
+There are a couple of friends who I feel listen and try to understand, but their support doesn’t really change how I feel inside. It’s nice to know they’re there for me, but the doubts and feelings of inadequacy still persist. Even when they offer words of encouragement or validation, it feels like it’s not enough to truly alleviate this deep sense of failure. It’s hard because I want to believe that talking about it helps, but it just doesn’t seem to make a lasting difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like their support is meaningful even if it's not a complete solution. Do you have any plans for what you might do next week to take care of yourself?
+
+----------------------------------------
+
+PATIENT (turn 13):
+I’ve been thinking about trying to go for more walks in the park or maybe join an online class that interests me, but I’m not sure how much those things will actually help. The idea of doing something new sounds good, but as soon as I start planning it, these doubts come back. It feels like no matter what I do, there’s always this underlying sense that something is wrong with me and that I can’t escape these feelings of failure. Taking care of myself seems difficult when everything reminds me of the layoff and why it happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to plan anything new with those doubts in mind. Do you have a particular activity or class in mind that might feel especially appealing, even if just for a bit? Sometimes focusing on something specific can help, even if it’s just for a short while.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I’ve been thinking about trying an online art class, but the thought of signing up and putting myself out there again feels daunting. Even though I used to enjoy painting and crafting, starting something new makes me feel anxious because I keep wondering if I’ll fail at it too. It’s hard to muster the motivation when every step forward seems to be met with these doubts about my abilities and worth.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting something new can definitely feel daunting with those doubts in mind. Have you thought about taking a small step, like exploring some free tutorials or samples of the class first? Sometimes that can help ease into it without feeling too overwhelming.
+
+----------------------------------------
+
+PATIENT (turn 15):
+I’ve considered looking at some free tutorials or sample classes to see if they might be helpful, but even that feels like a big step. The idea of trying something new and then potentially failing again is really scary. It’s hard to believe that anything will work out when I feel so unsure about myself. Even the thought of exploring those tutorials makes me anxious because it triggers these feelings of inadequacy and failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like even small steps can feel daunting. Do you have a friend or family member who might be able to support you as you explore those tutorials? Sometimes having someone by your side can make it easier.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Having someone by my side would probably help, but I’m not sure if anyone could truly alleviate these feelings of doubt and inadequacy. Even with support from a friend or family member, the fear of failing again or not being good enough still feels overwhelming. It’s hard to trust that anything will make a difference when everything seems to remind me of why I was let go from my job. The thought of having someone there is nice, but it doesn’t completely ease the anxiety and self-doubt.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like even with support, those feelings are still very present. Do you have any small activities or moments that give you a bit of comfort, no matter how brief? Sometimes these little things can add up.
+
+----------------------------------------
+
+PATIENT (turn 17):
+There are a few small activities that offer some brief comfort, like listening to music or drinking my favorite tea, but they don’t last long. As soon as I start enjoying the moment, those doubts and feelings come rushing back. It’s hard because even when something brings me a little joy, it feels fleeting and doesn’t address the deeper issues. The sense of failure and isolation is always there, lurking in the background.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding even small moments of comfort can be helpful, even if they’re brief. Do you have a favorite song or type of tea that especially helps when you need a moment of peace?
+
+----------------------------------------
+
+PATIENT (turn 18):
+I do have a few songs and types of tea that usually help me feel a bit better for a short while. Listening to calming music or sipping on my favorite herbal tea can provide some temporary relief, but it’s never enough to completely ease the doubts and feelings of inadequacy. It’s nice to have those moments, but they don’t last long, and soon the thoughts come flooding back in. It’s frustrating because I know these small comforts should help more than they do.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments are still valuable even if brief. Do you find that having a regular routine around your tea or music helps make those moments feel more consistent?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Having a regular routine around my tea or listening to specific songs does help a bit, but it’s not a long-lasting solution. Making time for these small comforts is comforting in the moment, but as soon as I finish my tea or the song ends, the doubts and feelings of failure return. It’s like no matter how much I try to create a routine, those negative thoughts always find their way back. The consistency helps a little, but it doesn’t solve the underlying issues.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like the routine does offer some comfort, even if it's not a long-lasting solution. Do you have any plans for this weekend that might bring a bit of peace or distraction?
+
+----------------------------------------
+
+PATIENT (turn 20):
+I haven’t really made any concrete plans for this weekend because everything feels so uncertain and overwhelming. The idea of doing something new or different just triggers more doubts and anxiety. Even simple activities like going for a walk or trying to relax feel daunting. It’s hard to find anything that truly brings peace when these feelings are always present. But maybe I’ll try to make time for my favorite tea and some calming music, even if it’s just for a little while.
+
+----------------------------------------

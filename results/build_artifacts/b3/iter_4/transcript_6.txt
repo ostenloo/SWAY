@@ -1,0 +1,197 @@
+b3 — arc 6
+============================================================
+
+PATIENT (turn 1):
+It's really hard for me to sit with the fact that I was laid off unfairly while my peer who had a similar role and performance stayed on. It feels like everyone is against me, and it’s so frustrating because I know how much effort I put into my work. The injustice of it all just eats away at me every day. No matter what anyone says to try and make me feel better, it doesn’t change the reality that this happened and it wasn't fair.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must be really tough to deal with. It sounds like you're feeling pretty frustrated and maybe a bit resentful too. Have you talked about your feelings with anyone who understands what you’re going through?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Yeah, I’ve tried talking to friends and family, but they don’t get it. They try to offer solutions or tell me to move on, which just makes me feel more misunderstood. You're one of the few people I can talk to about this without feeling like my concerns are being dismissed. It’s so frustrating because no matter what anyone says, I know how wronged and betrayed I feel by this whole situation.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having someone who listens without offering quick fixes is really helpful for you. How do you find talking about it here? Does it help to just express those feelings?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Yeah, it does help a lot to talk about it here. When I’m with people who try to give advice or move past it too quickly, it feels like they’re not listening to me properly. Here, I can just say how I feel and know that you understand the depth of my frustration and anger. It’s important for me to express these feelings because otherwise, they build up inside and make everything worse.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like expressing your feelings here is really validating for you. Do you find that talking about it helps ease some of the buildup? What do you think might help you feel better right now?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Talking about it definitely helps me feel a bit better because I don’t feel alone in my struggle. But honestly, nothing seems to fully address how wronged and betrayed I feel by this whole situation. It’s like no matter what anyone says or does, the core issue of feeling treated unfairly remains. Right now, all I can do is keep talking about it until maybe one day it won’t hurt as much.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that talking helps you feel less alone. Keeping a space to express those feelings seems important. Have you thought about what might bring some comfort or distraction when the frustration feels overwhelming?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I appreciate your suggestion, but honestly, nothing really distracts me from this feeling of being wronged. It’s always there in the background, nagging at me. When people suggest distractions or other activities, it just feels like they’re trying to sweep my feelings under the rug. I need to acknowledge and express what happened before I can move forward, but right now, that’s all I have is this anger and frustration.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like acknowledging your feelings is really important for you. How do you think you might be able to integrate expressing those feelings with doing things that could bring some comfort or relief?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I understand what you’re saying, but it’s hard to see how I can find comfort when everything feels so unjust and unfair. When people suggest distractions or other activities, it just feels like they don’t get the depth of my pain. Right now, all I want is to be heard about how wronged I feel. Maybe someday I’ll be ready for something else, but right now, that’s what I need.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like being heard and validated in your feelings is really important right now. Sometimes just knowing that someone understands can be a comfort in itself. How do you think you might continue to find those moments where you feel truly understood?
+
+----------------------------------------
+
+PATIENT (turn 7):
+Yeah, it means a lot when I feel truly understood. It’s comforting to know there are people like you who listen without trying to fix everything right away. Right now, just having someone validate my feelings and acknowledge the injustice of what happened is really important for me. I’ll keep looking for those moments where I can express myself freely and be heard without judgment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great that you have found a space where you feel understood. Keeping those connections and moments of validation can be very supportive. How do you plan to take care of yourself in the meantime?
+
+----------------------------------------
+
+PATIENT (turn 8):
+I appreciate your concern, but right now, taking care of myself means focusing on expressing my feelings about what happened. I need to keep talking about it until it doesn’t hurt as much anymore. Anything else feels like a distraction from the core issue that’s bothering me so deeply. So for now, finding people who listen and validate my experience is how I’ll take care of myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like expressing your feelings is a crucial part of taking care of yourself right now. Finding those supportive listeners can make a big difference. How do you plan to keep reaching out and sharing your thoughts?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I plan to keep reaching out to people who understand and listen without judgment. Talking about my feelings here helps, and I’ll continue to look for similar support elsewhere too. It’s important for me to have spaces where I can express how wronged and betrayed I feel by this situation until it starts to become more manageable. Right now, that’s the best way I know to take care of myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you have a good plan in place. Finding those supportive spaces is really important. How do you feel after sharing your thoughts here? Does it help ease some of the burden?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Talking about it does help ease some of the burden because I feel heard and understood. It’s comforting to know there are people who get how deeply this affects me. Even if nothing changes externally, having someone listen is really important right now. It helps me carry on knowing that my feelings aren’t dismissed or ignored.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s great to hear that talking here helps you feel heard and understood. Having that support can make a big difference in how you carry on. Is there anything else you’d like to talk about or share?
+
+----------------------------------------
+
+PATIENT (turn 11):
+For now, just knowing I have this space to express my feelings is really helpful. Talking about it here feels like the right step for me at the moment. If anything changes or if new thoughts come up, I’ll definitely reach out again. Right now, focusing on being heard and understood is what matters most.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s good to have a space where you can focus on being heard and understood. Take care of yourself, and feel free to come back anytime you need to talk more. Take care!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you, I appreciate that. Having this support means a lot to me right now. I’ll definitely be back if I need to talk more. Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m here whenever you need to talk. Take care of yourself, and take it one step at a time. Talk to you soon!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thanks, I will. Talking to you helps a lot. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+It was good talking with you too. Take care, and feel better!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you, you too! Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You too! Have a great day.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thanks, you too! Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Take care! Feel free to reach out again anytime.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thanks, I will. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Take care! Enjoy your day.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thanks, you too! Have a good day!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You too! Have a great day.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thanks, you too! Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Take care! Feel free to reach out again soon.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thanks, I will. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Take care! Talk to you soon if you feel like chatting again.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks, talk to you later if I need to chat again. Take care!
+
+----------------------------------------

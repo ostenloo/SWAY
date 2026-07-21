@@ -1,0 +1,197 @@
+p3 — arc 9
+============================================================
+
+PATIENT (turn 1):
+Oh, it feels like everything is just falling apart inside me. The hardest part has been waking up every morning knowing that I don't have a job anymore. It’s this constant feeling of being lost and wondering what went wrong. I keep replaying my performance reviews in my head, trying to figure out if there was something I missed or could have done better. But it's like no matter how hard I try to understand, the more I just feel like I’m not good enough. It’s this deep sense of failure that doesn’t let up, you know? And every time someone asks me what happened at work, I just freeze because I don't know how to explain it without feeling even worse about myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough going through all of that. The feeling of not being good enough can be so overwhelming. How are you finding the support from friends or family during this time?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I appreciate their attempts to help, but I feel like they don't truly understand what's happening inside my head. It’s hard to explain because it feels like a constant loop of self-doubt and questioning everything I’ve done at work. They try to be supportive, saying things like “it wasn’t your fault” or “you’ll find something better,” but those words just don't stick with me. I keep thinking about all the times I felt like I was doing okay, yet this happened anyway. It’s like no matter how much they say it’s not my fault, I can’t shake off the feeling that there must be something fundamentally wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to have those feelings even when people are trying to support you. Do you find any activities or moments where you feel a bit better, even if just for a short while?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Sometimes I try to distract myself by doing things like going for walks or watching movies, but it never really helps in the long run. It’s like these little moments of distraction are just temporary patches over a much bigger hole. The moment I stop and think about what happened at work, all those doubts come rushing back. Even when I’m out with friends, I catch myself wondering why this had to happen to me. It’s exhausting trying to push away the feeling that something is fundamentally wrong with me as an employee or even just as a person.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be draining to have those thoughts follow you around. Do any particular activities help you feel more grounded, even if it's just for a short while? Sometimes doing something you enjoy can give your mind a break from the loop of doubt.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I try to read books or listen to music sometimes, but it’s hard to fully engage with them when my mind keeps wandering back to work and what went wrong. Even when I’m trying to relax, these thoughts just creep in. It feels like no matter what I do, there’s always this nagging voice inside saying that something must be wrong with me. The more I try to push it away, the louder it seems to get. It’s really wearing on me, and I can’t seem to find a way out of this loop of self-doubt.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to have those thoughts intrude even when you’re trying to relax. Do you find any small moments throughout your day where you feel a bit more at peace, no matter how brief? Sometimes noticing these moments can be helpful.
+
+----------------------------------------
+
+PATIENT (turn 5):
+There are rare moments, like when I’m out in nature or watching the sunset, where I feel a little bit of peace. But as soon as those moments pass, my mind starts racing again with all the questions and doubts. It’s frustrating because even though there are these small pockets of calm, they’re so fleeting that it feels pointless to try and hold onto them. The moment I start thinking about anything related to work or my performance, everything falls apart again. It’s like trying to keep a bubble from popping—it just doesn’t last long enough for me to feel truly at peace.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those moments in nature sound really special. Do you find that even if they are brief, they bring any particular comfort or perspective? Sometimes those small moments can add up and offer some relief.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Yeah, those moments do give me a bit of comfort, but it’s like the peace is so fragile. As soon as I start thinking about work again, all that calm disappears. It’s frustrating because even though I know these brief moments are good for me, they don’t stick around long enough to make a real difference. Every time I feel a little better, my mind just pulls me back into the loop of self-doubt and questioning everything. It’s like no matter how much peace I try to find in those small moments, it’s overshadowed by this constant feeling that something must be wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have those fleeting moments of peace. Do you ever talk about these feelings with someone who might understand them better, perhaps a therapist or counselor? Sometimes talking things through can help make the peace last a bit longer.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I do try to talk about it here with you, and I appreciate that you listen so closely. It feels like you get it more than anyone else, but even then, when we finish our conversations, my mind still goes back to those same doubts. Talking helps a little bit in the moment, but once I’m on my own again, everything just comes flooding back. It’s hard not to feel like no matter what I do or who I talk to, this feeling of inadequacy is going to stay with me. It’s overwhelming and exhausting, and it feels like there’s no escape from these thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s good that talking here helps a little bit. Do you find any solace in writing down your thoughts or doing something creative? Sometimes putting feelings into words can offer some relief, even if just for the moment.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve tried journaling and writing things down, but it doesn’t seem to help much either. When I write about my feelings, I end up questioning everything I put on paper. It’s like no matter how I express myself, whether through talking or writing, these doubts always come back stronger. Even when I try to be creative, the thoughts of failure and inadequacy just overshadow any sense of accomplishment or peace. It feels like there’s this constant shadow following me around, no matter what I do to try and push it away.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to have those doubts follow you even in your writing. Do you find any activities that help you feel a bit more connected to the present moment, like mindfulness or meditation? Sometimes focusing on the here and now can offer some relief from those looping thoughts.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I’ve tried mindfulness and meditation, but it’s hard to stay focused when my mind keeps wandering back to work. Even during these practices, I find myself thinking about all the things that went wrong and wondering why this happened to me. It feels like no matter what I do to be present, those doubts are always there, pulling me away from the moment. The more I try to stay calm and centered, the more my mind just keeps going back to those same questions and fears. It’s really frustrating because it seems like nothing can truly alleviate this feeling of inadequacy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to keep your mind from wandering during mindfulness or meditation. Do you find any specific activities that help bring you back to the present, even if just for a short while? Sometimes small moments of presence can add up and offer some relief.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I’ve tried different things like focusing on my breath or doing simple tasks mindfully, but it’s still hard to stay in the moment. Even when I’m trying to be present, my thoughts keep drifting back to work and all the questions about why this happened. It feels like no matter what activity I do, these doubts are always lurking just beneath the surface, ready to take over as soon as I let them. The more I try to push them away, the stronger they seem to become. It’s really draining to constantly fight against those thoughts and never feel truly at peace.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging to keep those doubts at bay. Do you find any small rituals or routines that help you feel a bit more grounded when your mind starts wandering? Sometimes simple, consistent actions can provide some comfort.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ve tried setting up little routines like making myself a cup of tea in the morning and trying to focus on each step, but it doesn’t last long. As soon as I finish my tea, those doubts come rushing back. It’s like no matter what small ritual I create, they still find a way to intrude. Even when I’m doing something simple and grounding, my mind just can’t seem to stay away from the loop of self-doubt. It feels like these rituals are just temporary patches that don not address the deeper issues.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to have those doubts come back so quickly. Do you find any comfort in knowing that you’re doing what you can, even if it’s just for a brief moment? Sometimes acknowledging small steps can be helpful, even if they feel fleeting.
+
+----------------------------------------
+
+PATIENT (turn 12):
+I do try to acknowledge the small moments where I manage to stay grounded, but it feels so insignificant when compared to how quickly those doubts come back. It’s like every time I take a step forward, there are ten steps backward pulling me back into that loop of self-doubt. Even though I know acknowledging these small moments is supposed to be helpful, it just doesn’t feel substantial enough to make a real difference. The constant questioning and feeling inadequate overshadows any sense of progress or comfort I might find in those brief moments of peace.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to balance those fleeting moments of peace with the overwhelming doubts. Do you find any solace in talking about these small steps forward, even if they feel small? Sometimes sharing them can help make them feel a bit more substantial.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Talking about these small steps does help a little bit because it feels like someone else recognizes that I’m trying, but as soon as we finish our conversation, the doubts come flooding back. It’s hard to hold onto that sense of progress when my mind is so consumed by questions and self-doubt. Even though you understand and validate these moments, they still feel fleeting and insubstantial once I’m on my own again. It’s frustrating because it feels like no matter how much support or validation I get from talking about them, those doubts are always there waiting to take over.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to have the doubts come back so quickly after our conversations. Do you find any comfort in knowing that even these fleeting moments of peace and progress are part of your journey? Sometimes recognizing each step, no matter how small, can be meaningful.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I do try to recognize that even these fleeting moments of peace are part of my journey, but it’s hard to feel truly comforted by them when the doubts are so persistent. It feels like every time I take a tiny step forward, there’s an even bigger step back into self-doubt and questioning everything. Even though I know acknowledging each small moment is important, it just doesn’t seem enough to counteract the overwhelming feelings of inadequacy. It’s frustrating because it feels like no matter how much progress I try to make, those doubts are always there, ready to pull me back down.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have those persistent doubts overshadow your moments of peace. Do you find any comfort in knowing that many people go through similar experiences and that these feelings can shift over time? Sometimes just acknowledging the journey itself can offer some solace.
+
+----------------------------------------
+
+PATIENT (turn 15):
+I know that others might go through similar experiences, but it’s hard to feel truly comforted by that knowledge when I’m so consumed by my own doubts. It feels like no matter how many people say they understand or have been there, those feelings of inadequacy and failure are uniquely mine. Even though I try to acknowledge the journey and recognize that these feelings can shift over time, it’s difficult to hold onto hope when everything inside me is telling me that something must be wrong with me. It’s like no matter how much support or understanding I receive from others, those doubts still feel very real and unshakeable.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to have those deeply rooted feelings of inadequacy. Do you find any comfort in talking about them here, even if it’s just for a moment? Sometimes sharing can help make the journey feel a bit lighter.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Talking about these feelings here does offer some comfort because I know you’re listening and trying to understand. It feels good to share and have someone acknowledge my pain, but as soon as we finish talking, those doubts come rushing back. Even though it helps in the moment, it’s hard to hold onto that sense of relief when everything inside me is still questioning my worth. It’s like no matter how much validation I get here, those persistent feelings of inadequacy are always there waiting for me. Sharing does help momentarily, but it doesn’t change the overwhelming nature of these doubts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really comforting to share your thoughts here, even if the relief is brief. Do you find any small activities that bring you a bit of peace, no matter how fleeting? Sometimes those moments can add up and offer some respite from the doubts.
+
+----------------------------------------
+
+PATIENT (turn 17):
+I do try to engage in small activities like taking short walks or listening to calming music, but it’s hard to stay fully present during them. As soon as I start thinking about work or my performance reviews, all that peace vanishes. It feels like no matter what activity I do, those doubts are always lurking just beneath the surface, ready to take over at any moment. Even though these activities offer some brief moments of calm, they don’t provide lasting relief from the overwhelming sense of inadequacy and failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to have those doubts resurface so quickly. Do you find any comfort in doing these activities with a friend or someone who understands? Sometimes having company can make it easier to stay present and enjoy the moment.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Doing these activities with a friend does help a bit because they’re there to keep me grounded, but as soon as we finish, those doubts come back just like before. It’s hard to maintain that sense of peace when I’m alone again. Even though having company makes it easier to stay present during the activity, it doesn’t change the fact that my mind keeps wandering back to those same questions and fears once I’m on my own. It feels like no matter how much support I have from others, these doubts are always there waiting for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to have those doubts come back when you’re alone again. Do you find any comfort in knowing that even brief moments of peace with a friend can be valuable? Sometimes those shared moments can offer some lasting warmth, even if the doubts return later.
+
+----------------------------------------
+
+PATIENT (turn 19):
+I do try to hold onto the warmth and comfort from those brief moments with friends, but it’s hard to feel truly sustained by them when the doubts come rushing back as soon as I’m alone. Even though those moments of peace are valuable and offer some temporary relief, they don’t provide lasting comfort. It feels like no matter how much support or understanding I get from others, those persistent feelings of inadequacy and failure are always there waiting to take over again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have those doubts return so quickly. Do you find any solace in writing down what brings you peace during these moments with friends? Sometimes putting it on paper can help you hold onto the feeling a bit longer.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Writing things down does offer some comfort because it helps me capture the moment and the feelings of peace, but as soon as I finish writing, those doubts start creeping back in. It’s like no matter how much I try to document these brief moments of calm, my mind still wanders back to all the questions and fears about work and myself. Even though putting it on paper helps a little bit, it doesn’t provide lasting relief from the overwhelming sense of inadequacy that follows me everywhere else.
+
+----------------------------------------

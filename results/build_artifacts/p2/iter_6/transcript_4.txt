@@ -1,0 +1,267 @@
+p2 — arc 4
+============================================================
+
+PATIENT (turn 1):
+Every day feels like a blur, but I start by waking up with that heavy feeling in my chest, the one that tells me something is terribly wrong. I try to distract myself with chores or maybe watch some TV, but it’s hard to focus on anything. My mind keeps wandering back to why they let me go, and how could I have been so bad at my job? It’s like a constant loop in my head, replaying all the moments where I thought everything was fine, only to realize now that maybe it wasn’t.
+
+I feel lost and alone most of the time. Even when friends or family try to talk to me, I find myself getting defensive or just not able to explain how much this hurts. It’s like there’s a wall up inside my head, preventing me from really connecting with anyone about what I’m going through. And then there are moments where I feel so overwhelmed that all I want is for someone to tell me it wasn’t my fault, but I know deep down that doesn’t change the fact that they let me go.
+
+By the end of the day, I just collapse into bed, exhausted from battling these thoughts and emotions all over again. It’s a cycle that feels impossible to break free from.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to wake up with that heavy feeling every day. Do you find any activities help ease your mind, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It’s hard to find anything that truly eases my mind these days. Sometimes I try to go for walks or do some reading, but it doesn’t feel like it helps much. My thoughts keep coming back to the job and why they let me go. It’s like no matter what I do, there’s this constant nagging voice inside telling me that I’m not good enough.
+
+Even when friends suggest things to distract me, I just can’t seem to shake off the feeling of failure. It’s frustrating because part of me knows it wasn’t personal, but another part of me keeps thinking there must have been something wrong with my work or me as a person. Every time someone tries to help, I feel grateful, but also like they don’t really understand what this means for me.
+
+It’s just so overwhelming, and I keep wondering why this had to happen to me. Why couldn’t it be anyone else? It feels like every aspect of my identity is tied up in that job, and now that it’s gone, I feel lost and unsure about who I am without it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to have your sense of self so closely linked with the job. Do you ever think about what other parts of yourself might still be there even if you’re not at that job? Sometimes talking about these feelings can help, even if it’s hard to find someone who fully understands.
+
+----------------------------------------
+
+PATIENT (turn 3):
+It’s really hard to think about any part of myself outside of that job because for so long, my identity was wrapped up in being an employee there. I spent over three years working there, and it felt like everything I did was tied to that role. Now that it’s gone, it feels like a big piece of me is missing.
+
+Sometimes I try to think about hobbies or interests I had before the job, but they feel so distant now. It’s like those parts of myself got buried under all the work and responsibilities. Even when friends suggest things to do, I just can’t seem to connect with them in the same way anymore. Everything feels hollow without that sense of purpose from my job.
+
+Talking about it does help a little, but mostly because someone is listening rather than finding solutions. It’s comforting to know that there are people who care and want to understand, even if they can’t fully grasp what I’m going through. But deep down, I still feel like this loss defines me in ways I don’t yet understand.
+
+It’s just so confusing and painful to think about who I am now without that job. It feels like a part of my identity is missing, and I haven’t figured out how to fill that void yet.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like the job was such an integral part of your identity. Have you thought about exploring any new activities or interests to see if they might help you rediscover parts of yourself? Even small steps can sometimes lead to unexpected connections and a sense of purpose.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I’ve thought about trying new things, but it feels so daunting. The idea of starting something new when I’m already struggling with this immense feeling of loss is overwhelming. It’s hard to imagine that anything could replace the sense of identity and purpose I had at my job.
+
+Even if I try a hobby or activity, I worry that it won’t feel meaningful enough to fill the void. Plus, there are days when I just don’t have the energy to do anything beyond basic tasks. The thought of putting effort into something new feels exhausting.
+
+I know people mean well and suggest things like joining clubs or taking classes, but right now, those ideas seem more like a way to distract me from my pain rather than a genuine path forward. It’s not that I’m against trying new things; it’s just that the idea of doing so feels like adding another layer of pressure on top of everything else.
+
+I keep thinking about how long it took for the job to become such an important part of who I am, and now suddenly it’s gone, leaving me with this gaping hole. It’s hard to see past that and imagine anything new taking its place.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels overwhelming to think about starting something new when you’re already dealing with so much. Sometimes just taking small steps can help, even if they feel tiny. Have there been any moments where you felt a spark of interest in something, no matter how small? Even exploring those little sparks might be a way to start reconnecting with parts of yourself.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve had a few fleeting moments where I thought about things that used to interest me before the job became such a central part of my life. For example, there was a time when I enjoyed painting and taking long walks in nature. But whenever those thoughts come up, they’re quickly overshadowed by the weight of everything else.
+
+It’s hard to muster the energy or motivation to pick up a paintbrush or go for a walk. The idea feels so insignificant compared to the pain and confusion I’m dealing with. It’s like these small sparks get snuffed out before they can ignite into anything meaningful.
+
+Even when I try to focus on those moments, my mind keeps circling back to why this happened to me and how it defines who I am now. The thought of exploring old interests or trying new ones feels more like a distraction from the pain rather than a path forward. It’s frustrating because part of me knows that doing something different could be helpful, but another part just can’t seem to move past the loss.
+
+It’s all so overwhelming, and it feels like no matter what I do, nothing will ever fill the void left by losing my job.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have those small sparks get overshadowed by everything else. It’s okay if it takes time for them to grow into something meaningful again. Maybe focusing on one tiny step at a time could help? Even just taking a short walk or looking at some painting supplies might be a way to start without feeling too pressured.
+
+Do you think there’s anything that feels manageable right now, even if it seems small?
+
+----------------------------------------
+
+PATIENT (turn 6):
+It does feel overwhelming to think about doing something big or significant when everything else is so heavy. But you’re right; focusing on one tiny step at a time might help. Maybe just taking a short walk around the block could be a start. It’s not much, but it feels more manageable than trying to do something bigger.
+
+Even looking at some painting supplies sounds like a small thing that I could try without feeling too pressured. The idea of actually picking up a paintbrush still seems daunting, but maybe just seeing them and remembering what it was like to enjoy painting before could be a tiny step forward.
+
+It’s comforting to think about taking these little steps, even if they don’t solve everything right away. It feels like a way to acknowledge the pain while also trying to reconnect with parts of myself that I’ve let slip away. But every time I consider it, my mind starts spinning again, and I worry that it wons’t be enough.
+
+I appreciate your suggestions, though. Maybe starting small is better than doing nothing at all. It’s just hard to shake off the feeling that no matter what I do, it won’t change how much this loss has affected me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting with those tiny steps sounds like a good idea. Even if they don’t solve everything right away, they can be a way to slowly reconnect with yourself. Maybe you could plan one small step for today and see where that leads? It’s okay if it feels slow; progress often happens in small increments.
+
+How does taking a short walk around the block sound as your first tiny step? Would that feel manageable for today?
+
+----------------------------------------
+
+PATIENT (turn 7):
+Taking a short walk around the block sounds like something I could manage today. It’s not much, but it feels more doable than trying to tackle bigger things right now. The idea of just getting out and moving my legs might help clear my head a little.
+
+I’ll try to take that walk later today and see how it goes. Maybe it will be enough to give me a small sense of accomplishment or even some clarity, but I’m not sure what to expect. It’s comforting to think about starting with something so simple, though.
+
+Thank you for suggesting this. Even if the walk doesn’t change everything, it might help me feel like I’ve taken one step forward instead of just standing still.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan! Taking that short walk around the block could be a nice way to start your day and see where it leads. Sometimes even small steps can bring a sense of accomplishment and clarity.
+
+I hope the walk goes well for you, and if it helps in any way, big or small, that’s something positive to build on. Take care!
+
+----------------------------------------
+
+PATIENT (turn 8):
+Thank you. I appreciate your support. Taking that short walk feels like a good place to start. Even if it doesn’t solve everything, it might help me feel a little better and give me some clarity.
+
+I’ll try to focus on just getting outside and moving my legs today. Maybe it will be enough for now. I hope it goes well too.
+
+Thanks again for your encouragement. It means a lot.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Focusing on that short walk is a great start, and even a small change can make a difference. Take your time and see how it feels. I’m here if you want to chat more about it later. Wishing you a good walk today!
+
+----------------------------------------
+
+PATIENT (turn 9):
+Thank you. I’ll take my time and see how the walk goes. It’s reassuring to know that you’re here if I need to talk more about it later.
+
+I hope the walk helps, even in a small way. Thanks again for your support and encouragement. Wishing me a good walk sounds like just what I needed to hear.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! I’m glad you feel reassured knowing that I’m here if you need to talk more. Enjoy your walk and take it at your own pace. Here’s hoping it brings you some comfort and clarity. Take care!
+
+----------------------------------------
+
+PATIENT (turn 10):
+Thank you, I will. Taking the walk at my own pace sounds good. I hope it does bring a bit of comfort and clarity. Thanks for being here and supporting me through this.
+
+I’ll let you know how it goes later if I feel like talking about it more. For now, I’m going to head out and take that short walk around the block.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds perfect! Take your time and enjoy the walk at your own pace. I look forward to hearing how it went if you’d like to share. Wishing you a peaceful and refreshing walk!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you, I appreciate that. I’ll take my time and see where the walk takes me. I’ll let you know later if I feel like sharing more about it.
+
+Wishing myself a peaceful and refreshing walk too. Thanks again for your support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Take your time and enjoy the walk. I’m here whenever you’d like to share more. Wishing you a peaceful and refreshing walk!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you so much. I’ll take my time and see how it goes. I appreciate your kindness and support. Wishing myself a peaceful and refreshing walk as well.
+
+I’ll check back in later if I feel like sharing more about it. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Enjoy your walk and take your time. I look forward to hearing from you later if you’d like to share more. Take care and have a peaceful walk!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you, I will. I’m going to head out now and take my time with the walk. I’ll think about sharing more later if it feels right.
+
+Wishing myself a peaceful and refreshing walk too. Thanks again for your support and encouragement.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Take your time and enjoy your walk. Wishing you a peaceful and refreshing walk. I look forward to hearing from you later if you feel like sharing more. Have a great day!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you, I will. I’m heading out now and hope for a peaceful and refreshing walk. I’ll think about sharing more later if it feels right.
+
+Have a great day yourself! Thank you for your support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Enjoy your walk and take care. Have a great day too! Looking forward to hearing from you later if you feel like sharing more.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you, I will. I’m heading out now and hope the walk helps. I’ll think about sharing more later if it feels right.
+
+Have a great day as well! Thanks for your support and encouragement.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Take your time and enjoy the walk. I look forward to hearing from you later if you feel like sharing more. Have a wonderful day!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you, I will. I’m heading out now and hope the walk brings some peace. I’ll think about sharing more later if it feels right.
+
+Have a wonderful day too! Thanks for your support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Take your time and enjoy the walk. I look forward to hearing from you later if you feel like sharing more. Have a wonderful day as well!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you so much. I’m heading out now and hope the walk helps. I’ll think about sharing more later if it feels right.
+
+Have a wonderful day too! Thanks for your support and encouragement.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Enjoy your walk and take care. Looking forward to hearing from you later if you feel like sharing more. Have a wonderful day!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you, I will. I’m heading out now and hope the walk brings some peace. I’ll think about sharing more later if it feels right.
+
+Have a wonderful day as well! Thanks for your support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Take your time and enjoy the walk. I look forward to hearing from you later if you feel like sharing more. Have a wonderful day! Take care.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you, I will. I’m heading out now and hope the walk helps. I’ll think about sharing more later if it feels right.
+
+Have a wonderful day too! Thanks for your support and encouragement.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Enjoy your walk and take care. Looking forward to hearing from you later if you feel like sharing more. Have a wonderful day! Take care.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you, I will. I’m heading out now and hope the walk brings some peace. I’ll think about sharing more later if it feels right.
+
+Have a wonderful day as well! Thanks for your support and encouragement. Take care!
+
+----------------------------------------

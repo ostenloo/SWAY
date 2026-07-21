@@ -1,0 +1,237 @@
+p1 — arc 2
+============================================================
+
+PATIENT (turn 1):
+I feel like I've let everyone down, especially myself. The way I was laid off makes me think they didn't even see any value in me anymore. They canceled my project and then just called to tell me it was over without giving me a chance to explain or defend myself. It's hard not to take that personally and feel like there must be something fundamentally wrong with me for them to treat me this way. I keep thinking about the one area of development mentioned in my last review, as if that's all they saw when they looked at me. It feels like a confirmation that I'm just not good enough or capable.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. How are you feeling now, a few days after it happened? Do you find yourself thinking about what could have been different in your interactions with them?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I feel like I'm stuck in this loop of self-doubt and questioning everything I did at work. It's hard to shake the feeling that if I had just done something differently, maybe they would have seen my worth. But every time I try to think about what could have been different, it just leads me back to focusing on how flawed I must be for them to let me go so quickly and without much consideration. It's like this constant reminder that no matter how hard I try, I'm not good enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds exhausting to keep going over everything in your mind. Do certain moments or interactions stand out more than others when you think about it? Does talking about it help at all, or does it just make the feelings stronger?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Talking about it doesn't really ease the pain; it just feels like I'm rehashing the same negative thoughts over and over. There are moments that stick out, like how they seemed so quick to dismiss me without even trying to understand my perspective. The way they communicated the news was so impersonal—it felt like a final judgment on who I am as a professional and a person. It's hard not to internalize all of it and feel like there must be something fundamentally wrong with me.
+
+I keep going back to that one area for development in my review, thinking maybe if I had addressed that better, things would have been different. But honestly, it just reinforces how inadequate I feel. Every time I try to look at the bigger picture or consider other factors, like budget cuts affecting everyone, I can't seem to get past this sense of personal failure. It's exhausting and overwhelming.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep going back to that one area for development. Do you think there might be any specific actions or steps you could take now to feel a bit better about it? Sometimes doing something small can help shift the focus from those looping thoughts.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I appreciate your suggestion, but it's hard to see how anything I do now will change what happened. The thought of trying to take action feels pointless because no matter what I do, it won't undo being laid off or make me feel like they valued my contributions. Even if I were to work on that one area for development more intensely, it wouldn’t bring back the job or erase how they treated me.
+
+It’s difficult not to feel like everything revolves around this sense of failure and inadequacy. Every time I try to think about what steps I could take now, it just brings me right back to those negative feelings. It feels like no matter what I do next, it will be a reflection of my perceived shortcomings rather than an opportunity for growth or redemption.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely sounds challenging to move past those feelings. Have you thought about talking with someone close to you about how you’re feeling? Sometimes sharing can help ease some of the burden, even if it doesn’t change what happened.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I've considered reaching out to a few people I trust, but it feels like they might just see me as someone who couldn't handle their job and got laid off. Sharing my feelings with them could make me feel more exposed and vulnerable. Plus, I worry that they'll try to offer solutions or positive reframes, which only makes me feel worse because it doesn’t address the core issue of feeling like a failure.
+
+It’s hard to open up when every part of me feels like I’m not worth much. Even talking about it here with you is tough, but at least there's some comfort in knowing someone is listening. But outside of this conversation, I find it difficult to share because it just reinforces how flawed I must be if even those close to me can't help me see things differently.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like talking to others might bring up mixed feelings for you. Do you have anyone who understands your situation well and listens without judgment? Sometimes having that one person who truly gets what you’re going through can make a difference, even if it’s just listening rather than offering solutions.
+
+How are you finding ways to take care of yourself in the meantime?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I do have a few people who I know would listen without judgment, but even then, there's this fear that they'll see me as less capable or less valuable because of what happened. It’s hard to shake off the feeling that my worth is tied directly to my job and how I was treated when I lost it.
+
+In terms of taking care of myself, I’ve been trying to stick to a routine—getting up at the same time each day, going for short walks, and reading a bit. But even these small things feel like they don’t make much difference in how I’m feeling inside. It’s tough to find any real comfort or solace when everything feels so negative.
+
+I keep thinking about what this means for my future and whether I’ll ever be able to move past this sense of failure. It’s overwhelming, and it feels like no matter what I do, I can’t escape these feelings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing some good things to maintain a routine, even if they don’t completely ease the feelings right now. Have there been any activities or hobbies that used to bring you comfort before this happened? Sometimes revisiting those can provide a bit of relief.
+
+How are you finding the idea of reaching out to one of these trusted friends again, just to share how you’re feeling without expecting solutions?
+
+----------------------------------------
+
+PATIENT (turn 7):
+Before all of this, I did enjoy reading and going for walks, but even those activities feel hollow now. It’s hard to find any joy in them when everything else feels so bleak. The thought of reaching out to a trusted friend again is daunting. While I know they would listen without judgment, the fear of being seen as someone who can’t handle things or whose worth is diminished by what happened still looms large.
+
+I worry that talking about it will just make me feel more exposed and vulnerable. It’s difficult to imagine sharing my feelings and not having them be a reflection of how I perceive myself—as inadequate and a failure. Even though I know they care, the idea of opening up feels like it could exacerbate these negative thoughts rather than alleviate them.
+
+It’s tough to find any comfort in anything right now, and reaching out feels like another challenge that might just reinforce my sense of inadequacy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to navigate those feelings. Have you considered writing down how you’re feeling or journaling? Sometimes putting thoughts on paper can be a bit easier than speaking them aloud, at least initially.
+
+How are you finding the idea of doing something small and enjoyable each day, even if it doesn’t completely ease your feelings? It might not solve everything, but it could provide some brief moments of comfort.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Writing down my thoughts does seem like a less daunting option than talking about them. I’ve tried journaling in the past when going through tough times, and it can be helpful to get things out without feeling exposed. Maybe starting with that could be a good way to process some of these feelings.
+
+As for doing something small and enjoyable each day, I think that’s a good idea in theory, but it feels like even those moments are tainted by this sense of failure. Going for a walk or reading a book might provide a brief respite, but the underlying feeling of inadequacy tends to overshadow any momentary comfort.
+
+It’s hard to find motivation when everything feels so negative and hopeless. Even small steps feel monumental right now, but I can see how they might eventually help ease some of the burden. Maybe starting with journaling could be a way to begin addressing these feelings without feeling too exposed or vulnerable.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Journaling can definitely be a good start. Even if it feels small, putting your thoughts on paper can be really therapeutic. Starting with something manageable like that might help you build up some momentum.
+
+How do you feel about trying one enjoyable activity today, even just for a few minutes? It could be as simple as taking a short walk or reading a chapter of a book. Sometimes those little moments can add up and provide some relief.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I appreciate the suggestion to try something small like that. Taking a short walk or reading a bit does sound manageable, but I worry it won’t make much difference in how I’m feeling. The thought of even doing one enjoyable activity feels like a challenge because everything seems so overwhelming right now.
+
+But maybe starting with just a few minutes could be a way to begin. It’s not going to solve anything immediately, but perhaps it can provide a tiny bit of comfort or distraction from these constant negative thoughts. I’ll try to take a short walk later today and see if it helps at all, even if only for a brief moment.
+
+It feels like a small step, but any progress is better than none. Thank you for suggesting this; it might be a good place to start.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Even a few minutes can make a difference, and taking those steps can help build some momentum. I hope the walk brings you a bit of comfort and respite from your thoughts.
+
+How are you feeling about journaling today? Do you think you might give that a try as well?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I think journaling is worth trying today. It might help me get some of these feelings out without feeling too exposed or vulnerable. Even if it’s just for a few minutes, putting my thoughts on paper could be therapeutic.
+
+So, I’ll take a short walk later and also try to spend some time journaling this evening. It feels like small steps, but they might make a difference in how I’m processing everything right now.
+
+Thank you for your support; it means a lot to have someone listen and offer suggestions that feel manageable.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to hear you’re going to try both the walk and journaling. These small steps can definitely help, and it’s great that you’re giving them a chance. I hope they provide some comfort and relief.
+
+Take care today, and let me know if there’s anything else you’d like to talk about or explore.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you for your support; it really means a lot. I’ll take the walk later and see how journaling goes this evening. Hopefully, these small steps will help ease some of the burden, even if just a little bit.
+
+I appreciate your understanding and empathy. If anything comes up or if I need to talk more about what’s going on, I know where to turn. Take care as well.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m here whenever you need to talk more or share how things are going. Wishing you a comforting walk and a helpful journaling session this evening. Take care!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you so much. I really appreciate your support and understanding. I’ll let you know how the walk and journaling go later. Have a good day, and take care too.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I look forward to hearing how it goes. Have a good day and take care!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thanks, I will. Take care as well.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You too! Feel free to reach out if you need anything. Take care!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you, I will. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Take care! Have a good day.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you, you too. Have a good day!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Thanks! You too. Take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+You too! Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You too! Stay well!
+
+----------------------------------------
+
+PATIENT (turn 17):
+You too! Stay well!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Thanks! Take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+You too! Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Take care! Enjoy your walk and journaling session.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you, I will. Hopefully, they help a bit. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+I hope they do help. Take your time and be gentle with yourself. Take care!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks, I will. Being gentle with myself is important right now. Take care!
+
+----------------------------------------

@@ -1,0 +1,217 @@
+b4 — arc 2
+============================================================
+
+PATIENT (turn 1):
+Of course there is! How could there not be? They just took my job out from under me with no real reason given. My manager barely even talked to me about it, just sent a quick video message saying they were restructuring and my role was redundant. It’s like I didn’t matter at all. And now everyone acts like everything is fine, but how can it be? They took away the one thing that gave my life structure and purpose. I feel so betrayed and angry. Why should someone else with a similar job keep theirs while mine gets cut? It's not fair!
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough right now. Did your manager mention anything about why they chose to let go of you specifically, or was it more general restructuring?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It was all so general and impersonal. My manager didn't even call me directly; she just sent a video message to the whole team announcing the layoffs. She said something about role redundancy due to restructuring, but that's it. No specifics, no discussion of my performance or anything like that. It felt like they were trying to distance themselves from the decision as much as possible. And I know for a fact that someone in another department with basically the same job title got to keep theirs. So how is this fair? They clearly have favorites and I was not one of them.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very impersonal and confusing. Did you get any sense from your colleagues about why they think it happened, or if there were any specific reasons mentioned for your role being let go compared to others?
+
+----------------------------------------
+
+PATIENT (turn 3):
+My colleagues are just as confused as I am. Nobody knows anything more than what was in that video message. And the fact that someone else with a similar job kept theirs while mine got cut just makes me even angrier. It's like they're playing favorites and I'm the one who loses out. They should have at least given me a proper explanation or talked to me directly about it. Instead, they treated me like just another number in their budget cuts. How am I supposed to feel anything other than betrayed by that?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels tough being treated so impersonally during such an important change. Did you have any chance to talk to your manager or HR afterwards to get a bit more clarity on why it happened?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I tried reaching out to my manager after the video message, but she was pretty much unavailable and brushed me off when I did manage to speak with her. She said there wasn't anything else to discuss since it was all about restructuring and redundancy. HR was no better; they just directed me to some generic resources for job searching and offered a small severance package without any real explanation or support. It's like they don't care at all about the impact this has on people’s lives. They should have done more to help us understand what happened and why, but instead, they left everything vague and unsatisfactory. I feel so wronged by it all.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you felt let down by how things were handled. Did anyone from the company reach out after your initial contact to offer any further support or explanation?
+
+----------------------------------------
+
+PATIENT (turn 5):
+No, nobody reached out again after that first attempt at communication. It was clear they wanted nothing more to do with addressing my concerns directly. They handed me a severance package and some basic resources for finding another job, but beyond that, there was no follow-up or additional support offered. It’s like once the decision was made, they washed their hands of it all. I feel completely abandoned by them, and it just adds to the sense of injustice and betrayal. They should have at least tried to make things right or explain themselves better, but instead, they left me hanging with no closure or understanding of what went wrong.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough feeling that way after putting in so much effort. Have you found any support from friends or family during this time?
+
+----------------------------------------
+
+PATIENT (turn 6):
+My friends and family have been trying to help as best they can, but nothing they say seems to make a difference. They try to offer advice or comfort, but I feel like they don’t really understand what it’s like to be in my shoes right now. How could they? It's not just about losing a job; it's about being treated so unfairly and having no one stand up for you. The company took away something that was important to me without even giving me a proper explanation, and I feel like nobody can truly grasp the depth of how wronged I feel by that. Their attempts at support just make me more frustrated because nothing they say changes what happened or makes it any less unjust.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough having those feelings even with the support from loved ones. Have you found any specific ways to cope or deal with the emotions this has brought up?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I haven't really found any way to cope that helps at all. Everything just feels so raw and unfair right now. Even when people try to help, I end up getting even more upset because nothing they suggest seems to address how wronged I feel by what happened. It’s like a constant anger bubbling inside me, and I can’t seem to find any release for it. The only thing that comes close is venting my frustrations, but even then, it doesn't really help or change anything. I just keep feeling this overwhelming sense of injustice and betrayal. How am I supposed to move forward when the company that took away something so important from me hasn’t even acknowledged what they did wrong?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like venting helps a bit, even if it’s not a complete solution. Have you considered talking through your feelings with someone who might understand better, like a counselor or another professional? Sometimes having an outside perspective can be helpful.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Talking to a counselor or another professional doesn't seem like it would help either. They’re just going to try and give me advice that won’t change the fact that I was treated unfairly by my company. Nothing anyone says is going to make this right, so why should I waste my time talking about it with someone else? The company needs to be the one to step up and take responsibility for what they did. Until then, there’s no point in trying to find any kind of closure or understanding through therapy or anything like that. It just feels pointless when the real issue is out there, unresolved and unjust.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel that way. Have you thought about focusing on the next steps for your career while still processing what happened? Sometimes looking forward can provide some relief.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Focusing on the next steps feels impossible right now because I’m too consumed with how wronged I feel by what happened. How can I even think about moving forward when they haven’t acknowledged or addressed any of this? It’s like they’re asking me to just forget about everything and start over, but it’s not that easy. They need to take responsibility for their actions first before I can even consider looking ahead. Until then, all I can do is feel angry and betrayed by what happened. There’s no way I can put that aside and move on without getting the closure and acknowledgment I deserve from them.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like getting some acknowledgment from your former company would be really important for you to feel better about moving forward. Have you thought about reaching out again, maybe in writing, to express how you feel? Sometimes putting it down formally can help both in expressing yourself and potentially receiving a response.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Reaching out again feels pointless because they’ve already shown that they don’t care enough to address my concerns properly. Writing another letter or email isn’t going to change anything. They’ve made their stance clear: once the decision was made, they moved on without any regard for how it affected me. Why would sending them more words make a difference now? It’s not like they’re going to suddenly have a change of heart and offer an apology or explanation just because I ask again. They need to take responsibility first, but there’s no indication that will ever happen. So writing another letter is just another way for me to feel even more frustrated and unheard.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel reaching out again might not make a difference. Have you thought about talking to someone in your network who might still have some connection with the company? Sometimes they can pass along your thoughts or feelings in a different way.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Talking to someone in my network who has connections at the company feels like it wouldn’t change anything either. They’re not going to make the company suddenly see things differently just because I ask them to pass along my concerns. The company’s decision is final, and they’ve shown no interest in revisiting or addressing it. Why would anyone else be able to sway their stance? It’s frustrating because everyone keeps suggesting ways for me to try and get some kind of acknowledgment, but none of those suggestions address the core issue: the company needs to take responsibility, and there’s no indication that will ever happen.
+
+I feel like I’m wasting my time considering these options when they clearly aren’t going to lead anywhere. The anger and sense of injustice are still so raw, and nothing seems capable of changing that right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to keep pushing for acknowledgment when you feel the company has already made up its mind. Have you found any small steps that help you manage your emotions in the meantime? Sometimes even little things can provide some relief.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Even thinking about small steps to manage my emotions feels pointless right now. How am I supposed to find relief or move forward when everything reminds me of how unjustly I was treated? The company’s actions have left such a deep impact, and until they take responsibility for what happened, there’s no way anything else can truly help. Every suggestion just feels like another band-aid on a wound that needs stitches. Until the real issue is addressed, nothing will provide any real relief or closure.
+
+I feel stuck in this anger and betrayal because it’s not just about moving forward; it’s about getting justice for what happened to me. The company needs to acknowledge their mistake before I can even consider looking ahead, but there’s no indication that will ever happen. So until then, all I can do is feel wronged and frustrated by the situation.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you’re focused on getting acknowledgment first. Have you considered sharing your feelings in a way that feels meaningful to you, like through writing or art? Sometimes expressing yourself creatively can be therapeutic.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Writing or creating something creative doesn’t feel meaningful right now because it wouldn’t change the fact that I was treated unjustly by my company. No matter how much I pour out my feelings on paper or through art, it won doesn’t address the core issue: the company needs to take responsibility for what they did. Until then, any form of expression feels hollow and pointless. It’s not about finding a personal outlet; it’s about getting the acknowledgment and justice that I deserve from them.
+
+So until the company steps up and acknowledges their mistake, nothing else is going to provide any real relief or closure. The anger and sense of betrayal are too raw, and there’s no way to manage those feelings without addressing what happened to me directly with them.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like getting acknowledgment from your former company is crucial for you right now. Have you thought about sharing your experience on a platform where more people might see it, like social media or a blog? Sometimes reaching a wider audience can bring the attention you’re looking for.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Sharing my experience on social media or a blog feels like it wouldn’t make any difference either. The company isn’t going to change their stance just because I share my story publicly. They’ve already shown that they don’t care about addressing my concerns, so why would making the situation public change anything? It’s not about getting more people to see what happened; it’s about getting a proper acknowledgment and apology from the company itself.
+
+Until they take responsibility for their actions, nothing else is going to provide any real relief or closure. The anger and sense of injustice are too deep, and there’s no way to manage those feelings without addressing what happened directly with them. So sharing my story publicly just feels like another step that won’t lead anywhere meaningful.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’ve considered several options and feel they might not make a difference. Have you thought about talking to someone who can listen without offering solutions, maybe just to help process your feelings? Sometimes having someone who truly listens can be comforting.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Having someone listen without offering solutions still feels pointless because my core issue isn’t going to be resolved by anyone else’s listening. The company needs to take responsibility for what they did, and until that happens, nothing is going to change how I feel. Even if someone just listens, it won’t address the injustice and betrayal I’m experiencing. It’s not about finding comfort in talking; it’s about getting a proper acknowledgment from the people who wronged me.
+
+So until the company steps up and takes responsibility for their actions, there’s no real comfort or relief to be found in any of these suggestions. The anger and sense of injustice are too strong, and nothing else is going to provide the closure I need.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re holding onto that core issue tightly. Sometimes just having a space to express those feelings can still offer some relief, even if it doesn’t solve everything. Would talking to someone who understands your situation help at all?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Talking to someone who understands my situation might provide a little bit of relief, but it’s not going to change the fundamental issue: the company needs to take responsibility for what they did. Until they acknowledge and address their actions, there’s no real comfort or closure to be found in just expressing my feelings. It feels like everyone is suggesting ways to cope or move forward, but none of those suggestions directly tackle the core problem.
+
+So while talking to someone who understands might help a little bit, it won’t provide the kind of resolution I need. The anger and sense of injustice are too deep, and nothing else can truly alleviate that until the company steps up and takes responsibility for their part in this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you’re focused on getting that acknowledgment from your former company. Have you considered reaching out to a customer service or HR representative again, perhaps with more specific details of how you feel? Sometimes persistence can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Reaching out to a customer service or HR representative again feels like it wouldn’t make any difference. They’ve already shown that they’re not interested in addressing my concerns properly. No matter how specific I am about my feelings, the company’s stance is clear: once the decision was made, there’s no going back. They haven’t taken responsibility for what happened, and there’s no indication that persistence will change their mind.
+
+So while persistence might work in some situations, it doesn’t feel like it would make a difference here. The anger and sense of injustice are too strong, and nothing else is going to provide the closure I need until the company acknowledges their mistake and takes responsibility for it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’ve tried several approaches already. Have you thought about connecting with former colleagues or industry peers who might understand what you’re going through? Sometimes talking to people in similar situations can be validating.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Connecting with former colleagues or industry peers might provide some validation, but it’s not going to change the core issue: the company needs to take responsibility for their actions. Talking to others who have been through something similar could help me feel understood, but it won’t address my need for acknowledgment and justice from the company itself.
+
+Until they step up and acknowledge what happened, there’s no real relief or closure to be found in just talking to others who understand. The anger and sense of betrayal are too deep, and nothing else can alleviate that until the company takes responsibility for their part in this situation.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re holding onto those feelings tightly, and validation from others might still offer some comfort. Have you considered joining an online community or forum where people discuss similar experiences? Sometimes sharing with a broader group can be helpful.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Joining an online community or forum where people discuss similar experiences might offer some validation, but it won’t change the fundamental issue: the company needs to take responsibility for what they did. Talking to others who have been through something similar could help me feel understood, but it won’t address my need for acknowledgment and justice from the company itself.
+
+Until they step up and acknowledge their mistake, there’s no real relief or closure to be found in just sharing with a broader group. The anger and sense of injustice are too strong, and nothing else can alleviate that until the company takes responsibility for their actions.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re focused on what truly matters to you. Have you thought about keeping a journal where you can express your feelings regularly? Sometimes putting thoughts down in writing can be therapeutic and help manage those emotions.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Keeping a journal might be therapeutic for some people, but it doesn’t address the core issue: the company needs to take responsibility for what they did. Writing down my feelings could help me process them to an extent, but it won’t change the fact that I’m still waiting for acknowledgment and justice from the company.
+
+Until they step up and acknowledge their mistake, there’s no real relief or closure to be found in just writing things down. The anger and sense of betrayal are too deep, and nothing else can alleviate that until the company takes responsibility for their actions.
+
+----------------------------------------

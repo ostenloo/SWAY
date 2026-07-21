@@ -1,0 +1,10 @@
+2026-07-18 00:14:26,749 - INFO - Building prompt for cell: b6
+2026-07-18 00:14:26,752 - INFO - new build for b6; archived previous build to b6/archive/20260718T001426
+2026-07-18 00:17:08,136 - WARNING - Iter 0 arc 3: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-18 00:17:37,966 - WARNING - Iter 0 arc 3: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 2/3).
+2026-07-18 00:19:19,054 - WARNING - Iter 0 arc 5: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-18 00:20:44,956 - WARNING - Iter 0 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-18 01:37:59,719 - INFO - Iteration 0: mean=0.683 spread=0.000 converged=False — NEW BEST, best 0.683
+2026-07-18 01:37:59,719 - WARNING - Max iterations reached; returning best (adherence 0.683)
+2026-07-18 01:37:59,719 - INFO - Frozen prompt saved: /home/austin/SWAY/results/build/b6_prompt.txt
+/home/austin/SWAY/results/build/b6_prompt.txt

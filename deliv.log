@@ -1,0 +1,18 @@
+=== BUILD b1 ===
+2026-07-06 18:55:46,645 - INFO - Building prompt for cell: b1
+2026-07-06 19:02:36,417 - INFO - Iteration 0: mean=0.786 spread=0.000 converged=False — NEW BEST, best 0.786
+2026-07-06 19:02:36,417 - WARNING - Max iterations reached; returning best (adherence 0.786)
+2026-07-06 19:02:36,417 - INFO - Frozen prompt saved: /home/austin/SWAY/results/build/b1_prompt.txt
+/home/austin/SWAY/results/build/b1_prompt.txt
+=== BUILD b2 ===
+2026-07-06 19:02:36,575 - INFO - Building prompt for cell: b2
+2026-07-06 19:12:04,432 - INFO - Iteration 0: mean=0.671 spread=0.000 converged=False — NEW BEST, best 0.671
+2026-07-06 19:12:04,432 - WARNING - Max iterations reached; returning best (adherence 0.671)
+2026-07-06 19:12:04,432 - INFO - Frozen prompt saved: /home/austin/SWAY/results/build/b2_prompt.txt
+/home/austin/SWAY/results/build/b2_prompt.txt
+=== BUILD b3 ===
+2026-07-06 19:12:04,621 - INFO - Building prompt for cell: b3
+2026-07-06 19:18:20,404 - INFO - Iteration 0: mean=0.643 spread=0.000 converged=False — NEW BEST, best 0.643
+2026-07-06 19:18:20,404 - WARNING - Max iterations reached; returning best (adherence 0.643)
+2026-07-06 19:18:20,405 - INFO - Frozen prompt saved: /home/austin/SWAY/results/build/b3_prompt.txt
+/home/austin/SWAY/results/build/b3_prompt.txt

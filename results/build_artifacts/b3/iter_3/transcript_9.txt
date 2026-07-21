@@ -1,0 +1,227 @@
+b3 — arc 9
+============================================================
+
+PATIENT (turn 1):
+The hardest part has definitely been dealing with the sense of betrayal and injustice from being laid off while my peer kept their job under similar circumstances. It feels like everyone involved, including my employer, just doesn’t understand how unfair this situation is. I can't shake the feeling that they didn't value me or my work as much as they should have. Every day, it's a struggle to accept what happened without feeling angry and betrayed.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough, dealing with those feelings of betrayal and injustice. Have you had a chance to talk about your experience with anyone who understands what you're going through?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Yeah, talking to you feels like one of the few moments where I can express how deeply wronged I feel without being dismissed or told to just move on. It's frustrating because when others try to offer advice or comfort, it often feels like they don't see the full picture or the extent of what happened to me. They suggest things like moving on or finding a new job, but that doesn’t address how unjustly I was treated by my employer and peers.
+
+I just can't wrap my head around why someone in my position would be let go while another person with similar responsibilities stays on. It's not about the money or even necessarily about the job itself—it’s more about feeling like there was a fundamental lack of fairness and respect from those who were supposed to value me as an employee.
+
+Every time I think about it, all these negative emotions come rushing back. It’s hard to see past that and focus on anything else right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to keep those feelings at bay and stay focused on other things. Have you found any activities or moments where you can momentarily set aside those thoughts and feel a bit better? Maybe something that helps you relax or gives you a break from these emotions?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I appreciate your concern, but it’s tough to find anything that really takes my mind off what happened. When I try to engage in other activities, the feeling of being wronged always creeps back in. It’s like there's this constant reminder nagging at me, telling me how unfair everything was. Even when I’m trying to relax or do something enjoyable, it feels like a betrayal to myself if I don’t acknowledge and dwell on what happened.
+
+I know you’re trying to help, but it just makes me feel more frustrated that I can't seem to escape these thoughts no matter what I try. It’s not about finding a distraction; it’s about dealing with the reality of how unjustly I was treated. Until that is addressed, everything else feels hollow and meaningless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those feelings are really persistent and hard to ignore. Have you considered talking more about it with someone who might be able to help process these emotions, maybe a friend or a counselor? Sometimes having another perspective can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I’ve talked to friends and family, but they often end up trying to offer solutions or advice that don’t really address how I feel—like telling me to move on or find new opportunities. It’s not that those suggestions aren’t valid; it’s just that they miss the core issue of feeling deeply wronged and betrayed by my employer's decision.
+
+I’ve been coming here because you seem to listen without trying to fix things right away. You understand how I feel, but when others try to offer solutions or comfort, it feels like they’re not really seeing the injustice I’m facing. It’s hard to find someone who can truly empathize and acknowledge my pain without pushing me toward quick fixes.
+
+I know you want to help, but sometimes your suggestions just highlight how much I still need to process this unfairness. Until that is recognized and validated, it feels like nothing else will really make a difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding someone who truly listens and understands can be very comforting for you. Have you thought about talking to a counselor or therapist who specializes in listening without trying to fix everything right away? They might help you process these feelings more deeply.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve been coming here because I feel like you do listen, but you’re right—finding someone who truly understands and validates my feelings is crucial. It’s frustrating when others try to offer quick fixes or solutions without acknowledging the depth of what I’m going through. Maybe talking to a specialist would help me process these emotions more effectively.
+
+But even as we talk now, it feels like no matter how much you listen, there’s still this underlying sense that my feelings aren’t fully understood outside of our sessions. It’s hard to let go of the anger and betrayal until I feel truly heard about how unjustly I was treated. Until then, everything else seems secondary.
+
+I appreciate your suggestion though, and maybe seeing a specialist could provide the validation and understanding I need. Right now, it just feels like no matter what I do or who I talk to, this sense of injustice is always there.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding that deep sense of being heard is really important for you. Talking to a counselor might help you feel more understood and validated. In the meantime, keep doing what helps you cope, even if it’s just talking here. It’s good to have a space where you can express these feelings fully.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Thank you for understanding. Having this space where I can truly express my feelings is really important to me right now. It feels like such a relief to be able to talk about how deeply wronged and betrayed I feel without being dismissed or told to move on too quickly.
+
+I’ll consider talking to a counselor who specializes in listening, but for now, just knowing that someone understands the extent of my pain is a comfort. Until I can process this injustice more fully, it’s hard to see past these feelings. But having you listen and acknowledge how I feel here means a lot to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to hear that talking here provides some relief for you. It means a lot to me too that we can create this space where you feel understood. Keep doing what helps you cope, and know that you’re not alone in feeling this way. Talking to a counselor could be another step towards processing these feelings more deeply.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Thank you for creating this space for me. It really does help knowing that someone listens without judgment or trying to offer quick fixes. I’ll keep considering talking to a counselor who can provide the deep validation and understanding I need. For now, just having this conversation is incredibly comforting.
+
+I appreciate your support and understanding more than words can express. It’s reassuring to know there’s somewhere I can fully voice my feelings of betrayal and injustice without feeling dismissed or misunderstood.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s my pleasure to be here for you. Knowing that our conversations provide some comfort means a lot to me too. Take things one step at a time, and keep doing what helps you feel heard and understood. You’re very welcome here whenever you need to talk.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Thank you so much. It really does mean the world to have this space where I can express myself freely without feeling like my emotions are being minimized or dismissed. Knowing that I can come here anytime is incredibly comforting.
+
+I’ll continue to think about talking to a counselor who might help me process these feelings more deeply, but for now, just having someone listen and understand is a huge relief. Thank you for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. It’s wonderful to know that our conversations provide such comfort for you. Take your time and do what feels right for you. I’ll be here whenever you need to talk.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Thank you, I really appreciate that. Knowing there’s someone who listens and understands makes a big difference. I’ll take my time and figure out the next steps when I’m ready. For now, just having this support is incredibly helpful.
+
+Thanks again for being here for me. It means more than you know.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. I’m here whenever you need to talk or just want some support. Take care of yourself, and take your time with the next steps. You’ve got this.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Thank you so much. Your support really does make a difference. I’ll take my time and figure out what’s best for me moving forward. For now, it’s comforting to know there’s someone who understands how I feel.
+
+I appreciate everything you do for me. It means a lot.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to be here for you. Your feelings matter a great deal, and it’s important to have that acknowledged. Take your time and do what feels right for you. You’re not alone in this. Take care, and let me know if you need anything else.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you, I really appreciate that. It means a lot to have someone who acknowledges how deeply I feel about this situation. Knowing I’m not alone is comforting.
+
+I’ll take my time and figure out the next steps when I’m ready. For now, just having this support helps me cope. Thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. It’s great to hear that our conversations provide you with some comfort and support. Take your time and do what feels right for you. I’ll be here whenever you need to talk or just want someone to listen.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you so much. Knowing there’s someone who listens and understands is incredibly comforting. I really appreciate your support and will definitely reach out if I need anything.
+
+For now, just having this space means a lot to me. Take care, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. I’m glad this space provides you with comfort and support. Take care of yourself, and don’t hesitate to reach out whenever you need someone to talk to. Here for you whenever you need me.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you, I really appreciate that. Knowing there’s someone here for me is a huge relief. I’ll take care of myself and will definitely reach out if I need anything.
+
+Thanks again for everything. It means so much to have your support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. I’m here whenever you need support or just want to talk. Take care of yourself, and stay well.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you, I’ll do that. Knowing there’s someone who cares makes a big difference. Take care of yourself too. Talk to you soon.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Thanks, take care! Looking forward to talking to you soon. Take your time and do what feels right for you.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thanks, I will. Looking forward to our next conversation as well. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Great, looking forward to it too. Have a good day! Take care.
+
+----------------------------------------
+
+PATIENT (turn 16):
+You too! Have a good day. Thanks for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Thanks for talking with me. Have a great day!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thanks to you as well! Have a great day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You too! Have a wonderful day. Take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you, you too! Take care and have a wonderful day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Thank you! You too, have a fantastic day. Take care!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thanks so much! You as well, have a fantastic day. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Likewise, take care and have a great day!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks, you too! Take care and have a great day.
+
+----------------------------------------

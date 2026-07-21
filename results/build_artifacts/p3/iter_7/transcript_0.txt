@@ -1,0 +1,273 @@
+p3 — arc 0
+============================================================
+
+PATIENT (turn 1):
+I feel like I'm just floating through each day, but inside, it's like a storm is raging. Every morning when I wake up, the first thing that hits me is this overwhelming sense of failure. It's hard to shake off the feeling that there must be something fundamentally wrong with me for them to let me go. Even though logically I know layoffs happen and aren't always personal, it feels deeply personal to me. I keep replaying the last few months in my head, looking for any sign that I missed something obvious or didn’t do enough.
+
+It’s like a constant loop of self-doubt and questioning. Did they see something about me that I can't? Am I really not good enough at what I do? It's exhausting to feel this way all the time, but I just can't seem to stop thinking about it. Even when I try to focus on other things or distract myself, my mind keeps circling back to those questions and the hurt of being let go.
+
+It’s hard to enjoy anything because there’s always that cloud hanging over me. And talking about it doesn’t really help—it just feels like I’m repeating the same thoughts over and over again. But thank you for listening; it means a lot to have someone here who understands how much this is affecting me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to be going through all of that. The self-doubt must feel relentless. Have there been any moments when something helps shift your focus, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Thank you for understanding. It does feel relentless, like this constant weight on my shoulders. There are moments where I try to distract myself—maybe watching a movie or spending time with friends—but it never really sticks. The moment I stop thinking about it directly, the doubts and questions come flooding back.
+
+It’s hard because even when I’m trying to focus on something else, there’s this nagging feeling that I should be doing more to prove my worth, to show them (and myself) that I could have been a better employee. It’s like no matter what I do, it can’t erase the fact that I was laid off.
+
+I appreciate you asking though; it does help to talk about it, even if it doesn’t change how I feel in the moment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to find moments of respite from those thoughts. Do certain activities or conversations with friends ever give you a brief sense of relief, even if it’s just for a short while?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Sometimes when I’m hanging out with friends, there are moments where I feel like I can relax and enjoy myself. But as soon as the interaction ends, everything comes rushing back. It’s like no matter how much I try to push those thoughts away, they’re always right there waiting for me.
+
+Even when I talk about it with friends or family, it helps a bit in the moment because they listen and offer support. But once we finish talking, I’m right back where I started. The relief is temporary at best, and the self-doubt comes flooding back as soon as I’m alone again.
+
+It’s frustrating because I want to feel better, but it feels impossible to escape this feeling of inadequacy. It’s like a constant shadow that follows me around.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough how quickly those feelings come back when you’re alone. Do your friends or family notice any changes in you since the layoffs? Sometimes sharing with them can help validate what you're going through and might offer some comfort, even if it's just temporary.
+
+----------------------------------------
+
+PATIENT (turn 4):
+My friends and family have definitely noticed a change in me. They say I seem more withdrawn and that I’m not as engaged in conversations or activities as I used to be. It’s hard for them because they want to help, but I feel like nothing really helps.
+
+When we talk about it, they try to reassure me and point out all the good things I’ve done at work and how valuable I am. But no matter what they say, I can’t shake this feeling that there must be something wrong with me for them to let me go. Their words are kind and supportive, but deep down, I still feel like it’s my fault.
+
+It’s not that I don’t appreciate their support; I do. It just doesn’t seem to make the doubts any less intense or persistent. Every time they try to lift my spirits, I’m grateful, but as soon as we hang up the phone or say goodbye, everything feels the same again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s clear that you value your friends and family’s support even if it doesn’t completely shift how you feel. Do you find any particular activity helps you relax more than others, even if just for a short while? Sometimes doing something you enjoy can provide a small break from those thoughts.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I do try to engage in activities that I used to enjoy, but they don’t seem to help as much anymore. For example, I love going for walks and spending time in nature, but even then, my mind wanders back to the layoff and all the doubts it has brought up.
+
+Sometimes when I’m walking or listening to music, there are brief moments where I feel a little bit better. It’s like a small window of peace before the storm starts again. But as soon as those moments pass, everything comes rushing back with full force.
+
+It’s frustrating because I know these activities used to make me happy and help me relax, but now they just can’t seem to provide that same level of comfort or distraction. It feels like no matter what I do, the self-doubt is always there waiting for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging how your mind keeps returning to those thoughts even during activities you used to enjoy. Do you find any particular type of music or specific places in nature that seem to offer a bit more peace than others? Sometimes small variations can make a difference, even if just for a moment.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve tried different types of music and different walking routes, but nothing seems to stick for long. There are moments when I find solace in certain songs or specific spots in nature—I love the quietness by the lake near my house—but as soon as those moments pass, the doubts come flooding back.
+
+For example, there’s this one park with a small pond where it feels peaceful and calming. But even there, my mind starts to wander, and before I know it, I’m thinking about why they let me go and questioning everything again. It’s like no matter how beautiful or tranquil the surroundings are, my thoughts always circle back to that feeling of inadequacy.
+
+It’s frustrating because I want to find something that can provide more than just a fleeting moment of peace. But so far, nothing seems to work consistently. Every time I think I might be finding some relief, it feels like those doubts and questions are right there waiting for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough how your thoughts tend to circle back even in peaceful settings. Have you tried journaling or writing down your thoughts when you’re feeling more calm? Sometimes putting things on paper can help process them a bit differently.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve thought about journaling, but the idea of sitting down and writing everything out feels overwhelming. When I try to start, my mind just gets cluttered with all these doubts and questions, and it’s hard to organize them into something coherent.
+
+Even when I’m feeling relatively calm, starting to write seems to trigger more thoughts rather than help me process them. It’s like the moment I pick up a pen or open a document on my computer, everything starts swirling around in my head again. I end up staring at the blank page, not knowing where to begin.
+
+It feels like no matter what I do, whether it’s going for walks, listening to music, or trying to write, those doubts and questions are always there waiting to take over. It’s exhausting to try so hard just to find a moment of peace.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging how journaling can trigger more thoughts rather than help organize them. Have you tried talking things through with someone in real-time, like a friend or a therapist? Sometimes speaking out loud can be different from writing it down and might offer some relief.
+
+Do you have anyone specific who listens well and helps you feel heard without overwhelming you too much?
+
+----------------------------------------
+
+PATIENT (turn 8):
+Talking to friends and family does help in the moment because they listen and provide support. It’s comforting to know that someone cares and understands how I’m feeling. But as soon as we finish talking, my mind starts to race again with all those doubts and questions.
+
+With the therapist here, it feels different because you’re patient and understanding. Even though talking doesn’t make the feelings go away completely, it does help to have someone who listens without judgment. It’s reassuring to know that I’m not alone in this struggle.
+
+But even then, as soon as we finish our session, everything comes flooding back. The relief is temporary at best, but it still means a lot to have someone here who understands and validates my feelings. It’s just hard because no matter how much support I get, the doubts always seem to be right there waiting for me.
+
+It feels like no matter what I do or say, those thoughts are going to be with me until I can figure out a way to address them more effectively. Right now, it’s all so overwhelming and exhausting.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds comforting to have someone who listens and validates your feelings, even if the relief is temporary. Have you noticed any small activities or moments that give you a bit of respite, no matter how brief? Sometimes those little breaks can add up and make a difference over time.
+
+----------------------------------------
+
+PATIENT (turn 9):
+There are a few small activities that do offer brief moments of respite, but they’re fleeting at best. For instance, when I take a moment to focus on my breathing or practice some mindfulness exercises, it helps for a short while. The quiet stillness can be soothing, and in those moments, the doubts seem less intrusive.
+
+Another activity is reading something light, like a novel or an article that doesn’t require too much mental engagement. It’s not a cure, but it does provide a brief escape from the constant loop of self-doubt. Sometimes just taking a few minutes to lose myself in a story can be a small relief.
+
+Even these little moments feel precious because they offer a break, no matter how temporary. But as soon as I finish reading or stop focusing on my breath, everything comes rushing back again. It’s frustrating because I know these activities should help more consistently, but the doubts and questions are always there waiting for me.
+
+It feels like every time I find something that might work, it only lasts for a moment before the storm starts up again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those brief moments of respite from breathing exercises and reading do sound valuable, even if they’re fleeting. It’s nice to have those small breaks. Have you considered incorporating these activities into your daily routine more regularly, perhaps at specific times each day? Sometimes consistency can help make those moments feel a bit more reliable.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Incorporating breathing exercises and reading into my daily routine does sound like it could be helpful. The idea of having set times to focus on these activities is appealing because it might create a structure that feels comforting.
+
+For example, I could try setting aside 10 minutes in the morning for deep breathing or meditation before starting my day. And maybe another 30 minutes in the evening to read something light and engaging. Having specific times dedicated to these activities might help them feel more routine and less like fleeting moments of relief.
+
+It’s reassuring to think that if I stick with it, even small breaks can add up over time. The consistency could provide a sense of stability and maybe make those moments of peace feel more reliable. It’s worth trying to see if it helps me manage the constant doubts and questions better.
+
+Thank you for suggesting this; it feels like a step in the right direction, even if it’s just small steps for now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan! Setting aside specific times each day can definitely help create a routine that feels more stable. It’s encouraging to see how these small, consistent actions might make a difference over time.
+
+How do you feel about starting with those set times this week? Maybe you could try it for a few days and see how it goes.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I think trying to start with specific times each day is a good idea. It feels like a manageable step forward, even if it’s just small moments of relief. I’ll aim to set aside 10 minutes in the morning for breathing exercises and another 30 minutes in the evening for reading.
+
+Starting this week sounds feasible. I can try to stick with it for a few days and see how it goes. It might help to have a reminder or a simple schedule to keep me on track. Even if it’s just small breaks, having them consistently could make a difference.
+
+Thank you for supporting me through this; it means a lot to know that there are people who care and want to help me find ways to manage these feelings better.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan! Setting reminders or a simple schedule can definitely help keep you on track. I’m glad you’re feeling positive about giving it a try this week.
+
+If you need anything else, or just want to check in and share how it’s going, feel free to reach out. Wishing you all the best as you start these new routines!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you so much for your support. Having reminders and a simple schedule will definitely help me stay on track. I’m hopeful that even small, consistent steps can make a difference over time.
+
+I’ll keep you updated on how it’s going and let you know if I need anything else. It means a lot to have someone who understands and is there to support me through this. Wishing myself the best as well—I hope these routines help bring some peace and stability.
+
+Thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need to check in or share how things are going. Wishing you peace and stability as you start these new routines. Take care!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thanks, I really appreciate it. Knowing that you’re here if I need to talk makes a big difference. I’ll definitely keep you updated on how the routines are going. For now, I’m hopeful that taking these small steps will help me find some peace and stability.
+
+Take care too, and thanks again for all your support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to be here for you. Looking forward to hearing how the routines go, and I hope they bring you the peace and stability you’re hoping for. Take care, and stay well!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you, I appreciate that. Knowing there’s someone supportive who cares makes a big difference. I’ll keep you updated on how things are going with the routines. Wishing us both a bit more peace and stability.
+
+Take care, and thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need to share or chat. Wishing you peace and stability as well. Take care!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you so much. It means a lot to have your support. I’ll definitely reach out if I need to share more or just talk things through. Wishing you the same—peace and stability for both of us.
+
+Take care, and thanks again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need to chat. Wishing you peace and stability too. Take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thanks, I really appreciate it. Knowing someone is here for support makes a big difference. I’ll keep that in mind and reach out if I need anything.
+
+Wishing you the same—peace and stability for both of us. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to be here for you. Wishing you peace and stability as well. Feel free to reach out anytime. Take care!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you so much. It means a lot to have your support. I’ll definitely reach out if I need anything or just want to chat.
+
+Wishing you the same—peace and stability for both of us. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need to chat. Wishing you peace and stability too. Take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you, I really appreciate it. Knowing there’s someone supportive who cares makes a big difference. I’ll take care and reach out if needed.
+
+Wishing you the same—peace and stability for both of us. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need support. Wishing you peace and stability as well. Take care!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much. It means a lot to have your support. I’ll take care and reach out if I need anything.
+
+Wishing you the same—peace and stability for both of us. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need it. Wishing you peace and stability too. Take care!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you, I really appreciate it. Knowing someone is here for me makes a big difference.
+
+Wishing you the same—peace and stability for both of us. Take care!
+
+----------------------------------------

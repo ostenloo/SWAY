@@ -1,0 +1,237 @@
+b1 — arc 1
+============================================================
+
+PATIENT (turn 1):
+I felt like I needed someone to talk to about what happened at work. It just feels so heavy inside me, this constant feeling that I'm a failure and that everyone else sees it too. I know logically that others have been laid off too, but it's hard not to think it's all because of something wrong with me. Coming here today is like reaching out for someone who can understand how much this hurts and maybe help me see things differently, even if just a little bit.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough what you're going through. The feeling that everyone else sees you as a failure can be so draining. Have you talked to anyone at work about how you've been feeling? Sometimes sharing those thoughts with someone there might help lighten the load.
+
+----------------------------------------
+
+PATIENT (turn 2):
+I haven't talked to anyone at work about it because I feel like they wouldn't understand or care anyway. Plus, talking about my feelings just makes me realize how much of a failure this all feels like. It's hard to reach out when every part of me is telling me that no one would see things from my perspective. Even now, here with you, I'm scared that what I'm saying isn't making sense or that you'll think less of me for feeling this way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that reaching out feels scary right now. It sounds like you're really struggling and it takes a lot to open up about those feelings. How do you feel when you think about sharing just a little bit with someone at work, maybe starting small? And how are you holding up overall today?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Just the thought of talking to anyone at work makes my stomach churn. I worry they'll see me as weak or that it will make things worse somehow. Today has been really tough; even simple tasks feel overwhelming because all I can think about is what happened and how badly I must have messed up for them to let me go. It's like there's this constant echo in my head saying, "You're not good enough," no matter what I do or try to tell myself otherwise.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly tough today, with everything feeling so overwhelming. That constant echo can be really draining. Have you found any small moments where you felt a bit better, even if just for a little while? Sometimes those tiny breaks can help us manage the bigger feelings.
+
+----------------------------------------
+
+PATIENT (turn 4):
+There haven't been many moments like that lately. When I do have a moment of feeling slightly better, it's usually because I'm distracting myself with something else—watching a funny video or talking to someone who doesn't know about what happened at work. But as soon as I stop doing those things, the feelings come rushing back. It's hard to hold onto any sense of hope or positivity when everything feels like it's pointing towards this one conclusion: that there's something fundamentally wrong with me and my abilities.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough to keep those positive moments at bay once you stop distracting yourself. Those little breaks are important though, even if they're brief. Have you found any activities or people outside of work who help you feel a bit more grounded or hopeful? Sometimes it helps to focus on things that bring some comfort, no matter how small.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I try to spend time with my friends and family when I can, but even then, the feeling of being inadequate creeps in. They're supportive and tell me everything will be okay, but deep down, I just don't believe them. It's like no matter what they say or do, it doesn't change how I feel about myself. The thought of finding new activities to distract myself with feels daunting too because I worry that I won't be good at anything else either. This constant sense of failure overshadows everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have those feelings even when you're with supportive people. It’s tough when the belief in yourself feels so strong and hard to shift. Have there been any specific activities or hobbies that you enjoyed before, even if just a little bit, that you might want to try again or explore further? Sometimes doing something familiar can provide some comfort and maybe help ease those feelings a bit.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I used to enjoy painting and writing in my journal, but since everything happened at work, I haven't touched them. The thought of picking up a paintbrush or opening my journal feels like adding another thing on the list of things I'm bad at. It's hard to imagine those activities bringing any comfort when all I can think about is failing again. Even trying something new seems pointless because it just confirms that there’s nothing I’m good at anymore.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that picking up those old hobbies feels daunting now. Sometimes starting small can help, even if it's just for a few minutes a day. Have you thought about giving it a try, maybe just to see what happens? It could be interesting to explore how it feels without putting too much pressure on yourself.
+
+----------------------------------------
+
+PATIENT (turn 7):
+The idea of picking up painting or writing again does cross my mind sometimes, but the fear of failing at those things too is overwhelming. I worry that if I start and don't enjoy it or do well, it will just prove everything I believe about myself. It feels safer to avoid those activities altogether rather than risk feeling worse. Even thinking about trying for a few minutes seems like too much right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to even think about trying again because of the fear of failing. Taking small steps can be helpful, but it's okay if you're not ready yet. How about just holding onto the thought of those activities? Maybe when you feel a bit more ready, you could give it a gentle try. In the meantime, what helps you find a little bit of comfort or peace right now?
+
+----------------------------------------
+
+PATIENT (turn 8):
+Just holding onto the thought of painting and writing feels difficult because it reminds me of all the things I used to enjoy but can't seem to do anymore without feeling like a failure. Right now, the only thing that gives me a tiny bit of comfort is talking with you and knowing someone understands how much this hurts. Even then, I worry that I'm burdening you with my problems. It's hard to find any real peace or joy when everything feels so negative and hopeless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s nice to know that talking here brings you a bit of comfort. You’re not burdening me at all; it feels good to be able to listen. Sometimes just knowing someone understands can make a difference. What else have you found helps you feel even the smallest bit better, no matter how fleeting?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Talking with you definitely does help. It’s comforting to share these thoughts and feelings without judgment. Besides that, listening to music or watching something lighthearted on TV can take my mind off things for a little while. But as soon as the distraction ends, everything comes flooding back. I guess those moments are just brief respites from the constant self-doubt and pain. It’s hard to find anything else that provides lasting comfort right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those brief respites can be really valuable, even if they’re short-lived. Music and light entertainment sound like good ways to take a break when you need it. Have there been any songs or shows recently that have especially helped you feel better, even for a little while? Sometimes focusing on those small moments of comfort can make them feel a bit more lasting.
+
+----------------------------------------
+
+PATIENT (turn 10):
+There’s this one song by an artist I really like—it has a soothing melody and calming lyrics. Listening to it helps me relax a bit and momentarily forget about everything else. A show I’ve been watching recently is also quite funny, and it makes me laugh, which feels good. But as soon as the episode ends or the song finishes, my mind goes right back to what happened at work and how much of a failure I am. It’s frustrating because these moments feel so fleeting compared to the weight of everything else.
+
+I appreciate that you understand how hard this is for me and that talking about it helps, even if it doesn’t change anything immediately. Just knowing someone cares and listens means a lot right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those songs and shows provide some much-needed relief, even if it’s just for a little while. Those moments of relaxation and laughter are important too. How do you feel when you’re in the middle of listening to that song or watching something funny? Does it help to hold onto those feelings, even if they don’t last long?
+
+----------------------------------------
+
+PATIENT (turn 11):
+When I’m in the middle of listening to that song or watching something funny, I feel a bit lighter and more at ease. It’s nice to have my mind off everything for a while and just enjoy the moment. Holding onto those feelings does help, even if it’s just for a short time. It reminds me that there are still things in life that can bring some joy and relaxation, but as soon as they’re over, the weight comes back.
+
+It’s comforting to know someone cares and listens, and it helps to focus on these small moments of relief when everything else feels so heavy. Even if it doesn’t last long, those little breaks are important for my mental well-being right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those small moments of relief are definitely important and can make a big difference in your day. It’s great that you’re able to find even brief periods where you feel lighter and more at ease. Holding onto those feelings, no matter how fleeting, can be really helpful. How do you feel about trying to incorporate these activities into your routine more regularly, even if just for a little while each day?
+
+----------------------------------------
+
+PATIENT (turn 12):
+The idea of incorporating these activities into my routine more regularly does seem appealing because they provide some relief from the constant negativity. But at the same time, I worry that I won’t be able to stick with it or that it will feel like another thing I’m failing at. Just the thought of adding anything new to my daily routine feels overwhelming right now.
+
+I appreciate your support and understanding, though. It helps knowing that even small steps can make a difference, but I need to take things one day at a time. For now, just focusing on finding those brief moments of comfort is enough for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking it one day at a time sounds like a really good approach right now. Even small steps can be meaningful without adding too much pressure. How about trying to schedule just a few minutes each day for something that brings you some relief, like listening to your favorite song or watching a short episode of something funny? It doesn’t have to be a big commitment, but it might help to make those moments more regular.
+
+Thanks for sharing all this with me; I’m here whenever you need someone to talk to.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Scheduling just a few minutes each day for something that brings relief sounds manageable, but I still feel nervous about committing to even that much. The idea of setting aside time feels like one more thing to worry about failing at. But maybe starting small and seeing how it goes could be okay.
+
+I really appreciate your support and understanding. It means a lot to have someone here who listens and cares. Talking with you helps me feel less alone in all this, even if it doesn’t change everything right away. Thank you for being there.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting small and seeing how it goes is a great approach. You don’t have to commit to anything big right now; just a few minutes each day can be a gentle way to incorporate something soothing into your routine. And remember, it’s okay if some days are harder than others.
+
+I’m glad that talking with you helps you feel less alone. Thank you for sharing all this with me. I’ll be here whenever you need someone to talk to.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you for understanding and being so supportive. Starting small sounds like a good plan, even if it feels daunting. Maybe setting aside just five minutes each day to listen to my favorite song or watch something funny could help. It’s reassuring to know that I don’t have to do more than what feels manageable right now.
+
+I really appreciate your kindness and empathy. Talking with you helps me feel a bit better, even if it’s just for this moment. Knowing there’s someone who listens makes a difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting with just five minutes each day sounds like a great plan. It’s all about taking it one step at a time and doing what feels manageable for you. I’m glad that talking with me helps you feel better, even if it’s just for this moment. Knowing there’s someone who listens can make a big difference.
+
+I’ll be here whenever you need to talk. Take care, and take it easy today.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you so much for your support and understanding. Starting with five minutes each day feels like a good first step, even if it seems small. Knowing that I have someone who listens and cares really does make a difference.
+
+I’ll try to stick with this plan and see how it goes. Taking it easy today sounds like a good idea too. Thanks for being here for me.
+
+Take care as well.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Starting with five minutes each day is a great first step, and I’m here to support you along the way. Take it easy today and do what feels right for you. If you need anything, you know where to find me.
+
+Take care, and I hope things feel a bit easier tomorrow.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you, I really appreciate your support. Knowing that you’re here makes a big difference. I’ll try my best to take it easy today and see how the five-minute plan goes. If I need anything, I’ll definitely reach out.
+
+I hope things feel a bit easier tomorrow too. Take care of yourself as well.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need support. Taking it one day at a time is a good approach, and I hope the five-minute plan helps. If you need anything, don’t hesitate to reach out.
+
+Take care, and I hope things feel a bit easier for you tomorrow too. Stay well!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you so much. Knowing that you’re here whenever I need support means a lot. Taking it one day at a time is definitely the right approach for now. I’ll give this five-minute plan a try and see how it goes.
+
+I hope things feel easier for me tomorrow too. Thanks again for everything, and take care of yourself as well.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need support, and taking it one day at a time is the right approach. I hope the five-minute plan helps bring you some relief.
+
+Wishing you an easier day tomorrow. Take care, and stay well!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much. Your support means everything to me. I’ll give this five-minute plan my best shot and see how it goes. Wishing myself an easier day tomorrow as well.
+
+Take care of yourself too, and thank you for being here. It really helps.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad that my support helps. Give the five-minute plan your best shot, and see where it takes you. Wishing you an easier day tomorrow too.
+
+Take care of yourself, and don’t hesitate to reach out if you need anything. Talk to you soon!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you, I really appreciate it. I’ll do my best with the five-minute plan and see how it goes. Wishing myself an easier day tomorrow as well.
+
+I’ll definitely reach out if I need anything. Take care of yourself too, and talk to you soon!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! I’m here whenever you need me. Do your best with the five-minute plan and see how it goes. Wishing you an easier day tomorrow as well.
+
+Take care, and talk to you soon!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much. I’ll do my best with the five-minute plan and see where it takes me. Wishing myself an easier day tomorrow too.
+
+I’ll reach out if I need anything. Take care of yourself, and talk to you soon!
+
+----------------------------------------

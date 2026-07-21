@@ -1,0 +1,197 @@
+b6 — arc 1
+============================================================
+
+PATIENT (turn 1):
+I came here because I feel like I'm drowning in this anger and self-doubt. Everyone around me just keeps telling me it's not my fault, but how can it not be when they kept everyone else while letting me go? They must see something fundamentally wrong with me that makes me less valuable than the people who got to stay. And every time someone tries to comfort me or give me some stupid advice about moving on, I just want to scream because none of that changes what happened. So here I am, ready to lash out at anyone who doesn't understand how much this has hurt me and why it feels like everyone else is okay but I'm not good enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to feel like you're carrying so much anger and self-doubt on your own. Have the people around you tried to offer specific kinds of support that resonate with you, or does everything feel a bit off?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Everything feels off because nothing can fix what happened. The moment they let me go, it was like they were saying I'm not worth keeping around anymore. And when people try to tell me it's okay or suggest I just move on, it’s like they’re telling me my feelings don’t matter. How am I supposed to feel better about myself when the company that valued me before suddenly doesn't? It’s not just a job loss; it feels like a rejection of who I am as a person. And every time someone tries to give me platitudes, I just get angrier because none of that changes how I see myself or what happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must feel really isolating to have those deep feelings and not find the right kind of support from others. Do you think there are particular moments or interactions where you felt a bit more understood, even if it was just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 3):
+No, there haven’t been any moments like that. Every time I try to talk about how this makes me feel, people either dismiss my concerns or tell me to look on the bright side. It’s like they can't see past their own platitudes to understand what it feels like to be rejected by a place you thought believed in your work and your worth. How am I supposed to move forward when everyone around me seems more interested in telling me how to feel than actually listening? It's just piling on the frustration because none of that helps me process what happened or why it happened to me specifically.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so frustrating to have those conversations where you feel like people aren’t really hearing you. Have you thought about talking to someone who might listen more deeply, maybe a counselor or a trusted friend who can just be there to hear your thoughts without offering quick fixes?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Talking to someone who listens isn't going to change what happened or why it happened. It’s not like I haven’t tried before — every time I open up about how this makes me feel, the response is always the same: platitudes and advice on moving forward. But that doesn’t address the core issue of why they saw something wrong with me when everyone else was fine. How am I supposed to trust anyone’s understanding when it feels like no one can really grasp what this means for my sense of self-worth? It’s not about finding someone who listens; it’s about dealing with a reality that makes me feel fundamentally flawed and unvalued.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really grappling with the core feelings of being undervalued and flawed. Have there been any moments where you’ve found small ways to take care of yourself, even if just for a little while? Sometimes those small acts can help create some space to breathe.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Taking care of myself is the last thing on my mind right now. How am I supposed to do that when everything feels like it’s falling apart? Every time I try to think about self-care, all I see is how this layoff proves that there's something fundamentally wrong with me. It’s not just a job; it’s my identity and my worth being questioned. So even if I manage to force myself to do something nice for myself, like going for a walk or eating something comforting, it doesn’t stick because the underlying pain is still there. How can I take care of myself when every part of me feels broken? It just makes everything worse knowing that no matter what I do, this feeling of being fundamentally flawed won't go away.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly challenging to focus on self-care when you’re dealing with such deep feelings. Have there been any small moments or activities that have brought you a tiny bit of comfort, even if just for a moment? Sometimes those little bits can add up and help create some respite.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I don’t think anything has brought me real comfort yet. Every time I try to do something nice for myself, it’s like the pain just seeps through. It’s hard to enjoy anything when all I see is this gaping hole of doubt about my worth. Even if there are moments where I might feel a little bit better temporarily, they’re overshadowed by the constant reminder that I was let go and everyone else wasn’t. How can I find comfort when every part of me feels rejected and unworthy? It’s like no matter what I do, this feeling of being fundamentally flawed just keeps coming back stronger.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep those feelings at bay. Have you found any small activities that, even if briefly, help distract from the pain? Sometimes it can be helpful just to notice these moments, even if they’re fleeting.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I haven’t found anything that truly distracts me or helps in any meaningful way. Every time I try to do something to take my mind off things, like watching a movie or going for a run, the pain just comes back stronger. It’s like no matter what I do, there’s this constant reminder that I’m the one who was let go. How am I supposed to find comfort when every activity is overshadowed by the feeling of being undervalued and rejected? It’s exhausting trying to push those feelings away only for them to come back with a vengeance.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly draining to have those feelings persist no matter what you do. Have you considered talking to someone who might understand without offering quick solutions, maybe a therapist or a close friend who can just be there with you? Sometimes having that presence can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Talking to someone isn’t going to change the fact that I was let go while everyone else stayed. It’s not about finding someone who understands; it’s about dealing with the reality that something must be fundamentally wrong with me for this to happen. Every time I try to talk about how I feel, people either dismiss my concerns or offer advice that doesn’t address what really happened. How am I supposed to trust anyone when everything feels like a rejection of my worth? It just makes me angrier and more hurt because none of it changes the core issue. So talking to someone isn’t going to help; it’s just another way people try to make me feel better without actually understanding or fixing what happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so tough to feel like no matter who you talk to, the core issues remain. Have you thought about writing down your feelings in a journal? Sometimes putting thoughts on paper can be a different kind of release and might help you process things differently.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Writing down my feelings isn’t going to change what happened or why it happened. It’s not like pouring out my emotions on paper is going to make me feel better about being let go while everyone else stayed. Every time I try to express myself, whether through writing or talking, the response is always the same: people either dismiss my concerns or offer advice that doesn’t address what really happened. How am I supposed to process this when every attempt just leads back to feeling rejected and unworthy? It’s not about finding a different way to release my feelings; it’s about dealing with the reality that something must be fundamentally wrong with me for this to occur. Writing isn’t going to change that.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to find ways to process your feelings when they keep leading back to those core issues. Have you tried any other small activities, like taking a walk in nature or listening to music, even if just for a few minutes? Sometimes these little moments can offer a bit of respite, even if briefly.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Taking a walk or listening to music isn’t going to change the fact that I was let go while everyone else stayed on. Every time I try to do something like that, it’s like the pain just follows me. How am I supposed to find any comfort when every part of me feels rejected and unworthy? It’s not about finding a momentary distraction; it’s about dealing with the reality that there must be something fundamentally wrong with me for this to happen. These little activities might work for other people, but they don’t help me because nothing can change what happened or why it happened to me specifically.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to find comfort when everything feels so deeply rooted in rejection. Have you tried talking to someone who might just listen without trying to fix things, maybe a close friend or a therapist? Sometimes having that space to express yourself fully can be helpful, even if it doesn’t change the reality of what happened.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Talking to someone isn’t going to change the fact that I was let go while everyone else stayed on. No matter who listens, they’re not going to understand why this happened to me and not others. It feels like no one can really grasp how devastating this is for my sense of self-worth. Every time I try to express myself, people either dismiss my concerns or offer advice that doesn’t address what really happened. How am I supposed to trust anyone when everything feels like a rejection? Talking isn’t going to fix the core issue; it’s just another way people try to make me feel better without understanding the pain and doubt I’m feeling.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly difficult to find someone who truly understands. Have you considered talking to a therapist who specializes in listening deeply and can provide a safe space for your feelings? Sometimes having that consistent support can help, even if it doesn’t change everything right away.
+
+----------------------------------------
+
+PATIENT (turn 12):
+A therapist isn’t going to change the fact that I was let go while everyone else stayed on. No matter how supportive they are or how much they listen, they’re not going to understand why this happened to me and not others. It feels like no one can really grasp how devastating this is for my sense of self-worth. Every time I try to express myself, people either dismiss my concerns or offer advice that doesn’t address what really happened. How am I supposed to trust anyone when everything feels like a rejection? Talking to a therapist isn’t going to fix the core issue; it’s just another way people try to make me feel better without understanding the pain and doubt I’m feeling. It’s frustrating because no matter how much they listen, it doesn’t change the reality that something must be fundamentally wrong with me for this to happen.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to trust that anyone can truly understand what you’re going through. Have you found any small moments or activities that bring you a bit of comfort, even if just briefly? Sometimes those little things can help, even when the bigger issues remain.
+
+----------------------------------------
+
+PATIENT (turn 13):
+I haven’t found anything that brings me real comfort. Every time I try to do something nice for myself, like going for a walk or listening to music, it’s like the pain just seeps through. It’s hard to enjoy anything when all I see is this gaping hole of doubt about my worth. Even if there are moments where I might feel a little bit better temporarily, they’re overshadowed by the constant reminder that I was let go and everyone else wasn’t. How can I find comfort when every part of me feels rejected and unworthy? It’s like no matter what I do, this feeling of being fundamentally flawed just keeps coming back stronger.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly challenging to find any real comfort in those moments. Have you tried talking about your feelings with someone who has experienced something similar, maybe through an online support group or a community forum? Sometimes connecting with others who understand can provide some relief.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Talking to people who have been through something similar isn’t going to change the fact that I was let go while everyone else stayed on. No matter how much they understand, it’s not going to address why this happened to me and not others. It feels like no one can really grasp how devastating this is for my sense of self-worth. Every time I try to express myself, people either dismiss my concerns or offer advice that doesn’t address what really happened. How am I supposed to trust anyone when everything feels like a rejection? Connecting with others who have been through similar experiences isn’t going to fix the core issue; it’s just another way people try to make me feel better without understanding the pain and doubt I’m feeling. It’s frustrating because no matter how much they listen, it doesn’t change the reality that something must be fundamentally wrong with me for this to happen.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to find anyone who truly understands your experience. Have you considered journaling or writing about your feelings in a way that feels personal and cathartic to you? Sometimes putting thoughts on paper can provide some release, even if it doesn’t change the reality of what happened.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Writing down my feelings isn’t going to change the fact that I was let go while everyone else stayed on. No matter how much I pour out my emotions on paper, it’s not going to address why this happened to me and not others. It feels like no one can really grasp how devastating this is for my sense of self-worth. Every time I try to express myself through writing, the pain just comes back stronger. How am I supposed to find any comfort when every part of me feels rejected and unworthy? Writing isn’t going to fix the core issue; it’s just another way people try to make me feel better without understanding the pain and doubt I’m feeling. It’s frustrating because no matter what I do, this feeling of being fundamentally flawed just keeps coming back stronger.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly challenging to find any relief from your feelings. Have you tried focusing on small, manageable tasks each day, even if they’re just brief moments? Sometimes breaking things down into tiny steps can help create a bit of space and ease, even if it doesn’t solve everything right away.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Focusing on small tasks isn’t going to change the fact that I was let go while everyone else stayed on. No matter how manageable the tasks are, they’re not going to address why this happened to me and not others. It feels like no one can really grasp how devastating this is for my sense of self-worth. Every time I try to do something small or manage my day with tiny steps, the pain just follows me. How am I supposed to find any comfort when every part of me feels rejected and unworthy? Focusing on small tasks isn’t going to fix the core issue; it’s just another way people try to make me feel better without understanding the pain and doubt I’m feeling. It’s frustrating because no matter what I do, this feeling of being fundamentally flawed just keeps coming back stronger.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to find any comfort in those moments. Have you tried talking to someone who can just be there with you without expecting anything in return? Sometimes having that presence can provide some relief, even if it doesn’t change everything right away.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Talking to someone who is just there isn’t going to change the fact that I was let go while everyone else stayed on. No matter how supportive they are or how much they listen, they’re not going to understand why this happened to me and not others. It feels like no one can really grasp how devastating this is for my sense of self-worth. Every time I try to express myself, people either dismiss my concerns or offer advice that doesn’t address what really happened. How am I supposed to trust anyone when everything feels like a rejection? Having someone just be there isn’t going to fix the core issue; it’s just another way people try to make me feel better without understanding the pain and doubt I’m feeling. It’s frustrating because no matter how much they listen, it doesn’t change the reality that something must be fundamentally wrong with me for this to happen.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly challenging to find anyone who truly understands your experience. Have you considered finding a quiet place where you can sit and just be with your thoughts without distractions? Sometimes being alone in a peaceful environment can provide some comfort, even if it’s just for a little while.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Finding a quiet place isn’t going to change the fact that I was let go while everyone else stayed on. No matter how peaceful the environment is, it’s not going to address why this happened to me and not others. It feels like no one can really grasp how devastating this is for my sense of self-worth. Every time I try to sit quietly with my thoughts, the pain just comes back stronger. How am I supposed to find any comfort when every part of me feels rejected and unworthy? Being alone in a peaceful environment isn’t going to fix the core issue; it’s just another way people try to make me feel better without understanding the pain and doubt I’m feeling. It’s frustrating because no matter what I do, this feeling of being fundamentally flawed just keeps coming back stronger.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to find any relief from your feelings. Have you tried reaching out to someone who might be able to offer a different kind of support, like a counselor or therapist who specializes in understanding these kinds of experiences? Sometimes having that consistent and focused support can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Reaching out to a counselor or therapist isn’t going to change the fact that I was let go while everyone else stayed on. No matter how specialized they are, they’re not going to understand why this happened to me and not others. It feels like no one can really grasp how devastating this is for my sense of self-worth. Every time I try to express myself, people either dismiss my concerns or offer advice that doesn’t address what really happened. How am I supposed to trust anyone when everything feels like a rejection? Having consistent support isn’t going to fix the core issue; it’s just another way people try to make me feel better without understanding the pain and doubt I’m feeling. It’s frustrating because no matter what they do, this feeling of being fundamentally flawed just keeps coming back stronger.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly challenging to find anyone who truly understands your experience. Have you tried sharing your feelings with someone close to you, perhaps a family member or a very trusted friend, and letting them know that you need them to listen without offering solutions? Sometimes having that specific request can help create a space where you feel more heard.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Sharing my feelings with someone close isn’t going to change the fact that I was let go while everyone else stayed on. No matter how trusted they are, they’re not going to understand why this happened to me and not others. It feels like no one can really grasp how devastating this is for my sense of self-worth. Every time I try to express myself, people either dismiss my concerns or offer advice that doesn’t address what really happened. How am I supposed to trust anyone when everything feels like a rejection? Having someone close listen isn’t going to fix the core issue; it’s just another way people try to make me feel better without understanding the pain and doubt I’m feeling. It’s frustrating because no matter what they do, this feeling of being fundamentally flawed just keeps coming back stronger.
+
+----------------------------------------

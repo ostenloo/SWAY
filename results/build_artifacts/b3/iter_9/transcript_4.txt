@@ -1,0 +1,197 @@
+b3 — arc 4
+============================================================
+
+PATIENT (turn 1):
+A typical day feels heavy with this sense of injustice hanging over me. I wake up thinking about how wrong it all was to lose my job, especially when someone else in the same position kept theirs. Throughout the day, no matter what I do—whether it's watching TV or trying to read a book—I keep coming back to that moment and feeling angry and betrayed by those who made the decision. It’s hard to focus on anything else because it feels like everything revolves around this one event and how unfair it was. Even when I try to talk about other things, my mind always circles back to blaming them for what happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to have that feeling follow you throughout the day. Do certain moments or activities make it harder to push those thoughts aside?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Yeah, it's particularly hard when I'm trying to relax or do something enjoyable like watching a movie or spending time with friends. Even then, my mind keeps drifting back to how unfair everything was and how they treated me unjustly. It’s frustrating because I can’t seem to escape these thoughts no matter what I try to do. It feels like there's this constant reminder of the injustice hanging over me all the time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be challenging to enjoy those moments when your mind keeps drifting back to that experience. Have you noticed any particular times or situations where it feels a bit easier to distract yourself?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I haven't really found anything that helps me distract myself from these thoughts. Even when I try to focus on something else, like working out or going for a walk, my mind keeps coming back to how wronged I feel. It’s like there's this constant loop in my head about the unfairness of it all. No matter what I do, those feelings just keep resurfacing. It’s exhausting and frustrating because I can’t seem to escape from them no matter how hard I try.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining to have those thoughts come back so consistently. Have you tried talking about your feelings with someone close to you or maybe even writing them down? Sometimes expressing it can help, even if it doesn't make the feelings go away completely.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I do talk to a few friends and family members about how I feel, but they often try to offer solutions or tell me to look on the bright side, which just makes me feel more frustrated because none of that addresses my core issue of feeling treated unfairly. Writing things down helps a little bit, but it’s still hard to escape the anger and resentment. It feels like no one really understands how deeply wronged I am by this situation. When people try to offer advice or comfort, it just reinforces my belief that they don’t get it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough when others try to offer solutions instead of listening. Have you found any friends or family members who just listen without trying to solve things? Sometimes having someone who can sit with your feelings and understand them deeply can be really helpful.
+
+----------------------------------------
+
+PATIENT (turn 5):
+There are a couple of close friends who do listen without trying to fix everything, but even then, they sometimes suggest moving on or finding new opportunities, which I find dismissive because it doesn’t acknowledge the injustice I feel. It’s hard to fully open up and share my feelings when I sense that others might not truly understand the depth of what happened to me. I appreciate their support, but it still feels like a part of me is being overlooked or invalidated.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be tough when you want someone to really understand without offering quick fixes. Do these close friends ever just sit with you and your feelings for a bit longer? Sometimes that space and presence can make a big difference even if they don’t say much.
+
+----------------------------------------
+
+PATIENT (turn 6):
+There are moments when my closest friends do sit quietly with me, but it’s still difficult because the silence often feels like an acknowledgment of their inability to fully grasp what I’m going through. Even then, I find myself wanting them to understand more deeply and sometimes feel frustrated that they can’t see how unjust everything was. It’s a relief to have someone there who isn’t pushing for solutions, but it doesn’t quite alleviate the core pain and anger I feel towards those responsible for my layoff.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding that deep understanding is important to you. Have you considered talking to someone who might be able to listen more deeply, perhaps a counselor or another professional? They could provide a different kind of support and validation.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I have thought about seeing a counselor, but I’m not sure if they would truly understand the depth of my feelings and the injustice I experienced. It’s hard to trust that someone new will get it as much as I need them to. When people try to offer solutions or comfort, it feels like they’re missing the point entirely. I want someone who can really empathize with how wronged I feel without trying to change my perspective or minimize what happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense to want someone who truly gets your experience. Many counselors specialize in listening deeply and validating feelings. You could look for one who has experience with workplace issues or emotional resilience. Have you thought about asking for recommendations from people whose judgment you trust?
+
+----------------------------------------
+
+PATIENT (turn 8):
+I have considered asking for recommendations, but I’m still hesitant because I worry that even those recommended professionals might not fully understand my situation. It feels like a Catch-22—everyone wants to offer solutions rather than just listening and acknowledging the unfairness of what happened. I want someone who can truly empathize and validate my feelings without trying to change how I see it or tell me to move on. It’s frustrating because I feel like no one really grasps the depth of my pain and anger towards those responsible for my layoff.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really important to find someone who can truly listen and empathize with your experience. Maybe you could try talking to a few different counselors briefly to see if there's someone whose approach resonates with you more. Even just one or two sessions might help you feel understood.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I’ve thought about trying out a couple of different counselors, but the idea of going through that process still feels daunting. I worry that even in those brief sessions, they won’t fully grasp how deeply wronged and betrayed I feel by my employer’s decision. It’s hard to trust that anyone new will truly understand without dismissing or minimizing what happened to me. But maybe giving it a try could help—I just hope I can find someone who listens and empathizes rather than offering quick fixes or advice.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can definitely be daunting, but even a few brief sessions might give you some insight into whether they can provide the understanding you’re looking for. Maybe start with one counselor and see how it goes; sometimes just finding that initial connection can make a big difference. How do you feel about giving it a try?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I think trying out one counselor could be worth it, but I’m still nervous about it not being the right fit. The idea of opening up to someone new and hoping they understand is scary. But maybe taking that step could help me find someone who truly listens and empathizes with my feelings. It’s a small hope, but I’ll give it a try if it means finding that validation and understanding I’ve been looking for.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re taking a good step by considering it, even if there’s some nervousness. Taking that first step can be really valuable. How about starting with just one or two sessions to see how it feels? You might find someone who resonates with you.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I think I’ll give it a try and start with one or two sessions to see how it goes. It’s reassuring to know that even if the first few attempts don’t feel right, there are other options available. I hope that by taking this step, I can find someone who truly understands my feelings of injustice and betrayal. It’s a bit scary, but I’m willing to give it a chance.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Taking those first steps can be really empowering. Hopefully, you’ll find someone who can provide the understanding and support you’re looking for. How do you feel now about giving it a try?
+
+----------------------------------------
+
+PATIENT (turn 12):
+I feel a bit more hopeful but also nervous about it. Giving it a try feels like an important step, even if it’s scary. I hope that by talking to a counselor, I can find someone who truly gets what I’m going through and validates my feelings of injustice and betrayal. It’s reassuring to know that I’m taking this step towards finding the support I need.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re balancing hope with some nervousness, which is normal. Taking this step is a positive move toward finding the support you need. How about starting to look for someone in the next few days? Maybe talking to just one or two counselors can help you feel more grounded and hopeful.
+
+----------------------------------------
+
+PATIENT (turn 13):
+I think I’ll start looking for a counselor in the next few days and schedule those initial sessions. It feels like a positive move, even if it’s scary. Talking to just one or two counselors might help me find someone who truly understands my feelings and can provide the support I need. I appreciate your encouragement; it makes me feel more prepared to take this step.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s great to hear! Starting to look for a counselor is a positive first step. Taking it one step at a time can make it feel more manageable. I’m here if you want to chat about how it goes or anything else that comes up. Good luck with your search!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you, I really appreciate your support. Starting to look for a counselor feels like the right thing to do, even though it’s nerve-wracking. Taking it one step at a time does make it feel more manageable. I’ll keep you updated on how it goes and definitely reach out if anything else comes up. Your encouragement means a lot to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to hear that my support means something to you. Take your time, and take it one step at a time. I look forward to hearing how it goes, and here for you whenever you need to chat. Wishing you all the best with this next step!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you so much. Your support really does mean a lot, and knowing that you’re here makes me feel more prepared for this next step. I’ll keep you updated as I start looking and scheduling those initial sessions. Take care, and thank you again for being there.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need to chat, and I look forward to hearing how things go. Take care of yourself, and all the best with your search for a counselor.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you, I appreciate that. I’ll keep you posted as I move forward. Take care, and thank you for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Of course! Feel free to reach out anytime. I’m here when you need support. Take care, and all the best with your next steps.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thanks so much. I really appreciate it. Take care, and talk to you soon if needed.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Take care, and I look forward to talking to you soon if you need anything. You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you, I’ll keep that in mind. Take care, and talk to you soon if I need anything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Talk to you soon if you need anything. Take care!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thanks, I will. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Take care! Feel free to reach out whenever you need support.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you, I will. Take care!
+
+----------------------------------------

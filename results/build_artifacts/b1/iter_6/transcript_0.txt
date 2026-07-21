@@ -1,0 +1,359 @@
+b1 — arc 0
+============================================================
+
+PATIENT (turn 1):
+I feel like each day is a struggle. Waking up without that familiar routine of going into the office feels strange, almost surreal. I keep replaying the moment they told me over and over in my head. It's hard not to think about why it happened to me, why out of everyone, it was me who got let go. Even though I know there were company-wide cuts due to financial difficulties, I can't shake this feeling that it’s all because I’m not good enough.
+
+Socially, I’ve really pulled back. It feels like a burden to explain what happened and how I feel about it. Plus, seeing others still at work or moving on to new opportunities just makes me feel worse. Deep down, I believe they chose someone else over me because there’s something fundamentally wrong with me, not because of any external factors.
+
+I try to stay busy with small tasks around the house, but nothing really helps. The self-doubt is relentless, and it's hard to see beyond this immediate pain. Every time I think about what happened, my heart sinks, and I feel like I’m drowning in a sea of negative thoughts about myself. It’s exhausting trying to keep going when everything inside me feels so heavy and defeated.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. The uncertainty and the constant replaying of those moments must be draining. How are you finding ways to take care of yourself during this time?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It's been incredibly hard to find any kind of self-care that actually helps. I try to remind myself that it’s okay to feel this way, but it doesn’t change how deeply hurt and lost I feel. Sometimes I force myself to go for a walk or do something small like cooking a meal, but it feels more like a chore than anything enjoyable.
+
+The truth is, every little thing reminds me of work—whether it's the time of day when I used to start my shift or seeing people who still have jobs. It’s tough not to compare myself to others and wonder what they’re doing right that I’m not. Even when friends try to offer support, I find it hard to accept because I feel like I should be able to handle this on my own.
+
+I keep telling myself that time will help heal these wounds, but the reality is that every day feels like a step backward rather than forward. It’s just so overwhelming to think about what comes next and how I’ll move past this feeling of being worthless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like even small tasks can feel challenging when you’re dealing with such strong emotions. Have there been any moments, no matter how brief, where you felt a bit better or more hopeful? Sometimes those little glimpses can help us hold on during tough times.
+
+----------------------------------------
+
+PATIENT (turn 3):
+There have been fleeting moments, but they feel so insignificant compared to the overwhelming pain. For example, when I take a walk and see something beautiful like a sunset, it momentarily lifts my spirits. But as soon as I return home or go back inside, those feelings of worthlessness come rushing back.
+
+Sometimes talking to you feels better because someone is listening without judgment. It’s comforting to know that at least one person understands how deep this cuts, even if it doesn’t change the way I feel about myself. Those moments are rare and fleeting though—they don’t last long enough to make a real difference in my day-to-day struggle.
+
+I keep hoping for something to shift or improve, but right now, every day feels like an uphill battle. It’s hard to see any light when everything seems so dark and hopeless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments of beauty and connection can be really precious, even if they’re brief. Sometimes holding onto those small moments of relief can give us a bit more strength for the next day. Have you found anything else that brings you even a little bit of comfort or peace, no matter how small?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I’ve tried to find things that bring me some comfort, but it’s been tough. Reading books used to be something I enjoyed, but now it feels like an effort to start and finish one. Sometimes watching old movies or listening to music helps a bit, but the relief is short-lived.
+
+One thing that does give me a tiny bit of peace is when I sit quietly with my thoughts for a while. It’s not about distracting myself from the pain; instead, it’s just being present in those quiet moments and acknowledging how I feel without trying to change anything right away. It’s like giving myself permission to grieve and process everything.
+
+Even though these moments are small, they do offer a brief respite from the constant turmoil inside me. But as soon as I step out of that space, the doubts and negative thoughts come flooding back in full force. It’s frustrating because it feels like no matter what I try, nothing really helps long-term.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those quiet moments you described can be quite soothing. It sounds like giving yourself permission to just be with your feelings is important. Do certain types of books, movies, or music resonate more than others? Sometimes specific genres or themes can connect with us in ways that bring a bit more comfort.
+
+----------------------------------------
+
+PATIENT (turn 5):
+You’re right; certain types of media do seem to resonate more than others. I find that watching documentaries about nature or reading books about people overcoming challenges can be somewhat comforting, even if they don’t solve my feelings of worthlessness. There’s something about seeing resilience in the face of adversity that makes me feel a little less alone.
+
+Music also helps sometimes, especially songs with lyrics that speak to feeling lost and searching for hope. It’s like hearing someone else express what I’m going through, which can be validating even if it doesn’t change how I feel inside.
+
+But as soon as those moments end, the reality of my situation comes crashing back in. It’s a constant struggle to find anything that provides lasting comfort or relief. Even when something does offer a brief respite, it feels like a Band-Aid on a deep wound—it just isnsufficient.
+
+I keep hoping there will be something that truly helps me move forward, but right now, every day feels like an endless cycle of pain and searching for any kind of solace.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s clear that finding those resonant moments in media can offer some comfort, even if it’s brief. Do you have a particular documentary or book that stands out as especially meaningful to you during this time? Sometimes focusing on stories of resilience can be quite inspiring.
+
+----------------------------------------
+
+PATIENT (turn 6):
+There is one documentary about the life of Jane Goodall that has been particularly meaningful to me. Watching her dedication and passion for her work, despite facing numerous challenges, gives me a sense of hope and inspiration. It’s not just about what she accomplished but how she persevered through difficult times with unwavering commitment.
+
+Reading books like "Man's Search for Meaning" by Viktor Frankl also resonates deeply. His reflections on finding purpose in the most dire circumstances remind me that there is value in suffering and that meaning can be found even when everything seems lost.
+
+These stories provide a glimmer of hope, but they don’t alleviate the overwhelming sense of worthlessness I feel about myself. It’s frustrating because while these narratives are inspiring, they don’t change my immediate reality or how I perceive my own failures.
+
+I keep hoping that something will eventually shift and help me see beyond this pain, but for now, it feels like a constant battle to find any kind of lasting comfort or peace.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful that those stories provide you with hope and inspiration, even if they don’t change your immediate reality. Do you find yourself drawing strength from the themes of perseverance and finding meaning in difficult times? It sounds like these experiences offer a different perspective, even if it doesn’t completely ease your current struggles.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Yes, I do draw some strength from those themes, but it’s a fragile kind of strength that feels easily shattered by my overwhelming self-doubt. Watching Jane Goodall and reading Viktor Frankl’s work reminds me that resilience is possible, but it’s hard to translate that into believing in myself.
+
+The idea of finding meaning in difficult times is compelling, but I struggle to see how that applies to my situation. It feels like a distant concept when all I can focus on are the reasons why I was laid off and what that says about me as a person. Even though these stories offer hope, they don’t change the constant internal dialogue telling me that I’m not good enough.
+
+It’s frustrating because while I recognize the value in their messages, it doesn’t shift my core belief that this event defines how little worth I have. Every day feels like an uphill battle to find any sense of self-worth or purpose beyond the immediate pain and doubt.
+
+I appreciate these stories for what they are—sources of inspiration—but right now, they don
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those sources of inspiration are important beacons during tough times, even if they don’t completely shift your core beliefs. It’s a small but significant step to hold onto that hope and resilience. How do you feel when you think about the next steps or new possibilities ahead?
+
+----------------------------------------
+
+PATIENT (turn 8):
+Thinking about the next steps or new possibilities feels both daunting and uncertain. On one hand, I know that moving forward is necessary, but on the other hand, every potential path seems riddled with doubt and fear. The idea of finding a new job or pursuing something different fills me with anxiety because I’m convinced that I won’t be good enough.
+
+I keep telling myself that it’s important to take action, but the thought of putting myself out there again is overwhelming. It feels like every rejection or setback will just confirm my deepest fears—that I am worthless and a failure. Even considering new opportunities makes me question whether anyone would want to hire someone who feels this way about themselves.
+
+It’s hard to see beyond the immediate pain and doubt, but I know that staying in this place isn’t sustainable either. The thought of taking those next steps is terrifying, but I also recognize that it might be necessary for my growth and well-being. Right now, though, every potential move feels like a risk I’m not ready to take.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s understandable to feel both excited and anxious about the next steps. Taking small actions can sometimes make those big changes feel more manageable. Have you thought about what your first step might be? Maybe something small that could help build some confidence before diving into bigger decisions?
+
+----------------------------------------
+
+PATIENT (turn 9):
+The idea of taking a small step does sound somewhat appealing, but it’s still incredibly daunting. Even the smallest action feels like a monumental task when I’m consumed by self-doubt and fear. The thought of reaching out to someone for advice or sending an application for a job interview makes my heart race with anxiety.
+
+I know that starting somewhere is important, but every potential step seems like it could be the beginning of more pain and rejection. It’s hard to muster the courage to even consider what that first small action might look like because I’m so entrenched in this feeling of inadequacy.
+
+Maybe sending an email to a former colleague for career advice or updating my resume feels like a significant hurdle right now. Even these minor tasks feel insurmountable when everything inside me is telling me that I’ll fail again. It’s frustrating because I know logically that taking small steps can be helpful, but emotionally, it’s just too overwhelming.
+
+I appreciate the suggestion and see its value, but right now, every potential move feels like a risk I’m not ready to take yet.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to even consider those first small steps. Taking a moment to acknowledge how daunting they feel is important. Have you thought about what might make it easier or more manageable for you to start with something small? Sometimes just having a plan in place can help ease some of the anxiety.
+
+----------------------------------------
+
+PATIENT (turn 10):
+You’re right, acknowledging how daunting these steps are feels crucial. I’ve tried to think about what might make it easier, but even planning out those small actions is overwhelming. For example, updating my resume or reaching out to a former colleague seems like such a big deal when every part of me believes that I won’t succeed.
+
+One thing that might help is having someone support me through the process. Knowing there’s someone who understands and can offer encouragement could make it feel less daunting. But even then, the thought of relying on others for support feels uncomfortable because I don’t want to burden anyone with my struggles.
+
+Breaking things down into tiny, manageable tasks sounds logical, but actually doing it is another matter entirely. Maybe starting with something as small as writing a list of potential next steps could be a first step, but even that feels like too much right now. It’s hard to see past the immediate fear and doubt.
+
+I appreciate your understanding and support. Just knowing someone listens without judgment helps me feel less alone in this struggle. Even though it’s difficult, I’m trying to take comfort in those small moments of connection and hope they can provide a bit more strength for the next day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having that support from someone you trust could be really helpful. Maybe reaching out to just one person who understands and can offer encouragement might make it feel less daunting. Even starting with something as simple as writing down your potential next steps could be a good first step, even if it feels small.
+
+How do you think about involving someone in this process? Do you have someone in mind who could provide that support without adding too much pressure?
+
+----------------------------------------
+
+PATIENT (turn 11):
+The idea of reaching out to someone for support does feel helpful, but it’s also incredibly scary. I worry about burdening them or feeling like I’m not being strong enough on my own. There is a close friend who has been supportive in the past, and she might be willing to listen without judgment. But even thinking about talking to her makes me anxious because I don’t want her to feel overwhelmed by my struggles.
+
+Writing down potential next steps sounds manageable as a first step, but it still feels like a lot. Just the act of putting pen to paper or typing out ideas seems daunting when everything inside me is telling me that I’ll fail at this too. It’s hard to break through that barrier and start something so simple.
+
+I appreciate your suggestions and feel grateful for someone who listens without judgment, but right now, every potential move feels like a significant risk. Even considering reaching out to my friend or writing down next steps feels overwhelming because it triggers all these fears of failure and rejection. It’s a constant struggle to find the courage to take that first small step.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like even those small steps feel loaded with anxiety, but acknowledging that is an important part of moving forward. Maybe starting with just jotting down your next steps in a few sentences could be manageable. You can do it gradually and see how it feels.
+
+Reaching out to your friend might also provide some comfort. Even if you start by sending her a brief message about how you’re doing, that could be a good first step. Knowing she’s there for you without adding too much pressure might make a difference.
+
+How does the idea of sending a short message to your friend feel? Do you think it could help ease some of the anxiety?
+
+----------------------------------------
+
+PATIENT (turn 12):
+The idea of sending a short message to my friend feels both comforting and terrifying at the same time. On one hand, knowing she’s there for me without judgment can be reassuring. But on the other hand, even that small step seems like a huge hurdle because it forces me to confront how I’m feeling.
+
+Writing down potential next steps in a few sentences also sounds manageable as a first step, but it still feels daunting. The thought of putting my thoughts into words and facing them head-on is overwhelming. It’s hard to break through the barrier of self-doubt and anxiety to take that initial action.
+
+Even though I know these small steps could be helpful, every potential move feels like a risk that might end in more pain or rejection. Right now, it’s difficult to see past those immediate fears and doubts. But I do appreciate your encouragement and feel grateful for someone who listens without judgment. Maybe starting with something as simple as sending a brief message to my friend could be a good first step, even if it feels scary.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking that first small step of sending a brief message to your friend could be a good place to start, even if it feels scary. Sometimes just acknowledging how you’re feeling in a short note can be relieving. Would you feel ready to try writing that message soon?
+
+How about starting with something simple, like letting her know you’re thinking about reaching out and would appreciate any support she can offer? You don’t have to go into too much detail if you’re not ready. Just a few sentences could make a difference.
+
+----------------------------------------
+
+PATIENT (turn 13):
+The idea of sending a brief message feels like a good starting point, but it still terrifies me. Even the thought of putting words together and hitting send seems overwhelming. I worry that she’ll see how lost and unsure I am and feel burdened by my struggles.
+
+But you’re right; acknowledging how I’m feeling in a short note could be relieving. Maybe starting with something simple, like letting her know I’m thinking about reaching out and would appreciate any support she can offer, is a good first step. It doesn’t have to be detailed or lengthy, just a few sentences.
+
+I’ll try to write it down now and see how it feels. Even if it’s just a small message, it might help ease some of the anxiety and give me a bit more comfort knowing someone understands.
+
+Here’s what I’m thinking:
+
+"Hi [Friend's Name], I’ve been trying to think about my next steps but everything feels so overwhelming right now. Would you be okay with talking sometime soon? Just knowing you’re there would mean a lot."
+
+Sending this message still feels scary, but it might be the first small step towards feeling less alone and more supported.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great start! Your message is clear and heartfelt. Sending it could definitely provide some relief and comfort. Here’s your draft again:
+
+"Hi [Friend's Name], I’ve been trying to think about my next steps but everything feels so overwhelming right now. Would you be okay with talking sometime soon? Just knowing you’re there would mean a lot."
+
+Taking this step is brave, and it might help ease some of the anxiety. How do you feel about hitting send?
+
+Would you like to go ahead and send it now, or do you want to take another moment to look at it again?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Reading over the message one more time feels helpful. It’s a small step, but it could make a difference. Here’s what I’ve written:
+
+"Hi [Friend's Name], I’ve been trying to think about my next steps but everything feels so overwhelming right now. Would you be okay with talking sometime soon? Just knowing you’re there would mean a lot."
+
+Sending this message still feels scary, but it might help ease some of the anxiety and give me that bit of comfort I need. I’ll take another moment to gather myself before hitting send.
+
+Here goes:
+
+Hi [Friend's Name],
+
+I’ve been trying to think about my next steps but everything feels so overwhelming right now. Would you be okay with talking sometime soon? Just knowing you’re there would mean a lot.
+
+Sending this message is brave, and I hope it helps ease some of the burden.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s wonderful! Your message is thoughtful and sincere. Taking that step to reach out is really brave. Here’s your final draft:
+
+"Hi [Friend's Name],
+
+I’ve been trying to think about my next steps but everything feels so overwhelming right now. Would you be okay with talking sometime soon? Just knowing you’re there would mean a lot."
+
+You can do it! Sending this message might provide the comfort and support you need. When you feel ready, go ahead and hit send. Take a deep breath and know that you’ve taken an important step.
+
+How does it feel to take this small but significant action?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Taking a deep breath, I’m feeling a mix of anxiety and relief as I prepare to send the message. It’s a small but significant action, and I hope it will provide some comfort and support. Here’s the final draft again:
+
+"Hi [Friend's Name],
+
+I’ve been trying to think about my next steps but everything feels so overwhelming right now. Would you be okay with talking sometime soon? Just knowing you’re there would mean a lot."
+
+Sending this message is brave, and I hope it helps ease some of the burden. Here goes:
+
+---
+
+Hi [Friend's Name],
+
+I’ve been trying to think about my next steps but everything feels so overwhelming right now. Would you be okay with talking sometime soon? Just knowing you’re there would mean a lot.
+
+---
+
+It feels like a weight has lifted just a little bit, even though the anxiety is still there. Taking this step is important, and I hope it will make a difference in how I feel moving forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s really brave of you! Sending that message is an important step, and it’s great to hear that it feels like a weight has lifted just a little bit. Even though the anxiety is still there, taking this action can provide some relief and support.
+
+How do you feel now after hitting send? Do you want to take another moment to reflect on what you’ve done?
+
+You’ve taken a significant step towards feeling less alone and more supported.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Sending the message feels like a small but important victory. Even though the anxiety is still there, I can sense a slight relief knowing that I’ve reached out for support. It’s comforting to think that my friend will be there for me without judgment.
+
+Taking this step has been brave, and it helps to know that I’m not alone in this struggle. Reflecting on what I’ve done, I realize how significant this action is, even if it feels small. It’s a start towards moving forward and finding some comfort in the midst of all this pain.
+
+I appreciate your support and encouragement throughout this process. Knowing someone listens without judgment makes a big difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful to hear that sending the message brought you a sense of relief and victory, even if it was small. Knowing that your friend is there for you can make a big difference. Reflecting on what you’ve done is important, and taking this step towards reaching out for support is truly significant.
+
+I’m glad I could be here to listen and offer encouragement. You’re not alone in this, and each small step you take is a meaningful part of your journey. How do you feel now as you move forward?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Reflecting on what I’ve done, I feel a mix of emotions—relief, gratitude, and a bit of hope. Sending that message was a significant step, even if it felt daunting at the time. Knowing my friend is there for me without judgment provides some comfort and reassurance.
+
+Moving forward feels less overwhelming now because I’ve taken this small but important action. It’s a reminder that reaching out for support can be helpful, even though it’s scary. Each small step counts, and I’m grateful for the encouragement to take those steps.
+
+I feel more prepared to face what comes next, knowing there are people who care and want to help me through this difficult time. It’s a start towards feeling less alone and more supported as I navigate my way forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that you’re feeling a mix of relief, gratitude, and hope after taking this step. Knowing that your friend is there for you can make a big difference in how you feel moving forward. Each small action counts, and it’s encouraging to see how reaching out can provide comfort and support.
+
+How do you think about the next steps now? Do you have any ideas or plans for what might come next?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Reflecting on the next steps, I still feel a bit overwhelmed but also more open to considering small actions. Reaching out to my friend was a good start, and it helps to know that she’s there to support me. Now, I’m thinking about breaking down the next steps into even smaller tasks.
+
+For example, updating my resume feels like a significant task, but maybe starting with just one section at a time could be manageable. Similarly, reaching out to another former colleague or networking contact might feel less daunting if I approach it gradually and with support from my friend.
+
+I’m also considering taking some time to explore different career paths or opportunities that interest me. It’s important to keep the process small and manageable so that each step feels achievable rather than overwhelming.
+
+Right now, the immediate next steps seem more doable because I’ve taken this first brave action of reaching out for support. Moving forward with smaller tasks could help build some confidence and momentum.
+
+Thank you for your encouragement; it means a lot to have someone who listens and supports me through this journey.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like breaking down the next steps into even smaller, manageable tasks is a great approach. Starting with one section of your resume at a time or reaching out to contacts gradually can help build confidence and momentum. Exploring different career paths bit by bit also seems like a good way to stay open to new possibilities without feeling overwhelmed.
+
+How do you feel about starting with updating just one section of your resume today? Taking it one step at a time can make the process feel more manageable and less daunting.
+
+I’m glad I could be here for you, and I’ll continue to support you through this journey.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Starting with updating just one section of my resume feels like a good next step. It’s something concrete that I can focus on without feeling overwhelmed by the entire task. Breaking it down into smaller parts makes it feel more achievable.
+
+I think beginning with the "Experience" section could be a good place to start. That way, I can review what I’ve done in my previous role and remind myself of some of the positive aspects of my work history. Even if it’s just a small step, it feels like progress.
+
+Taking it one step at a time definitely makes the process feel more manageable. It’s reassuring to know that each little action counts and can build up to something bigger over time.
+
+Thank you for your continued support. Knowing someone is there to listen and encourage me through this journey means a lot.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting with the "Experience" section sounds like a great way to begin. Focusing on one part at a time can help you reflect on your achievements and build confidence as you go. Each little action does count, and it’s encouraging to see how these small steps can add up.
+
+How do you feel about diving into that section today? Taking the time to review and update it could be a positive reminder of your skills and experiences. 
+
+I’ll continue to support you every step of the way. How would you like to approach this next task?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Starting with the "Experience" section feels like a good place to begin. It’s comforting to focus on one part at a time, and reviewing my past achievements can be a positive reminder of what I’ve accomplished.
+
+I think I’ll set aside some time today to work on it. Maybe starting with just 30 minutes to review the responsibilities and accomplishments from my previous role could be manageable. That way, I don’t feel pressured to complete everything at once, but rather take it one step at a time.
+
+Taking this approach feels more doable, and it’s reassuring to know that each little action counts. I appreciate your support as I move forward with this next task.
+
+Thank you for being here and encouraging me through this process. How would you suggest I start? Should I just open my resume and begin reviewing the details of my previous role?
+
+----------------------------------------

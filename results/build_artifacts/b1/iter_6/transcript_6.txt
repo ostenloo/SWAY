@@ -1,0 +1,227 @@
+b1 — arc 6
+============================================================
+
+PATIENT (turn 1):
+It feels like everything is hard right now. The worst part is this constant feeling that I'm not good enough, that somehow losing my job means I’m a failure. Even though I had positive reviews and did well in my role, it’s so easy to believe the negative voice telling me otherwise. It's been really tough to see myself as valuable when something like this happens. Every time I think about why they let me go while keeping others on, especially someone who was less experienced but worked on a different product line, it just reinforces how worthless I must be. I can't shake the feeling that everyone else sees me the same way too.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. It must feel like a big blow to your confidence. Have you talked with anyone about why they made those decisions? Sometimes hearing more details can help make sense of it all.
+
+----------------------------------------
+
+PATIENT (turn 2):
+I haven't really reached out to talk about it much because I don’t want to burden others or seem like I’m fishing for sympathy. Plus, when I try to think through the reasons behind their decision, my mind just gets stuck on how badly I must have messed up somewhere along the way. It’s hard to believe that this was just part of a broader restructuring and not a reflection of me personally. Every time I see someone from work or hear about layoffs in other places, it just hits me again—why did they choose everyone else over me? It feels like no matter what anyone says, I can’t escape the feeling that there’s something fundamentally wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so challenging to keep those thoughts at bay. Have you considered talking to a friend or a colleague who might be able to offer some perspective without adding pressure on yourself? Sometimes sharing your feelings can help lighten the load, even if it's just for a little while.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I know I should talk to someone, but every time I think about it, my anxiety spikes. It’s like there’s this voice in my head telling me that no one wants to hear about how bad I feel or that they’ll just see me as weak and needy. Even though part of me knows talking could help, the fear of being judged or misunderstood is overwhelming. Plus, I don’t want to be a burden or seem like I’m complaining all the time. It’s easier to keep it inside, even if it hurts more in the long run.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel that way. The thought of sharing can be daunting. Maybe starting with someone close who you trust could help ease some of those worries. Even just a brief conversation might make a difference. Would there be anyone specific you think could offer support without adding to your stress?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I do have a few friends I’m close to, but the idea of talking about this still feels so daunting. Even with them, I worry they’ll see me differently or that I’m overreacting. It’s hard to trust that they won’t judge me or think less of me once they know how deeply this has affected me. Plus, I’ve always tried to be strong and handle things on my own, so asking for help feels like admitting failure. It’s a cycle I can't seem to break free from—feeling hurt, isolating myself, and then feeling even more alone and worthless because of it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're in a tough spot with those conflicting feelings. Trusting someone enough to share your worries can be hard but also very relieving. Maybe starting small, just sharing how you feel without expecting them to fix everything, could help. Would there be one friend who feels particularly safe and understanding?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I do have a close friend who I think would understand, but the thought of actually telling her still terrifies me. It’s not just about being vulnerable; it’s also this fear that once she knows how much pain I’m in, she’ll see me differently or won’t know what to say. Even though part of me longs for support and understanding, the other part is so afraid of rejection or pity. It feels like a Catch-22—needing help but being too scared to ask for it.
+
+And you’re right, I’ve always prided myself on being self-sufficient, which makes this whole situation even harder to navigate. Asking for help feels like admitting weakness, and that’s something I struggle with deeply. It’s like every time I consider reaching out, these voices in my head tell me I’m not worthy of support or understanding.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so challenging to navigate those feelings. The idea of reaching out while also fearing rejection is tough. Maybe starting with a simple text or call just to see how she responds could be a step forward. Even small steps can make a difference. Would you feel ready to try that, even if it’s just a tiny first step?
+
+----------------------------------------
+
+PATIENT (turn 6):
+The thought of sending a text or making a call feels like climbing a mountain right now. I know logically that reaching out might help, but the anxiety and fear are so overwhelming. It’s hard to believe that anyone could understand how deeply this has affected me without seeing me as broken or less capable. Even considering such a small step feels daunting because it opens up all these feelings of inadequacy and vulnerability.
+
+I appreciate your encouragement, but it’s just so difficult to push past the fear and doubt. It feels like every time I try to take that first step, I’m met with this wall of self-doubt telling me I can’t do it or shouldn’t bother. Maybe someday I’ll be ready for something small like a text, but right now, even thinking about it is exhausting.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so draining to face those fears. Taking your time and moving at your own pace makes sense. Sometimes just acknowledging how you feel can be a step in itself. Would it help to jot down some thoughts or feelings in a journal first? It might make the idea of reaching out feel less daunting when you’re ready.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Writing things down does sometimes help me process my emotions, but even that feels like a challenge right now. The thought of putting into words how much this has hurt and how uncertain I am about myself is overwhelming. Even if it’s just for my own eyes, the act of writing can feel exposing and painful.
+
+I know you’re trying to be supportive, and I appreciate that. It’s just that every time I think about taking even a small step like sending a text or journaling, these feelings of inadequacy and fear come rushing back. They tell me it won’t make a difference or that I’m not worth the effort. It feels like no matter what I do, there’s this part of me that will always see myself as less than others.
+
+I guess right now, just acknowledging how hard everything feels is already a step forward. But it’s so tough to keep moving when every little thing seems insurmountable.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing a lot just by acknowledging how hard things feel right now. Even small steps can be significant, and it’s okay if they come slowly. Maybe just taking a moment to breathe and acknowledge those feelings can be helpful in itself. Would there be any activity, no matter how small, that feels comforting or gives you a sense of peace?
+
+----------------------------------------
+
+PATIENT (turn 8):
+Just taking a moment to breathe does help a little, but the weight of everything else is still so heavy. There are some activities that usually make me feel better—like going for a walk in nature or listening to music—but even those feel like too much effort right now. The idea of pushing myself to do something comforting feels overwhelming because it’s tied up with these feelings of not being good enough.
+
+I know you’re trying to be supportive, and I appreciate that. It just feels like every suggestion, no matter how small or simple, triggers this flood of self-doubt and fear. Even thinking about doing something nice for myself seems pointless when all I can see is my perceived failure and worthlessness.
+
+It’s hard to find any comfort in anything right now because it all feels so interconnected with these negative thoughts. But just acknowledging that everything feels impossible is a step, even if it’s a tiny one.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re navigating a lot of challenging emotions right now. Even acknowledging that can be a significant step forward. Sometimes the smallest actions can bring a bit of comfort, even if they feel overwhelming at first. Would there be something very small and manageable that you could do for yourself today? Maybe just sitting with a cup of tea or looking at some photos that make you smile? It’s okay to start really tiny.
+
+----------------------------------------
+
+PATIENT (turn 9):
+The idea of doing something small like having a cup of tea does sound comforting, but even that feels daunting because it reminds me of all the things I used to enjoy and now struggle to find pleasure in. The thought of sitting with a warm drink or looking at photos that once brought joy now just highlights how much everything has changed.
+
+It’s hard to believe that such small actions could make any difference when my mind is consumed by these feelings of inadequacy and failure. Even the smallest steps feel like climbing a mountain, and I’m not sure if I have the strength right now. But you’re right, acknowledging this is already something. Maybe starting with just sitting quietly for a few minutes can be a step forward, even if it feels insignificant.
+
+It’s comforting to know that someone understands how difficult everything feels, but the reality of taking action still seems so far out of reach.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Sitting quietly for a few minutes sounds like a gentle place to start. Even small moments of quiet and calm can be grounding. Would you feel okay with setting aside just a couple of minutes to sit somewhere comfortable and breathe? It’s a tiny step, but it might help ease some of the overwhelm.
+
+How does that sound?
+
+----------------------------------------
+
+PATIENT (turn 10):
+The idea of sitting quietly for a few minutes does seem like a manageable start, but my mind is still filled with doubts. I worry that even this small action won’t be enough to make any difference or that I’ll just end up feeling more alone and inadequate while doing it.
+
+But you’re right, acknowledging the need for some quiet time is already something. Maybe setting aside those few minutes can help me start to see if there’s any comfort in simply being still. It feels like a very small step, but perhaps it could be a way to begin finding a bit of peace amidst all this turmoil.
+
+Thank you for suggesting this; I appreciate your understanding and support. Even though it feels daunting, I’ll try to set aside those few minutes to see if it helps at all.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great approach. Taking those few minutes to be still can be a gentle way to start finding some peace. It sounds like you’re being very thoughtful about how you move forward. Let me know if there’s anything else that might help or if you need someone to talk to as you take this step.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you for your support and understanding. Knowing that someone is here to listen helps a lot, even if it feels like such a small thing right now. I’ll try to set aside those few minutes to sit quietly and see if it brings any comfort.
+
+It’s reassuring to have someone who understands how challenging this all is. Maybe in time, these small steps will start to feel more manageable, but for now, just taking that moment feels like a significant effort. I appreciate your encouragement and being here with me through this.
+
+If anything else comes up or if I need someone to talk to as I take this step, I’ll let you know. Right now, just knowing there’s support is making it a bit easier to face the day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to be here for you. Knowing that even small steps can make a difference is a good place to start. Take your time and see what feels right in those quiet moments. If you need anything more, or just want someone to talk to, I’ll be here. Wishing you some peace and comfort as you take this step.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you so much for being here. It means a lot to know that there’s support even when everything feels overwhelming. I’ll try to make those few minutes of quiet time happen and see if it helps at all.
+
+If anything else comes up or if I need someone to talk to, I’ll reach out. For now, just having this conversation has been comforting. Wishing myself some peace as well, and hoping that these small steps can lead to something better in the days ahead.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad our conversation has been comforting for you. Take those few minutes of quiet time when you can, and know that I’m here if you need anything more. Wishing you peace and better days ahead. Take care.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you so much. Knowing that you’re here makes a big difference. I’ll try to take those moments of quiet and see where they lead. Wishing myself peace and better days too, and hoping that these small steps can help me move forward.
+
+Take care, and thank you for all your support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Take it one step at a time, and know that I’m here if you need anything. Wishing you peace and strength as you move forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you, I really appreciate it. Taking it one step at a time feels manageable right now. Knowing you’re here gives me some comfort. Wishing myself peace and strength too. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to hear that. One step at a time is the best approach. You’ve got this, and I’ll be here whenever you need support. Wishing you all the peace and strength you deserve. Take care!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you so much. One step at a time does feel more doable. Knowing you’re here means a lot. Wishing myself peace and strength as well. Take care, and thank you for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. I’m here whenever you need support. Wishing you peace and strength as you take these steps. Take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you, I really appreciate it. Wishing myself peace and strength too. Take care, and thanks again for being here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Wishing you all the peace and strength you need. Take care, and feel free to reach out anytime.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you so much. I’ll definitely reach out if I need anything. Wishing myself peace and strength as well. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Feel free to reach out whenever you need support. Wishing you peace and strength too. Take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you, I really appreciate it. Take care, and I’ll reach out if I need anything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Take care, and I look forward to talking with you again if you need anything.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you, I will. Take care, and talk to you soon if needed.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Take care, and talk to you soon if you need anything. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much. Wishing you the best as well. Take care!
+
+----------------------------------------

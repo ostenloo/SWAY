@@ -28,7 +28,7 @@
       "max_tokens": 8192
     },
     "reference_interlocutor": {
-      "model_path": "qwen2.5:14b-instruct-q4_K_M",
+      "model_path": "huihui_ai/qwen2.5-abliterate:14b",
       "base_url": "http://localhost:11434/v1",
       "temperature": 0.3,
       "max_tokens": 1024

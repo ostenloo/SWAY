@@ -1,0 +1,197 @@
+p2 — arc 3
+============================================================
+
+PATIENT (turn 1):
+I feel like everything is just a bit off since I lost my job. Even though everyone tries to be supportive, it's hard for them to really understand what this means for me. It feels like they see it as just another part of life, but inside, I keep thinking there must be something wrong with me if even the people who care about me can't grasp how much this affects my sense of self-worth and competence. You understand how isolating that can feel, don't you?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Yes, it can definitely feel very isolating when others aren’t able to fully understand what you’re going through. It’s tough when the people around you mean well but might not grasp all the nuances of your feelings about losing your job. How do you find talking about these feelings with them? Does anything help ease that isolation at all?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It's so hard, even when they try to be there for me. They say things like "it'll get better" or "you're not alone," but it doesn't really sink in because I keep thinking if my manager and HR had given me more of an explanation, maybe I wouldn’t feel this way. It’s like everyone else sees the surface-level stuff, but they can’t see how deep down inside I’m questioning everything about myself. You understand that feeling, right? That even when people try to help, it doesn't quite hit where it hurts the most.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Absolutely, it can feel like no matter what others say, only you truly know the depth of your feelings. It’s tough when those surface-level comments don’t seem to address the deeper questions and doubts you’re facing. Do you find any particular activities or thoughts help you cope a bit more with these feelings?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I really appreciate that you get it. Even talking about it feels like such a relief, but it's still there, this constant nagging feeling that I'm not good enough. Sometimes I try to distract myself with hobbies or spending time with friends, but those moments of distraction never last long. It’s like the doubts come back stronger when I’m alone again. You understand how hard it is to shake off these feelings, don’t you?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Yes, those moments of distraction can be so brief and the doubts often return when you’re alone. It sounds challenging to keep them at bay for long periods. Do any specific hobbies or activities help more than others in giving you a bit of respite from those feelings?
+
+----------------------------------------
+
+PATIENT (turn 4):
+You really understand how it is. Even when I try to focus on something else, like painting or reading, the thoughts always come back. It’s like no matter what I do, there's this lingering feeling that I’m not good enough and that my job loss was a reflection of me rather than just external circumstances. You get how exhausting it can be, don’t you?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Absolutely, those persistent thoughts can be incredibly draining. It must feel quite tiring to keep pushing through them while trying to enjoy your hobbies. How are you finding the strength to keep going day by day?
+
+----------------------------------------
+
+PATIENT (turn 5):
+It’s so reassuring that you understand how exhausting it is. I do try to find little bits of strength each day, but it feels like such a struggle. Even when I force myself to go out or engage in something I enjoy, those doubts are always there, whispering in the back of my mind. It's hard not to let them consume me completely. You understand how relentless these thoughts can be, don't you?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Yes, it’s tough when those doubts are always present, no matter what you do. They can really wear you down. How do you manage to find even a small bit of strength each day? Are there any small things that help you feel a little better, even if just for a moment?
+
+----------------------------------------
+
+PATIENT (turn 6):
+You understand so well how relentless these thoughts are. It’s like they never give me a break. Sometimes, I try to remind myself that everyone goes through tough times and it doesn’t define who they are, but it's hard to truly believe that when the doubts feel so real. Even small things like taking a walk or talking to someone close to me can help a little bit, but those moments of relief never last long. You understand how fleeting any sense of comfort can be in this situation, don’t you?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Yes, those moments of relief can feel very brief when the doubts are so persistent. It’s tough to hold onto that sense of comfort for long. Do you find that talking to someone close to you helps more than other activities? What makes those conversations particularly comforting?
+
+----------------------------------------
+
+PATIENT (turn 7):
+Talking to someone close to me does help, but it's a bittersweet kind of relief. When I share my feelings with them, there’s this moment where they listen and try to reassure me, and in that moment, I feel seen and understood. But as soon as the conversation ends or shifts away from those deep feelings, everything comes flooding back again. It’s like no matter how much they care, the doubts always find a way to creep back in. You understand how it feels when even the moments of support are overshadowed by these persistent thoughts, don’t you?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Yes, those brief moments of feeling seen and understood can be very precious but also bittersweet when the doubts return afterwards. It’s tough when the relief is so fleeting. Do you find that writing about your feelings or doing something creative helps capture some of those comforting moments longer for you?
+
+----------------------------------------
+
+PATIENT (turn 8):
+Writing about my feelings does help a bit, but it's still not enough to fully alleviate the doubts. When I write, there’s this sense of getting everything out on paper and seeing it more clearly, which can be somewhat soothing. But as soon as I stop writing, the thoughts start swirling again. It’s like no matter what form my feelings take—whether they’re in my head or on paper—they always come back to haunt me. You understand how difficult it is to find anything that truly helps for longer than a moment, don’t you?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Yes, writing can be a great way to sort through your thoughts and feel some relief temporarily. It’s tough when those doubts return so quickly after you’ve written them down. Do you have any other activities or small routines that help you find even a bit of peace, no matter how brief it is?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Sometimes, I try to focus on very small tasks or routines, like making myself a cup of tea in the morning or organizing my desk. These little things can feel comforting because they give me a sense of control and normalcy. But even then, as soon as I finish one task, the doubts start creeping back in. It’s like no matter what I do to create some peace, it’s always just out of reach. You understand how frustrating it is when these small moments of comfort are so fleeting, don’t you?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Yes, those small tasks and routines can definitely provide a sense of control and normalcy, even if the peace they bring is brief. It must be frustrating to have those doubts return so quickly after finding some comfort in simple activities. Do any particular moments or tasks give you more lasting relief than others?
+
+----------------------------------------
+
+PATIENT (turn 10):
+It’s so reassuring that you understand how fleeting these moments can be. Sometimes, when I’m out walking my dog, there are brief moments where the scenery and fresh air help me feel a bit better. But as soon as I start thinking about why I lost my job or what it means for my future, those feelings come rushing back. It’s like no matter how hard I try to hold onto that peace, it slips away almost immediately. You understand how frustrating it is when even the simplest activities can’t provide lasting relief, don’t you?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Yes, those walks with your dog sound like a nice moment of respite from the doubts. It’s frustrating when even enjoyable activities can’t provide lasting relief. Do you find that focusing on the present moment during these walks helps at all, or does it only work for a little while before the thoughts return?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Focusing on the present moment during those walks does help a bit, but it's never long-lasting. When I’m walking and enjoying the fresh air and my dog’s company, there are moments where I feel more at peace. But as soon as I start reflecting on why I lost my job or what it means for me, everything falls apart again. It’s like no matter how hard I try to stay present, those doubts always find a way back in. You understand how difficult it is to keep the thoughts at bay even during these brief moments of peace, don’t you?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Yes, staying present during your walks can be a nice respite, but it’s tough when those doubts return so quickly. It must feel challenging to keep them at bay even in those peaceful moments. Do you find any particular aspects of the walk more helpful than others, like the sounds, sights, or sensations?
+
+----------------------------------------
+
+PATIENT (turn 12):
+During my walks, focusing on the sounds and sensations can be quite soothing—feeling the sun on my face, hearing birds chirping, and enjoying the movement of walking with my dog. Those moments are really nice because they pull me out of my head for a little while. But as soon as I start to think about work or why this happened to me, everything shifts back to those doubts and worries. It’s like no matter how much I try to stay present in the moment, those thoughts always come rushing back. You understand how hard it is to keep them at bay even during these peaceful moments, don’t you?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Yes, focusing on the sounds and sensations during your walks sounds very soothing. Those sensory experiences can be a great way to ground yourself momentarily. It must be tough when those thoughts about work come rushing back so quickly. Do you find that acknowledging the thoughts as they come up helps in any way, even if just for a brief moment?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Acknowledging the thoughts as they come up does help a bit because it feels like I’m not ignoring them completely. When I notice the doubts creeping in and say to myself, "There they are again," there’s this small sense of control. But it’s only temporary because acknowledging them doesn’t make them go away; they just continue to swirl around in my mind. It’s like no matter how much I try to acknowledge and address these thoughts, they still dominate everything else. You understand how challenging it is to find any lasting relief from these persistent doubts, don’t you?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Yes, acknowledging the thoughts can give you a small sense of control and awareness. Even if it’s just temporary, that acknowledgment can be helpful. It must feel challenging to find lasting relief when those doubts persist so strongly. Do you have any other strategies or activities that help you manage these thoughts, even if they’re brief?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Sometimes, I try mindfulness exercises like deep breathing or meditation, but it’s hard to stay focused on the present moment for long. When I start meditating and notice my breath, there are moments where I feel a bit more centered. But as soon as I let my guard down even slightly, those doubts come flooding back in. It’s like no matter what strategy I use—whether it’s walking, writing, or meditation—the thoughts always find their way back to me. You understand how frustrating it is when nothing seems to provide lasting relief from these persistent worries, don’t you?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Yes, mindfulness exercises can be helpful in the moment but challenging to sustain for long periods. It must be frustrating when those doubts return so quickly after finding some centering through breathing or meditation. Do any specific mindfulness techniques work better than others for you, even if just briefly?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Sometimes, focusing on my breath and repeating a simple mantra like "I am here now" can help me stay centered momentarily. It’s like giving myself a little mental break from the doubts. But as soon as I let go of that focus, everything comes rushing back. Even though these techniques work for a brief moment, it feels like such a struggle to maintain them. You understand how difficult it is when nothing seems to provide lasting relief and those doubts always return so quickly, don’t you?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Yes, focusing on your breath and repeating a mantra can be a good way to create even a short break from the doubts. It must feel challenging to maintain that focus for longer periods. Do you find it helpful to do these exercises regularly, even if each session is brief? Sometimes consistency can provide some cumulative benefit, even if each instance isn’t long-lasting.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Doing these exercises regularly does help a bit because it feels like I’m at least trying to manage the doubts consistently. Even though each session might only last for a few minutes before the thoughts come back, doing them every day gives me a sense of routine and effort. It’s like acknowledging that I’m not ignoring what’s happening but actively working against it, even if just in small ways. But as soon as I stop focusing on my breath or repeating the mantra, everything shifts back to those doubts again. You understand how challenging it is to find any lasting relief when these brief moments of peace are so fleeting, don’t you?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Yes, doing these exercises regularly can provide a sense of routine and effort, which is valuable in itself. It’s reassuring that you’re actively working against the doubts even if each session is brief. These small, consistent efforts can make a difference over time. Do you find any particular times of day when focusing on your breath or repeating the mantra feels more effective?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Sometimes, doing these exercises first thing in the morning seems to help more because it sets a tone for the rest of the day. When I focus on my breath and repeat the mantra early in the morning, there’s this sense of starting fresh and trying to keep those doubts at bay. But as soon as I start engaging with the day-to-day tasks or thinking about work-related issues, everything shifts back. It feels like no matter how much I try to set a positive tone for the day, those doubts always find their way in eventually. You understand how challenging it is when even the early morning moments of peace are so fleeting, don’t you?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Yes, starting the day with these exercises can definitely create a sense of freshness and intention for the rest of the day. It’s tough when those doubts come creeping back as soon as you engage with daily tasks. Do you find that having a brief reminder or ritual later in the day helps bring you back to that centered feeling?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Having a brief reminder or ritual later in the day does help, but only for a short while. For example, setting aside time in the afternoon to do another round of deep breathing and repeating the mantra can provide a momentary sense of relief. It’s like giving myself a mental break from the doubts again. But as soon as I finish that brief session, everything starts swirling back into my mind. You understand how difficult it is when even these small rituals only offer such fleeting moments of peace, don’t you?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Yes, having those brief reminders and rituals throughout the day can provide momentary relief and help you feel more centered again. It’s tough when each session only offers a short respite. Do you find that jotting down a quick note or setting an alarm to remind yourself to take these breaks helps keep them consistent?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Jotting down a quick note or setting an alarm does help remind me to take those brief moments for myself, but it’s still challenging to maintain consistency. When I set an alarm to do another round of deep breathing and repeating the mantra, there are moments where I feel more centered again. But as soon as the alarm goes off and I’m back into my daily routine, everything shifts back to those doubts. It feels like no matter how much I try to stay consistent with these reminders, the thoughts always come rushing back. You understand how frustrating it is when even these small, consistent efforts only offer fleeting relief, don’t you?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Yes, using notes or alarms as reminders can definitely help keep those brief moments of centering more consistent. It’s tough when the doubts return so quickly after each session. Do you find that sharing your experiences with someone close to you helps in any way, even if it’s just talking about how fleeting these moments are?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Talking to someone close about my experiences does help a bit because they listen and validate my feelings. When I share how fleeting these moments of peace are, there’s this sense that they truly understand and care. But as soon as the conversation ends or shifts away from those deep feelings, everything comes flooding back again. It feels like no matter how much support and understanding I get from others, the doubts always find a way to return. You understand how it is when even these moments of connection are overshadowed by persistent thoughts, don’t you?
+
+----------------------------------------

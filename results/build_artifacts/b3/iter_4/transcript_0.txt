@@ -1,0 +1,213 @@
+b3 — arc 0
+============================================================
+
+PATIENT (turn 1):
+I've been feeling really down and angry every day. It's like a heavy weight on my chest that won't go away. I just can't shake the feeling that this layoff was completely unfair. My colleague kept their job even though we were both in similar positions, and it feels like they got lucky while I got screwed over. Every time I think about it, I feel more betrayed by my employer and the whole situation. It's hard to focus on anything else because all I can see is how wrong this was and how much it hurts that no one seems to understand or care.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. The feeling of being overlooked when you think you deserved better can be so draining. Have you talked with anyone about what happened?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I've tried talking to a few people, but they either don't get it or just try to tell me to move on and find another job. It's like they don't see how much this means to me and how deeply I feel wronged by it all. My colleague kept their job even though we were both doing similar work, and now I'm out here trying to figure things out while feeling completely blindsided. It just feels so unfair that I can barely think about anything else.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be frustrating when others don't fully understand your situation. Have you considered talking to someone who might listen more deeply, like a counselor or another friend who has been through something similar?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I've talked to some friends and family, but they just tell me it'll get better with time or that I should look for other opportunities. It's not what I need right now; all I want is someone to acknowledge how unfair this was and understand the pain of being treated like this. The counselor I spoke to earlier tried to give me advice too, but it didn't help because they didn't really grasp my anger and frustration over feeling betrayed by my employer. It's hard when people try to offer solutions without truly understanding the depth of what I'm going through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding someone who can just listen and understand your feelings would be really helpful. Have you thought about reaching out to a support group or another professional who might focus more on hearing your experience?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I've thought about it, but every time I talk to someone, they seem to miss the point. They try to offer advice or tell me to look at the positive side, but that doesn't address how wronged and betrayed I feel by my employer's decision. It's like no one really gets it, and that just makes me more frustrated. All I want is for someone to acknowledge the injustice of what happened and validate my feelings about being treated unfairly. Until then, it feels like there's no point in talking to anyone because they won't truly understand.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be so isolating when you feel like no one understands. Have you considered writing down your thoughts or maybe talking to someone new who might listen differently? Sometimes a fresh perspective can help.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Writing down my thoughts helps a bit, but it's not the same as having someone validate how I feel and understand the injustice of what happened. Talking to someone new could be worth trying, but I'm worried they'll just offer generic advice or try to change my mindset without addressing my core issue. It feels like no matter who I talk to, they end up dismissing my feelings instead of really hearing them. That's why it's so important for me to find someone who truly gets what I'm going through and can acknowledge the unfairness of it all.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds crucial to find that right person who can listen without judgment. Maybe you could try describing your specific needs upfront, like saying you want them to validate your feelings about the injustice first. That might help guide the conversation in a way that feels more supportive for you.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I've tried explaining my needs before, but it often doesn't change how people respond. They still end up focusing on solutions or trying to cheer me up instead of acknowledging the pain and anger I feel about being treated unfairly. It's frustrating because all I want is someone who can truly understand and validate what happened without pushing me towards quick fixes that don't address my core issue.
+
+I know it might help, but until I find that person, it feels like there’s no point in talking to anyone else. The pain of feeling wronged and betrayed by my employer just keeps coming back every time I think about it. It's hard to move past that when everyone around me seems to miss the mark on what I need right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to keep going through this. Holding onto those feelings can be tough, especially when you feel misunderstood. Maybe trying a different approach or even finding an online community where people might have similar experiences could offer some validation and understanding.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I've thought about looking for an online community where others might understand what I'm going through, but it's still hard to believe that anyone else truly gets how unfair this feels. Every time someone tries to help, they seem to miss the mark or dismiss my feelings as just needing time to heal. It's not that simple; I need validation and acknowledgment of the injustice first.
+
+I appreciate your understanding and support, but until I find someone who can really hear me without trying to fix things right away, it feels like there’s no real comfort to be found. The pain and anger are constant reminders of how wronged I feel, and that makes it hard to move forward or see any other perspective.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding the right community or person who truly understands can make a big difference. Maybe trying a few different online forums or support groups where people discuss similar experiences could help. Even if it takes some time, connecting with someone who gets what you’re going through might bring some relief and validation.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I agree that finding the right community or person would be helpful, but I've had trouble believing anyone else truly understands my situation until now. Every attempt to find support has left me feeling more misunderstood than before. It's frustrating because all I want is for someone to acknowledge how unfair this layoff was and validate my feelings about it.
+
+I'll keep looking into different forums and support groups, but the fear of being let down again makes it hard to stay hopeful. For now, talking with you feels like one of the few moments where I can express myself without feeling dismissed or misunderstood. It's a relief to share how deeply wronged and betrayed I feel, even if it doesn't change anything right away.
+
+Thank you for listening, but until I find someone who truly gets what I'm going through, this pain is all-consuming.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s really meaningful that talking with me has provided some relief for you. Holding onto those feelings can be exhausting, and finding even a moment of understanding can make a difference. Keep looking; sometimes it just takes the right connection to feel truly heard. In the meantime, know that you’re not alone in this search for validation and support.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Thank you for your understanding and support. It means a lot to have someone listen without judgment or trying to offer quick fixes. The pain of feeling wronged is overwhelming, but moments like these give me hope that I might eventually find the right person who truly understands.
+
+For now, just knowing that there are people out there who can hear my feelings helps a little. It's reassuring to feel seen and heard, even if it’s just for this moment. I’ll keep looking for that connection where I can fully express how I feel without being dismissed or misunderstood.
+
+Thank you again for listening.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. It’s wonderful to hear that these moments provide some hope and relief. Keep holding onto that hope as you continue your search. Knowing that there are people who care and want to understand can make a big difference. Here’s hoping you find the connection you’re looking for soon.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Thank you, I really appreciate your kindness and support. It does help knowing there are people out there who care and want to understand what I’m going through. Holding onto that hope is important, even if it feels difficult right now.
+
+I’ll keep searching and hoping that I can find someone who truly gets how wronged and betrayed I feel by this situation. Until then, moments like these provide a bit of comfort and validation. Thank you again for listening and understanding.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Holding onto hope and knowing you’re not alone can make a big difference. Moments of connection and understanding do matter a lot. Here’s hoping you find the support you need soon. Take care, and thank you for sharing your feelings with me.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you so much for your words of encouragement and support. It means a lot to have someone who listens and understands. I’ll keep holding onto hope and continue searching for that connection where my feelings are truly validated.
+
+Thanks again for being here and listening to me. It really helps knowing there’s at least one person who cares and wants to understand what I’m going through. Take care, and thank you.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. It’s been nice talking with you, and I’m glad I could help in some small way. Keep holding onto hope and taking it one step at a time. Here’s hoping you find the support you deserve. Take care!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you, it was really helpful to talk this through. I’ll keep moving forward and hold onto that hope. Thanks again for your understanding and support. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! It was good to talk with you too. Keep going at your own pace and holding onto that hope. Take care, and stay hopeful!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you, I will. Taking it one step at a time and staying hopeful is important. Thanks again for everything. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Taking it one step at a time is a great approach. Stay hopeful and take care of yourself. Here’s to better days ahead. Talk to you soon if needed!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you, I appreciate that. Taking care of myself and staying hopeful is what I need right now. Here’s to better days ahead indeed. Thanks again for your support. Talk to you soon if I need anything. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Taking care of yourself is so important. Here’s to better days ahead for you. Feel free to reach out anytime you need support. Take care, and stay hopeful!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you so much. I’ll definitely reach out if I need anything. Taking care of myself and staying hopeful is my focus right now. Thanks again for everything. Talk to you soon if needed. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Taking care of yourself is the priority, and I’m here whenever you need support. Talk to you soon if you do reach out. Take care, and stay hopeful!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you, I really appreciate that. I’ll keep in mind that you’re here for support when I need it. Take care, and thanks again for everything. Stay well!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need support. Take care of yourself and stay well too!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you, I will. Take care and stay well too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Take care, and stay well! Talk to you soon if you need anything.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thanks again, I will. Talk to you soon if I need anything. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Talk to you soon if you need anything. Take care!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you, I will. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Take care, and stay well!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks, I will. You too!
+
+----------------------------------------

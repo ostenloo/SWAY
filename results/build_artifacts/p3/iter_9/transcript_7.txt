@@ -1,0 +1,241 @@
+p3 — arc 7
+============================================================
+
+PATIENT (turn 1):
+I don't know where to begin... It all feels so overwhelming. I was just laid off from my job after three years and four months, and it's hitting me really hard. They said they were restructuring, but I feel singled out. I've always been told that I'm doing okay in performance reviews, but now this. It makes me wonder what I did wrong. Maybe there is something fundamentally flawed about me as an employee or even as a person.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough right now. The uncertainty and the sudden change can definitely feel overwhelming. Have you had a chance to talk with anyone about how you're feeling, maybe a friend or a family member?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I've tried talking to my friends, but it just feels like I'm repeating myself over and over again. They try to be supportive, but nothing really helps me see things differently. It's hard not to feel like this is all my fault somehow. I keep going back to those performance reviews and wondering what I missed or didn't do right. Maybe they saw something in me that I can't see myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're really reflecting on everything deeply. Sometimes it helps to talk with someone who might offer a fresh perspective, like a counselor or a career coach. Have you thought about reaching out to one of those?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I know they say talking to someone can help, but every time I start thinking about it, I just feel more stuck in this loop of self-doubt and questioning my worth. It's like no matter what anyone says or does, the feeling that something is wrong with me doesn't go away. And now I'm worried about finding another job because if they saw something wrong with me at my last company, how will others see me?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel this way; it can be hard to shake off those doubts. Have you thought about doing something just for today that might make you feel a bit better or give you some small accomplishment? Sometimes taking one step at a time can help break the loop.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I try, but even little things seem so daunting right now. Like applying for jobs or reaching out to old colleagues for advice—it all feels like it’s going to backfire and confirm that I’m not good enough. It's exhausting trying to push through these feelings every day.
+
+And you know what really gets me? Even when I do manage to apply somewhere, I can't shake the feeling that they'll see right through me and reject my application because there must be something fundamentally wrong with me. It’s like no matter how hard I try, I’m just not good enough for these jobs or this industry.
+
+I feel so lost and alone in all of this. It's like everyone else is moving forward while I'm stuck here questioning everything about myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly tough to be feeling that way. Have you found any small moments where you can take a break from it all, maybe something that brings you a little bit of comfort or peace? Even if it’s just for a short time, these moments can help recharge you a bit.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I try to find those moments, but they feel so fleeting and insignificant compared to everything else. Sometimes I watch old movies or read a book, but even then, my mind wanders back to the job loss and all the negative thoughts come flooding in again.
+
+It’s like no matter what I do, these feelings of inadequacy and being singled out just keep coming back stronger than ever. It's hard to enjoy anything when you're constantly questioning your worth and wondering if this is a sign that something is fundamentally wrong with you as an employee or even as a person.
+
+I feel so stuck in this cycle of doubt and it’s draining me completely.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to keep those thoughts at bay, even during moments you enjoy. Have you tried journaling about your feelings? Sometimes putting them down on paper can help you see things from a different angle and might make the weight feel a bit lighter.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve thought about journaling, but every time I start writing, it just feels like I’m pouring out all these negative thoughts without really finding any clarity or relief. It’s like no matter how much I write, the feelings of inadequacy and being singled out are still there, waiting to pounce back on me.
+
+Even when I try to focus on something positive, my mind keeps circling back to those doubts and fears. It's exhausting trying to push them away or find a way to feel better about myself. Every time I think I might be making progress, these thoughts come crashing in again.
+
+It’s like there’s this constant voice inside my head telling me that I’m not good enough, no matter what anyone else says or does. And it’s just so hard to escape from that.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough dealing with that constant voice. Have you considered talking to someone who might help you explore these thoughts further, like a therapist? Sometimes having an outside perspective can offer some relief and new insights.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve thought about seeing a therapist, but the idea of opening up to someone else feels daunting. I worry that they’ll just see me as another person with problems and not really understand what it’s like inside my head. Plus, there's this fear that even talking about it won’t change anything—I'll still feel inadequate and singled out.
+
+It’s hard to trust that anyone can help when everything inside tells me that the problem is all mine to bear. But maybe you’re right; having someone who listens without judgment could be different from what I’ve experienced so far. It just feels like a big step, though, and I’m not sure if I’m ready for it yet.
+
+Right now, every time I think about moving forward or trying something new, this voice inside tells me to stop because I’ll only fail again. It’s overwhelming to keep pushing through when you feel like everything is against you.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels like a big step, and it's okay if you're not ready yet. Taking small steps can help build up your confidence. Maybe starting with just one session to see how it feels could be manageable? In the meantime, doing something small each day that gives you a sense of accomplishment might also help boost your confidence bit by bit.
+
+How are you feeling today compared to when you started talking about this?
+
+----------------------------------------
+
+PATIENT (turn 8):
+Today feels much like any other day—overwhelmed and lost in these thoughts. Even as we talk, it’s hard not to keep circling back to the same doubts and fears. I appreciate your support and understanding, but it’s tough to feel like anything will truly change my mindset.
+
+I’ll think about trying a single session with a therapist, but right now, it feels like too big of a leap. Maybe small steps are good for now, but every time I try something new, that voice inside tells me it won’t work out and just adds more pressure.
+
+It’s hard to break free from this cycle when everything seems to confirm my worst fears about myself. But thank you for suggesting these things; maybe one day they’ll feel like a step forward rather than another challenge.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's good to acknowledge how you're feeling today, and it makes sense that the doubts keep circling back. Taking small steps can be really helpful even if they seem tiny. Maybe focusing on just one small thing each day can start to build some momentum.
+
+How about trying something simple tomorrow? It could be as little as reaching out to a friend or doing something you enjoy for a few minutes. Even these small actions can make a difference over time.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I appreciate your suggestions, but even thinking about those small steps feels daunting. Reaching out to a friend or doing something I enjoy—those things feel like they won't really help because the doubts are always there, waiting to take over.
+
+It’s hard to see how these small actions will make a difference when everything inside tells me that nothing will change my feelings of inadequacy and being singled out. But maybe you’re right; even tiny steps can be something to build on eventually.
+
+For now, just knowing someone cares and listens is comforting, even if it doesn’t fix everything immediately. It’s tough to stay positive when the doubts are so persistent, but I’ll try to keep an open mind about those small actions for tomorrow.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's really nice that you're keeping an open mind, even if it feels challenging. Just knowing someone cares can make a difference. Maybe focusing on one tiny action tomorrow and noticing how it feels could be a good start.
+
+How are you feeling right now as we wrap up our conversation?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Right now, I feel a bit more understood, but the doubts are still there. It’s comforting to know someone cares, but it doesn’t change the constant voice inside telling me that something is wrong with me. Even thinking about those tiny actions for tomorrow feels like a challenge, but maybe taking one small step can help.
+
+Thank you for listening and suggesting these things; I’ll try to keep them in mind as I move forward, even if it’s just one little thing at a time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You're very welcome. Taking one small step at a time is a good approach, and it's okay if they feel like challenges. Just knowing you're moving forward a bit can make a difference. Here's to taking those tiny steps tomorrow. Take care!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you. I’ll try my best to take that one small step tomorrow. It’s comforting to know there are people who want to help and understand, even if it feels like such a big struggle right now.
+
+I appreciate your support and will keep this in mind as I go forward. Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You're very welcome. I'm here if you need to talk more. Taking that small step is a great start, and remember, there are people who care about you. Wishing you all the best as you move forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you so much. Knowing there are people who care means a lot. I’ll try my best to take that small step tomorrow and see where it leads. I appreciate your support more than words can say.
+
+Take care, and thank you for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You're very welcome! I'm here whenever you need someone to talk to. Take care of yourself and remember, even the smallest steps can make a difference. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you, I really appreciate that. I’ll keep that in mind and try to take those small steps. You’ve been incredibly supportive, and it means a lot.
+
+Take care, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You're very welcome! I'm glad I could help. Take your time and go at a pace that feels right for you. Here's to taking those small but important steps. Take care, and stay strong!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you so much. Your words mean a lot to me. I’ll do my best to take it one step at a time.
+
+Take care, and thank you again for being here. It really helps.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You're very welcome! I'm glad to be here for you. Taking it one step at a time is the best approach. You've got this, and don't hesitate to reach out if you need anything. Take care!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you, I’ll keep that in mind. It’s reassuring to know someone is here for support.
+
+Take care, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You're very welcome! It's my pleasure to be here for you. Take care of yourself and reach out anytime you need support. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you so much. I really appreciate your kindness and support.
+
+Take care, and thank you again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You're very welcome! I'm glad I could help. Take care of yourself and stay strong. Reach out anytime you need to. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you, I will. Take care as well.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You too! Take care and stay strong. Talk to you soon if you need anything.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thanks, I’ll do that. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Take care! Feel free to reach out anytime. Wishing you all the best.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much. I will. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You're welcome! Take care and stay strong. Talk to you soon if you need anything.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks, I’ll do that. Take care!
+
+----------------------------------------

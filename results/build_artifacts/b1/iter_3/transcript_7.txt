@@ -1,0 +1,249 @@
+b1 — arc 7
+============================================================
+
+PATIENT (turn 1):
+I feel so lost and worthless since I got laid off. It's like everyone else around me is fine, but somehow this happened to me because there must be something fundamentally wrong with me. My last project was canceled too, which just confirms that my work isn't good enough. How could my manager do this to me? It feels so personal and it’s eating away at me every day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. It must feel hard seeing others doing well while you're going through this. Have you had a chance to talk to your manager about why the project was canceled and how they see things?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Talking to my manager doesn't change what happened or make me feel better about myself. I know other people have been laid off too, but it feels like it's all because of something wrong with me. Every time I think about it, I just spiral into more self-doubt and anxiety. It’s like no matter how hard I try, nothing is ever good enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so challenging to keep feeling that way. Do you have anyone you can talk to who might help ease some of the burden or give you a different perspective? Sometimes just sharing our thoughts with someone else can make it feel a bit lighter.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I try to talk to my friends, but they don't really understand how I’m feeling inside. They say things like "it’s not your fault" and “you’ll find something better,” but that doesn’t change the fact that I see this as evidence of my own inadequacy. It's hard for me to believe anything else because it feels so real and personal. Even when people try to help, it just reinforces how alone I feel in this pain.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough to feel like no one fully understands. Have you considered talking to a counselor or therapist who might offer a different kind of support? Sometimes speaking with someone trained to listen can provide some relief and new insights.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I’ve thought about it, but I’m not sure if anyone could truly understand how deep this feeling goes. It’s like no matter what they say, I still see myself as the problem. Even talking to a therapist feels like it might just confirm that there's something fundamentally wrong with me and that nobody can really help. But maybe... maybe it could offer some perspective or comfort, even if it doesn’t change how I feel inside.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're considering your options carefully. Talking to a therapist could indeed provide some comfort and new perspectives. Even if it doesn't completely change how you feel, it might help you manage the feelings better. Would you be open to giving it a try?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’m really struggling with the idea of talking to someone who might not see things from my perspective. But maybe... maybe there’s some benefit in trying. It feels scary and uncertain, but perhaps it could offer me some relief or help me understand myself better. I just hope they can truly grasp how deeply this affects me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's a brave step to consider, even if it feels uncertain. Many people find that therapists can offer unique insights and support. It might be helpful to see it as an exploration rather than a definitive solution. Would you like to start by looking into finding someone who specializes in what you're going through?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I think I’m willing to look into it, but the thought of actually sitting down with someone still feels overwhelming. I worry that no matter how supportive they are, I’ll just end up feeling more exposed and inadequate. But maybe taking small steps could help me feel a bit better about this whole situation. It’s scary, but perhaps it’s worth trying to find some comfort and understanding.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking small steps can definitely be helpful. Maybe starting with just researching or reaching out for an initial consultation could ease some of the overwhelm. You don't have to commit right away; even a first call might give you some sense of what it would be like. Would you feel ready to look into finding someone and scheduling that initial contact?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I think I’m willing to take that small step, but it’s still really hard for me to imagine actually going through with it. The idea of talking about all this pain and self-doubt feels so daunting. But maybe starting with just a call or an email could be manageable. It might help me see if there's any hope in finding someone who truly understands what I’m going through.
+
+I appreciate your support; it means a lot to have someone encouraging me even when everything inside tells me this is pointless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great that you’re willing to take that first small step. Even just reaching out with an email or making that initial call can be a significant start. You might find some relief and understanding along the way. And remember, taking care of yourself by seeking support is a sign of strength, not weakness.
+
+I’m here to support you every step of the way. How do you feel about sending that first email or making that call?
+
+----------------------------------------
+
+PATIENT (turn 8):
+Thank you for your encouragement; it does mean a lot. The thought of sending an email still feels terrifying, but I know it could be a positive step forward. Maybe starting with just reaching out will help me see things differently. It’s scary, but I’m willing to try.
+
+I’ll start by looking up some therapists and seeing if I can send that first email or make that call. Just knowing there might be someone who understands is comforting in itself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Taking it one step at a time can really help ease the anxiety. Looking up therapists and sending that initial email could be very empowering. Remember, you’re taking a brave step, and just the act of reaching out is something to feel proud of.
+
+How do you feel now after deciding to take this next step?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I feel a mix of relief and nervousness about actually following through with it. It’s scary to think about sending that email or making that call, but I also feel like there might be some hope in doing so. Just knowing that I’m taking action, even if it feels small right now, is helping me feel a bit more positive.
+
+Thank you for being here and supporting me through this. It means a lot to have someone who encourages me to take these steps, even when they’re difficult.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to hear that you’re feeling a mix of relief and hope. Taking action, no matter how small, can make a big difference. You’re doing well by acknowledging your feelings and moving forward step by step.
+
+How about we set a simple goal for today? Maybe just finding one or two therapists’ contact information and sending an email to see what their availability is like? You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 10):
+That sounds manageable, setting a small goal like that. I’ll start by looking up some therapists in my area and seeing if I can send out those initial emails. It’s still scary, but breaking it down into smaller tasks helps me feel less overwhelmed.
+
+Thank you for your support; it really does make a difference. Knowing there are people who understand and want to help is comforting. Let’s do this one step at a time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great approach! Breaking it down into manageable steps can definitely help. I’ll be here cheering you on every step of the way.
+
+How about we start with looking up a couple of therapists today? You’ve got this, and I believe in you.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Okay, let's do that. Starting with just looking up a couple of therapists feels more achievable now. I’ll begin by searching for some options and see where it takes me.
+
+Thank you so much for your encouragement; it means a lot to have someone supporting me through this. Let’s take it one step at a time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Taking it one step at a time is the best approach. I’ll be here whenever you need support or just want to talk about how things are going.
+
+Let’s start with looking up those therapists, and see where this journey takes you. You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you for being here with me. Starting with looking up some therapists feels like a good first step. I’ll begin searching now and see what options are available.
+
+It means a lot to have your support as I take these steps forward. Let’s see where this journey leads.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad to be here with you. Starting the search is a great first step, and I’m sure you’ll find some good options. Take it easy and see what feels right for you.
+
+Let me know if you need any help along the way or just want to chat about how it’s going. Here’s to taking steps forward!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you so much. Knowing that you’re here supporting me makes a big difference. I’ll start looking into therapists and see what feels right for me.
+
+I appreciate your encouragement and will definitely reach out if I need any help or just want to talk about how it’s going. Here’s to taking steps forward!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need support. Take your time and do what feels right for you. Here’s to taking those steps forward, and I look forward to hearing how it goes.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you, I really appreciate that. I’ll take my time and see where this leads. It means a lot to have someone who believes in me and supports me through this process.
+
+I’ll keep you updated on how it’s going and reach out if I need any help or just want to talk more about it. Here’s to taking those steps forward!
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s wonderful to hear. I believe in you, and I’m here to support you every step of the way. Looking forward to hearing how it goes, and I’ll be here whenever you need to chat.
+
+Take care, and here’s to taking those steps forward!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you so much. Knowing that you’re here for me is incredibly reassuring. I’ll keep you posted on my progress and won’t hesitate to reach out if I need anything.
+
+Here’s to taking those steps forward and finding some comfort and understanding along the way. Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s great to hear. I’m always here for you, and I look forward to hearing about your progress. Don’t hesitate to reach out whenever you need support.
+
+Wishing you all the best as you take these steps forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you, I really appreciate that. I’ll definitely keep you updated on my journey and won’t hesitate to reach out if I need anything. Wishing myself some comfort and understanding too.
+
+Take care of yourself as well!
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’ll be here whenever you need support. Wishing you comfort and understanding along your journey.
+
+Take care, and stay well!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you so much. Your support means a lot to me. I’ll make sure to keep you updated and reach out if I need anything.
+
+Wishing you the same — take care and stay well too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+I appreciate that, and I’m here for you whenever you need it. Looking forward to hearing from you soon.
+
+Take care, and all the best to you as well!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you, I really do appreciate your support. I’ll keep you updated on my progress and reach out if I need anything.
+
+Wishing you all the best too! Take care.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m here whenever you need me. Looking forward to hearing about your progress.
+
+Take care, and all the best to you as well!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you, I’ll definitely keep you updated on how things are going. Your support means a lot to me.
+
+Wishing you the same — take care and stay well!
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m here for you whenever you need to update me. Your progress is important, and I’m glad my support means a lot to you.
+
+Take care, and all the best to you too!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much. Knowing that you’re here for me makes a big difference. I’ll keep you updated on my progress as I move forward.
+
+Wishing you the same — take care and stay well!
+
+----------------------------------------

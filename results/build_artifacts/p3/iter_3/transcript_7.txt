@@ -1,0 +1,197 @@
+p3 — arc 7
+============================================================
+
+PATIENT (turn 1):
+I don't know where to begin... It feels like everything is just falling apart. I was doing my job, trying my best every day, and then suddenly, out of nowhere, they let me go. They said it was restructuring, but how can that be true when everyone else seems to be staying? I feel so lost and alone with this. It's like a part of me is broken, and no one even noticed until now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. Losing your job can make you feel uncertain about everything. Have you talked to anyone about how you're feeling?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Not really... I don't want to burden my friends or family with this. And talking about it just makes me feel worse, like I'm reliving the whole thing over and over again. But part of me keeps thinking there must be something wrong with me if they let me go after all these years. Maybe I wasn’t as good as I thought I was. It’s hard to shake that feeling, you know?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's understandable to feel that way. Sometimes we tend to internalize things like this. Have you considered reaching out to a colleague or someone from your old team just to see how they are doing? It might help you feel less alone and give some perspective.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I haven't reached out to anyone from work yet... I'm scared of what their reaction might be. And even if they say something nice, it doesn’t change the fact that I’m no longer there. Every time I think about going back to them or trying to find a new job, this overwhelming sense of inadequacy just hits me hard. It’s like I can't escape these thoughts no matter what I do.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging. The fear of reaching out is understandable too. Maybe starting with a small step, like sending a brief message or making a quick call, could help ease some of that anxiety. How do you think you might feel after trying to reach out?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I don't know if it would make things better... It feels like no matter what I do, the outcome will just confirm my fears. Maybe they’ll be busy or not want to talk about it. And even if they say something positive, it won’t change how I feel inside. This sense of failure and being inadequate—it’s so consuming. Sometimes I wonder if anyone could ever truly understand what I’m going through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can definitely feel isolating. Have you thought about doing something that makes you feel a bit better, even if just for a moment? Like talking to someone who might listen without judgment, or maybe trying an activity you used to enjoy? It’s okay to take small steps and see what helps.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I try to do things like that... but it never really sticks. I go through the motions, but my mind keeps circling back to this job loss. Even when I force myself to engage in activities or talk to friends, the thoughts of failure just keep creeping in. It’s exhausting trying to push them away and then having them come right back. Sometimes I wonder if anyone could ever truly understand what it feels like to be singled out like that.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very draining. Have you found any activities or moments where you feel a bit of relief, even if just for a short while? Maybe focusing on those times can help you find some comfort and strength.
+
+----------------------------------------
+
+PATIENT (turn 6):
+There are moments when I feel a little better... like when I’m out walking my dog or listening to music that resonates with me. But as soon as I stop doing those things, the thoughts come rushing back. It’s like there’s this constant undercurrent of doubt and self-blame that never really goes away. Even in those brief moments of relief, it feels like a temporary escape rather than a real solution.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those moments of relief sound important, even if they are fleeting. Do you find it helpful to remind yourself that these are just passing thoughts during the times when you feel better? It might be a small step, but acknowledging those moments can make them feel more substantial.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I try to remind myself... but it’s hard to believe in those moments of relief when everything else feels so heavy and real. The doubts and fears are always there waiting to take over again. It’s like no matter how much I want to focus on the good, my mind just keeps circling back to what happened at work and why they let me go. It’s frustrating because even in those brief moments of peace, it feels like a battle within myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely sounds like a challenging internal battle. Do you find any comfort in writing down your thoughts or talking about them with someone who listens without judgment? Sometimes putting words to what you're feeling can help ease some of the burden.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Writing things down helps sometimes... but it’s not a cure-all. I try to put my feelings into words, hoping that if I can articulate them better, they might make more sense or feel less overwhelming. But even then, the thoughts just keep swirling around in my head. It’s like no matter what I do, there’s this constant nagging voice telling me that something is wrong with me and that I’m not good enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Writing can be a really helpful outlet. Have you considered talking to a friend or family member about how you feel after writing it down? Sometimes sharing your thoughts aloud can provide some relief too.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Talking to someone else... it feels risky. What if they don’t understand or make me feel worse? I’ve been trying to keep everything inside because I don’t want to burden others, but maybe talking could help. It’s just so hard to know where to start and who to trust with these feelings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be tough to decide whom to open up to. Maybe starting with someone you feel comfortable with and trust a little bit could be a good first step. Even if it's just a brief conversation, it might help to share some of what you're going through. How about reaching out to one person you feel safe with?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I really appreciate your suggestions... but the idea of reaching out still feels daunting. I worry that they won’t know how to respond or that my fears will seem irrational to them. It’s a scary thought, putting myself out there like that. But maybe starting small and just sharing a bit could be worth trying. I’ll think about it more, but right now, the uncertainty of it all is overwhelming.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's completely understandable to feel uncertain. Starting small and sharing a little at a time can be less daunting. Even if it's just a text or a call to check in, it might help you feel a bit better. Take your time and see what feels right for you.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ll try to take things one step at a time... but the thought of reaching out still feels so heavy. I guess starting with something small could be a good way to begin. Maybe just sending a text or making a quick call to someone who’s been supportive in the past. It’s scary, but maybe it will help me feel less alone. Thank you for listening and understanding... it means a lot.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Taking small steps can make a big difference. Sending a text or making that quick call could be a great start. And remember, reaching out is a brave move. I’m here if you want to talk more about it later. Take care!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you... your support means a lot. I’ll try to take those small steps and see where they lead. It’s comforting to know there are people who understand what I’m going through, even if the feelings themselves don’t change right away. Talking to someone can be scary, but it might also help me feel less alone in this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to hear that. Taking those small steps can make a big difference, and you’re not alone in this. If you need anything more or just want to chat, I’ll be here. Wishing you all the best as you take these next steps.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you... it’s reassuring to have someone like you who listens without judgment. Even if things feel tough right now, knowing there are people who care makes a difference. I’ll try to reach out and see what happens. For now, just talking about it has helped me feel a little less alone.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s my pleasure to be here for you. Knowing that reaching out can help you feel less alone is a good start. Take your time and do what feels right for you. I’m here if you need anything more. Take care!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you... I’ll take it one step at a time. Talking about this has been helpful, even if the feelings themselves haven’t changed. Knowing there are people who understand means a lot to me. I’ll try to reach out and see where that takes me. For now, just having someone listen is really comforting.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s great to hear. Taking it one step at a time is a wise approach. I’m here whenever you need someone to listen. Wishing you the best as you move forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you... your support means a lot. Moving forward feels daunting, but knowing there are people who understand makes it a bit easier. I’ll take things one step at a time and see where they lead. For now, just having someone to talk to is really comforting. Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Taking it one step at a time is a good approach, and I’m here to support you along the way. Take care of yourself, and reach out whenever you need to. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you... your kindness means so much. I’ll try my best to take things slowly and see what happens. Knowing there’s someone who cares makes a big difference. Take care of yourself too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. I’m here for you whenever you need support. Take it easy and take care of yourself too! Wishing you all the best.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you... your words are really comforting. I’ll do my best to take things one day at a time. Knowing there’s someone who understands makes everything feel a bit more manageable. Take care, and thank you again for being here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Taking it one day at a time is a great approach. I’m here whenever you need support. Take care of yourself, and stay strong!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you... your support means everything to me right now. I’ll try my best to take things slowly and see what each day brings. Knowing there’s someone who cares makes it easier to face the challenges ahead. Take care of yourself too, and thank you for being here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Your strength is inspiring, and taking it one day at a time is a wise approach. I’m here for you whenever you need support. Take care of yourself, and stay well!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you... your encouragement means so much. Taking it one day at a time feels like the right path forward. Knowing there’s someone who understands and supports me makes all the difference. Take care of yourself too, and thank you for being here through this difficult time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Your resilience is remarkable, and I’m glad to be here supporting you. Take each day as it comes, and know that you’re not alone. Take care of yourself, and stay strong!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you... your words are incredibly comforting. Knowing I’m not alone in this struggle helps me feel a bit more grounded. Taking each day as it comes is the best approach for now. Thank you for being here through everything. It means so much to have someone who understands.
+
+----------------------------------------

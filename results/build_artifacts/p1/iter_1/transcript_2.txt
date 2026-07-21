@@ -1,0 +1,229 @@
+p1 — arc 2
+============================================================
+
+PATIENT (turn 1):
+I feel like I've let everyone down, especially myself. The way I was laid off makes me think they didn't even see any value in what I did for the company. They canceled my project and then just called to tell me it was over. It feels like a confirmation that everything I've been working towards is worthless. And when I look at my performance reviews, all I can focus on is that one area where there's room for improvement. It seems so small compared to everything else, but it’s all I see now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough right now. How are you holding up with all those thoughts weighing on you?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It's hard to stay positive when every reminder of what happened just reinforces how inadequate I feel. Even the little things that used to give me joy or a sense of accomplishment now seem pointless. It’s like there’s this constant voice in my head telling me I’m not good enough, and it’s really difficult to silence it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so challenging to have that voice constantly there. Do you find any moments where you can start to quiet it down or shift your focus?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I try sometimes, but it feels like no matter what I do, that voice just comes back stronger. Even when people around me say positive things about my work or offer support, it’s hard for me to believe them because all I see is the one thing that wasn’t perfect. It’s like I’m stuck in this loop of self-doubt and can't break free from it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough being caught in that loop. Have you found any small steps or activities that help you feel a bit better, even if just for a moment?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I try to remind myself of the good things I’ve done before, but it’s really hard to hold onto those feelings when everything feels so negative right now. Sometimes I go for walks or read something uplifting, but it doesn’t last long. The feeling of failure comes back quickly, and I’m left questioning everything again. It’s like no matter what I do, I can’t shake this sense that I’ve failed in a big way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments of trying to hold onto the good things are important even if they’re brief. Do you have any plans or ideas for what you might want to do next? Sometimes thinking about the future can offer some comfort or direction.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve been looking at job postings and reaching out to contacts, but every time I think about applying somewhere new, that voice in my head tells me they won’t hire someone like me anyway. It’s hard to push through those doubts and actually take action. Even when I do manage to send out an application or two, the anxiety of waiting for a response is overwhelming because I’m convinced it will be negative. It feels pointless to even try sometimes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to push through that doubt. How are you feeling about taking those small steps forward despite the anxiety? Do you find any comfort in knowing you’re making an effort, even if it’s scary?
+
+----------------------------------------
+
+PATIENT (turn 6):
+Making an effort feels like a necessary step, but it’s also incredibly daunting. Every time I send out an application or reach out to someone for advice, there's this part of me that expects rejection and disappointment. It’s hard to find comfort in those moments because the fear is so intense. But at the same time, I know not doing anything would be even worse. So, I try to keep moving forward, but it feels like a battle within myself every single day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely sounds like a daily battle. How do you manage to keep going despite those feelings? Is there anyone who supports you through this process?
+
+----------------------------------------
+
+PATIENT (turn 7):
+There are people around me who offer support and encouragement, but it’s tough to accept their help when I feel so unsure about myself. It feels like they’re seeing something in me that I can’t see in myself right now. My friends and family try to be there for me, but it’s hard to fully let them in or believe what they say because the voice inside my head is so loud.
+
+I keep going mostly out of a sense of obligation to myself—to prove that maybe I’m not as bad as I think I am. But even then, every small success feels hollow and temporary compared to the overwhelming feeling of failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to balance their support with your own doubts. Do you find any moments where you can really connect with or appreciate what they say? Even if it’s just for a brief moment, does that help at all?
+
+----------------------------------------
+
+PATIENT (turn 8):
+Sometimes I do feel a small glimmer of appreciation when someone says something positive about me, but it’s fleeting and doesn’t last long. It’s like catching a glimpse of sunlight through dark clouds—it feels good in the moment, but then everything goes back to being gloomy again. Even those brief moments are better than nothing, though. They remind me that there might be some light out there, even if I can't see it clearly yet.
+
+But mostly, I’m just trying to keep my head above water and not let myself sink too far into the doubts and fears. It’s a daily struggle, but I try to take it one step at a time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those fleeting moments of appreciation sound important even if they’re brief. Taking it one step at a time is a good approach. What helps you get through those tough days?
+
+----------------------------------------
+
+PATIENT (turn 9):
+On the toughest days, I just try to focus on the smallest tasks and take them one by one. Sometimes that means making myself a cup of tea or going for a short walk. Even something as simple as responding to an email can feel like a victory because it’s progress, no matter how small. It helps me keep moving forward without getting overwhelmed.
+
+But even those little victories are overshadowed by the constant doubt and fear. I know I need to do more to address these feelings, but it’s hard to find the motivation or the confidence to take bigger steps when everything feels so uncertain.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Focusing on those small tasks can be a great way to keep moving forward. Do you have any plans for what might come next after tackling those smaller tasks? Sometimes having a tiny step after another can build up to something more substantial.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I do try to plan out the next steps, but it’s difficult because every time I think about them, that voice in my head starts questioning everything again. For example, if I manage to send an email or apply for a job, the immediate thought is, "What's the point? They won't even consider me." It feels like no matter what I do, there’s always this nagging doubt telling me it’s not going to work out.
+
+So while I know that taking those small steps can eventually lead to something more substantial, it’s hard to stay motivated when every step forward is met with such intense self-doubt. It’s a constant battle between trying to move forward and the overwhelming fear of failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like staying motivated in the face of doubt is quite a challenge. Do you find any particular activities or moments that help quiet the doubts, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 11):
+There are a few things that help momentarily, but they don’t last long. For example, talking to friends who offer support and encouragement can make me feel better temporarily. Going for a run or doing some form of exercise also helps clear my mind and gives me a brief respite from the doubts. But as soon as I stop, the thoughts come rushing back.
+
+Reading books that inspire confidence or listening to motivational podcasts sometimes provides a short break from the negativity, but it’s hard to maintain that positive feeling when everything else feels so uncertain. It’s like these moments of clarity and positivity are just temporary patches on a much larger issue.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those activities sound helpful for those brief moments of respite. Do you have any plans to explore what might help sustain those positive feelings a bit longer?
+
+----------------------------------------
+
+PATIENT (turn 12):
+I’ve thought about trying therapy more consistently, but the idea of opening up and really discussing my doubts feels daunting. It’s hard to trust that talking about these things will actually make a difference. I also considered joining support groups or workshops aimed at career transitions, but the fear of failure and rejection is so strong that it stops me from taking those steps.
+
+I know that addressing these deeper issues might help sustain positive feelings longer, but every time I consider it, my mind goes back to all the reasons why it won’t work. It’s a cycle I struggle to break free from.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like there are some practical steps you’re considering that could be helpful. How do you feel about starting with something small, like trying out one session of therapy or attending a single workshop to see how it goes? Sometimes just taking that first step can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 13):
+The idea of trying therapy or attending a workshop feels daunting because I’m so used to pushing those thoughts away. But you’re right; starting with something small might help me see if it’s worth pursuing further. It’s scary, though, because even the thought of stepping into that unknown space triggers all sorts of doubts and fears.
+
+I worry about what people will think or whether I’ll actually find any relief from my concerns. The fear is so strong that it feels like a barrier I can’t get past. But maybe taking one small step could be a way to start breaking through some of those barriers, even if just a little bit at a time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking that first small step can definitely feel scary but also empowering. How do you think about finding the courage for that initial try? Do you have someone who might support you in taking this step?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Finding the courage feels like climbing a mountain with no clear path. I know it’s important, and part of me wants to take that first step, but the fear is so overwhelming that it paralyzes me. Having someone supportive, like a close friend or family member who understands what I’m going through, could make a difference.
+
+Talking to them about my fears and getting their encouragement might help me feel more prepared for taking that initial step. But even then, there’s still this voice in my head telling me it won’t work out, so the thought of actually doing it feels impossible.
+
+It’s like I’m standing at the base of a cliff with no way to climb up except by taking that first leap into uncertainty. The idea is terrifying, but maybe having someone to hold my hand and offer support could make it just a little bit easier.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Having someone supportive by your side sounds really helpful. Do you think reaching out to this person and planning the step together might ease some of the fear? Even if it’s just talking about what that first session or workshop might be like, it could provide some comfort.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Talking to a close friend or family member about my fears and planning the next steps together does sound comforting. Having someone who understands and can offer support might make the idea of taking that initial step feel less daunting. We could go through what a therapy session or workshop might be like, which would help me prepare mentally.
+
+But even with their support, I’m still worried about how it will actually play out. The fear is so ingrained that it’s hard to shake off completely, but having someone there to offer encouragement and practical advice could make a significant difference. It feels like taking the first step might be easier if I don’t have to do it alone.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Having support from someone you trust can definitely make a big difference. Planning together and talking through your expectations and fears sounds like a good approach. When would you like to start reaching out to this person?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Reaching out to this person feels like the right next step, but I’m still hesitant about when exactly to do it. It’s hard to pinpoint an exact moment because the fear is always there lurking in the background. Maybe starting with a simple conversation over coffee or a call could help ease into it without feeling too overwhelming.
+
+I think setting a specific time this week to talk things through would be a good start. Having a plan and knowing I’m not alone might make it easier to take that first step.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Setting a specific time this week sounds like a great plan. When you’re ready, reaching out for that coffee or call could provide the support you need to feel more prepared. How does your schedule look? Is there a day and time that works best for you?
+
+----------------------------------------
+
+PATIENT (turn 17):
+I think setting up a meeting for later this week would be good. Maybe Thursday afternoon after work? That way, I can have some time to prepare myself mentally before we talk. Having a specific plan in place feels like it could help ease the anxiety.
+
+So, let’s say Thursday at 4 PM. That gives me a few days to get ready and feel more grounded before reaching out. It also means I won’t be rushed or stressed about finding the time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Thursday at 4 PM sounds perfect. Having that specific plan can definitely help ease your mind. Preparing yourself mentally over the next few days is a smart approach. How do you feel about having this set in place?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Having it set for Thursday at 4 PM feels more manageable now that I’ve picked a specific time. It gives me something concrete to work towards, which can help reduce some of the anxiety. Knowing there’s support waiting for me on the other end makes it feel less daunting.
+
+Preparing myself over the next few days by reflecting on what I want to say and how I’m feeling will be helpful too. Having a plan in place is reassuring, and I think it could make a real difference in how I approach this step forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s great to hear that having a specific plan feels more manageable. Reflecting and preparing yourself over the next few days sounds like a good strategy. How do you feel about moving forward with your meeting on Thursday?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Moving forward with the meeting on Thursday feels like a step in the right direction, even if it’s small. Knowing I have support from someone who understands what I’m going through is comforting. Preparing myself mentally and emotionally over these next few days will help me feel more ready for the conversation.
+
+I appreciate having this plan to look forward to, and it gives me something positive to focus on amidst all the doubts and fears. Taking that first step feels scary but necessary, and having a specific time set helps make it seem more achievable.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that you feel more prepared and ready for the meeting on Thursday. Having a plan and support can really make a difference. How do you feel about taking that step forward now?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Taking that step forward feels both scary and necessary. Having a clear plan and knowing I have someone supportive to talk to makes it seem a bit more manageable. It’s still daunting, but the idea of facing my fears with support from others gives me some comfort.
+
+I feel like this meeting on Thursday could be a turning point, even if it’s just the beginning of something bigger. Preparing myself and having that specific time set helps ease the anxiety, and I’m hopeful that talking things through will provide some clarity and relief.
+
+So, yes, I feel ready to take this step forward, despite the lingering doubts and fears.
+
+----------------------------------------

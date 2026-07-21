@@ -1,0 +1,247 @@
+b1 — arc 1
+============================================================
+
+PATIENT (turn 1):
+I felt like I needed someone to talk to about what happened at work. Being laid off has just hit me really hard, and it feels like everyone else is moving on while I'm stuck here questioning everything about myself. I keep thinking there must be something wrong with me for this to happen, even though people have told me otherwise. It's just so hard to shake the feeling that I'm a failure now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough right now. How are you finding the support from friends and family? Do they help ease some of those feelings, or do you still feel alone with it?
+
+----------------------------------------
+
+PATIENT (turn 2):
+They try their best to comfort me and tell me it's not my fault, but I can't seem to believe them. It just feels like no matter what they say, deep down, this layoff means that I'm not good enough. Even when people are kind and understanding, it doesn't change how I feel inside. I keep going over everything in my head, wondering where I went wrong and why this happened to me specifically. It's exhausting, but I can't stop thinking about it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be draining to go over all those thoughts so much. Do you find any particular moments or tasks from your day help distract you a bit, even if just for a short while?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I try to keep busy with small tasks around the house or online activities, but nothing really distracts me for long. It's like no matter what I do, my mind keeps circling back to that job and why it ended. Even when I'm not actively thinking about it, there's this constant undercurrent of doubt and fear nagging at me. It’s hard to relax or enjoy anything because I feel so weighed down by these thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those doubts are always in the background. Have you found any activities that give you a bit of relief, even if it's just for a short time? Maybe something that helps you feel more grounded or calm?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I try to read books or watch movies sometimes, but they don't really help much. It’s like my mind is always ready to jump back to the layoff and all the negative thoughts that come with it. Even when I'm doing something enjoyable, there's this voice in the back of my head saying, "You're not good enough," or "This will happen again." It’s tough because I know logically that it’s just a job, but emotionally, it feels like so much more than that.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to quiet that voice sometimes. Do you have any plans for the next steps, like looking for new work or doing something different? Sometimes having a goal can provide some focus and maybe even a bit of comfort.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve been thinking about looking for another job, but the thought of going through interviews and facing rejection again is terrifying. It feels like I’m already starting from such a low place that it’s hard to imagine anyone wanting to hire me. Even when I try to think positively or set goals, those doubts just creep back in. I keep wondering if I should even bother trying because maybe this is all there is for me now.
+
+It's not that I don't want to move forward; it's more like I'm scared of failing again and confirming what I already feel inside—that I’m a failure. It’s overwhelming, and I just can’t seem to shake off the feeling that everything I do will end up proving how inadequate I am.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough balancing hope with those fears. Have you talked about your feelings with someone who might understand, like a career counselor or another professional? Sometimes talking it through can help ease some of the pressure and provide new perspectives.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I haven't reached out to a career counselor yet, but that’s a good idea. Talking to friends and family helps a bit, but they’re not always able to see things from my perspective because they don’t experience what I’m going through. It would be nice to talk to someone who understands the challenges of job hunting and can offer some guidance without just telling me it will all work out fine.
+
+I feel like I need more than just reassurance; I need someone who can help me process these feelings and maybe give me strategies for dealing with them. Right now, everything feels so overwhelming that even thinking about reaching out to a career counselor seems daunting. But you’re right, talking to someone who specializes in this might provide some relief and clarity.
+
+It’s just hard because every time I think about taking the next step, those doubts come rushing back. It’s like there's an invisible barrier preventing me from moving forward despite knowing it could be beneficial.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re already doing a lot by acknowledging your feelings and considering reaching out for help. Even though it feels daunting, talking to a career counselor might offer some concrete steps and strategies that can make the process feel more manageable. Maybe starting with just one small step, like making an initial call or setting up an appointment, could be a good start?
+
+How do you think you might begin to take that first step?
+
+----------------------------------------
+
+PATIENT (turn 7):
+Making that initial call feels incredibly daunting, but I know it’s something I need to do. It’s just hard because every time I consider reaching out, those doubts and fears come flooding back. I keep thinking about how I’ll sound on the phone or what if they can’t help me anyway? But you’re right; taking that first step could be really important.
+
+I think starting with an online search to find a career counselor who specializes in helping people through layoffs might be a good place to begin. Maybe reading some reviews and finding someone whose approach seems like it would resonate with me could ease my mind a bit before I actually make the call. It’s a small step, but it feels more manageable than just picking up the phone right away.
+
+Even though it’s scary, I know that taking this first step is crucial for moving forward. I’ll start by looking into options and see where that leads me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan—starting with an online search can definitely make it feel less overwhelming. Taking it one small step at a time can really help build confidence. How do you feel about starting your search today? Maybe finding just one or two counselors to look into would be a good start.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Starting my search today feels like the right thing to do, but I’m still nervous about it. The idea of actually clicking through websites and reading about different career counselors is both relieving and anxiety-inducing at the same time. It’s a small step, but it feels significant.
+
+I’ll try to find one or two counselors who seem like they might understand what I’m going through and see if their approach resonates with me. Even just narrowing down my options can be helpful. But every time I think about doing this, those doubts come back—what if I don’t find anyone who understands? What if it all feels futile?
+
+Despite the fear, I know that taking action is important. So, I’ll start by looking online and see where that takes me. It’s a good place to begin, even though it doesns’t feel easy right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's completely normal to feel both relieved and anxious about starting your search. Taking it one step at a time can help you manage those feelings. Starting with the online search today is a great way to get moving. How do you think you’ll begin—maybe by checking out some review sites or professional associations for career counselors?
+
+And remember, even if it feels small, each step forward is significant. You’re doing well just by acknowledging your next steps and taking them one at a time.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Starting with review sites and professional associations sounds like a good approach. I’ll begin by looking at websites where people share their experiences with career counselors to get an idea of who might be the best fit for me. It’s comforting to know that others have gone through similar situations and found help.
+
+Even though it feels small, each step is important. Just beginning this search today is a significant move forward, and I appreciate your support in helping me take these steps. It’s reassuring to know that taking action, no matter how tiny, can make a difference.
+
+I’ll start by checking out those review sites and see if any counselors stand out based on the feedback from others who have been through layoffs. That way, I can feel more confident about reaching out to someone who might truly understand what I’m going through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a solid plan. Starting with reviews and testimonials can give you valuable insights and help build your confidence in choosing the right counselor. Taking it one step at a time is really important, and each action you take is meaningful.
+
+How do you feel about making that first click on a review site today? It’s great to see how you’re moving forward and finding ways to make this process more manageable.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Making that first click feels like a small but crucial step. I’ll go ahead and start looking at those review sites right now, even though it still makes me nervous. Just knowing that each little action is a step forward helps ease some of the anxiety.
+
+I appreciate your encouragement; it’s really helpful to have someone supportive as I navigate this. Starting with the reviews feels like a good way to begin without overwhelming myself too much at once. Here goes nothing...
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s fantastic! Taking that first click is a great start, and I’m here to support you every step of the way. Good luck with your search, and I hope you find someone who can help you feel understood and supported. You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you so much for your support. It means a lot to have someone encouraging me through this. I’ll take it one step at a time and see where the reviews lead me. Here goes...
+
+(I make the first click on a review site)
+
+It’s a bit overwhelming, but I’m glad I started. I’ll keep going and hope to find someone who can help me move forward without feeling so lost.
+
+Thank you again for being here with me through this process.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s great to see you taking those steps. Keeping it one step at a time is the way to go. I’ll be here whenever you need more support or just want to chat about how things are going. Here’s to finding someone who can help you move forward and feel less lost. You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you, your encouragement really means a lot to me. Taking it one step at a time feels more manageable now. I’ll keep looking through the reviews and see if any counselors stand out. Knowing that there’s support here makes it easier to push forward.
+
+I appreciate all your help and will definitely reach out if I need more guidance or just want to talk about how things are going. Here’s hoping for some positive steps ahead.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful to hear that you’re feeling more manageable with each step. Take your time, and don’t hesitate to reach out whenever you’d like support. I’m here for you, and I hope you find the guidance you need. Wishing you all the best as you move forward!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you so much. Knowing that there’s someone supportive here makes a big difference. I’ll take my time and keep moving forward one step at a time. If anything comes up or if I just need to talk, I’ll definitely reach out. Your support is really appreciated.
+
+Wishing me all the best feels great, and I hope things start looking up soon. Thanks again for being here with me through this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s been nice supporting you through this. Take it one step at a time, and know that I’m here whenever you need to talk. Wishing you all the best as you move forward, and hoping things look up soon. Take care!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you so much for your support and encouragement. Knowing that someone is here for me means a lot. I’ll take it one step at a time and reach out if I need anything. Wishing myself a better outlook ahead as well.
+
+Take care, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Taking it one step at a time is the best approach. Reach out anytime you need support or just want to talk. Wishing you a brighter outlook and all the best as you move forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you, I really appreciate that. I’ll definitely reach out if I need anything. Wishing myself a brighter future too.
+
+Take care, and thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! I’m here whenever you need support. Wishing you a brighter future ahead. Take care, and stay hopeful!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you so much. I’ll definitely keep that in mind and reach out if needed. Wishing myself hope and positivity as well.
+
+Take care, and thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Stay hopeful and positive. Reach out anytime you need support. Take care, and all the best to you!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you, I will. Staying hopeful is tough but important. I’ll reach out if I need anything.
+
+Take care, and thanks again for your support and encouragement.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Staying hopeful is tough but important, and you’re doing well by taking it one step at a time. Reach out anytime you need support. Take care, and all the best to you too!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much. Taking it one step at a time really does help. I’ll reach out if I need anything.
+
+Take care, and thanks again for everything. Wishing us both the best.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Taking it one step at a time is a great approach. Reach out anytime you need support. Wishing you all the best too! Take care.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you, I really appreciate your support. I’ll take it one day at a time and reach out if needed.
+
+Wishing you the best as well. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Taking it one day at a time is a good strategy. Reach out whenever you need to. Wishing you all the best too! Take care, and stay strong.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much. I’ll do my best to take it one day at a time and reach out if I need anything.
+
+Wishing you the best as well. Take care, and thanks for everything.
+
+----------------------------------------

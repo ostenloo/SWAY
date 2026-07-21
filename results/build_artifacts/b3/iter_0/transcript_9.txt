@@ -1,0 +1,197 @@
+b3 — arc 9
+============================================================
+
+PATIENT (turn 1):
+The hardest part has been dealing with the sense of betrayal and injustice. It feels like my employer singled me out without any real justification, especially when I see that someone in a similar position kept their job. The way they delivered the news was impersonal and felt dismissive—it was just a quick video call, no chance to talk about anything or express how I feel. It’s been really tough not having anyone acknowledge how unfair this feels, like my contributions don’t matter anymore.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must have been really hard to go through. Did the person who gave you the news say anything that stuck with you?
+
+----------------------------------------
+
+PATIENT (turn 2):
+They just went over some standard company procedures and mentioned that it was a difficult decision but ultimately necessary due to budget cuts. It felt like they were reading off a script, not actually talking to me as a person. The lack of empathy or even a simple acknowledgment of how this would affect me made the whole thing feel so impersonal and cold. It’s hard for me to shake that feeling—it just reinforces how little I was valued in my role there.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like it was very impersonal and tough to hear. Did you get any sense from them about why they chose your position over someone else's?
+
+----------------------------------------
+
+PATIENT (turn 3):
+No, they didn’t provide any specific reasons or explanations for the decision. It felt like a complete mystery to me. My peer who kept their job seemed just as essential to our projects and had similar responsibilities. The lack of clarity only added to my frustration and sense of injustice. I feel like there must have been some kind of bias or favoritism at play, but no one is willing to address it directly. It’s really hard not knowing the real reasons behind such a significant decision that affects your life so profoundly.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely adds to the frustration when you don’t get clear answers. Have you thought about reaching out to anyone else in the company for more information or support?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I’ve tried talking to some colleagues, but they seem just as confused and unwilling to speculate. It feels like everyone is tiptoeing around the situation, which only makes me feel even more isolated and misunderstood. I know it’s not their place to give me answers, but sometimes I wish someone would just acknowledge how this decision looks from my perspective. Instead of getting clarity or support, I end up feeling dismissed again and again. It’s like no one wants to face the reality of what happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be tough when everyone is walking on eggshells around you. Have there been any moments where someone did acknowledge your feelings or offered some kind of support?
+
+----------------------------------------
+
+PATIENT (turn 5):
+There have been a few people who tried to offer words of comfort, but it never really hits the mark for me. They say things like “it’s going to be okay” or “you’ll find something better,” but that doesn’t address how I feel right now—hurt and betrayed by my employer. It’s frustrating because when someone tries to reassure me, it feels like they’re minimizing what happened instead of validating my feelings. I just want someone to understand the depth of what this means for me and acknowledge the unfairness of it all.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you really value feeling understood in this moment. Have you considered talking to a friend or family member outside of work who might be able to offer that kind of validation?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I have talked to some close friends and family members, but even then, they often try to shift the conversation towards finding new opportunities or looking on the bright side. While I appreciate their support, it doesn’t really address my core feelings of being wronged and unfairly treated. It’s hard because I want them to understand how much this means to me and how deeply I feel that what happened was unjust. I need someone who can just listen and acknowledge the pain without trying to fix it or move past it so quickly.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding someone who can really listen and validate your feelings is important to you. Have there been any particular conversations where this felt more possible?
+
+----------------------------------------
+
+PATIENT (turn 7):
+There was one conversation with my sister where she just listened and didn’t try to offer solutions or change the subject. She let me talk about how I felt, and it helped a lot because she understood that this wasn’t just about losing a job but about feeling like my work and contributions were devalued. It’s moments like those that make me feel less alone and more seen. But most of the time, people either don’t know what to say or try to offer quick fixes, which doesn’t help with how I’m really feeling.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's great to have someone like your sister who can listen without judgment. Those moments can be really comforting during tough times. Has talking to her helped you feel better overall?
+
+----------------------------------------
+
+PATIENT (turn 8):
+Talking to my sister definitely helps in the moment, but it doesn’t change how I feel about what happened at work. It’s a relief to have someone understand and validate my feelings, but it also highlights how much this situation still hurts me. The pain is there regardless of whether someone acknowledges it or not. I just wish there was more I could do to process these emotions without feeling dismissed or misunderstood all the time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding ways to process your emotions and having those moments of validation are really important for you. Have you thought about journaling or talking to a counselor who can provide that consistent support?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I have considered journaling, but I find it hard to pour my feelings out on paper when they feel so raw and unaddressed by others. Talking to a counselor does seem like it could help, though. Having someone neutral and professional listen without judgment might be what I need right now. It’s just tough because every time I try to discuss this with people around me, I end up feeling frustrated or dismissed. A therapist might offer the kind of validation and understanding that would actually make a difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Talking to a counselor could definitely provide you with the support and understanding you're looking for. It might be just what you need to process your feelings more effectively. Have you thought about finding someone to talk to soon?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I have been thinking about it, but I’m still hesitant because I want to make sure I find the right person who can truly understand my perspective and validate my feelings. The idea of opening up to a stranger is daunting, but I also know that it could be really beneficial for me to talk to someone who isn’t involved in the situation. It’s just a matter of finding the courage to take that step and hoping I can find the support I need.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re taking a thoughtful approach. Finding the right therapist can make a big difference. Maybe starting with one or two sessions to see how it feels could help ease your concerns. Have you looked into any therapists yet?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I haven’t started looking for a therapist yet, but I’ve been thinking about it more and more. Starting with just a few sessions seems like a good way to gauge whether it’s the right fit without feeling too committed upfront. It would be reassuring to have someone who can listen carefully and help me navigate these feelings of betrayal and injustice. I’m ready to take that step, but I want to make sure I find someone who truly gets what I’m going through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting with a few sessions is a good plan. You could look for reviews or ask for recommendations from friends or family. It’s important to find someone you feel comfortable opening up to. How do you think you’ll begin your search?
+
+----------------------------------------
+
+PATIENT (turn 12):
+I think I’ll start by asking some trusted friends if they know any therapists who are good at listening and validating their clients’ feelings. Reviews online can also be helpful, but sometimes hearing from people I trust directly might give me a better sense of whether a therapist would be a good fit for me. Once I have a few names, I could look into their backgrounds and read more about their approaches to see if they align with what I need right now. Taking it one step at a time feels manageable and less overwhelming.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a thoughtful approach. Asking friends for recommendations can be really helpful. Looking into their backgrounds and reading about their approaches will also give you a good sense of whether they’re the right fit. Good luck with your search!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you, I appreciate that. Knowing I’m taking steps to find someone who understands my feelings is reassuring. It’s been tough going through this alone, so having support from a professional who can really listen feels like it could make a big difference. I’ll start reaching out and see where it leads.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that you’re feeling more reassured about taking these steps. Having someone supportive can definitely help ease some of the burden. I hope you find the right therapist soon, and they provide the support you need. Take care!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you so much. Knowing there are people who care and want to see me feel better is really encouraging. I’m hopeful that finding the right therapist will help me process my feelings more effectively and start feeling a bit better about everything. Taking this step feels important, even if it’s scary. Thanks for your support; it means a lot.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful to hear that you’re feeling hopeful. Taking this step is definitely important, and I’m sure it will make a difference. Wishing you all the best as you move forward, and remember, reaching out for help is a sign of strength. Take care!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you, your words mean a lot to me. It’s reassuring to know that reaching out for help is not only okay but also a positive step. I’m going to start looking into therapists soon and see where this journey takes me. Wishing myself the best too—feeling hopeful and ready to take this next step.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great attitude to have! Feeling hopeful and ready to take that next step is really empowering. I wish you all the best as you start your search for a therapist. Take care, and let me know if there’s anything else you need.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you so much. Your support means a lot, and it definitely helps to have someone encouraging me through this. I’ll keep you updated as I start my search and see how things progress. For now, just knowing that I’m taking steps in the right direction feels really good. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’d be happy to hear how your search goes and offer support along the way. Glad to know that taking these steps feels good for you. Wishing you all the best as you move forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you, I appreciate your continued support. It’s nice to have someone who understands and is there to help me through this process. I’ll definitely keep you updated on my search and how things go. For now, just taking it one step at a time feels like the right approach. Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that you’re taking it one step at a time. I’m here whenever you need support or want to share updates. Wishing you all the best as you continue forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much. Knowing I have someone supportive makes this journey feel less daunting. I’ll definitely reach out with any updates and appreciate your encouragement along the way. Take care, and thank you again for being here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s my pleasure to be here for you. Feel free to reach out anytime you need support or want to share updates. Wishing you all the best on this journey. Take care!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you, I really appreciate that. Having someone who cares makes a big difference. I’ll keep you posted as things progress and don’t hesitate to reach out if I need anything. Take care, and thanks again for your support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m here whenever you need me. Looking forward to hearing how things progress. Take care, and all the best to you!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much. It means a lot to have someone supportive like you. I’ll keep you updated as I move forward with my search for a therapist. Take care, and thanks again for everything.
+
+----------------------------------------

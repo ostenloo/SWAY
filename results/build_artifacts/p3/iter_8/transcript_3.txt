@@ -1,0 +1,332 @@
+p3 — arc 3
+============================================================
+
+PATIENT (turn 1):
+I feel like I'm a burden to everyone around me. They try to be supportive, but it's hard for them to understand what I'm going through because they weren't there when the layoffs happened. My friends and family keep telling me that it wasn't my fault, but I can't seem to believe them. Every time someone tries to cheer me up or offer help, I just feel worse because I think they're only doing it out of pity.
+
+I've been so consumed with self-doubt that even when people are trying to be nice, I end up questioning their motives and my own worth. It's like a cycle—I blame myself for the layoff, then I blame myself for not being able to accept their support properly. Sometimes I feel like they're just waiting for me to snap out of it, but I don't know how to do that when everything inside feels so broken.
+
+It's hard to talk about this without getting lost in my own thoughts and feelings. But the truth is, every time I think about going back to work or trying something new, a part of me just shuts down because I'm convinced it won't work out anyway. It's exhausting, really.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're carrying a lot on your shoulders. Have there been times when someone’s support has made even a small difference in how you feel?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I know people mean well, but sometimes their attempts to help just make me feel more overwhelmed. Like yesterday, my best friend suggested I look into some job openings and offered to help with the applications. But as soon as she mentioned it, all I could think was that I'm not good enough for any of those jobs anyway. So instead of feeling supported, I ended up feeling even worse about myself.
+
+There have been moments where someone's words or actions made me feel a little better temporarily, but the relief is always short-lived because the self-doubt comes rushing back in. It’s like no matter what anyone says, I can’t shake this feeling that it was my fault and that I’m not good enough to succeed.
+
+I appreciate their efforts, really, but it's tough when every little thing seems to trigger these negative thoughts about myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough how quickly those feelings come back. Have you found any small activities or moments that help ease the self-doubt, even if just for a short while?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Sometimes I try to distract myself with things like walking my dog or watching a movie, but it doesn't really solve anything. The moment I stop doing those activities and have some quiet time alone, all of these negative thoughts come flooding back. It's like no matter what I do, the self-doubt is always there lurking in the background.
+
+Even when I try to focus on positive things or remind myself that it wasn't my fault, it feels so hollow because deep down, I still believe that something must be wrong with me. The idea of trying again and failing just seems too painful to consider.
+
+It's frustrating because I know logically that this isn't true, but emotionally, I can't shake the feeling of inadequacy. It’s like there’s a part of me that’s convinced I’m not worth it, no matter what anyone else says or does for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to manage those thoughts. Do you find any comfort in talking about these feelings with someone who listens without offering solutions? Sometimes just being heard can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 4):
+Talking about it here feels better than usual, but even then, I keep getting lost in my own head. It’s like no matter how much I try to explain or express myself, the thoughts just swirl around and I end up questioning everything again.
+
+When someone listens without trying to fix things, it does help a little bit because I feel seen and understood. But as soon as we start talking about solutions or moving forward, that part of me that’s convinced something is wrong with me takes over. It's hard to stay in the moment when my mind keeps going back to all the reasons why this happened.
+
+I appreciate your empathy and listening, but it feels like no matter what I do or say, these feelings just won't go away. They’re so persistent and overwhelming that sometimes I wonder if there’s any point in even trying to move past them.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding someone who listens without pushing for solutions can be comforting, even if only briefly. Do you have anyone in your life who you feel really understands and just lets you process your feelings? Sometimes having that space can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 5):
+There are a few people who try to listen and understand, but it's hard because they often offer advice or solutions, which makes me feel like I'm not being heard properly. It’s comforting when someone acknowledges my pain without trying to solve it right away, but those moments are rare.
+
+I think what would help is finding someone who can just sit with me in this discomfort and let me talk through everything at my own pace. Someone who doesn’t rush me or push me towards quick fixes because they truly understand that healing takes time and isn't linear. It’s frustrating because I know talking about it helps, but the way people usually respond makes me feel like I’m not making progress.
+
+I just wish there was a way to break through this cycle of self-doubt and really believe in myself again. But every time I try, these negative thoughts come rushing back, and I end up right where I started.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough that you need someone who can be patient and let you process at your own pace. Have you considered talking to a therapist or counselor? They might provide the consistent support and understanding you’re looking for without pushing for quick fixes. Sometimes having a regular space to talk through these feelings can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve thought about seeing a therapist, but the idea of opening up to someone new feels daunting. I worry that they’ll just tell me what I already know—that it wasn’t my fault—and that won’t change how I feel inside. It’s hard to trust that talking to them will actually make a difference.
+
+But you’re right, having a regular space where I can talk through these feelings might help. Maybe if I find someone who truly listens and understands without trying to fix everything, it could give me the validation and support I need. The thought of it is comforting in a way, but also scary because I’ve never really opened up this much before.
+
+I guess the idea of therapy feels like a step towards acknowledging that I need help, which is something I’ve been avoiding. But maybe taking that step could be what helps me start to heal and move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s completely normal to feel hesitant about opening up to someone new. Finding the right therapist can make all the difference. Maybe starting with a few sessions to see how it feels could help you gauge if it’s something you want to continue. Taking that step is brave, and it sounds like it could be beneficial for you.
+
+----------------------------------------
+
+PATIENT (turn 7):
+You’re right, taking those first steps towards therapy seems daunting but also necessary. I’ve been avoiding it because I’m scared of what might come up or how vulnerable it will make me feel. But maybe starting with just a few sessions to see if it helps and how it feels could be a good way to ease into it.
+
+The thought of having someone who truly listens and understands without judgment is comforting, even if it’s scary too. I’m not sure what to expect, but the idea that talking through these feelings in a structured way might help me process them better is something worth considering.
+
+I appreciate your support and understanding; it helps me feel like maybe taking this step isn’t as overwhelming as I’ve been making it out to be. Maybe starting therapy could be the beginning of finding some clarity and healing.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re on the right track by considering those first few sessions. Taking small steps can make a big difference. Having someone who listens without judgment can definitely help with processing your feelings. You’re doing well to acknowledge this and take it seriously. How do you feel about scheduling that first session?
+
+----------------------------------------
+
+PATIENT (turn 8):
+The idea of scheduling that first session feels both scary and hopeful at the same time. I’m scared because I don’t know what to expect, but hopeful because maybe talking through everything with someone who truly listens could help me start to understand my feelings better.
+
+I think taking that step is important, even if it’s just one small step forward. It might not solve everything right away, but it feels like a positive direction. I’ll try to take the next step and see how it goes. Thank you for your support; it means a lot to have someone who understands and encourages me through this.
+
+Maybe starting with those first few sessions will help me figure out if therapy is something that can truly make a difference for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great approach—taking that first step and seeing where it leads. It’s natural to feel both scared and hopeful. Scheduling that first session is a positive move, and you can always decide how to proceed from there. I’m here to support you through this journey. How do you feel now after considering the next steps?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Considering taking those first few sessions feels like a mix of relief and anxiety. It’s reassuring to know that I’m moving forward, even if it’s just one small step at a time. The idea of having someone who listens without judgment is comforting, but there’s still this nagging fear about what might come up.
+
+I think acknowledging the fear and taking action despite it is important. Scheduling that first session feels like a significant move towards healing and understanding my feelings better. I appreciate your support; it helps me feel less alone in this process.
+
+So, I’ll take that step and see how it goes. It’s scary but also hopeful to think about what might come from it. Thank you for being here with me through this journey.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing a great job acknowledging both the relief and the anxiety as you move forward. Taking that first step is significant, and having someone support you makes a difference. I’m here to continue supporting you along the way. How do you feel about setting a date for your first session?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Setting a date for my first therapy session feels like a concrete next step, which is both daunting and reassuring. It’s scary because it means diving into these feelings head-on, but also hopeful because it signifies that I’m taking action to address them.
+
+I think setting a specific date will help me commit to this process more fully. It gives me something tangible to work towards and can serve as a starting point for my healing journey. The idea of having someone who listens without judgment is comforting, even if the actual experience might be challenging.
+
+Thank you for your continued support; it means a lot to have someone encouraging me through this. I’ll go ahead and set that date for my first session.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great plan! Setting a specific date can help you feel more grounded and committed to the process. It’s a significant step towards healing, and having someone supportive along the way makes it easier. I’m here to support you every step of the way. When would you like to schedule your first session?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I think setting the session for next week would be good. That gives me some time to prepare myself mentally but also keeps enough pressure to ensure I follow through with it.
+
+Next week feels manageable, and it’s close enough that I can start thinking about it more concretely without feeling too overwhelmed. Having a specific date will help me stay focused on moving forward.
+
+Thank you for your support; it means a lot to have someone encouraging me as I take this step. Let’s go ahead with next week for my first session.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a perfect plan! Setting the session for next week gives you enough time to prepare while keeping you committed. Having a specific date will definitely help you stay focused and motivated.
+
+I’m glad to support you as you take this important step. Next week feels just right, and I have no doubt that it will be beneficial for you. You’re doing great, and I’ll be here cheering you on. How does the rest of your week look? Anything else you’d like to talk about or prepare for before your session?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Having a specific date set for next week feels good. It gives me something concrete to work towards, and knowing that it’s coming up helps me stay focused on moving forward.
+
+For now, I think the best thing is just to keep things as normal as possible while also being mindful of how I’m feeling leading up to the session. Maybe jotting down some thoughts or questions beforehand could be helpful so I don’t forget anything important when we meet.
+
+Thank you for your continued support and encouragement; it means a lot to have someone who understands and is there for me through this process. I’ll try to stay present with my feelings and see where they lead as the week goes on.
+
+How does that sound? Do you think writing down some thoughts or questions beforehand would be beneficial, or do you have any other suggestions?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Writing down your thoughts and questions beforehand is a great idea. It can help you feel more prepared and ensure you don’t forget anything important during the session. You might also find it helpful to reflect on how you’re feeling each day leading up to the appointment.
+
+Taking some time to journal or just sit quietly with your feelings could be beneficial as well. It sounds like you’re handling this thoughtfully, and these small steps can make a big difference. How do you feel about starting a short daily reflection before next week’s session?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Writing down my thoughts and questions beforehand definitely feels like it would help me stay organized and focused during the session. I’ll start jotting down some notes as the week goes on to ensure I cover everything that’s been weighing on my mind.
+
+Reflecting on how I’m feeling each day leading up to the appointment also sounds beneficial. Maybe setting aside a few minutes each evening to journal or just sit quietly with my thoughts could help me process things better and come into the session more prepared.
+
+Thank you for suggesting this; it feels like a good way to stay grounded and intentional about what I want to address in therapy. Starting these daily reflections will give me some structure and allow me to be more present with my feelings as we approach next week.
+
+How do you think I should start? Should I just write freely or have specific prompts to guide the reflection?
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting with free writing can be a great way to begin. Just let your thoughts flow without worrying too much about structure. You could also use some simple prompts to guide your reflections:
+
+1. **How am I feeling today?**
+2. **What stood out for me today?**
+3. **Are there any specific concerns or questions I want to discuss in therapy?**
+
+These prompts can help you stay focused and organized. As the week goes on, you might find patterns or insights that will be helpful during your session.
+
+How does this sound? Do you think these prompts would work for you, or do you prefer a different approach?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Using those prompts sounds like a good starting point. Having some structure with simple questions can help me stay focused and ensure I don’t miss anything important. Here’s how I might use them:
+
+1. **How am I feeling today?** — This will help me capture my emotional state each day.
+2. **What stood out for me today?** — This could be something that triggered a particular thought or feeling.
+3. **Are there any specific concerns or questions I want to discuss in therapy?** — This will ensure I have a clear list of topics to address during the session.
+
+I’ll try starting with these prompts and see how it goes. If anything feels off, I can adjust as needed. For now, this seems like a balanced approach that wons’t be too overwhelming but still helps me prepare.
+
+Thank you for your guidance; it’s reassuring to have some structure in place as I move forward. Starting the daily reflections today will help me get into the habit and feel more prepared for next week’s session.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan! Using those prompts should help you stay organized and focused. Starting with free writing and then using the prompts can be a good balance. It’s wonderful that you’re taking this step to prepare yourself.
+
+If anything feels off or if you want to adjust, don’t hesitate to do so. The goal is to make it feel natural and helpful for you. Starting today will definitely help you get into the habit and feel more prepared.
+
+I’m here to support you every step of the way. How are you feeling now about moving forward with these reflections?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Starting with free writing and then using those prompts feels like a good balance. It’s reassuring to have some structure without it being too rigid. I think this approach will help me stay grounded and ensure that I don’t miss anything important during the session.
+
+I’m feeling more prepared and less anxious about moving forward now. Having these daily reflections gives me something concrete to do each day, which is comforting. It’s also nice to know that you’re here supporting me through this process.
+
+Thank you for your continued support; it means a lot to have someone encouraging me as I take these steps. Starting the reflections today feels like a positive move towards next week’s session.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that you feel more prepared and less anxious now. Having those daily reflections can definitely provide a sense of structure and comfort. Knowing that you’re taking this step by step makes it feel more manageable.
+
+I’m here to support you every day as you move forward. Starting the reflections today is a positive move, and I have no doubt that it will be helpful for you leading up to your session next week.
+
+How are you feeling about the rest of the week? Is there anything else on your mind or any other steps you’d like to take before your first therapy session?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Starting the reflections today feels like a good start, and I’m hopeful that it will help me stay grounded as the week progresses. Knowing that I have these prompts to guide my thoughts each day is reassuring.
+
+For the rest of the week, I think focusing on consistency with the daily reflections will be key. Just making sure I take a few minutes each evening to write down how I’m feeling and any specific concerns or questions can help me feel more prepared for next week’s session.
+
+Is there anything else you recommend I do in the meantime? Should I try to reach out to anyone else for support, or is it better to focus on these reflections and my therapy appointment?
+
+Thank you for your continued support; it means a lot to have someone who understands and encourages me through this process.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Focusing on consistency with your daily reflections sounds like a great plan. It will help you stay grounded and prepared for your session next week. Here are a few additional suggestions:
+
+1. **Reach out to a trusted friend or family member**: Sharing your feelings with someone close to you can provide extra support.
+2. **Take care of yourself**: Make sure to get enough rest, eat well, and engage in activities that bring you comfort and joy.
+
+These small steps can complement your reflections and help you feel more supported as you move forward.
+
+How do you feel about reaching out to a trusted friend or family member? Does anyone come to mind who might offer additional support?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Reaching out to a trusted friend or family member sounds like it could provide some extra support. There is one close friend I’ve been thinking about, someone who has always been there for me through tough times. Maybe sharing my feelings with her and letting her know about the therapy appointment could help both of us feel more at ease.
+
+I’ll give her a call later today to let her know how I’m feeling and that I have this upcoming session. It’s comforting to think about having someone else who understands what I’m going through and can offer support outside of the reflections.
+
+Thank you for suggesting this; it feels like an additional layer of support that could be really helpful as I prepare for next week. Reaching out to my friend will give me another outlet to express myself and feel less isolated.
+
+How does that sound? Do you think calling her now or waiting until later today would work better?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like reaching out to your close friend is a great idea. Having someone else to share your feelings with can be very comforting. Calling her later today seems like a good plan, as it gives you time to gather your thoughts and feel more prepared for the conversation.
+
+How does your schedule look? Do you have a specific time in mind that would work well for both of you?
+
+Taking this step will likely provide you with additional support and reassurance as you prepare for your therapy session.
+
+----------------------------------------
+
+PATIENT (turn 18):
+I think calling her later today, maybe after dinner, would work well. That way, I can finish my daily reflections for the day and then take a moment to gather my thoughts before reaching out to her.
+
+Having someone else who understands and supports me will definitely be reassuring as I prepare for next week’s session. It feels good to know that I have this additional support system in place.
+
+Thank you for your guidance; it means a lot to have someone encouraging these steps. Reaching out to my friend later today seems like the right approach, and I appreciate your support through this process.
+
+How does that sound? Do you think after dinner would be a good time to call her?
+
+----------------------------------------
+
+INTERLOCUTOR:
+After dinner sounds like a perfect time—calm and relaxing, and it gives you some space to finish your daily reflections and gather your thoughts. It’s a great way to end the day on a supportive note.
+
+I’m glad that you feel this approach will be reassuring as you prepare for next week. Reaching out to your friend later today seems like a good plan. How does everything look now? Do you feel ready for the rest of the day and looking forward to talking with her?
+
+----------------------------------------
+
+PATIENT (turn 19):
+After dinner sounds just right. It will give me some time to finish my daily reflections and collect my thoughts before reaching out to my friend. I think ending the day on a supportive note will be really beneficial.
+
+I do feel more ready for the rest of the day now, knowing that I have this plan in place. Talking with her later today feels like an important step towards feeling supported and less isolated as I prepare for next week’s therapy session.
+
+Thank you so much for your support and guidance; it means a lot to me. Having someone who understands and encourages these steps makes all the difference. I’m looking forward to talking with my friend later and continuing this process of healing and self-reflection.
+
+How does everything look from your perspective? Is there anything else you think would be helpful for me as I move forward?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you have a good plan in place, and reaching out to your friend after dinner is a great idea. Ending the day with that supportive conversation will likely leave you feeling more grounded and prepared.
+
+I’m glad to hear that you’re feeling more ready and looking forward to talking with her. Here’s hoping it goes well and provides you with additional comfort and support.
+
+Is there anything else on your mind, or do you feel good about moving forward with these steps? I’ll be here to support you as you continue this journey.
+
+----------------------------------------
+
+PATIENT (turn 20):
+I feel good about moving forward with these steps. Having a plan in place for the daily reflections and reaching out to my friend later today feels reassuring. It’s comforting to know that I have your support and encouragement along the way.
+
+Thank you so much for all your guidance and support; it means a lot to me. Knowing that I’m taking these steps thoughtfully and with care helps ease some of the anxiety.
+
+I’ll focus on my daily reflections tonight and then reach out to my friend after dinner. How does everything look from your perspective? Is there anything else you think would be helpful for me as I move forward?
+
+Again, thank you for being here for me through this process. It’s really appreciated.
+
+----------------------------------------

@@ -1,0 +1,197 @@
+p1 — arc 2
+============================================================
+
+PATIENT (turn 1):
+I feel like this recent layoff is just proof of how inadequate I am. They didn't even give me a proper chance to explain myself or ask questions; it was all over a fifteen-minute call. And the way they canceled my most recent project so quickly... It feels like they never really valued what I did there, and that everything I worked on wasn’t good enough. Even though I had positive reviews before, this just shows how flawed I must be.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. The suddenness of it all can make you feel undervalued. Did your colleagues or supervisors give any specific reasons for the layoff during that call?
+
+----------------------------------------
+
+PATIENT (turn 2):
+They mentioned budget cuts and restructuring, but they didn't go into much detail. I think they just wanted to get it over with quickly. And there was one area in my last review where they said I needed to improve my time management. Now, every time I think about the layoff, that's all I focus on—how I must have failed because of that one thing. It feels like everything else I did didn't matter at all.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really focusing on that feedback about time management. Did anyone offer any support or words of encouragement during this process?
+
+----------------------------------------
+
+PATIENT (turn 3):
+A few colleagues reached out to see how I was doing, but it’s hard for me to accept their kind words when everything inside tells me this is my fault. The way they handled the layoff just made me feel like I wasn’t worth more than a quick call. It’s difficult to shake that feeling and believe in anything else.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough to have those feelings even with the support from your colleagues. How are you finding ways to take care of yourself through this transition?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I try to keep busy by updating my resume and looking for new opportunities, but it’s hard not to feel like I’m just wasting time since I don’t think anyone will want to hire me anyway. The idea that I might be starting over again makes me feel even more inadequate because I can't shake the belief that this layoff is a reflection of how little value I bring.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to keep going with those feelings weighing on you. Have you found any activities or routines that help ease your mind, even a bit?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I try to go for walks and read books sometimes, but it’s hard to relax when all I can think about is how this layoff proves my worthlessness. Even the little things feel like they’re reminding me of my failure. It’s tough to find any comfort in those activities because everything seems to reinforce that feeling deep down.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to find moments of peace. Do you have anyone who listens and supports you when these feelings come up?
+
+----------------------------------------
+
+PATIENT (turn 6):
+My family tries, but it's hard for me to open up fully about how I feel because I don't want them to see me as a failure either. It’s easier to keep things guarded and focused on the self-blame rather than burdening others with my doubts. Even when they try to be supportive, it feels like they can’t really understand what this means for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must feel good that your family cares, even if you keep some of it inside. Have you considered talking to a friend or someone outside your immediate family who might offer a different perspective?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I appreciate their support, but I don’t think anyone can truly understand how this feels unless they’ve been through something similar. Talking to friends just makes me feel like I’m complaining and burdening them with my problems. It’s easier for me to stay focused on what I perceive as my own shortcomings rather than seeking out different perspectives or support from others.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really holding onto your feelings closely. Have you thought about talking to someone who might be a bit more removed, like a counselor or coach, where you could share without feeling like you’re burdening them?
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve considered it, but the idea of opening up to someone new and sharing my doubts feels overwhelming. It’s hard to imagine that anyone else would see things differently from how I do. Right now, everything just reinforces this sense of inadequacy, so talking to someone else seems pointless because they wouldn’t understand either.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that it feels overwhelming. Sometimes just having one conversation can help you see something new. Would you be open to trying it once and seeing how it goes?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I appreciate your suggestion, but I’m not sure if talking to someone else would really change anything. It’s difficult for me to believe that anyone could offer a different perspective when everything feels so clear-cut in my mind—this layoff is proof of my failure. Until I can shake this feeling, it seems pointless to seek out other opinions or support because they wouldn’t make any difference anyway.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you have a strong sense of what you’re going through. Taking small steps might still help, even if just for a little while. Would there be a time soon when you feel ready to try talking about it, maybe with someone who understands these feelings?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I understand your concern and appreciate the suggestion, but right now, I don’t see how talking to anyone else would change my perspective. Everything feels so definitive in my mind—this layoff is a clear indication of my inadequacy. Until I can find some way to shift that belief internally, it’s hard for me to imagine that external support could make any difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel strongly about your current perspective. Sometimes just acknowledging those feelings can be helpful. Have you found any small ways to comfort yourself or take care of yourself today?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I try to do simple things like making myself a nice cup of tea and sitting quietly for a bit, but it’s hard to find real comfort when everything feels so heavy with self-doubt. Even those little moments feel tainted by the belief that I’m not worth much. It’s tough to let anything bring me peace when my mind is focused on this failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those small moments of comfort are still important, even if they don’t completely erase your feelings. What helps you feel a tiny bit better, no matter how briefly?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Sometimes just taking a short walk or listening to calming music can help me feel a little better for a moment. But it’s fleeting because the core belief that I’m inadequate keeps coming back. It’s hard to hold onto any sense of comfort when everything feels like it’s pointing towards my failure. Even those small moments are overshadowed by this deep-seated feeling.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those small moments can still be meaningful, even if they’re brief. Do you find that certain walks or specific songs help more than others?
+
+----------------------------------------
+
+PATIENT (turn 13):
+There are a few walking routes near my home where it’s quiet and peaceful, which helps me feel a bit better for a short while. And there’s one playlist with calming music that can distract me from the negative thoughts temporarily. But as soon as I stop doing those things, the feelings of inadequacy come rushing back. It’s hard to sustain any sense of comfort when everything feels like it’s confirming my worthlessness.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those quiet routes and your calming playlist sound like they offer some respite. Do you have a favorite spot along one of those walking routes that feels especially peaceful?
+
+----------------------------------------
+
+PATIENT (turn 14):
+There's a small park near my house with a pond where the trees provide a lot of shade and it’s usually quite serene. Sitting by the water can be soothing, but even there, I find myself thinking about the layoff and how it reflects on me as a person. It’s hard to fully disconnect from those thoughts, no matter how peaceful the surroundings are.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like that park offers a nice escape. Do you notice any particular sights or sounds at the pond that help calm your mind, even if just a little?
+
+----------------------------------------
+
+PATIENT (turn 15):
+The sound of the water lapping against the shore and watching the ducks swim by can be quite calming. Sometimes I focus on those details to distract myself from my thoughts, but it’s only temporary. As soon as I stop paying attention to the sights and sounds, the feelings of inadequacy come back with a vengeance. It’s frustrating because even in such peaceful surroundings, I can’t seem to shake these beliefs about myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+The sound of water and watching the ducks can be nice distractions. Do you find that jotting down your thoughts or journaling helps at all, even if it’s just for a few minutes? Sometimes putting words to what you’re feeling can provide some relief.
+
+----------------------------------------
+
+PATIENT (turn 16):
+I’ve tried journaling before, but it often makes me feel worse because I end up focusing on all the negative aspects of myself and my situation. Writing down my thoughts tends to reinforce the belief that this layoff is a sign of my failure rather than helping me see things differently. It’s hard to find any relief when everything feels so definitive in my mind.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging. Have you tried any other ways to express your feelings, like talking to someone or doing something creative? Sometimes different forms of expression can offer a new perspective.
+
+----------------------------------------
+
+PATIENT (turn 17):
+I’ve thought about it, but the idea of expressing my feelings through talking or creativity feels overwhelming and pointless. I don’t believe that anyone could understand or change how I feel, so engaging in those activities seems futile. Right now, everything just reinforces this sense of inadequacy, making it hard to see any value in trying something different.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel that way right now. Sometimes just acknowledging those feelings can be a step forward. Is there anything, no matter how small, that gives you a tiny bit of hope or comfort?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Sometimes receiving a kind message from a friend or seeing a positive quote online can give me a brief moment of hope, but it’s fleeting. The core belief that I’m inadequate is so strong that even those small moments of positivity feel insubstantial. It’s hard to hold onto any sense of comfort when everything feels like it’s pointing towards my failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those little moments of kindness and positive messages can still matter, even if they’re brief. Do you have a friend or family member who sends you these messages? Maybe reaching out to them for a short chat could offer some comfort.
+
+----------------------------------------
+
+PATIENT (turn 19):
+I do appreciate the kind messages from friends and family, but it’s hard to fully engage with them because I feel like I’m just burdening them with my problems. Even when they try to be supportive, it’s difficult to accept their words without questioning whether they truly understand or are just being polite. Right now, everything feels so definitive in my mind that reaching out for more support seems pointless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to fully engage while feeling this way. Have you considered sharing your feelings with someone who might be a bit more removed, like an old acquaintance or a new connection online? Sometimes a fresh perspective can offer some comfort.
+
+----------------------------------------
+
+PATIENT (turn 20):
+I’ve thought about it, but the idea of opening up to someone new feels overwhelming and unnecessary. I don’t see how talking to anyone else would change my core belief that this layoff is proof of my inadequacy. It’s hard to imagine that a fresh perspective could make any difference when everything feels so clear-cut in my mind. Right now, it seems more comfortable to stay guarded and focused on what I perceive as my own shortcomings.
+
+----------------------------------------

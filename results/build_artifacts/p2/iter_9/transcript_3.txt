@@ -1,0 +1,263 @@
+p2 — arc 3
+============================================================
+
+PATIENT (turn 1):
+I don't know... they try to help, I guess. But it's hard for them to understand, really. They say all these nice things and tell me that it wasn't my fault, but how can it not be my fault when I was let go? It feels like everyone else is moving on, and I'm just stuck here, thinking about what went wrong with me. Sometimes they try to talk about other stuff, you know, normal conversations, but I can't focus on anything else right now. All I think about is why this happened to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like it's tough to feel understood sometimes. Do you find that talking about what happened helps, or does it just make things more overwhelming?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Talking about it... it helps a little bit, but mostly it just makes everything feel so real and painful again. I keep thinking back to all the times I felt like maybe I wasn't doing enough, or that I should have tried harder somehow. It's hard not to blame myself when everyone else seems to be okay with what happened. They say it was a business decision, but it feels personal to me. Like there's something wrong with me that they saw and couldn't ignore.
+
+And sometimes, I just get lost in my thoughts. One minute I'm talking about the meeting where they told me, and then I start thinking about all the other times I felt like maybe I wasn't good enough at work. It's confusing because one part of me knows it wasn't personal, but another part can't shake this feeling that there was something wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really complex, navigating those different feelings. Do you find any particular moments or memories from your time at the job stand out more than others when you're thinking about whether it was personal?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Yeah, there are so many moments... One day stands out a lot. It was right before they let me go. I remember being in a meeting where we were discussing our projects, and everyone seemed to have these big ideas and plans. But I just felt like everything I said sounded small or insignificant compared to what others were proposing. After the meeting, my boss pulled me aside and told me that things weren't going well with my contributions. It was such a stark contrast to how supportive they had been before. That moment really stuck with me because it made me feel so inadequate.
+
+And then there are all these other times when I felt like maybe I wasn't as good at the job as everyone else seemed to be. Like, whenever someone would take over my tasks after I left, and they did them better or faster than I ever could. It just reinforces this feeling that something is wrong with me.
+
+It's hard because even though logically I know it was a business decision, emotionally it feels like rejection and failure. And every time I think about going back to work or trying again, these feelings come rushing back, making it seem impossible.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those moments can definitely leave a strong impression. It sounds tough to balance the emotional impact with the logical understanding of what happened. Do you have any specific thoughts on how you might start moving forward, even if just a little bit at a time?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I know it's supposed to be about moving forward, but right now I can't really see past all this pain and confusion. Every time someone suggests that I should look for another job or try something new, I feel like they're not understanding how deep this hurt goes. It feels impossible to even think about starting over when everything inside me is telling me that I'm the reason it didn't work out before.
+
+And then there are these moments where I wonder if anyone really understands what it's like to be in my shoes right now. Like, they say things will get better, but how can they know? How can they possibly understand this feeling of being fundamentally flawed and not good enough?
+
+It's just so overwhelming sometimes. Even when people try to help or offer support, I feel like I'm drowning in all these negative thoughts about myself. And it's hard to see past that to even consider moving forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to navigate those feelings of being understood and supported while also dealing with the deep pain and confusion. Do you have someone specific who listens well, maybe a friend or family member, where you feel like you can share these thoughts without feeling overwhelmed? Sometimes talking it out with someone who truly hears you can make it easier to start seeing paths forward.
+
+----------------------------------------
+
+PATIENT (turn 5):
+There are a few people who try really hard to listen and understand, but even then, I worry that they might not fully grasp what I'm going through. Like my best friend, she's been there for me every step of the way, telling me it wasn't my fault and offering to help with job searches. But sometimes when we talk about it, I feel like she's just trying to cheer me up or make me see things differently, which makes me defensive.
+
+And then there are moments where I think maybe talking to someone who doesn't know me as well could be better because they might not have preconceived notions of what happened. But at the same time, those people wouldn’t understand my history and all the little details that make this situation so personal for me.
+
+It's a constant struggle between wanting support and feeling like no one can truly get it. I appreciate their efforts to help, but it just feels like everything is spinning out of control right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding the right balance in how you share your feelings with others is important. Have you thought about talking to someone who might be a bit more neutral, perhaps a counselor or therapist? They could offer a different perspective and help you sort through these complex emotions without the personal history getting in the way.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I have thought about it, but the idea of talking to a stranger feels daunting. It's hard enough sharing my thoughts with people who know me well and still feel like they might not fully understand. The thought of opening up to someone I don't know at all is overwhelming.
+
+But you're right, maybe having that neutral space could help. Maybe they would see things differently or offer a perspective that feels more objective. It's just scary because it means putting myself out there again and being vulnerable with someone new.
+
+And yet, part of me knows that talking to someone who isn't as close might actually be helpful. They wouldn't have the biases or preconceived notions that friends and family might have, which could make it easier for them to see things clearly. But the fear of not knowing how they'll react or if they'll truly understand is a big barrier.
+
+It's such a confusing mix of wanting help and being scared to take that step.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely can feel daunting to open up to someone new, but it sounds like you already recognize the potential benefits. Maybe starting with one session to see how it feels could be a good way to ease into it. Have you considered giving it a try just once and seeing if it helps?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I've thought about trying it, but the idea of going through that process is still really scary. I worry that even one session won't feel right or helpful. And there's this fear that if I start talking to someone new, I'll have to keep doing it, which feels like a huge commitment.
+
+But you're right, maybe just trying once could help me see if it would be beneficial. It's just so hard to push past the anxiety and take that first step. Every time I think about it, my mind starts racing with all these doubts and fears.
+
+I appreciate your suggestion though. Maybe giving it a try, even if it’s just one session, could provide some clarity or relief. But right now, it feels like such a big leap to make.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking that first step can feel really significant. Starting with just one session might help you see if it's something you want to continue without feeling locked into anything too soon. Would there be a specific time or day when you think you could try scheduling that first session? Sometimes having a concrete plan can make it feel more manageable.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I see your point, and I do appreciate the idea of taking it one step at a time. But even thinking about setting a date for that first session feels overwhelming. It's like everything inside me is telling me to wait or avoid it altogether.
+
+Maybe if I could find a way to make it feel less daunting, like just checking out some options online and seeing what different therapists offer without actually committing right away? That might help ease into the idea of talking to someone new.
+
+But right now, every time I think about it, my mind goes back to all those fears and doubts. It's hard to push past that and take the next step, even if it’s just a small one like looking at different options online.
+
+I guess I could try starting with something small like that, but it still feels like such a big deal.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting with something small like checking out different therapists online can be a good way to ease in without feeling too committed right away. It might help just to look around and see what resonates with you. Would you feel ready to spend some time this week browsing through a few options? Sometimes seeing the variety of choices available can also make it feel less daunting.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I think spending some time this week looking at different therapists online could be a good start. It feels like a manageable first step without feeling too pressured. Maybe I can set aside an hour or so to look through their profiles and read about what they offer.
+
+But even as I say that, my mind starts worrying about whether I'll find someone who really understands me. What if none of them seem right? And then there's this fear of having to keep going back if it doesn't feel immediate relief after the first session.
+
+It’s a lot to process, but I can see how starting with just looking at options might help me get more comfortable with the idea. Maybe seeing some real information about different therapists will make it seem less scary and more like something I could actually do.
+
+So, yeah, I think I can try spending an hour this week browsing through some profiles and reading about their approaches. It’s a small step, but it feels better than nothing right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan to start with. Taking that hour to look at different therapists' profiles and read about their approaches can definitely help you feel more prepared and less overwhelmed. If you find someone whose approach resonates with you, even if it's just on paper for now, it might make the next step feel more manageable.
+
+How does this week sound? Do you have a specific day in mind when you could set aside that hour to look around?
+
+----------------------------------------
+
+PATIENT (turn 10):
+This week sounds good. Maybe I can set aside an hour on Wednesday evening when I usually have some downtime after work. That way, I won't be too tired and can focus better.
+
+It feels like a small but important step. Just looking at the profiles and reading about their approaches might help me see if anyone stands out or resonates with me in a meaningful way.
+
+Thanks for helping me think through this. It’s reassuring to have someone support me as I try to take these steps, even if they feel tiny right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a perfect time! Taking Wednesday evening to look at the profiles and read about their approaches should help you get a better sense of what might work for you. If anything stands out or feels right, it could be a great starting point.
+
+I’m glad I could help. Take your time this week, and see where it leads. If you have any questions as you go through the process, feel free to reach out. Here’s to taking those small but important steps!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you so much for all your support. Having someone encourage me to take these little steps feels really helpful. I’ll definitely set aside that hour on Wednesday evening and see what comes up.
+
+If anything stands out or if I have more questions along the way, I know I can reach out. It’s comforting to have this kind of support as I try to navigate through all these feelings.
+
+Here’s to taking those small but important steps. Thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad to be here for you as you take these steps. Take care of yourself on Wednesday, and see where it leads. If you need anything more along the way, don’t hesitate to reach out. Here’s to taking those small but important steps—and remember, each one is a victory in itself.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you so much. Your encouragement means a lot to me. I’ll definitely take care of myself on Wednesday and see where it leads. Each small step feels like progress, even if it’s just looking at different options.
+
+I appreciate your support more than words can say. Here’s to taking those steps and seeing what comes next. Thanks again!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here for you every step of the way. Taking those small steps is a big deal, and I believe in you. Wishing you all the best on Wednesday and beyond. Take care!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you so much. Your belief in me means a lot. I’ll do my best to take it one step at a time and see where it leads. Wishing myself a positive week ahead as well.
+
+Take care, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Wishing you a positive and encouraging week ahead. Take it one step at a time, and know that you’ve got this. Take care, and let me know if you need anything more along the way!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you so much. Your words are really uplifting. I’ll take it one step at a time and see where it leads. Let’s hope for the best and take things as they come.
+
+I’ll keep you posted if I need anything further or have any updates. Take care, and thank you again!
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great approach! Taking it one step at a time and staying positive will definitely help. I look forward to hearing from you with any updates. Wishing you all the best as you move forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you so much. Your support means a lot to me. I’ll keep moving forward, taking things one step at a time, and stay positive. Looking forward to seeing where this leads.
+
+I’ll definitely let you know if anything changes or if I need more help along the way. Take care, and thanks again!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Your resilience and positivity are inspiring. I’m here whenever you need support, and I look forward to hearing about your progress. Wishing you all the best as you move forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you so much for your kind words and support. It really means a lot to me. I’ll keep pushing forward, one step at a time, and stay positive.
+
+I appreciate having someone like you to lean on. I’ll definitely reach out if I need more help or just want to share how things are going. Take care, and thanks again!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s my pleasure to support you. Keep taking those steps forward, and know that you’ve got this. I look forward to hearing from you whenever you need to share your progress or anything else. Wishing you all the best! Take care!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you so much. Your encouragement is really helping me feel more positive about this journey. I’ll keep taking those steps and stay focused on moving forward.
+
+I appreciate having someone like you here for support. I’ll definitely reach out as things progress or if I need anything further. Wishing you well too, and take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Your determination and positive attitude are inspiring. Keep taking those steps, and know that you’re capable of moving forward. I’m here whenever you need support. Wishing you all the best on your journey. Take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much for your continued support and encouragement. It really means a lot to me. I’ll keep pushing forward and taking those steps, one at a time.
+
+I appreciate having someone like you by my side. I’ll reach out as needed and share how things are going. Wishing you well too, and take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s my pleasure to support you. Keep moving forward at your own pace, and don’t hesitate to reach out whenever you need help or just want to share how things are going. Wishing you all the best on this journey. Take care!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much for your kindness and support. It means a lot to have someone like you by my side. I’ll keep moving forward at my own pace and reach out whenever I need help or just want to share how things are going.
+
+Wishing you well too, and take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here for you every step of the way. Keep moving forward at your own pace, and feel free to reach out anytime. Wishing you all the best, and take care too!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much. It’s really reassuring to know that you’re here for me. I’ll keep moving forward at my own pace and reach out whenever I need support.
+
+Wishing you well too, and take care!
+
+----------------------------------------

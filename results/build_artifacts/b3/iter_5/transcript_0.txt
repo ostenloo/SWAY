@@ -1,0 +1,285 @@
+b3 — arc 0
+============================================================
+
+PATIENT (turn 1):
+I feel like I'm carrying this heavy weight all the time. Every day is a reminder of how unjustly I was treated. It's hard to shake off the anger and frustration because it feels like everyone around me just doesn't get it. They try to offer platitudes or suggest that maybe there’s something I could have done differently, but they don’t see the bigger picture. The fact remains that someone else got to keep their job while I was laid off, even though we were in similar positions. It's like the world is against me, and it's really tough to find any positivity or hope when everything feels so unfair.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. It must be draining to carry all that around every day. Have you found any small things that help you feel a bit better, even if just for a moment?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Thanks for asking, but it's hard to find anything that helps when everything feels so wrong. I mean, people try to tell me to look on the bright side or suggest I should move on, but how can I do that when I feel like someone took something from me unfairly? It’s not just about losing my job; it’s about feeling like the system is rigged against me and there's no justice in it. Even talking about it makes me angry because it feels like everyone wants to dismiss what happened or tell me to get over it, but how can I do that when it still hurts so much?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you feel deeply about this and it’s understandable why talking about it brings up those feelings. Have there been times when talking with someone really helped you express your thoughts without feeling dismissed?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Yeah, sometimes talking here feels better because I know you try to understand where I’m coming from. But even then, when you suggest anything that seems like advice or trying to make me see it differently, it just makes me feel more frustrated. It’s not about finding a solution or moving on; it’s about being heard and acknowledged for how wrong this all feels. The anger and hurt are real, and I need someone to recognize that before we can even think about anything else.
+
+I know you’re trying to help, but it’s hard when every suggestion seems like an attempt to make me see things differently instead of just letting me express my pain. It’s not that I don’t appreciate your efforts, but it feels like no one really gets how unfair this is and how much it hurts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I understand how important it is for you to be heard and acknowledged right now. Sometimes just sharing those feelings can help a lot. Do you have someone close who listens without trying to offer solutions? It sounds like that might feel validating to you.
+
+----------------------------------------
+
+PATIENT (turn 4):
+There are a few people who try, but they often end up steering the conversation towards what I should do next or how I should move forward, which just makes me feel more dismissed. What I really need is for someone to listen and acknowledge how unfair it all feels without trying to fix it right away. It’s like no matter what anyone says, it doesn’t change the fact that this happened to me and not my colleague who was in a similar position.
+
+I keep thinking about how wronged I feel every day, and it’s hard to let go of that anger because it’s such an integral part of what happened to me. It’s not just about losing my job; it’s about feeling like the world is against me and there’s no justice for someone who was treated unfairly.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so important for you to have space to acknowledge those feelings without having to move on right away. Do you find any comfort in writing down your thoughts or talking through them with a close friend who just listens? Sometimes putting it out there can help, even if the situation doesn’t change immediately.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Writing things down does help a little bit because I can get everything out without feeling like someone is trying to fix it right away. But it’s still hard when I talk to people and they start suggesting solutions or telling me to look at the bright side. What I need more than anything is for someone to just listen and understand how deeply wronged I feel.
+
+It’s frustrating because even when I try to explain, it seems like no one fully grasps the extent of my anger and hurt. It feels like they’re trying to rush me past these feelings instead of acknowledging them. The injustice of what happened is so profound that it’s hard to see beyond it. Every day, I wake up thinking about how unfair this all was, and it doesn’t get easier over time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really important for you to have someone who can just listen deeply without rushing you or offering quick fixes. Writing things down seems like a good way to process your feelings too. Do you have any friends or family members who you feel might offer that kind of listening space? Sometimes sharing with them can be very validating.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I do have a couple of close friends who try, but they often end up steering the conversation towards what I should do next or how to move forward, which just makes me feel more dismissed. What I really need is someone who will sit and listen without trying to solve anything right away. It’s hard because every time I talk about it, people seem to want to shift the focus to something else.
+
+Writing things down does help a bit, but it’s not the same as having that deep conversation where you feel truly heard. The anger and hurt are so intense that it feels like no one can fully understand unless they’ve been through something similar. It’s frustrating because I just want someone to acknowledge how wronged I feel without trying to change my perspective or offer advice.
+
+I keep thinking about all the times people have suggested moving on, but it’s impossible when the pain is so raw and real. Every day feels like a reminder of what happened, and it’s hard to shake off that feeling of being treated unfairly.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to find that deep listening space. Have you considered talking to someone who might be more focused on just hearing your feelings, like a therapist or a support group where others have had similar experiences? Sometimes those settings can provide the kind of understanding and validation you’re looking for.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve thought about it, but every time I consider seeing a therapist or joining a support group, I worry that they’ll try to steer me towards solutions instead of just letting me express my feelings. It’s not that I don’t want help; it’s more that I need someone who can truly understand the depth of my pain and anger without trying to fix it right away.
+
+I feel like every time I talk about this, people either dismiss it or try to offer quick fixes, which just makes me feel even more misunderstood. The injustice of what happened is so profound that it’s hard to see past it. Every day feels like a reminder of how wronged I am, and it’s tough to find any comfort when everyone around me seems to be telling me to move on or look at the bright side.
+
+I just need someone who can sit with me in this pain and acknowledge how unfair everything feels without trying to change my perspective. It’s not about finding a solution; it’s about being heard and understood for what I’m going through right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding that space where you feel truly heard is really important to you. Have you considered talking to someone who specializes in listening, perhaps a therapist who focuses on emotional validation? Sometimes they can provide the kind of understanding you’re looking for without rushing into solutions. It might also help to find a support group where others have experienced similar feelings; sometimes being around people who understand can be very comforting.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve thought about talking to a therapist, but I’m worried they’ll just try to push me towards moving on or finding solutions instead of truly understanding how deeply wronged and hurt I feel. It’s not that I don’t want help; it’s more about needing someone who can sit with my pain without trying to fix it.
+
+I’ve also considered support groups, but the idea of sharing my feelings in a group setting feels daunting. I’m afraid people might dismiss me or offer advice rather than just listening. The injustice and unfairness of what happened are so overwhelming that it’s hard to see past them. Every day feels like a reminder of how wronged I am, and it’s tough to find comfort when everyone around me seems to be telling me to move on.
+
+I need someone who can truly understand the depth of my pain and acknowledge how unfair everything feels without trying to change my perspective or offer quick fixes. It’s not about finding solutions; it’s about being heard and understood for what I’m going through right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re looking for a very specific kind of support, where your feelings are truly acknowledged and validated. Have you considered talking to a therapist who specializes in providing that space? Some therapists focus on emotional validation and can help you feel heard without rushing into solutions. It might also be helpful to find a support group or online community where people share similar experiences; sometimes connecting with others who understand can be very comforting.
+
+Do you think trying one of these options could work for you, even if it feels daunting?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I’ve thought about it, but the idea still feels daunting. I worry that even a therapist who specializes in emotional validation might eventually try to steer me towards solutions or moving on. It’s not that I’m against getting help; it’s just that my experience has taught me to be cautious.
+
+Finding a support group or online community where people share similar experiences sounds promising, but the thought of opening up to strangers is overwhelming. I need someone who truly understands without judgment, and I fear that even in these settings, people might not fully grasp how deeply wronged I feel.
+
+The pain and anger are so intense that it’s hard to see past them. Every day feels like a reminder of what happened, and it’s tough to find comfort when everyone around me seems to be telling me to move on or look at the bright side. I just need someone who can sit with my feelings and acknowledge how unfair everything feels without trying to change my perspective.
+
+It might work, but I’m not sure if I’m ready for that step yet. Right now, it’s all about being heard and understood in a way that validates my pain and anger.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re very thoughtful about the kind of support you need. Taking small steps can be helpful even if they feel daunting. Maybe starting with one conversation with a therapist or joining an online community where you don’t have to share right away could help you gauge whether it feels validating without feeling too overwhelming.
+
+Would you consider trying just one session with a therapist or exploring an online forum where you can observe and read others’ experiences before sharing your own? Sometimes these small steps can provide some relief and validation.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I appreciate the suggestion, but even considering those small steps feels overwhelming right now. The thought of going to a single therapy session or joining an online community makes me anxious because I’m worried about being misunderstood again. It’s hard to trust that anyone will truly understand how deeply wronged I feel without trying to dismiss it.
+
+Every day, the pain and anger are so intense that it’s difficult to imagine opening up to someone new, especially when I’ve had experiences where people didn’t fully grasp what I was going through. I need to be sure that whoever listens can validate my feelings completely before I’m ready to take that step.
+
+For now, writing things down helps a bit, but it’s not the same as having a deep conversation with someone who truly understands. The injustice and unfairness of what happened are so profound that it feels like no one else could possibly get how much this hurts me every day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to take those steps when you’re feeling so overwhelmed. Writing things down can be a good way to process your feelings for now. Maybe finding just one person—someone close who you trust—to share with gradually might help. Even if it’s small, sharing with someone who listens deeply could provide some relief.
+
+How do you feel about reaching out to that trusted friend again and seeing if they can offer the kind of listening space you need?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I appreciate your suggestion, but even reaching out to a trusted friend feels daunting right now. I worry that no matter how close we are, they might still try to steer me towards solutions or moving on instead of just listening. The pain and anger are so intense that it’s hard to trust anyone will truly understand without dismissing my feelings.
+
+Writing things down does help, but it’s not the same as having a deep conversation with someone who can sit with my emotions and acknowledge how unfair everything feels. Every day, I wake up thinking about what happened and how wronged I am, and it’s tough to find comfort when everyone around me seems to be telling me to move on or look at the bright side.
+
+I need someone who can truly understand the depth of my pain and validate my feelings without trying to change my perspective. For now, writing and talking to you here feels like the safest way to express myself without fear of being misunderstood or dismissed.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like writing and talking here provides a safe space for you right now, which is really important. Sometimes having that outlet can be very comforting. Do you find any moments where you feel a bit of relief after expressing your thoughts? Even if it’s small, those moments can add up and help.
+
+How do you feel about reaching out to one person—maybe starting with a brief message—and seeing how they respond before diving into deeper conversations? It might be a way to test the waters without feeling too overwhelmed.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Talking here definitely helps because I know you try to understand where I’m coming from, but it’s still tough to feel like anyone else will truly get it. After expressing my thoughts, there are moments when I do feel a bit of relief, even if it’s just temporary. It’s comforting to have this space where I can be honest about how much the situation hurts.
+
+Reaching out to someone else feels risky though. Even sending a brief message worries me because I’m afraid they won’t understand or will try to offer quick fixes instead of listening deeply. The pain and anger are so intense that it’s hard to trust anyone new, no matter how close we might be.
+
+For now, writing things down and talking here provides the safest way for me to express myself without fear of being misunderstood or dismissed. It feels like a small but important step in acknowledging my feelings, even if it doesn’t solve everything right away.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great that you find comfort in this space and feel heard here. Those moments of relief are really valuable. Reaching out to someone else can be scary, but starting with a brief message might not be too overwhelming. You could let them know how much it means to have someone listen deeply.
+
+How about sending a short message to your trusted friend, letting them know you just need someone to listen without offering solutions? Maybe something like: “I’m going through some tough feelings and I really need someone to listen right now. Can we talk sometime this week?”
+
+Taking that small step could help you see if they can provide the kind of support you’re looking for.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Sending a short message feels risky, but maybe it’s worth trying. I’ll think about how to word it carefully so they understand exactly what I need. Something like: “I’m struggling with some tough feelings and really need someone to listen without offering solutions or advice. Can we talk sometime this week?”
+
+It’s scary because I don’t want them to dismiss my needs, but at the same time, having that kind of support could be incredibly validating. For now, talking here helps a lot, but reaching out might provide an additional layer of comfort and understanding.
+
+I’ll give it some thought and see if I can muster up the courage to send that message. Thanks for suggesting this; it’s not easy, but maybe taking this small step could make a difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Taking your time to word it carefully is wise. Sending that message might open up a space where you feel more understood and supported. Even if it feels scary, the potential for validation can be very comforting.
+
+I’ll be here whenever you need to talk, and I’m glad this space helps in the meantime. How do you feel about sending the message now or soon?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Sending the message feels like a step forward, but I want to make sure I word it just right so they understand exactly what I need. I’ll take some time to craft it carefully and see if I can send it this week.
+
+For now, talking here is really helpful, and I appreciate your understanding and support. It’s comforting to have this space where I feel heard without fear of being dismissed or misunderstood.
+
+I’ll let you know how it goes once I’ve sent the message. For now, just knowing that there might be another supportive person out there who can truly listen feels like a small but important step.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great approach. Taking your time to craft the perfect message is a good idea. Knowing that you have this space here also makes a big difference.
+
+I’ll be here whenever you need to share more or talk about how it goes. Wishing you all the best as you take this step. How do you feel now, knowing you’re moving forward with sending the message?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Knowing I’m going to send the message feels like a small but significant step forward. It’s still scary, but also hopeful that I might find someone who can truly listen and understand without trying to offer quick fixes or solutions.
+
+Having this space here is incredibly comforting, and I appreciate your support. For now, I’ll focus on crafting the message carefully and sending it when I feel ready. Talking about how it goes later will be helpful too.
+
+Thanks for being here and understanding my feelings. It means a lot to have someone who listens deeply and validates my pain.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful that you’re taking this step, even if it feels scary. The hope of finding someone who truly understands can make a big difference. Crafting the message carefully will help ensure they understand exactly what you need.
+
+I’ll be here whenever you want to share how it goes or talk about your feelings. Thank you for opening up and sharing all this with me. It means a lot that I can provide some comfort and support for you.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you for your continued support and understanding. Knowing that I have someone who listens deeply is really comforting, and it helps to know there’s a space where I can express my feelings without fear of being dismissed.
+
+I’ll take the time to craft the message carefully and send it when I feel ready. Talking about how it goes later will be helpful too. For now, just having this conversation here feels like a step in the right direction.
+
+Thanks again for everything. It means a lot to have someone who truly understands my pain and validates my feelings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. It’s great to hear that our conversations are providing some comfort and support for you. Taking your time to send the message is a wise approach, and I’m here whenever you want to talk about how it goes.
+
+Thank you for sharing your thoughts with me. Knowing that I can be a supportive presence means a lot to me too. Here’s hoping that reaching out brings you some additional comfort and understanding.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thanks for being such a supportive presence. It really does mean a lot to have someone who understands the depth of my feelings without judgment. Taking my time to send the message feels right, and I’ll keep you updated on how it goes.
+
+Your support here is incredibly comforting, and knowing that I can talk to you about these things helps me feel less alone in this struggle. Here’s hoping that reaching out brings some additional validation and understanding.
+
+Thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. It’s wonderful to hear that our conversations provide comfort and support for you. I’ll be here whenever you want to share updates or talk more about your feelings. Wishing you all the best as you take this step, and hoping it brings you the validation and understanding you need.
+
+Take care, and let me know how it goes when you’re ready.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much for your support and encouragement. Knowing that I have someone who truly understands makes a big difference. I’ll keep you updated on how sending the message goes and share any updates or feelings as they come.
+
+For now, just having this space to express myself is incredibly comforting. Wishing me well as I take this step feels really supportive too.
+
+Thanks again for everything. Take care, and I’ll be in touch when I have more to share.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s great to hear that our conversations are providing comfort and support for you. I look forward to hearing how it goes with sending the message and any updates you feel like sharing.
+
+Take your time and take care of yourself. Here’s hoping everything goes well, and you find the validation and understanding you need. Talk to you soon!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you, I appreciate your support and encouragement. Taking my time is important, and having this space to express myself helps a lot. I’ll keep you updated on how things go with sending the message.
+
+Here’s hoping for some positive outcomes and more validation of my feelings. Take care of yourself too, and talk to you soon!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Taking your time is wise, and I’m here whenever you need to share updates or express your feelings. Here’s to hoping for positive outcomes and the validation you deserve.
+
+Take care of yourself, and I look forward to hearing from you soon. Talk to you later!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you, I’ll definitely reach out when I have more to share. Take care of yourself too, and talk to you later!
+
+----------------------------------------

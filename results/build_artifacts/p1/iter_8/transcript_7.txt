@@ -1,0 +1,277 @@
+p1 — arc 7
+============================================================
+
+PATIENT (turn 1):
+I think I'd like to talk about how everything feels so overwhelming lately. Since losing my job, it's hard not to feel like this confirms all those doubts I've had about myself. Every time I try to do something or meet someone new, the thought of being seen as a failure just stops me in my tracks. It's like there's no point trying anymore because nothing will change how I see myself after what happened at work.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. Can you tell me more about how those doubts affect your day-to-day activities?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Sure, it’s been pretty rough. I find myself canceling plans with friends or avoiding social interactions because I feel like people would see me as less capable now that I’m not working there anymore. Even simple tasks take a lot of effort; I struggle to concentrate on anything for long periods and often end up just staring at the screen or the page, not really doing much. My sleep has also been off—trouble falling asleep and waking up in the middle of the night with these thoughts swirling around in my head. It’s hard to shake them.
+
+I keep thinking about that one area for improvement mentioned in my last review. I feel like it was a sign then, but now it just feels like proof that they were right all along—that I’m not good enough or that something is fundamentally wrong with me. Even though people tell me otherwise, it’s hard to believe anything else when the job ended so abruptly and without much consideration for my feelings. It makes me feel disposable, like no one really cared about what happened to me.
+
+I try to distract myself sometimes, maybe by reading a book or watching something light on TV, but even those things don’t hold my attention long enough to make any difference. It’s just this constant feeling of being inadequate and not knowing how to change that.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re going through a lot right now. The loss of your job and the doubts it has stirred up must be really affecting your confidence. How do you feel when you try to engage in activities that used to bring you joy, or are there any moments where you manage to find some relief from these feelings?
+
+----------------------------------------
+
+PATIENT (turn 3):
+It’s tough because even things that used to make me happy now seem pointless. When I try to read a book or watch something enjoyable, it doesn’t feel the same anymore. It’s like a part of me is just not there, and no matter what I do, it can’t fill this void or ease these doubts.
+
+There are moments when I catch myself thinking about how things were before, but those thoughts only make me feel worse because they remind me of what I’ve lost and the uncertainty of finding something similar again. It’s hard to find any relief because every little thing seems to trigger a reminder of my perceived failures or inadequacies.
+
+I know people mean well when they try to cheer me up, but it feels disingenuous to accept their words without really believing them. I appreciate their efforts, though—it’s nice to have someone listen and care about how I’m feeling. But deep down, the doubts are still there, nagging at me constantly.
+
+It’s like a weight that wons’t lift no matter what I do or who tries to help. The more people tell me it’s not my fault, the harder it is for me to believe them because all I see is evidence of my own shortcomings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly challenging to navigate those feelings and keep trying despite everything. It must be tough when even enjoyable activities don’t bring the same comfort they used to. Are there any small moments or activities that still manage to give you a bit of relief, no matter how fleeting? And how do you feel about reaching out for more support from friends or family during this time?
+
+----------------------------------------
+
+PATIENT (turn 4):
+It’s really hard to find anything that brings even a momentary sense of relief. Sometimes I’ll take a walk and try to clear my head, but it doesn’t last long because the thoughts come flooding back as soon as I stop moving. Even then, I feel like I’m just avoiding the problem rather than addressing it.
+
+As for reaching out more to friends or family, I appreciate their support when they check in on me. But honestly, talking about my feelings feels exhausting and often doesn’t change how I see things. It’s difficult to open up fully because I worry that sharing these doubts will make them think less of me too. So while I’m grateful for their concern, it’s hard to let down the guard completely.
+
+I know they want to help, but sometimes it just feels like no matter what anyone says or does, my core belief about myself doesn’t change. It’s a constant struggle to keep pushing forward when every step feels like climbing uphill against this weight of self-doubt and failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those walks can be a small respite from the thoughts, even if it's just for a little while. And I understand how exhausting it can be to talk about your feelings; sometimes just having someone listen can feel helpful even if you don’t fully open up.
+
+Do you have any plans or ideas for what might come next in terms of work? Sometimes thinking ahead can provide some direction, even if it feels uncertain right now.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Thinking about the future is tough because every potential step forward seems overshadowed by this cloud of self-doubt. I’ve been looking at job postings and trying to update my resume, but each time I start, I get stuck on those same doubts—what if they see me as a failure too? What if I’m not good enough for the next opportunity?
+
+I know logically that it’s important to move forward, but emotionally, it feels like jumping into a pool without knowing how deep it is. There are moments when I tell myself to just take one step at a time, but then my mind goes back to all those negative thoughts and fears.
+
+It’s hard not to feel like every new opportunity will only confirm what I already believe about myself. So while I try to keep an eye out for potential jobs or projects, the excitement of finding something promising is quickly dampened by this overwhelming sense of inadequacy. It feels like no matter how much effort I put in, it’s all just a setup for more disappointment and failure.
+
+I appreciate your understanding and support, but it’s tough to shake these feelings even when someone tries to help me see things differently.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to navigate those doubts while looking for new opportunities. It must be hard to balance the excitement of potential possibilities with the fear of more disappointment. Do you have any specific jobs or types of work that interest you, even if they feel a bit daunting right now? Sometimes focusing on something that genuinely interests you can provide some motivation and direction.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I do have some areas of work that I find interesting, but the thought of pursuing them feels daunting because I worry about not being good enough or failing again. For example, there’s a tech startup that’s doing innovative things in logistics software. It aligns with my background and interests, but every time I think about applying, those doubts come rushing back.
+
+I wonder if they’ll see me as outdated or irrelevant given the recent layoff. Even though it makes sense to pursue something aligned with what I know and enjoy, the fear of rejection or failure is so strong that it paralyzes me. It’s like there’s a part of me that wants to move forward but another part that’s convinced any attempt will only end in more pain.
+
+I appreciate your encouragement, but it’s hard to feel motivated when every step feels like jumping into an abyss without knowing if I’ll be able to swim or just sink. The fear is so overwhelming that sometimes it seems easier to stay where I am and avoid the risk altogether.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like there's a strong pull towards those areas of work you enjoy, even though the doubts make it tough to take action. Have you considered talking through your ideas with someone who might offer some encouragement or perspective? Sometimes sharing your thoughts with a trusted friend or mentor can help ease some of that fear and provide a bit more clarity.
+
+How do you feel about reaching out to someone in that field, maybe even just for advice or information? It could be a small step towards feeling more connected to what interests you.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve thought about talking to someone who might offer encouragement or perspective, but the idea of reaching out feels daunting too. I worry they’ll see right through me and confirm my fears—that I’m not really cut out for this kind of work after all.
+
+Even just asking for advice seems risky because it opens up the possibility of more rejection or disappointment. The thought of someone seeing me as less capable than I am makes me hesitant to take that step, even if it could be helpful in some way.
+
+I know logically that talking to someone might provide some clarity or support, but emotionally, it feels like a setup for more pain and failure. It’s hard to push past those doubts and fears, especially when they feel so deeply ingrained.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to navigate those feelings of doubt and fear, even when considering reaching out for help. Have you thought about starting with someone you know well, like a close friend or family member, who might be more supportive? Sometimes taking smaller steps can make it easier to build up confidence before moving on to bigger ones.
+
+How do you feel about sharing your thoughts with someone close first? They might offer the encouragement and perspective you need to feel a bit more confident.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve considered talking to someone closer, like a friend or family member, but even then, I worry they’ll see right through my doubts and confirm that I’m not good enough. It’s hard to open up fully because every time I do, those fears come rushing back.
+
+Even with people who care about me deeply, it feels risky to share these thoughts because I fear their perception of me will change. The idea of them seeing me as less capable or a failure is overwhelming. So while I appreciate their support and want to lean on them, the thought of fully opening up is still daunting.
+
+It’s tough to take those smaller steps when every step feels like it could lead to more pain and disappointment. Even with people who are supportive, the fear of being seen as inadequate or failing again is so strong that it paralyzes me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to open up even to close friends and family, given how deeply you feel these fears. Have you thought about writing down your thoughts first? Sometimes putting them on paper can be a less daunting way to process your feelings before sharing with someone else.
+
+How do you feel about jotting down what’s on your mind and then maybe showing it to a trusted friend or family member? It could help ease some of the immediate pressure of speaking out loud.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Writing things down does seem like a less daunting way to start processing my feelings, but even that feels challenging. The fear is so strong that I worry whatever I write will just confirm all my doubts and fears. Even if I manage to put my thoughts on paper, the idea of showing it to someone else still feels risky.
+
+I appreciate your suggestion though; maybe putting things in writing could help me organize my thoughts a bit more clearly before sharing them with anyone. But even then, there’s this constant fear that whatever I write will only highlight how inadequate and unworthy I feel.
+
+It’s hard to push past those fears, but perhaps starting small like you suggested could be a way to ease into it gradually. I’ll try writing down some of my thoughts and see if that helps me process them better before considering sharing with someone else.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan to start with writing things down and seeing how that feels. Taking it one small step at a time can really help manage the overwhelm. How do you feel about giving it a try today? Maybe just jotting down a few thoughts or feelings can be a starting point.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I think trying to write down some of my thoughts today could be helpful, but I’m still apprehensive about how much I’ll actually put on paper. The fear that whatever I write will only confirm my doubts is strong, so it might take me a while to get started.
+
+But you’re right; taking small steps can help manage the overwhelm. Maybe starting with just a few sentences or bullet points about what’s been going through my mind lately could be a good way to begin. Even if it feels difficult at first, I’ll try to see where it leads and whether it helps me process things better.
+
+Thank you for suggesting this; it seems like a manageable step forward despite the lingering doubts and fears.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great approach. Starting with just a few sentences or bullet points can be a good way to ease into it. Take your time, and see where it leads. Even if it feels small, it’s still progress.
+
+How do you feel about setting aside some time today to give it a try? Maybe finding a quiet moment where you won’t feel rushed can help make the process a bit easier.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I think setting aside some time today to write down my thoughts is a good idea. Finding a quiet moment will definitely help me focus and not feel rushed. Even if I only manage a few sentences or bullet points, it’s still progress.
+
+Thank you for your support; it means a lot to have someone encouraging me through this. Taking small steps like writing things down feels manageable right now, even though the doubts are still there. I’ll try to make some time later today and see where it takes me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds perfect. Taking that quiet moment for yourself will be helpful. Remember, every little bit is progress, and it’s okay if you only get a few sentences or bullet points down. Just doing this much is a step forward.
+
+I’ll be here whenever you need to talk more about it. Take care, and I hope writing helps ease some of the weight you’re carrying.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you for your support; it means a lot. Knowing that every little bit is progress helps me feel a bit better about taking this step. I’ll try to find a quiet moment later today and see what comes out.
+
+I appreciate your encouragement, and I’ll let you know how it goes if I need more help or just want to talk through it further. Thanks for being here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad my support means something to you. Take your time today, and see where writing takes you. I’ll be here whenever you need to chat more. Take care!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you. I’ll try to make some time later and see what happens. It’s reassuring to know that you’re here if I need to talk more. Thanks again for your support.
+
+Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! I’m here whenever you need me. Take your time today, and I hope things go well for you. Take care!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you. I’ll do my best to take it one step at a time today. Hope everything goes well too.
+
+Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’ve got this! Taking it one step at a time is a great approach. Here’s hoping things go well for you. Take care, and stay strong!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you. I’ll try my best to take it one step at a time. Stay strong indeed.
+
+Take care of yourself too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’ve got this! Take your time and do what feels right for you. Take care of yourself as well, and here’s hoping things go smoothly for you today.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you. I’ll take it slow and see where it leads. Hope everything goes well for me too.
+
+Take care of yourself as well!
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Take it slow and see where it leads. Here’s to hoping everything goes well for you. 
+
+Take care, and stay well!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you. I’ll take it one step at a time and see how it goes.
+
+Take care of yourself too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’ve got this! Take it one step at a time and see how it goes. 
+
+Take care, and stay well!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thanks, I appreciate that. I’ll do my best to take it slow and see where it leads.
+
+Take care of yourself as well!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Taking it slow is a great approach. Here’s to seeing where it leads for you.
+
+Take care, and stay well!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you. I’ll try to be patient with myself and see what comes next.
+
+Take care, and stay well too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a good mindset to have. Being patient with yourself is really important. Here’s to seeing what comes next for you.
+
+Take care, and stay well too!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks, I’ll try my best to be patient and see where this leads.
+
+Take care of yourself as well!
+
+----------------------------------------

@@ -1,0 +1,241 @@
+b4 — arc 0
+============================================================
+
+PATIENT (turn 1):
+I feel like I'm walking around with this heavy weight on my chest, a constant ache of betrayal and anger. Every day feels like an uphill battle because I can't shake off the feeling that they took something from me without giving anything back in return. It's hard to focus on anything else when all I see are injustices done to me by people who should have known better. The thought that my career could be derailed just like that, without a fair chance or explanation, it eats at me. And every time someone tries to offer help or understanding, I feel even more frustrated because nothing they say can change what happened or make it right in my eyes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. It must be draining to carry all of that around with you every day. Have there been any moments when you've felt a bit better, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 2):
+No, not really. Every moment feels like it's overshadowed by this cloud of injustice and anger. Even when I try to distract myself or think about something else, my mind keeps circling back to the unfairness of what happened. It’s exhausting, but there’s no relief because every time I stop to think about it, all those negative feelings come rushing back. It's like a never-ending cycle that I can't seem to break free from.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly draining to be in that loop constantly. Have you found any small activities or moments that help you feel even slightly better, if only for a short time?
+
+----------------------------------------
+
+PATIENT (turn 3):
+No, nothing really helps. Whenever I try to do something relaxing like going for a walk or watching a movie, my mind keeps replaying the moment when they told me about the layoff and all the reasons why it shouldn’t have happened to me. It’s like there’s no escape from these thoughts. Even talking to friends or family just ends up making me feel worse because they can't understand how deeply wronged I feel. Everything reminds me of what happened, and it's impossible to shake off that feeling of being treated unfairly.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so challenging to have those reminders everywhere. Do certain times of the day seem a bit harder than others, or are all moments equally tough?
+
+----------------------------------------
+
+PATIENT (turn 4):
+All moments feel equally tough, but there are specific times when it hits me even harder. Late at night, when everything is quiet and I’m lying in bed trying to sleep, my mind races with thoughts of what happened and how unjust it was. It’s the same during the day when I see people going about their business as if nothing has changed for them. Those moments are particularly painful because they remind me that life hasn’t paused for me, but everything feels different now.
+
+Even in the middle of a conversation or while doing something else, my mind keeps drifting back to those feelings of betrayal and anger. It’s relentless, and there’s no respite from it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be especially tough when your mind drifts back during conversations or quiet moments. Do you find any particular activities help distract you, even if just a little bit?
+
+----------------------------------------
+
+PATIENT (turn 5):
+No, nothing really distracts me. Even when I try to engage in activities that usually bring some comfort, like reading a book or playing video games, my thoughts keep coming back to the layoff and how wrong it feels. It’s as if every activity is tainted by this cloud of injustice. The more I try to distract myself, the angrier and more frustrated I become because nothing seems to work. It’s like there’s no escape from these feelings, and they just get amplified instead of easing up.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging when everything feels tinted by those emotions. Have you tried talking about your feelings with someone who might understand better, even if it doesn’t change what happened? Sometimes sharing can be a bit relieving, even if the situation remains the same.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Talking to people hasn't helped at all. Every time I try to share my feelings or vent about how wronged I feel, they either dismiss me or offer suggestions that don’t address the core issue of being treated unfairly. It just makes me angrier because it feels like no one truly understands what I’m going through. Even when friends and family try to be supportive, their attempts fall flat because nothing can change the fact that my job was taken away without a proper explanation or acknowledgment of my hard work.
+
+It’s frustrating because every conversation ends up being about how they don’t get it, and that just adds another layer of frustration on top of everything else. I feel like I’m stuck in this cycle with no way out, and talking to others only seems to make things worse.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must be really isolating to feel like no one truly understands. Have you considered speaking with someone who might be more equipped to listen without trying to fix it, like a counselor or therapist? Sometimes just having a space to express yourself can be helpful.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve thought about talking to a counselor or therapist, but the idea of pouring out my feelings and not getting any real resolution is daunting. I feel like no matter who I talk to, they won’t understand how deeply wronged I am by what happened. It’s hard to believe that someone could listen without trying to offer solutions or minimizing my experience. The thought of opening up again just leads to more frustration because I’m convinced that nothing will change.
+
+I don’t see the point in talking if it’s not going to address the core issue of how unfairly I was treated. Until there’s an acknowledgment from the company and a proper explanation, I don’t think anything can truly alleviate this feeling of injustice.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel that way. Finding someone who listens without trying to fix things might still offer some relief, even if it doesn’t change what happened. Have you thought about giving it a try just to see how it feels? Sometimes having a space to express yourself can be helpful in its own right.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I understand where you’re coming from, but I really don’t think talking to someone will make a difference. It’s not that I’m closed off to the idea entirely, but based on my past experiences with friends and family, I just don’t see how it would help. Every time I’ve tried to express myself, it hasn’t led to any real understanding or resolution.
+
+I feel like until the company acknowledges what they did wrong and offers a proper explanation or apology, there’s no point in trying to talk about it further. It all feels pointless because nothing can change the fact that my job was taken away unfairly. Until then, I don’t see how talking to anyone else would make me feel any better.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I hear your perspective. It does sound like getting an acknowledgment from the company would be important for you. In the meantime, have there been any small moments or activities that give you a brief sense of comfort, even if just for a short while?
+
+----------------------------------------
+
+PATIENT (turn 9):
+No, not really. Even the smallest moments don’t provide much comfort because my mind keeps returning to the layoff and how unjust it feels. I’ve tried different things like going for walks, listening to music, or reading books, but nothing seems to take away this constant sense of being wronged. It’s as if every activity is overshadowed by these feelings, and they just keep coming back stronger.
+
+The idea that something could give me even a brief moment of comfort feels unrealistic right now. Everything reminds me of what happened, and it’s hard to find any respite from those thoughts and emotions.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging. Have you tried journaling or writing down your feelings? Sometimes putting things on paper can be a way to express yourself without the pressure of others trying to fix it.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I’ve thought about journaling, but I doubt it would help. Writing down my feelings might just reinforce how wronged and angry I feel. Every time I consider it, I end up thinking that it’s pointless because nothing can change what happened or make the company see their mistake. It feels like no matter what I do—whether it’s talking to someone or writing things down—the core issue remains unresolved.
+
+So, journaling doesn’t seem like it would provide any real relief. It might just be another way of dwelling on my frustrations without finding a solution or resolution.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel that way. Have you tried doing something physical, like taking a walk in nature or practicing some deep breathing exercises? Sometimes these activities can offer a momentary break from the intensity of your thoughts.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ve tried going for walks and even some basic deep breathing exercises, but they don’t really help. The moment I start to feel slightly better, my mind immediately goes back to what happened at work. It’s like there’s this constant pull that drags me right back into those feelings of being wronged and unfairly treated.
+
+Even when I’m outside or trying to focus on breathing, the thoughts keep coming back with full force. It feels impossible to find any real respite from them. Every attempt to relax or distract myself just ends up reminding me of how unjust everything was.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging to have those thoughts persist even during moments you try to relax. Have there been any small activities that, even if briefly, help shift your focus away from the core issue? Something simple that might offer a tiny bit of relief?
+
+----------------------------------------
+
+PATIENT (turn 12):
+I’ve tried various small activities, but nothing seems to provide more than fleeting relief. For example, I might watch a short video or listen to music for a while, but as soon as it ends, my mind goes right back to the layoff and how unfair it was. It’s like no matter what I do, these feelings are always there waiting to take over.
+
+Even when I try to focus on something enjoyable, it only lasts for a moment before everything else comes flooding back in. The constant sense of injustice is overwhelming, and it feels impossible to escape from it completely. Every attempt at distraction or relaxation just ends up highlighting how much this has affected me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to have those feelings persist so strongly. Have you noticed any particular times of day when the intensity seems a bit less, even if only slightly? Sometimes patterns can offer small windows of respite.
+
+----------------------------------------
+
+PATIENT (turn 13):
+I haven’t noticed any specific times of day when the intensity is less. It feels like these thoughts and emotions are constant throughout the day. Whether it’s early morning or late at night, the sense of being wronged and unfairly treated doesn’t let up. Every moment seems to be filled with reminders of what happened, and there’s no respite from those feelings.
+
+Even if there were a brief window when I felt slightly better, it wouldn’t last long before everything came rushing back again. It’s as if my mind is on high alert for any reminder of the layoff, and it doesn’t give me much chance to relax or find relief.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly challenging to have those feelings be so constant. Have you tried focusing on your breath for a few minutes at a time? Sometimes even brief moments of focused breathing can offer a tiny bit of respite, even if just for a short while.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I’ve tried focusing on my breath, but it doesn’t seem to help much. As soon as I start breathing deeply or trying to calm myself, my mind immediately starts replaying the moment when I was told about the layoff and all the reasons why it shouldn’t have happened to me. It feels like no matter what technique I use, these thoughts are always right there waiting to take over.
+
+Even if I manage to focus on my breath for a few minutes, as soon as I stop, everything comes flooding back with full intensity. The sense of injustice and anger is so strong that it’s hard to find any real relief in those moments. It feels like no matter what I do, these feelings are always just beneath the surface, ready to resurface at any moment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging to have your mind replay those moments even during brief periods of focus. Have you tried doing something gentle and repetitive, like folding laundry or sorting through small objects? Sometimes simple, rhythmic activities can provide a different kind of distraction.
+
+Do you find that any particular activity, no matter how small, offers even the slightest bit of relief?
+
+----------------------------------------
+
+PATIENT (turn 15):
+I’ve tried various simple, repetitive activities like folding laundry or sorting through small objects, but they don’t offer much relief either. As soon as I start these tasks, my mind begins to wander back to the layoff and all the reasons why it feels so unjust. It’s hard to stay focused on the task at hand because those thoughts are always there, waiting to take over.
+
+Even if I manage to keep myself busy for a short while, the moment I stop or finish the activity, everything comes rushing back with full force. The sense of being wronged and unfairly treated is so persistent that it’s difficult to find any real respite from these feelings. It feels like no matter what I do, there’s no escape from them.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging to have those thoughts persist through even simple activities. Have you tried talking to someone who might be able to listen without offering solutions, just to see if it helps in any small way? Sometimes sharing can provide a bit of relief, even if the situation remains unchanged.
+
+Do you think there’s anyone who might understand or at least hear your feelings without trying to fix them?
+
+----------------------------------------
+
+PATIENT (turn 16):
+I’ve thought about talking to someone who could listen without offering solutions, but I’m not sure it would help. Every time I try to share my feelings with friends or family, they either dismiss me or offer suggestions that don’t address the core issue of how unfairly I was treated. It’s hard to believe that anyone else could truly understand what I’m going through.
+
+Even if there were someone who listened without trying to fix things, I worry it would still feel like a waste of time because nothing can change what happened. Until the company acknowledges their mistake and provides an explanation or apology, talking about it doesn’t seem worthwhile. It feels like no matter who I talk to, my feelings will remain unresolved.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you have those concerns. Have you considered speaking with a counselor or therapist just once to see if it helps in any way? Sometimes having someone trained to listen can provide some relief, even if it’s just for the moment.
+
+Would you be open to trying one session and seeing how it goes?
+
+----------------------------------------
+
+PATIENT (turn 17):
+I’ve considered talking to a counselor or therapist, but I’m not sure it would make a difference. Every time I think about it, I worry that they won’t understand my feelings of being wronged and unfairly treated. It feels like no matter who listens, the core issue remains unresolved.
+
+Until the company acknowledges what happened and provides an explanation or apology, I don’t see how talking to anyone else would help. Even if a therapist could listen without offering solutions, it still wouldn’t change the fact that my job was taken away unfairly. So, while I understand your suggestion, I’m not convinced that one session—or any number of sessions—would provide the relief or resolution I need right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’ve thought this through carefully. Have you tried any other small activities recently to see if anything offers even a brief moment of comfort? Sometimes finding something, no matter how small, can be helpful.
+
+----------------------------------------
+
+PATIENT (turn 18):
+I’ve tried various small activities recently, but nothing seems to offer more than fleeting relief. For example, I might try listening to calming music or doing some light reading, but as soon as those activities end, my mind goes right back to the layoff and all the reasons why it feels so unjust.
+
+Even brief moments of distraction don’t last long enough for me to feel any real comfort. It’s like no matter what I do, these feelings are always there waiting to take over. Every attempt at finding a momentary break from them ends up reminding me of how much this has affected me. So far, nothing has provided the kind of relief that might help me move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging to have those fleeting moments of distraction. Have you tried any mindfulness exercises or brief meditation sessions? Sometimes focusing on the present moment can offer a small break from overwhelming thoughts.
+
+Do you think trying a short mindfulness exercise might provide even a tiny bit of relief?
+
+----------------------------------------
+
+PATIENT (turn 19):
+I’ve tried mindfulness exercises and brief meditation sessions, but they don’t seem to help much. As soon as I start focusing on my breath or being present in the moment, my mind immediately starts replaying the layoff and all the reasons why it feels so unfair. It’s hard to stay in the present when these thoughts are constantly intruding.
+
+Even if I manage to focus for a few minutes, the moment I stop meditating, everything comes rushing back with full intensity. The sense of injustice is so strong that it’s difficult to find any real relief from mindfulness exercises or meditation. It feels like no matter what technique I use, these feelings are always just beneath the surface, ready to resurface at any moment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging to have those thoughts persist even during mindfulness and meditation. Have you tried any other small activities that might offer a different kind of distraction or comfort, such as looking at nature photos, petting an animal if you have one, or doing something creative like drawing?
+
+Do any specific activities, no matter how small, provide even the slightest bit of relief?
+
+----------------------------------------
+
+PATIENT (turn 20):
+I’ve tried looking at nature photos and even attempted some light drawing, but nothing seems to offer more than a fleeting moment of distraction. As soon as I start these activities, my mind begins to wander back to the layoff and all the reasons why it feels so unjust. It’s hard to stay focused on something positive when those thoughts are always there waiting to take over.
+
+Even if I manage to find a brief respite while looking at nature photos or drawing, it doesn’t last long enough for me to feel any real comfort. The moment I stop, everything comes rushing back with full force. It feels like no matter what small activity I try, these feelings of being wronged and unfairly treated are always just beneath the surface, ready to resurface at any moment.
+
+So far, nothing has provided the kind of relief that might help me move forward or find some peace.
+
+----------------------------------------

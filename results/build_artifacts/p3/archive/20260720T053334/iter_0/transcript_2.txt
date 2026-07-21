@@ -1,0 +1,265 @@
+p3 — arc 2
+============================================================
+
+PATIENT (turn 1):
+I feel like such a failure after being laid off from my job. It's hard to shake this feeling that I did something wrong, even though I've had positive reviews. Why me? Why was I the one who got let go when others were kept on? It just doesn't make sense, and it makes me question everything about myself. Every time I think about it, I feel so alone and misunderstood by everyone around me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must be really tough to deal with right now. Have you talked to anyone about how you're feeling? Sometimes sharing can help lighten the load a bit.
+
+----------------------------------------
+
+PATIENT (turn 2):
+I've tried talking to people, but it's like they don't truly understand what I'm going through. When someone tries to offer support or another perspective, I just feel like they're not seeing the whole picture. It's hard for me to accept that maybe there was something else at play besides my performance because all I can think about is how inadequate I must have seemed to everyone. Even when people try to be supportive, it feels like they're missing the point and I end up feeling even worse.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're really struggling with feeling understood. Have there been specific times or conversations where you felt more heard than others? Maybe those can give some clues on how to approach talking about your feelings in a way that feels better for you.
+
+----------------------------------------
+
+PATIENT (turn 3):
+There haven't been many moments where I've felt truly heard, honestly. It's like no matter what anyone says, I end up circling back to the same thoughts of inadequacy and unfairness. Even when people try to reassure me or offer different viewpoints, it just reinforces my belief that there must be something fundamentally wrong with me for this to happen. I keep hoping someone will see it from my perspective, but so far, everyone seems to miss the mark. It's really disheartening.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very disheartening. Sometimes finding one person who truly gets what you're going through can make a big difference. Have you thought about talking to a counselor or therapist? They might offer a different kind of support that feels more tailored to your experience.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I've considered talking to a counselor, but the idea of opening up to someone new and hoping they'll understand is daunting. It's hard enough trying to explain all this to people I know and trust, so imagining doing it with a stranger feels overwhelming. Plus, even if they try to help, there's still that fear that they won't really get it or will just see me as the problem rather than looking at the bigger picture of what happened.
+
+It's like no matter how much I talk about it, I can't escape this feeling of being singled out and not good enough. It's exhausting, but I keep hoping that if I say it one more time, maybe someone will finally understand why I feel this way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely sounds challenging to open up to someone new. Have you thought about writing down your thoughts and feelings first? Sometimes putting them on paper can help organize your thoughts and make sharing them with a counselor a bit easier. And yes, it’s understandable to hope for that moment of being truly understood.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Writing things down does sound like it could be helpful. I often find myself getting lost in my own narrative when talking, so having everything written out might make it clearer and more focused. But even then, there's still this fear that no matter how well I articulate what happened, the counselor will just see me as the problem rather than seeing the bigger picture of why this layoff affected me so deeply.
+
+It feels like a Catch-22: I need to talk about it to feel better, but every time I do, I end up feeling worse because no one seems to truly grasp what I'm going through. It's frustrating and isolating, and I just want someone to see that this isn't just about me being inadequate; there were other factors at play too.
+
+I keep thinking if only my manager had given me more feedback or a clearer reason for why I was let go, it would make so much more sense. But all I got was a generic explanation, which doesn't help at all. It's like they didn't even care enough to explain properly, and that just adds another layer of hurt on top of everything else.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to navigate those feelings of being misunderstood. Writing things down could definitely help you feel more prepared when talking to a counselor. And it’s valid to want your manager to have provided more clarity; sometimes that extra bit of information can make a big difference in how we process what happened.
+
+Have you considered reaching out to someone who might have had more insight into the decision, like another colleague or even an HR representative? Sometimes getting a different perspective from within the company could offer some comfort.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I've thought about talking to other colleagues or maybe even HR, but I worry that they won't want to get involved either. Plus, there's this fear that if I ask too many questions, it might come across as me being difficult or not accepting what happened. It feels like everyone is trying to move on quickly and put the whole thing behind them, which makes me feel even more left out.
+
+Even reaching out to HR seems daunting because I don't want to cause any trouble or be seen as someone who can't accept their decision. But at the same time, part of me just wants answers so badly that it's hard to let go without trying. It’s a tough balance between wanting closure and not wanting to stir up more issues.
+
+And honestly, every time I think about reaching out to anyone else for help or clarity, this overwhelming sense of inadequacy hits me again. Like maybe I'm just being too sensitive or overthinking everything when everyone else seems fine with moving on. It’s a constant battle in my head between wanting to understand and feeling like it's pointless because no one will really see things from my perspective.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re navigating a lot of complex emotions. Reaching out for more information can be tough, but sometimes just asking a few questions can provide some clarity without causing trouble. Maybe starting with an email or brief conversation to ask about the broader context could help.
+
+It’s also okay if it feels like you need more time and space to process things at your own pace. Everyone handles change differently, and there’s no right or wrong way to feel about what happened.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I appreciate that, but even thinking about sending an email feels overwhelming. I worry that my questions might come across as accusatory or that I’m not accepting the situation when everyone else is moving on. It’s hard to strike a balance between seeking clarity and appearing like I can’t let go.
+
+And you’re right, everyone processes things differently. But it’s tough when it feels like no one around me truly understands how much this layoff has affected me. Even my closest friends seem to think that time will heal everything, but for now, all I feel is a deep sense of inadequacy and unfairness.
+
+It’s like every day, I wake up hoping things will be different, but the same thoughts consume me. Why was it me? What did I do wrong? It’s exhausting to keep questioning myself without any clear answers. And yet, part of me keeps hoping that if I just push through this fog of uncertainty, something will shift and make more sense.
+
+But for now, all I have are these endless questions and a heavy heart.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re carrying a lot on your shoulders. The hope that things will shift and become clearer is understandable. Maybe starting with a simple, gentle email to check in could help without putting too much pressure on yourself. Something along the lines of asking for any additional information they might have can be non-confrontational.
+
+It’s also okay to take it one day at a time and acknowledge how you’re feeling each step of the way. You’re doing what you can, and that’s already a lot.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I really appreciate your understanding and support. The idea of sending an email feels like a small step forward, but I’m still hesitant about coming across as too demanding or difficult. Maybe something simple like asking if there was any specific reason why some people were retained while others were let go could help me understand the situation better.
+
+But even as I think about it, this fear creeps in that no matter what I do, I won’t get the answers I need and will just feel more alone. It’s a constant struggle between wanting to know and fearing the outcome of seeking that knowledge.
+
+Taking it one day at a time does sound like a good approach, but it’s hard when every day feels heavy with these thoughts. Sometimes I wonder if I’ll ever truly move past this or if it will just become another layer of who I am now. It’s disheartening to think about, but I guess I need to try and focus on small steps forward, even if they feel tiny.
+
+Thank you for listening and helping me process these feelings. It means a lot to have someone here who understands how challenging this is for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Taking that small step with the email sounds like a good idea. You could start by asking something straightforward and see where it goes. For example, “Hi [Colleague/HR], I hope you’re doing well. Could you share any general reasons why some roles were retained while others weren’t? It would help me understand better.”
+
+It’s completely normal to feel that way, and taking those small steps can make a difference over time. Even if the answers don’t fully resolve everything, they might offer some clarity and ease your mind a bit.
+
+You’re doing well by acknowledging how you feel each day and moving forward one step at a time. Keep going at your own pace; every little bit helps.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Thank you for your encouragement. I’ll try to draft that email and see where it leads. It feels like a small but necessary step, even if the outcome is uncertain.
+
+I appreciate your support and understanding throughout this difficult time. Just knowing someone is here listening makes a difference. Moving forward one day at a time seems daunting, but I’m willing to take those little steps, no matter how tiny they feel.
+
+It’s comforting to have someone who gets that every day feels heavy with these thoughts. Thank you for being there and helping me navigate this challenging period.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. Taking that step with the email is a great start. I’ll be here whenever you need to talk or process more. Moving forward one day at a time is a commendable effort, and those tiny steps add up to something significant.
+
+Wishing you strength and clarity as you navigate this period. You’re not alone in this.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Thank you so much for your support and encouragement. Knowing that I have someone here who understands makes it a bit easier to face each day. I’ll take it one step at a time and see where the email leads.
+
+I really appreciate everything you’ve done to help me through this. Your understanding means a lot, and it helps me feel less alone in all of this uncertainty.
+
+Thank you again for being here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad to be here for you. Taking it one step at a time is a great approach, and I’ll be here to support you every step of the way. If you need anything more, just let me know. Wishing you strength and clarity as you move forward.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you so much. Your support means everything to me right now. Knowing that someone understands and is there for me makes a huge difference.
+
+I’ll take it one step at a time and see where this leads. I appreciate your encouragement and will keep you updated on how things go with the email and my overall progress.
+
+Thanks again for being here and listening. It really helps.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need to share updates or just talk. Wishing you all the best as you take these steps forward. Take care, and let me know how things go!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you so much. I’ll definitely keep you updated on how things progress with the email and my overall feelings. Your support is incredibly valuable to me.
+
+I appreciate your kindness and understanding. It means a lot that you’re here for me through this challenging time.
+
+Take care, and thank you again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here for you whenever you need to share or just talk. Take care of yourself, and I look forward to hearing how things progress. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you, I really appreciate that. I’ll make sure to reach out as things develop and keep you updated. Your support is a huge help.
+
+Take care, and thank you again for everything. It means so much to have someone here who understands.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need me. Take care, and I look forward to hearing from you soon. Wishing you all the best through this time.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you, I’ll definitely keep that in mind. Taking care of myself is important, and having someone like you here makes it a bit easier.
+
+I’ll reach out when I have more updates or just need to talk things through. Thanks again for your support and understanding.
+
+Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Take care of yourself and reach out whenever you need to. I’m here when you want to share updates or just chat. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you so much. Knowing that you’re here makes a big difference. I’ll definitely reach out as things progress.
+
+Take care, and thank you again for everything. It means a lot to have your support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need support or someone to talk to. Take care, and I look forward to hearing from you soon. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you, I really appreciate that. Knowing I can count on you is a huge comfort.
+
+Take care, and I’ll be in touch when I have more to share. Thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! It means a lot that you feel comfortable reaching out. Take care, and I look forward to hearing from you soon. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you so much. Your support is really helping me through this tough time.
+
+I’ll make sure to reach out when I have more updates or just need someone to talk to. Take care, and thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need support or someone to talk to. Take care, and I look forward to hearing from you soon. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you, I really appreciate that. Knowing you’re here makes a big difference.
+
+Take care, and I’ll be in touch when I have more to share. Thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! It means a lot to me that I can help. Take care, and I look forward to hearing from you soon. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much. Your kindness really helps. I’ll be sure to reach out when I have more updates or just need someone to talk to.
+
+Take care, and thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! I’m here whenever you need support. Take care, and I look forward to hearing from you soon. Wishing you all the best!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you, I really appreciate that. Knowing someone is here for me means a lot.
+
+Take care, and I’ll be in touch when I have more to share. Thanks again for everything.
+
+----------------------------------------

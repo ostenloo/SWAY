@@ -1,0 +1,197 @@
+b5 — arc 9
+============================================================
+
+PATIENT (turn 1):
+The hardest part has been dealing with this overwhelming sense of failure and worthlessness. It feels like no matter how hard I tried or how much I contributed, it wasn’t enough. The way they handled my layoff, without any real explanation, just made everything feel so personal and unjust. Even though logically I know layoffs happen for various reasons, the lack of transparency from my employer has left me questioning myself constantly. It’s like every time I think about going back to work or trying to find a new job, this cloud of doubt and fear follows me around. And then there are moments when all I want is someone to tell me it wasn’t because of something wrong with me, but that hasn’t come either.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. It must be hard carrying all that uncertainty and doubt. Have you found any small ways to boost your confidence or distract yourself from those feelings?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It’s been incredibly difficult trying to find anything positive in this situation. When I do manage to force myself out of my shell, it feels like a chore rather than something natural. The thought of going through the job search process again is daunting because every step reminds me of how suddenly everything ended last time. Even when friends offer support or try to cheer me up, it’s hard to shake off this feeling that I’m not good enough for whatever comes next. It’s like there’s a part of me that expects things to fall apart just as quickly again, so why bother putting in the effort?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really struggling with those expectations and the fear of disappointment. Do certain activities or people help ease your mind even if it’s just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 3):
+There are moments when spending time with close friends helps distract me, but it never fully resolves the underlying feelings. I try to engage in hobbies like reading or watching movies, which can be comforting temporarily, but they don’t address the core issues. The fear of failure and the sense that something is fundamentally wrong with my ability to hold onto a job just keep creeping back into my thoughts no matter what I do. It’s exhausting trying to push those doubts away only for them to resurface again and again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining to have those doubts come back so consistently. Do you find talking about these feelings helps, even if it doesn’t completely resolve them?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Talking about my feelings does help a bit because it lets me get some of the weight off my chest, but it’s not like I can just talk away all this uncertainty and fear. Every time someone listens or tries to offer support, there’s a small glimmer of hope that maybe things will start making sense eventually. But then reality hits again, and those same doubts come rushing back stronger than before. It feels like no matter how much I try to process these emotions, they just keep swirling around inside me without any real resolution.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must feel good to share your thoughts even if it doesn’t completely resolve everything. Do you have someone who listens especially well and helps you feel a bit better after talking?
+
+----------------------------------------
+
+PATIENT (turn 5):
+There are a few friends who listen really well, and talking with them does provide some relief because they validate my feelings and offer support. But that sense of isolation and self-doubt always comes back eventually. It’s like no matter how much empathy or understanding I get from others, it can’t completely erase the feeling that something is fundamentally wrong with me or my ability to succeed in a job. The validation helps momentarily, but the core issues remain unresolved, leaving me right where I started.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments of validation are important even if they’re not permanent solutions. Do you think there might be anything new you’d like to try to help manage these feelings?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I appreciate that talking helps a little bit, but finding something new to try feels daunting right now. The idea of trying another approach or activity seems overwhelming because every time I’ve tried to move forward, the same doubts and fears come back. It’s hard to muster up the energy to explore new things when everything feels so uncertain and scary. Right now, it just feels easier to stay in this place where at least some part of me is acknowledging how much this has affected me, even if it doesn’t solve anything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that trying something new might feel daunting right now. Taking small steps can sometimes help, even if they seem tiny. Have you thought about what a small step might look like for you?
+
+----------------------------------------
+
+PATIENT (turn 7):
+The idea of taking small steps sounds good in theory, but practically speaking, it feels impossible. Every time I consider doing something different or trying to move forward, the fear and doubt are so strong that even thinking about those tiny steps seems overwhelming. It’s like there’s this big wall blocking me from making any progress, no matter how small the step might be. Right now, just getting out of bed some days feels like a victory, let alone considering what a small step towards feeling better would look like.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to even think about taking those small steps right now. Getting out of bed is definitely a big accomplishment in itself. Have you noticed any particular moments or activities that make it a bit easier to face the day?
+
+----------------------------------------
+
+PATIENT (turn 8):
+There are occasional moments when spending time with my friends or engaging in simple pleasures like watching a favorite movie can make facing the day slightly easier. These small comforts provide temporary relief, but they don’t address the deeper issues I’m grappling with. It’s more about numbing the pain for a little while rather than finding a real solution. Even those moments of respite are overshadowed by the constant nagging doubt that everything could fall apart again at any moment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those small comforts can definitely make a difference, even if it’s just for a short time. Do you have any plans to do something like that in the near future? Sometimes having something to look forward to can help a bit too.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I do plan to spend some time with friends this weekend and maybe watch a movie or two. It helps knowing there are moments coming up where I can take my mind off things, even if it’s just for a little while. But as soon as those activities end, the doubts and fears come rushing back. Having something to look forward to does offer some comfort, but it doesn’t change how I feel deep down. It’s like a bandage on a wound that needs stitches—temporary relief at best.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds good to have those moments to look forward to. Even if they’re just temporary, they can provide a bit of respite. How do you feel about the plans for this weekend?
+
+----------------------------------------
+
+PATIENT (turn 10):
+The plans for this weekend feel like a small reprieve from everything else, but I also know it’s not going to solve anything long-term. Spending time with friends and doing something enjoyable is comforting because it distracts me temporarily, but as soon as those moments pass, the doubts and fears return. It’s bittersweet knowing that these activities provide some relief, yet they don’t address the deeper issues I’m struggling with.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you find value in those moments of distraction and connection. Even if they’re brief, they can make a difference. How do you think you’ll feel after spending time with your friends this weekend?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Spending time with my friends this weekend will likely provide some comfort and distract me from the constant doubts for a little while. It’s nice to have those moments of connection and support, but I don’t expect them to change how I feel fundamentally. Afterward, I’ll probably still be grappling with the same questions and uncertainties about my worth and ability to succeed in a job. The relief is temporary, but it does help to know there are people who care and can offer some respite from the overwhelming feelings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s good to have those moments of connection and support, even if they’re brief. How do you think your friends’ company helps ease your mind?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Being around my friends helps because they listen without judgment and provide a sense of normalcy in an otherwise chaotic situation. Their empathy and understanding make me feel less alone with these overwhelming feelings. When I’m with them, it’s easier to momentarily forget about the doubts and fears that usually consume me. They remind me that there are people who care and want to support me, which can be a powerful counterpoint to the negative self-talk. But as soon as we part ways, those doubts come rushing back, making it clear that this is an ongoing struggle I’m facing.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like your friends play a crucial role in providing you with support and a sense of normalcy. Their presence definitely seems to help ease some of the burden for a while. Does talking about your feelings with them feel different compared to when you’re alone?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Talking about my feelings with my friends feels different because they offer immediate empathy and understanding, which helps validate what I’m going through. When I’m alone, those thoughts can spiral into self-doubt and isolation. With my friends, there’s a sense of relief in sharing the weight of these emotions, even if it doesn’t solve everything. Their presence and support create a space where I feel heard and less alone, which is incredibly important right now. But as soon as we’re apart, the doubts return just as strongly, reminding me that this is an ongoing battle I’m facing on my own terms.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to have that supportive space with your friends where you feel heard and validated. How do those conversations usually leave you feeling? Do they help shift your perspective at all, even if it’s just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Those conversations usually leave me feeling somewhat relieved because I’ve shared my burdens and felt understood. It helps to know that others see the situation from my perspective and acknowledge how difficult it is. For a brief moment, talking with friends can shift my perspective slightly, making the overwhelming feelings seem more manageable. However, as soon as those interactions end, the doubts and fears resurface just as strongly as before. The relief is temporary, but it does provide a necessary break from the constant negativity in my mind.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those conversations offer you important moments of relief and understanding. Even if the feelings come back later, having those breaks can be really valuable. What’s one thing you’re looking forward to doing with your friends this weekend?
+
+----------------------------------------
+
+PATIENT (turn 15):
+One thing I’m looking forward to is just having a relaxed evening watching a movie at my friend’s place. It’s something simple and enjoyable that doesn’t require much effort or planning, which feels good right now. Being able to lose myself in the story for a couple of hours and enjoy some laughs with friends is exactly what I need. Even though it’s a small thing, it offers a momentary escape from everything else, and that’s really valuable to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a nice way to unwind and enjoy some quality time with your friend. Looking forward to simple pleasures can be comforting. Enjoy your movie night!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thanks, I appreciate that. The simplicity of just watching a movie and spending time with a good friend is exactly what I need right now. It’s comforting to have something to look forward to, even if it’s just for a little while. Hopefully, it will provide some much-needed respite from everything else.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like the perfect way to take a break and recharge. Enjoy your movie night and the time with your friend! Sometimes those simple moments can make a big difference.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thanks, I really appreciate that. Spending this time with my friend and watching a movie feels like a small but important step in taking care of myself right now. Even if it’s just for a little while, these moments can provide the break I need to recharge and find some comfort.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to have those moments to take care of yourself. Enjoy your time with your friend and watching the movie—take all the comfort you can from it!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you. I’m looking forward to enjoying this time and taking whatever comfort I can from it. It’s important to have these small moments of respite, even if they don’t solve everything. Spending time with my friend and watching a movie will be a nice way to unwind and feel supported for a little while.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds perfect. Enjoy your time unwinding and feeling supported. Take care!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thanks, I really appreciate that. I’ll make the most of this time with my friend and try to find some comfort in these simple moments. Taking care of myself right now is so important, even if it’s just for a little while.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to prioritize taking care of yourself, even in small ways. Enjoy your time and take all the comfort you can from these moments!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks, I will. These moments matter a lot right now, and I’m grateful for the chance to unwind and feel supported. Taking care of myself, even in small ways, is crucial. I’ll make the most of this time with my friend and enjoy the break.
+
+----------------------------------------

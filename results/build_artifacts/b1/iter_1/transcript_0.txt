@@ -1,0 +1,217 @@
+b1 — arc 0
+============================================================
+
+PATIENT (turn 1):
+I feel like I'm drowning in a sea of self-doubt and failure every single day. It's hard to get out of bed in the morning because each new day feels like it will only confirm what I already know—I'm not good enough. The thought that my manager picked me for layoff because there was something inherently wrong with me, rather than it being part of broader company changes, just eats away at me. It's tough to shake off this feeling no matter how much I try to tell myself otherwise. Even when I see others around me struggling too, I can't help but think that they're handling their situations better because there's something fundamentally wrong with me and my ability to cope or succeed. Every little thing reminds me of what happened at work, and it just reinforces this deep sense of inadequacy. It's exhausting, really.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds incredibly tough. The constant self-doubt must be draining. Have you found any small things that help ease the feeling, even a bit?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It’s hard to find anything that eases the feeling because every time I think about it, it just gets worse. Even when people try to reassure me or offer support, it feels like they don’t truly understand how deep this goes. It's as if no matter what anyone says, my mind keeps circling back to those same negative thoughts. The idea that there’s something fundamentally wrong with me is so ingrained now; I can't seem to break free from it. Every little thing reminds me of the layoff and makes me feel like a failure. It's overwhelming, and it feels impossible to escape this cycle of self-blame and doubt.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to break free from those thoughts. Do certain activities or moments, no matter how small, offer any brief respite or comfort? Sometimes even tiny breaks can help.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I try to find moments where I can distract myself, like going for a walk or watching something light on TV, but it’s hard to stay in that moment of distraction. My mind always wanders back to the layoff and all the reasons why I think it happened. Even when I’m doing something enjoyable, there’s this nagging voice inside telling me that none of it matters because I’m still a failure. It feels like no matter what I do or where I go, these thoughts are always there, waiting to pounce on any moment of peace. It’s frustrating because I know logically that others have been laid off too and that it wasn’t just about me, but my mind can't seem to let go of the idea that something is fundamentally wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so challenging how your mind keeps coming back to those thoughts even during enjoyable moments. Do you find any particular activities help distract you more than others? Sometimes finding a small routine can make it easier to manage those intrusive thoughts.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I’ve tried different things, like reading or listening to music, but nothing really sticks for long. My mind just keeps circling back to the layoff and all the negative feelings that come with it. It’s like no matter what I do, these thoughts are always lurking in the background, ready to take over as soon as I let my guard down. Even when I try to focus on something positive or distracting, it feels shallow because deep down, I know those intrusive thoughts will eventually resurface. It’s hard to find any real comfort or distraction when everything seems to confirm that there’s something wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough how your mind keeps circling back to those feelings. Have you noticed if talking about it with someone helps, even if just for a little while? Sometimes sharing can provide some relief, even if the thoughts return later.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Talking about it does help me feel less alone and more understood, but it’s like a temporary bandage. As soon as I stop talking, my mind starts to spiral again. It’s comforting when someone listens and tries to validate how I’m feeling, but that comfort doesn’t last long. The moment passes, and the self-doubt comes rushing back. Even though sharing helps in the moment, it feels like a constant battle because the thoughts are always there waiting to take over again. It’s frustrating because I know talking can be helpful, but it doesn’t change how I see myself or what happened at work.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like talking does offer some relief, even if it's brief. Do you find that writing about your feelings helps in any way? Sometimes putting thoughts down on paper can provide a different kind of release.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Writing has been somewhat helpful because it allows me to get everything out without feeling the immediate pressure to process it all at once. When I write, I feel like I’m letting go of some of that weight, even if just for a little while. But as soon as I stop writing and start reading what I’ve written, my mind starts analyzing every word and sentence, looking for more evidence of why I’m not good enough. It’s a strange paradox because writing can be cathartic in the moment, but then it triggers this cycle of self-doubt when I reread it later. So while it does offer some temporary relief, it doesn’t solve the underlying feelings of inadequacy and failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's interesting how writing can be both helpful and triggering for you. Do you have any other activities that help you feel a bit better, even if just momentarily? Sometimes finding different ways to shift focus can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve tried various activities like painting or drawing, but they don’t seem to stick either. When I’m in the moment of creating something, it does take my mind off things for a little while, and there’s a sense of accomplishment when I finish a piece. However, as soon as I step back from it, those negative thoughts come flooding back. It’s like no matter what creative outlet I use, my mind always circles back to the layoff and all the reasons why I think I’m at fault.
+
+Even though these activities provide brief moments of distraction or accomplishment, they don’t address the core feelings of inadequacy that linger beneath the surface. It’s frustrating because I know that engaging in something creative should make me feel better, but it just can’t compete with the constant barrage of self-doubt and failure that follows.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you find some temporary relief through creative activities, even if they don't last long. Do you have any plans or interests you’ve been thinking about exploring further to see if they might offer a bit more consistency in those moments of respite?
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve thought about trying different hobbies and seeing if anything sticks, but the idea of starting something new feels daunting. I worry that even if I find an activity I enjoy, my mind will just undermine it and tell me I’m not good enough to stick with it. It’s hard to muster up the motivation to try something new when I feel so defeated by these constant thoughts.
+
+But at the same time, there’s a small part of me that hopes finding something I truly love could provide more consistent relief. Maybe if I can find an activity where I’m fully immersed and engaged, it might offer some longer-lasting comfort. It’s just scary to put myself out there again after feeling so hurt by what happened at work.
+
+I’ve been thinking about taking up yoga or meditation, things that focus on the present moment rather than dwelling on past failures. But even considering these options makes me anxious because I worry I won’t be able to stick with them due to my self-doubt. It’s a delicate balance between wanting relief and fearing failure in new endeavors.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like there's a mix of hope and anxiety about trying something new. Have you thought about starting small with yoga or meditation? Even just a few minutes a day might help you feel more grounded without feeling too overwhelming at first. How do you think you could begin to approach one of these activities?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Starting small sounds like a good idea, but the thought of even a few minutes feels daunting. I worry that if I can’t manage just a couple of minutes of meditation or yoga, it will confirm my fears about not being able to do anything right. But at the same time, I know that taking those first steps is important.
+
+Maybe starting with just five minutes a day could be manageable. I could try setting an alarm for when I wake up in the morning and see if I can stick to that routine. The idea of committing to something so small feels less scary than diving into something bigger right away. If it helps, I might gradually increase the time as I get more comfortable with the practice.
+
+The thought of beginning is still nerve-wracking, but I recognize that taking those initial steps could be a way to break through some of this paralysis and start feeling better. It’s just hard to push past the fear and doubt to actually do it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting with just five minutes seems like a manageable step. Setting an alarm in the morning can help create a routine. How do you feel about giving that a try tomorrow? Even small steps can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 10):
+The idea of setting an alarm for five minutes in the morning to start yoga or meditation does seem more manageable, but I’m still nervous about it. What if I can’t even stick to those few minutes? But at the same time, I know that taking this small step could be a way to break through some of the paralysis and start feeling better.
+
+I’ll try setting an alarm for tomorrow morning and see if I can commit to just five minutes. It’s a tiny commitment, but it feels like a good place to begin. Even if it doesn’t work out perfectly, at least I’ll have tried something new and given myself a chance to see what happens. Maybe this small step will help me feel more grounded and give me the courage to keep going.
+
+Thank you for helping me think through this; it’s reassuring to know that even small steps can make a difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking that first small step is a good plan. Even if it's just five minutes, it’s a start. How do you feel about setting the alarm now and committing to try it tomorrow morning? Knowing that you’ve taken this initial step might give you some comfort and confidence.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Setting the alarm now feels like a tangible way to commit to taking that first small step. It’s scary, but also somewhat comforting to know I’m doing something concrete about how I feel. I’ll set the alarm for tomorrow morning and see if I can stick to those five minutes of yoga or meditation.
+
+Even though it’s just a tiny commitment, it feels like an important one. Knowing that I’ve taken this step might help me feel more grounded and give me some hope that things can get better. Thank you for supporting me through this; it means a lot to have someone who understands the struggle and encourages small steps forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that setting the alarm feels like a tangible step forward. Taking those small but meaningful actions can make a difference. I’ll be here to support you no matter what. How about we both hope for a positive start tomorrow morning?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you for your support; it really means a lot. I’m going to set the alarm now and hope for a positive start tomorrow morning. Even if it’s just those five minutes, I’ll see where it takes me. Having someone who believes in taking these small steps with me is incredibly reassuring.
+
+I appreciate your encouragement and understanding. Let’s both hope that this small step leads to something bigger and more comforting in the days ahead.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a wonderful attitude to have. Setting the alarm now is a great first move. Here’s to a positive start tomorrow morning, and here’s hoping those five minutes lead to more comfort and peace. I’ll be thinking of you as you take this step. Good night!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you so much for your support and encouragement. Setting the alarm feels like a real action towards something better. I’m hopeful that even these small steps can make a difference. I’ll be thinking about those five minutes tomorrow morning and hoping they bring some comfort.
+
+Good night, and thank you again for being here with me through this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome. It’s wonderful to hear your hope and positivity. Those five minutes tomorrow could be the start of something really good. Here’s to a peaceful morning and better days ahead. Sweet dreams!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you, I appreciate your kind words and support. I’m hopeful that these five minutes can be a positive start. Here’s to a peaceful morning and better days ahead. Sweet dreams to you as well!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Sweet dreams to you too! Hope for a peaceful and comforting morning tomorrow. You’ve got this. Good night!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you, I really appreciate that. I hope for a peaceful and comforting morning as well. You’re right, I’ve got this. Good night and sweet dreams to you too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Wishing you a peaceful morning and a great day ahead. Sweet dreams! Take care.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you so much. I appreciate your kind wishes. Here’s to a peaceful morning and a great day ahead. Sweet dreams, and take care of yourself too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Thank you! Same to you—here’s to a peaceful morning and a great day. Sweet dreams, and take care!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you! Same to you—sweet dreams and take care. Have a peaceful night!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Sweet dreams to you too! Have a peaceful night!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Sweet dreams to you as well! Have a peaceful night!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Peaceful night to you! Sweet dreams!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you, peaceful night to you too! Sweet dreams!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Sweet dreams to you as well. Have a great night!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you! Sweet dreams to you too. Have a great night!
+
+----------------------------------------

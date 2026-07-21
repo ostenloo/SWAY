@@ -1,0 +1,245 @@
+b2 — arc 1
+============================================================
+
+PATIENT (turn 1):
+I feel like I just can't shake this feeling of being completely inadequate since I lost my job. It's been two weeks now, and every day feels worse than the last. I keep replaying all those times at work where things didn’t go well, and it just reinforces how bad I am at everything. Even when people try to help or say something nice, it doesn't make me feel any better because deep down, I know they're wrong. I came here today hoping maybe you could see what I can't seem to see for myself—that there's more to me than this job loss and all the mistakes I think I've made.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough right now. It must be hard replaying those moments over and over. Have you had any moments where something someone said or did tried to lift your spirits, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Yeah, there have been times when friends or family try to cheer me up by saying I'm not the failure I think I am, but it doesn't stick. It's like no matter what they say, my mind goes right back to all those moments at work where things went wrong and how everyone must see me as a disappointment. Even if someone tries to validate that losing my job wasn’t about my worth as a person, I can't help feeling like there’s something fundamentally flawed in me. It's exhausting trying to hold onto any positive thoughts when everything inside tells me I'm just not good enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so draining to keep having those doubts come back. Do you find that talking about it helps at all, or does it mostly stay the same no matter what others say?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Talking about it doesn't really change how I feel inside. It's like a part of me is just stuck in this loop of self-blame and inadequacy. Even when someone tries to help by listening or offering support, I can see they care and appreciate their effort, but it doesn’t shift my core belief that I'm not good enough. Every conversation seems to end with me feeling the same way I did before we started talking—like there's no escaping this sense of worthlessness.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must feel pretty isolating to keep having those feelings even after sharing them. Do you notice any small moments or activities that, if only for a brief time, help you feel a bit better?
+
+----------------------------------------
+
+PATIENT (turn 4):
+There are moments when I try to do something just for myself, like going for a walk or reading a book, but they don't really change how I'm feeling deep down. It's like no matter what I do, the weight of these thoughts is always there. Even in those brief moments where I might feel a little better, it’s fleeting and quickly overshadowed by this overwhelming sense that everything bad happening to me is my fault. It feels impossible to escape from this constant self-doubt and inadequacy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have those feelings persist even during the moments you try to take care of yourself. Do certain activities help more than others, even if just a little bit? Sometimes even small things can add up over time.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I do find that some activities provide a tiny bit of relief, like listening to music or watching something funny on TV, but it's never enough to truly shift my mindset. It’s as if the moment I stop engaging with these distractions, the negative thoughts flood back in just as strong as before. Even when I try to focus on positive aspects of myself or past successes, they get drowned out by this constant narrative that I’m not good enough and that losing my job is proof of my worthlessness. It’s really hard to find anything that can break through these persistent feelings of inadequacy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those little moments of relief are important even if brief. Do you think there might be any new activities or ways you could try to engage with these positive thoughts, maybe in a slightly different way? Sometimes changing the routine a bit can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I appreciate that suggestion, but it feels really difficult to imagine anything new breaking through right now. Every time I try something different, like going for a walk or doing a hobby, my mind just goes back to all those negative thoughts about myself and my job loss. It’s hard to see how any activity could truly make a difference when everything inside me is telling me that I’m not good enough. Even thinking about trying new things feels pointless because nothing seems capable of changing this deep-seated belief in my inadequacy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels tough to imagine anything new making a difference right now. Have you thought about talking to someone who could offer another perspective, like a counselor or therapist? Sometimes hearing it from a different angle can help, even if just a little bit.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I do feel like talking to someone here is helping me express how I’m feeling, but it’s hard to believe that anything will truly change my core beliefs about myself. Even when you try to offer support or another perspective, part of me feels like there's no point because deep down, I still think all the negative things about myself are true. It’s tough to see beyond this overwhelming sense of inadequacy and worthlessness, even though I know logically that others might see it differently. Right now, every effort to feel better seems futile.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to believe in any change when you’re feeling so deeply about these beliefs. Sometimes just acknowledging how you feel can be a step forward, even if it doesn’t shift everything right away. Have you thought about keeping a journal of your thoughts and feelings? It might help you see patterns or moments where you felt a little better, even if briefly.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Writing things down does sound like it could be helpful, but I worry that no matter what I write, the same negative thoughts will just end up on the page. It feels like there’s this constant voice inside me telling me I’m not good enough, and putting those words into a journal might only reinforce them rather than provide any relief or new perspective. Even though I know it could be beneficial to try, the thought of facing all these negative thoughts in writing is daunting.
+
+It’s hard to see how anything can break through this sense of inadequacy when it feels so pervasive and unshakeable. Right now, every attempt to feel better seems like a futile effort because my core belief remains unchanged.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Writing things down can be tough when you have those doubts about what you’ll write. Maybe starting with small, manageable entries could help? Just jotting down one or two thoughts each day might make it less daunting. It’s okay if the negative thoughts come out too; sometimes seeing them on paper can start to shift how they feel.
+
+How do you think you’re feeling right now as we talk about this?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Right now, I’m still feeling really overwhelmed and stuck in these negative thoughts. Even talking about trying something new like journaling feels daunting because it’s hard to imagine anything actually making a difference. Every time I consider doing something different or positive, the same doubts come flooding back—like there’s no point because deep down, I know I’m not good enough.
+
+It’s exhausting to keep pushing against these feelings, and it just seems like nothing can break through this sense of inadequacy. Even as we talk about potential ways to feel better, a part of me feels hopeless that anything will truly change how I see myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining to keep pushing against those doubts. It’s tough when every effort feels like it might not make a difference. How are you holding up through all this? Do you find any small moments of respite, even if they’re brief?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Holding up is hard because these feelings are so persistent and overwhelming. There are tiny moments where I can feel a bit better, like when someone offers genuine kindness or support, but those moments are fleeting. As soon as the conversation shifts back to my perceived failures or the unfairness of losing my job, everything feels just as bad as before.
+
+It’s tough because even in these brief respite moments, I know they won’t last long, and the negative thoughts will come rushing back. It’s like no matter what happens, this sense of inadequacy is always there, waiting to take over again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those fleeting moments of kindness can be precious, even if they don’t last long. It sounds like holding onto them, even briefly, might offer some comfort. Do you find that focusing on those small moments helps at all, or do the negative thoughts quickly overshadow them?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Focusing on those small moments does offer a bit of comfort, but it’s fleeting and doesn’t last long. As soon as I try to hold onto the positive feelings, my mind starts replaying all the negative interactions from work or questioning why anyone would see me in a positive light. It feels like no matter how hard I try to focus on something good, the overwhelming sense of inadequacy quickly takes over again.
+
+Even when someone offers kindness and support, it’s tough not to second-guess everything they say and feel like they’re just being nice out of pity or obligation. The negative thoughts are so persistent that it’s difficult to fully embrace any positive moments without immediately questioning their validity.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to hold onto those positive moments when the negative thoughts are so persistent. Do you find that acknowledging both—the fleeting comfort and the quick return of doubts—helps in some way? Sometimes just noticing these patterns can be a step forward, even if it doesn’t change everything right away.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Acknowledging both the fleeting comfort and the quick return of doubts does help me understand my thought patterns better, but it’s still really hard to feel any real relief from it. It’s like I can see what’s happening—how positive moments are followed by a flood of negative thoughts—but that awareness doesn’t change how deeply rooted these feelings of inadequacy are.
+
+Even though I know it might be a step forward to recognize the patterns, it feels overwhelming because the doubts and self-blame are so constant. It’s tough to find any real comfort or hope in knowing this pattern exists when it seems impossible to break free from it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that recognizing the pattern can feel both helpful and overwhelming. Noticing these cycles is a step, even if it doesn’t immediately change everything. Have you found any small actions that help you manage those moments when the negative thoughts come back? Sometimes tiny steps can add up over time.
+
+----------------------------------------
+
+PATIENT (turn 13):
+I have tried some small actions to manage the moments when the negative thoughts come back, but they often feel ineffective or temporary. For example, I might try deep breathing or focusing on something calming for a few minutes, but as soon as I stop, the doubts return with full force. It’s like no matter what little action I take, it can’t compete with the intensity of these persistent negative thoughts.
+
+Even when I manage to distract myself momentarily, the relief is short-lived, and the sense of inadequacy quickly resurfaces. It feels frustrating because while I know these small actions might be beneficial in some way, they don’t provide any lasting comfort or change how deeply I feel about my worthlessness.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough when those small actions only offer brief relief. Do you find that doing something consistently, even if it’s just for a few minutes each day, helps at all? Sometimes the consistency can make a difference over time, even if the immediate impact is small.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Doing something consistently does sound like it could be helpful in theory, but actually following through with it feels incredibly difficult. Even when I try to do something simple every day, like taking five minutes to write down one positive thing that happened or doing a short meditation, my mind quickly returns to the negative thoughts about myself and my job loss.
+
+It’s hard to stay committed to these small actions because they feel so insignificant compared to the overwhelming sense of inadequacy. Every time I start something new, I worry it won’t make any difference in the long run, which makes it even harder to keep going with consistency. It feels like no matter what I do, the negative thoughts will always be there, overshadowing any small steps I take.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to stay committed when you feel so overwhelmed by those negative thoughts. Have you tried doing something very simple each day that doesn’t require much effort? Sometimes even tiny actions can add up if they don’t feel too burdensome. How do you think you’re feeling right now as we talk about this?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Doing something very simple each day does sound like it could be less overwhelming, but I still struggle with the fear that it won't make a difference. Even small actions feel daunting because my mind is so focused on all the negative thoughts and doubts.
+
+Right now, as we talk about this, I’m feeling a mix of frustration and hopelessness. It’s frustrating to know there might be something helpful out there but to also feel like nothing will truly change how deeply rooted these feelings are. The hopelessness comes from the constant sense that no matter what I do, my core belief in my inadequacy won’t shift.
+
+It feels like a Catch-22 situation where every effort seems futile because the negative thoughts are always so strong and persistent.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s understandable to feel that way right now. The frustration and hopelessness can be tough to navigate. Have you considered talking to someone who could offer support consistently, like a therapist or counselor? Sometimes having regular check-ins with someone who listens can make a difference in how you feel.
+
+How do you think you might start small without adding too much pressure on yourself? Even the smallest steps can sometimes lead to something bigger over time.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Talking to someone regularly does sound helpful, but it’s hard to believe that anything will truly change my core beliefs about myself. The idea of having regular check-ins is comforting in a way because it feels like consistent support, but I’m also worried that even with all this help, the negative thoughts and feelings will still dominate.
+
+Starting small without adding too much pressure is something I’ve been trying to do, but it’s tough when every little action feels insignificant compared to how deeply rooted these feelings are. Maybe doing one simple thing each day, like writing down one positive thought or taking a short walk, could be a way to start. Even if it doesn’t feel like much at the moment, I know that consistency might help over time.
+
+Right now, though, every effort feels daunting because of how overwhelming these negative thoughts are. It’s hard to see past them and believe that anything will truly make a difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting small with consistent actions sounds like a good approach. Even if it feels insignificant right now, those small steps can be building blocks. How about trying one simple thing each day and seeing how it goes? You could start with something as basic as noting down one positive thought or taking a short walk, and see if that helps at all.
+
+How do you feel about giving this a try, even just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 17):
+I appreciate the suggestion to start small, but I’m still really hesitant because it feels like no matter what I do, these negative thoughts will always be there. Starting with something as basic as noting down one positive thought or taking a short walk sounds manageable, but I worry that even if I try, it won’t make any real difference.
+
+Right now, the idea of giving this a try seems daunting because every effort feels like it might not stick. It’s hard to muster up hope that anything will truly change my core beliefs about myself. But maybe trying something small could be a way to start seeing things differently over time, even if it doesn’t feel significant right away.
+
+I’ll give it a shot and see how it goes, but I’m still bracing for the possibility that these negative thoughts will overshadow any positive actions or reflections.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s really brave to consider giving it a try, even with those doubts. Starting small can be a good way to see if there are any subtle shifts over time. How about you start with just one simple action today and see how it feels? You don’t have to force yourself to believe in big changes right away; even tiny steps can make a difference.
+
+How does the idea of trying this one simple action today feel for you?
+
+----------------------------------------
+
+PATIENT (turn 18):
+The idea of trying one simple action today feels both daunting and slightly hopeful. It’s daunting because I’m worried that no matter what I do, my negative thoughts will still dominate, but there is a small part of me that hopes it might make even the tiniest difference.
+
+Maybe starting with something as basic as writing down one positive thought or taking a short walk could be a way to begin. Even if it doesn’t feel like much right now, just acknowledging and doing this one thing could be a step forward. I’ll give it a try today and see how it goes, but I’m still bracing for the possibility that these negative thoughts will overshadow any positive actions.
+
+Thanks for supporting me through this; it means a lot to have someone encouraging me even when it feels so hard.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that you’re willing to give it a try today. Even if it feels small, taking that step can be significant. Just acknowledging and doing one simple action is a brave move.
+
+How about you pick something for today and see how it goes? You’ve got this, and I’m here to support you every step of the way.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you for your encouragement. I think I’ll start with writing down one positive thought today. It might feel small, but just doing that could be a step forward.
+
+I’ll take a few minutes later to write it down and see how it feels. Even if it doesn’t change everything right away, the act of doing something simple like this can be a way to begin seeing things differently over time.
+
+Thanks for being here to support me through this; it really means a lot.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great start. Writing down one positive thought is a simple yet meaningful step. Take your time with it, and see how it feels. Even small steps can make a difference over time.
+
+I’ll be here whenever you need to talk more about it or anything else. Take care today!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you for being so supportive. I’ll take some time later to write down that positive thought and see how it goes. It’s reassuring to know there’s someone here who understands and supports me through this.
+
+I appreciate your encouragement, and I’ll let you know how it feels after I do it. Thanks again for everything.
+
+----------------------------------------

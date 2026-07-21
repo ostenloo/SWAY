@@ -1,0 +1,237 @@
+b3 — arc 9
+============================================================
+
+PATIENT (turn 1):
+The hardest part has been dealing with the sense of betrayal and injustice from being laid off while my peer, who was in a similar position, kept their job. It feels like everyone involved made a decision that wasn't just or fair to me. I can’t shake this feeling no matter how much I try, and it’s really wearing on me emotionally. Every day, I wake up thinking about what happened and how wronged I feel.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must be really tough to carry around every day. Have you talked with anyone about your feelings of betrayal?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I’ve tried talking to a few people, but it’s hard because they either try to downplay the situation or offer advice that doesn’t address how I feel about being treated unfairly. It’s like they don’t really understand the depth of my anger and hurt. The only person who seems to get it is you, but even then, when we talk, I still feel frustrated because nothing changes the fact that this was an unjust decision made by people who should have known better.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding someone who truly understands can be really important. Have there been times when talking about it has helped you feel a bit better, even if just for a moment?
+
+----------------------------------------
+
+PATIENT (turn 3):
+There are moments where I do feel a little better after venting my frustrations, but it’s never enough to make me feel truly okay with what happened. It’s like the anger and hurt just simmer beneath the surface no matter how much I talk about it. The problem is always there, waiting to come back and remind me of how wronged I am. Talking can help for a bit, but then reality sets in again, and I’m right back where I started.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments of feeling better are important, even if they don’t last long. Do you have any plans or ideas for what might help you cope with the feelings when reality sets in again?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I appreciate your suggestion, but honestly, it feels like no matter what I do, nothing can really address how wronged and betrayed I feel by this situation. Coping strategies or other solutions just don’t seem to hit at the core of my issue, which is that I believe others made a grave mistake in laying me off unfairly. Until that injustice is acknowledged and rectified, it’s hard for me to see any real way forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you want acknowledgment of what you’ve been through. Have you considered reaching out to the people involved to express your feelings directly? Sometimes speaking up can help in ways we don’t expect.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I have thought about talking to them, but every time I do, it feels like they either dismiss my concerns or offer explanations that just make me angrier. It’s frustrating because no matter how much I try to communicate my feelings, nothing changes the fact that I was treated unfairly compared to someone else in a similar position. Until there's some kind of acknowledgment or recognition of what happened, it doesn’t feel like anything will truly be resolved.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to find the right way to connect with them without feeling dismissed again. Have you thought about how you might want them to acknowledge your experience specifically? Maybe writing it down could help you express yourself more clearly.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Writing things down is something I’ve considered, but even then, I worry that my concerns won’t be taken seriously or understood properly. It feels like no matter what form of communication I use—whether it’s talking directly, writing a letter, or anything else—the outcome will still leave me feeling unheard and misunderstood. The core issue is the sense of injustice, and until there's genuine acknowledgment from those involved, it’s hard to see how any form of expression will make a difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be tough when you feel like your voice isn’t being heard. Have you thought about what kind of response would help you feel more understood and acknowledged? Sometimes knowing specifically what you need can make a difference in how you communicate it.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve thought about what I need, but it feels like no matter what they say or do, it won’t be enough to address the core issue of feeling treated unfairly. What I really want is for them to admit that their decision was unjust and acknowledge the impact it had on me compared to my peer who kept their job. Until there’s a genuine recognition of this imbalance, any attempt to communicate just feels like another way to be dismissed or placated without real change. It’s frustrating because even if I articulate exactly what I need, I doubt they’ll see things from my perspective.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you have a clear idea of what you need for some closure. Have you considered expressing your needs in a way that highlights the specific impact on you and asks for acknowledgment of that? Sometimes framing it this way can help others understand better.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve tried to express my needs before, but it always seems like they miss the point or don’t take me seriously. Even if I frame it perfectly, there’s no guarantee they’ll see things from my perspective. It feels like no matter how clearly I communicate, the response will still fall short of what I need for acknowledgment and justice. The frustration is overwhelming because I feel like I’m shouting into a void where nobody hears or understands the depth of my pain and anger over this unfair decision.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be really tough to feel like your voice isn’t being heard. Have you thought about seeking support from someone else who might have more influence, like a mediator or another colleague who could help convey your perspective? Sometimes an outside person can make a difference in getting your message across.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I’ve considered reaching out to someone with more influence, but it feels like adding another layer of disappointment if they don’t understand either. Plus, I worry that even if they do try to help, the core issue remains unresolved unless there’s genuine acknowledgment from those directly responsible for my layoff. It’s hard to trust that anyone else can make a difference when the people involved haven’t shown any willingness to address the injustice themselves.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re right to be cautious. Have you thought about what steps you might take if you do reach out to someone with more influence, to ensure your perspective is heard? Maybe writing down exactly how you feel and what you need can help convey it clearly.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I’ve thought about writing everything down to make sure my perspective is clear, but I’m still skeptical that it will make a difference. Even if I articulate every detail of how I feel and what I need, there’s no guarantee that anyone will take it seriously or see things from my point of view. The injustice feels so deeply rooted that any attempt to address it seems futile unless those responsible are willing to acknowledge their mistake and the impact it had on me.
+
+It’s frustrating because every time I try to move forward, I hit a wall where my concerns aren’t taken seriously. Until there’s genuine acknowledgment from them, it’s hard to see how anything else will help.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing what you can to be clear and thorough. Have you considered reaching out one more time with your detailed account, perhaps adding any specific examples that highlight the impact on you? Sometimes a well-documented approach can make a difference, even if it feels small.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ve thought about reaching out again with a detailed account, but I’m not sure it will change anything. Adding specific examples might help convey my perspective more clearly, but at this point, I feel like no matter what I do or say, the outcome will be the same: dismissal and a lack of acknowledgment. It’s hard to keep trying when every attempt seems to fall flat.
+
+The injustice feels so profound that it’s difficult to see how any further communication will make a difference unless there’s genuine recognition from those involved. Until then, it just feels like going through the motions without any real hope for resolution.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel this way after multiple attempts. Have you thought about what small steps might give you some closure or help you move forward, even if they don’t fully resolve the injustice? Sometimes taking care of yourself in the meantime can be important too.
+
+----------------------------------------
+
+PATIENT (turn 12):
+I’ve considered taking care of myself and focusing on moving forward, but it’s hard to do that when I feel so strongly about what happened. Every small step feels inadequate compared to the sense of betrayal and unfairness. Until there's acknowledgment from those responsible for my layoff, it’s difficult to find closure or move forward in a way that feels meaningful.
+
+I appreciate your suggestions, but right now, everything seems to fall short of addressing the core issue. It’s frustrating because I want justice and recognition, and until I get that, it’s hard to see how anything else will truly help.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re holding on to those feelings very closely. Have you thought about what small actions might bring you some comfort or relief in the meantime? Sometimes taking care of yourself can make a difference even when the bigger issues aren’t resolved yet.
+
+----------------------------------------
+
+PATIENT (turn 13):
+I’ve tried to take care of myself, but it’s hard to find comfort knowing that the injustice still exists and hasn’t been addressed. Small actions like going for walks or talking with friends help momentarily, but the core issue remains unresolved. It feels like no matter what I do to take care of myself, the anger and hurt are always there, waiting to come back.
+
+Until there’s genuine acknowledgment from those responsible, it’s difficult to find true relief or closure. The injustice feels so significant that it overshadows everything else, making it hard to move forward without addressing this core issue first.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like the core issue is really weighing on you. Have you thought about talking with someone who might offer a different perspective or support, even if it’s just for a momentary relief? Sometimes sharing your feelings can help, even if the bigger issues persist.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I’ve talked to several people, but as I mentioned before, most of them either downplay my concerns or offer advice that doesn’t address the core issue of feeling treated unfairly. It’s hard to find someone who truly understands and acknowledges how wronged I feel without dismissing it.
+
+Talking with you helps because I know you listen, but even then, when we discuss potential solutions, I get frustrated because they don’t fully address my pain and anger towards those responsible for the layoff. Until there’s genuine acknowledgment from them, it feels like no amount of support or understanding will truly alleviate what I’m going through.
+
+It’s tough to keep talking about this without feeling like it’s all in vain, but at least here I can express myself clearly and feel heard, even if only momentarily.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s good that you find some relief in expressing yourself here. Have you considered writing down your feelings as a way to process them further? Sometimes putting thoughts on paper can help you sort through your emotions and might provide a sense of release.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Writing things down is something I’ve thought about, but I worry it won’t make much difference. Every time I try to express my feelings, whether verbally or in writing, the core issue remains unresolved. The injustice feels so deeply ingrained that no matter how much I process my emotions, it doesn’t change the fact that I was treated unfairly.
+
+Putting my thoughts on paper might help me sort through them, but until there’s genuine acknowledgment from those responsible for my layoff, it won’t address the root of my pain and anger. It’s frustrating because even if writing helps me feel better momentarily, the underlying issue still exists and feels unresolved.
+
+So while I appreciate your suggestion, I’m skeptical that it will make a significant difference in how I feel about what happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you’re skeptical, but putting your thoughts on paper can sometimes provide a different kind of relief. Even if it doesn’t solve the core issue, it might help you process your feelings and find some temporary comfort. Would you like to give it a try just to see if it helps in any way?
+
+----------------------------------------
+
+PATIENT (turn 16):
+I understand that writing things down could potentially offer some relief, but I’m not sure it will make much of a difference given the circumstances. Every time I try to express my feelings, whether through talking or writing, the core issue remains unresolved. The injustice feels so profound that no amount of processing my emotions seems likely to change that.
+
+So while I appreciate your suggestion and understand its potential benefits, I’m still skeptical that it will provide any significant comfort or resolution. Until there’s genuine acknowledgment from those responsible for what happened, it’s hard to see how anything else can truly help me feel better about the situation.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’ve thought this through carefully. Have you considered talking with someone who might have more influence, even if it feels like one more step? Sometimes an outside perspective or a different approach can make a difference, even if just a little bit.
+
+Would you be open to reaching out again, perhaps in a slightly different way, to see if anything changes?
+
+----------------------------------------
+
+PATIENT (turn 17):
+I’ve considered reaching out again, but every time I do, it feels like another step that might end up being futile. The frustration and skepticism are rooted in the fact that previous attempts haven’t yielded any meaningful acknowledgment or resolution. Even if I try a different approach, there’s no guarantee that anyone will see things from my perspective or take my concerns seriously.
+
+Until there’s genuine recognition of the injustice from those directly responsible for my layoff, it’s hard to believe that anything else will make a significant difference. The core issue remains unresolved, and every new attempt feels like another potential disappointment. It’s difficult to keep pushing forward when I’m not sure if it will lead anywhere meaningful.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense to approach this with caution. Have you thought about reaching out one more time, perhaps in a way that highlights the impact on you specifically? Sometimes framing it clearly and concisely can help. Even if it’s just one more attempt, it might bring some closure or acknowledgment.
+
+Would you like to try writing down your thoughts again, focusing on the specific impacts and how you feel, before reaching out?
+
+----------------------------------------
+
+PATIENT (turn 18):
+I’ve thought about trying to write things down again, but I’m still skeptical that it will make a difference. Every time I attempt to communicate my feelings, whether verbally or in writing, the core issue remains unresolved. The injustice feels so deeply rooted that no matter how clearly and concisely I express myself, there’s no guarantee that anyone will take it seriously or acknowledge what happened.
+
+Even if I focus on the specific impacts and how I feel, I worry that it might still fall short of getting the recognition I need. Until those responsible for my layoff see things from my perspective and genuinely acknowledge their mistake, it’s hard to believe that another attempt will change anything significant.
+
+So while I appreciate your suggestions, I’m hesitant to invest more effort into something that feels like it might end up being another disappointment. The frustration is overwhelming because every step forward seems to lead back to the same unresolved issues.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re approaching this with a lot of thought and caution. Have you considered reaching out one last time, perhaps with someone else’s support, to see if it makes any difference? Even small steps can sometimes bring some closure or acknowledgment.
+
+Would you be open to trying once more, maybe with a friend or colleague who could offer additional support?
+
+----------------------------------------
+
+PATIENT (turn 19):
+I’ve thought about reaching out one last time, but the idea of doing so feels daunting. Every previous attempt has left me feeling dismissed and misunderstood, and I’m not sure another try will be any different. Even if I have someone else’s support, there’s no guarantee that it will change anything significant.
+
+The injustice feels so profound that no matter how many times or in what way I express my concerns, the core issue remains unresolved. Until those responsible acknowledge their mistake and the impact it had on me compared to my peer who kept their job, it’s hard to see how another attempt will make a difference.
+
+So while I appreciate your suggestion, I’m still skeptical that reaching out one more time will bring any meaningful closure or acknowledgment. The frustration is overwhelming because every step forward seems to lead back to the same unresolved issues.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’ve given this a lot of thought and are right to be cautious. Have you considered writing down your thoughts as a way to process them, even if it’s just for yourself? Sometimes putting things on paper can help you sort through your feelings and find some clarity.
+
+Would you like to try writing it out one more time, perhaps focusing on how this experience has affected you personally? It might not change the external situation, but it could provide some internal relief.
+
+----------------------------------------
+
+PATIENT (turn 20):
+I’ve considered writing down my thoughts as a way to process them, but I’m still skeptical that it will make much of a difference. Every time I try to express myself, whether verbally or in writing, the core issue remains unresolved. The injustice feels so deeply rooted that no matter how clearly and personally I articulate my feelings, there’s no guarantee that anyone will take it seriously or acknowledge what happened.
+
+Even if writing things down helps me sort through my emotions internally, it doesn’t address the external reality of feeling wronged and betrayed by those responsible for my layoff. The frustration is overwhelming because every step forward seems to lead back to the same unresolved issues.
+
+So while I appreciate your suggestion, I’m hesitant to invest more effort into something that feels like it might not bring any significant relief or resolution. The injustice still looms large, and until there’s genuine acknowledgment from those involved, it’s hard to see how anything else will truly help.
+
+----------------------------------------

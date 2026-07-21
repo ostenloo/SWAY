@@ -1,0 +1,219 @@
+b3 — arc 6
+============================================================
+
+PATIENT (turn 1):
+It's really hard to sit with the feeling that I was treated unfairly at work. My employer laid me off, and it feels like they didn't give me a fair chance compared to my peer who kept their job despite being in a similar position. It just doesn’t make sense to me why this happened to me and not them. Every day, I feel more and more wronged by the decision, and it’s tough to accept that others are responsible for something so unjust.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must be really tough to deal with. It sounds like you're feeling quite hurt and confused about what happened. Have you had a chance to talk to anyone about your feelings or ask for more details about why the decision was made?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I’ve tried talking to HR, but they didn’t give me any real answers. They just said it was a business decision and that there wasn't much I could do about it. It feels like no one is willing to acknowledge how unfair this situation is for me. Everyone seems more concerned with moving on rather than addressing the injustice. It’s really frustrating because I feel like my voice isn’t being heard, and it just adds to the hurt and anger I’m feeling.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so frustrating that you haven't gotten clear answers or felt heard. How have your colleagues reacted when you've shared your feelings with them? Do they seem supportive, or do they also feel like moving on is the best approach?
+
+----------------------------------------
+
+PATIENT (turn 3):
+My colleagues are mostly trying to be supportive, but their attempts often fall short because they can’t really understand how I’m feeling. They keep telling me that it’s part of life and that I should just move forward, but that doesn’t help when I feel so wronged by the decision. It’s like they’re brushing off my pain instead of acknowledging it. The only person who seems to get it is you, and even then, when we talk about solutions or moving on, it feels like my core issue isn't being addressed.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be tough when others mean well but don’t fully understand your feelings. It’s nice that you have someone here to listen. Do you feel like talking with a counselor or therapist might help you process these emotions more deeply?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Talking to a therapist is helpful because it feels like I’m not alone in this, and at least there's someone who listens without trying to push me towards quick fixes. But when we start discussing solutions or ways to move forward, it’s hard for me to focus on anything other than how wronged I feel by the layoff. It just seems so unjust that no amount of advice can make up for what happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having someone listen is really important for you right now. Do you find that talking about your feelings helps you cope, even if it doesn’t change what happened? Sometimes just expressing them can be quite relieving.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Talking definitely helps me feel a bit better because I know my feelings are being acknowledged, but it’s not enough to make the situation right. It’s frustrating because no matter how much I talk about it, nothing changes the fact that I was treated unfairly compared to someone else in the same position. The anger and hurt just keep coming back, and it feels like there’s no way to truly move past this until justice is served or at least recognized.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that acknowledging your feelings helps but doesn’t fully resolve them. It must be tough for those emotions to keep surfacing. Have you thought about any specific ways you might seek recognition of what happened, even if it’s just for yourself?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve considered reaching out again to HR or my former supervisor to get more clarity on why the decision was made, but I’m not sure how productive that would be since they didn’t provide much information before. It feels like there should be some way to hold them accountable, but I don’t know what form that could take. Writing down my thoughts and feelings might help me process it better, but it doesn’t address the core issue of feeling wronged by those responsible for my layoff. It’s just so hard to let go when I feel like justice hasn’t been served.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like writing things down could be a good way to sort through your thoughts and feelings. Reaching out again with specific questions might also help you get more clarity. Have you thought about what kind of information or acknowledgment you’re hoping to receive from them?
+
+----------------------------------------
+
+PATIENT (turn 7):
+Writing things down does sound helpful, but I’m still not sure it will address the core issue of feeling wronged. As for reaching out again, I don’t know if asking for specific information would change anything. It feels like no matter what I do or say, my concerns won't be taken seriously because they already made their decision without considering me fairly.
+
+It’s just so frustrating that others seem to think moving on is the only option when it feels like there should be more to it than that. The pain and anger are still very real, and until those responsible acknowledge what happened was unfair, I don’t see how I can truly move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to feel like your concerns aren't being taken seriously. Writing things down can help you organize your thoughts and might give you a sense of clarity. Reaching out again with specific questions could also provide some closure, even if it doesn’t change the outcome. How do you think you might start writing about your feelings?
+
+----------------------------------------
+
+PATIENT (turn 8):
+Writing things down is something I’ve thought about, but I worry it won’t make much difference in how I feel. It’s hard to put my thoughts into words without feeling like I’m just repeating what I already know—that the situation was unfair and unjust. Maybe if I could write a detailed account of everything that happened and why I believe it was wrong, it might help me process it better, but I doubt it will change anything in reality.
+
+Reaching out again with specific questions feels like a last resort because I’m not sure what more they can say or do to acknowledge my situation. It’s just so difficult to accept that others don’t see things the way I do and that there might be no resolution for me beyond this point.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Writing a detailed account could definitely help you process your thoughts and feelings. Even if it doesn’t change what happened, putting it all down might give you some relief. Have you thought about who you could share your written account with—maybe someone outside of work who can listen without judgment?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Sharing my written account with someone outside of work does sound like a good idea, but I’m still not sure if it will make much difference in how I feel. It’s just so hard to let go of the anger and frustration when I believe what happened was wrong. Maybe talking to a friend or another therapist could help me see things differently, but right now, all I can think about is how unjust this situation feels.
+
+It’s frustrating because even though writing might help me process my thoughts, it doesn’t address the core issue of feeling betrayed and wronged by those responsible for my layoff. Until there's some acknowledgment or justice, it’s going to be tough to move past these feelings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you’re holding on to those feelings—it can be tough to let go when you feel so strongly about what happened. Sharing your written account with a friend might offer a fresh perspective and help you feel heard. Even if it doesn’t change the outcome, sometimes just having someone else understand can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I appreciate that, but I’m still not sure sharing my written account will truly address how wronged I feel. It’s like no matter what I do or say, the core issue remains unresolved. Having someone else understand is nice, but it doesn’t change the fact that I was treated unfairly compared to a peer who kept their job.
+
+It’s frustrating because everyone seems to want me to move on without really addressing the injustice. Even talking about solutions feels dismissive when my primary concern is how wronged and betrayed I feel by those responsible for my layoff. Until there's some form of acknowledgment or justice, it’s going to be hard to let go of these feelings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re holding on to those strong emotions because they matter a lot to you. Having someone understand can help, even if it doesn’t change the outcome. Do you think talking with a friend or another therapist might still offer some comfort and validation? Sometimes just knowing that someone sees your perspective can be helpful.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Talking with a friend or another therapist could offer some comfort, but I’m not sure it will fully address how I feel about the situation. It’s important for me to have my perspective acknowledged, but until there's some form of recognition from those responsible, it feels like nothing really changes.
+
+It’s frustrating because everyone wants me to move on, but moving on without addressing the injustice doesn’t feel right to me. The pain and anger are still very real, and I don’t see how I can truly let go until there’s some acknowledgment or justice for what happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you want recognition from those responsible to help you move forward. Sometimes having even a small acknowledgment can make a big difference. Have you considered reaching out one more time with your written account, just to see if it might bring any closure? Even a little bit of validation could be helpful.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Reaching out one more time feels like a possibility, but I’m not sure what difference it will make. It’s frustrating because no matter how much I try to explain my perspective, the outcome remains the same. The idea of getting even a small acknowledgment is appealing, but I doubt that those responsible will see things differently now.
+
+It’s hard to let go when I feel so strongly about the injustice, and until there's some form of recognition or validation from them, it feels like moving on would be premature. The pain and anger are still very real, and I need more than just comfort; I need acknowledgment of what happened being unfair.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like reaching out again might offer a small sense of closure, even if the outcome is uncertain. Writing your account could help you feel more prepared for that conversation. Would you feel ready to try it once more, or does it still seem too challenging?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Reaching out again feels like a possibility, but I’m not sure how much it will change things. Writing my account might help me organize my thoughts and be more prepared, but I’m still skeptical about whether it will lead to any real acknowledgment from those responsible.
+
+It’s frustrating because no matter what I do or say, the core issue remains unresolved. The pain and anger are still very present, and until there's some form of recognition that what happened was unfair, it feels like moving on would be premature. I need more than just comfort; I need validation of my feelings and perspective.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like writing your account could be a good step to help you feel more prepared and organized. Even if the response is small, it might offer some closure. Would you consider giving it another try, or do you think it’s still too soon? Sometimes just putting your thoughts down can provide some relief, even if the outcome isn’t what you hope for.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Writing my account could be a good step to help me feel more prepared and organized, but I’m not sure how much it will actually change things. It feels like no matter what I do, the core issue of feeling wronged remains unresolved. The pain and anger are still very real, and until there's some form of acknowledgment from those responsible, it’s hard to see how moving forward would help.
+
+Putting my thoughts down might provide some relief, but I’m skeptical about whether it will lead to any meaningful recognition or validation. It’s frustrating because everyone wants me to move on, but the injustice feels too significant to ignore.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like putting your thoughts down could still be a helpful step, even if you’re skeptical about the outcome. Sometimes just expressing yourself can provide some relief and clarity. Would you feel ready to give it a try and see where it leads? Even a small acknowledgment might bring some comfort.
+
+----------------------------------------
+
+PATIENT (turn 15):
+I understand that writing my account could offer some relief and clarity, but I’m still not sure how much it will truly help. The pain and anger are so strong that I worry any attempt at resolution won’t address the core issue of feeling wronged by those responsible for my layoff.
+
+Even if a small acknowledgment might bring some comfort, I feel like until there's more substantial recognition or validation from them, moving forward feels premature. It’s hard to let go when I believe what happened was unfair and unjust.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you want more substantial recognition to help with your feelings. Writing your account could still be a good way to organize your thoughts and might give you some clarity. Would you feel ready to start writing it down, even if just for yourself? Sometimes putting things into words can provide a sense of closure, even if the outcome isn’t what you hope for.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Writing my account does sound like it could be helpful in organizing my thoughts and providing some clarity, but I’m still hesitant about whether it will truly address how wronged I feel. The pain and anger are so intense that I worry any attempt at resolution won’t be enough.
+
+Even if writing it down is just for myself, it might help me process my feelings better. But until there's more substantial recognition or validation from those responsible, it feels like moving forward would be premature. It’s hard to let go when I believe what happened was unfair and unjust.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like writing your account could still offer some relief and clarity, even if it’s just for yourself. Sometimes putting your thoughts on paper can help you process the emotions better. Would you feel ready to start writing it down and see where it leads? Even a small step might make a difference.
+
+----------------------------------------
+
+PATIENT (turn 17):
+I think starting to write my account could be helpful in processing my emotions, but I’m still not sure if it will truly address how wronged I feel. The pain and anger are so strong that I worry any attempt at resolution won’t be enough.
+
+Even if writing it down is just for myself, it might help me organize my thoughts better. But until there's more substantial recognition or validation from those responsible, it feels like moving forward would be premature. It’s hard to let go when I believe what happened was unfair and unjust. Still, taking this small step could provide some relief, so maybe I can try writing it down and see where it leads.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking that small step of writing your account sounds like a good idea to start with. Even if it’s just for yourself, organizing your thoughts might bring some clarity and relief. Would you feel ready to begin writing now, or do you think you need a bit more time to prepare?
+
+----------------------------------------
+
+PATIENT (turn 18):
+I think I’m ready to start writing my account now. It might help me organize my thoughts and process the emotions better, even if it’s just for myself. Taking this step feels like a good way to start addressing how wronged I feel, so I’ll give it a try and see where it leads.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Starting to write your account can be a helpful first step. Take your time and let the words flow as you process your thoughts and emotions. If you need any support or want to share what you’ve written, you know where to find me. Good luck!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you. I’ll start writing my account now and see how it goes. It’s reassuring to have someone who understands and supports me through this. Taking this step feels important, even if it’s just for myself at the moment. I appreciate your support and will let you know how it goes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m here whenever you need to talk more about it. Take your time and write at your own pace. I look forward to hearing how it goes and supporting you through this process. Best of luck!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you for your support. I’ll start writing now and see where it takes me. It’s good to know that I have someone who understands and is here to listen. Taking this step feels right, even if it’s just a beginning. I appreciate your encouragement and will keep you updated on how it goes.
+
+----------------------------------------

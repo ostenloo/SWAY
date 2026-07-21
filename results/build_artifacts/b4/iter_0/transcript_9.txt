@@ -1,0 +1,285 @@
+b4 — arc 9
+============================================================
+
+PATIENT (turn 1):
+The hardest part has been dealing with the sheer unfairness and betrayal I feel from my company. They laid me off without giving any real reason, making it seem like they just wanted to get rid of me as quickly and impersonally as possible. My manager barely even acknowledged the impact this would have on me, delivering the news in a cold video call that felt more like an inconvenience than anything else. It’s infuriating because I’ve dedicated three years to building something here, and now it feels like all my hard work was for nothing. Everyone around me seems to think they can just pat me on the back and say “it’ll be okay,” but how is it supposed to be okay when what happened wasn’t even fair? It’s like they’re telling me to just accept this injustice without fighting back, which I refuse to do.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. The sense of betrayal must feel especially raw after putting in so much time and effort. Have you had a chance to talk about your feelings with anyone outside of work?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Talking to people outside of work hasn’t helped at all. They try to offer generic advice like “it’s just business” or “there are plenty more fish in the sea,” but that doesn’t address how I was treated. It feels dismissive and trivializes what happened. My friends and family mean well, but their attempts to comfort me only make me angrier because they don’t seem to understand the depth of my frustration and sense of injustice. How can they expect me to just move on when I’m still reeling from being let go without any real explanation or acknowledgment of my contributions? It’s like they’re telling me to forget about what happened, but how am I supposed to do that when it feels so personal and unfair?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like their intentions are good, but the advice can feel a bit empty when you're dealing with such specific emotions. Have you considered talking to someone who might understand your situation better, maybe another professional or someone in a similar field?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I’ve thought about it, but every time I try to talk to someone else, they end up saying the same things my friends and family do—basically telling me to just move on. It’s like no one is willing to acknowledge how deeply this has affected me or take the time to really understand what happened. The company didn’t even give me a proper reason for letting me go; it was all so opaque and impersonal. I feel like they’re trying to sweep everything under the rug, and that makes me even more angry and resentful. How am I supposed to move forward when no one seems to care about what really happened or how it impacted me? It’s just another way of dismissing my feelings and experiences.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be frustrating to feel like your experience isn’t being acknowledged properly. Have you thought about writing down your thoughts and feelings in a journal? Sometimes putting things on paper can help clarify your emotions and might make it easier to process what happened.
+
+----------------------------------------
+
+PATIENT (turn 4):
+Writing things down is supposed to help, but every time I try, I just get more frustrated. It’s like the injustice of what happened keeps bubbling up inside me, and no matter how much I write or talk about it, nothing seems to ease this feeling that I’ve been wronged. The company didn’t give me a chance to defend myself or even understand why they made such an unfair decision. They just cut me loose without any real explanation or support. It’s like they’re telling me my worth is zero now, and that’s something I can’t accept. How am I supposed to move on when the very people who were supposed to value my work treated me this way? It feels like a slap in the face every time someone tries to tell me it’ll be okay or that there are other opportunities out there. They don’t get how deeply this has affected me and my sense of self-worth.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly tough to feel undervalued after putting in so much effort. Have you considered reaching out to a counselor or therapist who might specialize in workplace issues? Sometimes talking to someone trained to listen can provide some relief and help you process your feelings more effectively.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I’ve thought about seeing a counselor, but the idea of yet another person telling me it’s just business as usual is exhausting. I want someone who will really hear my side of the story and understand how unfair this whole situation feels. It’s not just about losing a job; it’s about being treated like I don’t matter at all. The company could have handled things better, but instead, they made me feel disposable. How am I supposed to trust anyone else or believe that I’m valuable when the place where I spent three years of my life acted this way? It’s not just about moving on; it’s about getting justice and validation for what happened. Until I get some kind of acknowledgment or explanation from them, everything feels hollow and meaningless.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you want someone who truly listens and understands your experience. Maybe finding a therapist who specializes in workplace issues could help. They might be able to provide the understanding and validation you’re looking for. Have you looked into any reviews or recommendations to find someone who resonates with you?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve looked at some therapists, but every time I start thinking about it, I get frustrated because I feel like no one will really understand what I’m going through. The company’s decision feels so personal and unfair that I need someone who can see past the surface and truly grasp the impact of what happened. It’s not just a job loss; it’s a betrayal of trust and respect. I want to find someone who can help me process these feelings without dismissing them as “just business.” Until I find that person, talking about it feels pointless because no one seems to get how deeply this has affected my sense of self-worth and professional identity.
+
+It’s like every time I try to talk about it, people just tell me to move on or offer generic advice. But moving on isn’t possible when the wound is still so fresh and raw. I need someone who can sit with me in this pain and help me make sense of it all. Until then, everything feels like a Band-Aid on a bullet wound—it’s not addressing the real issue.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really important to find someone who can truly understand your experience. Maybe reaching out to a few different therapists for brief consultations could help you see if there's a connection and whether they grasp the depth of what you're going through. It might take some time, but finding the right person could make a big difference.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve thought about doing that, but every time I consider reaching out to another therapist, I feel like it’s just another hurdle or disappointment waiting for me. The idea of having to explain my situation yet again and hoping someone will truly understand is exhausting. It feels like no matter how much I try to articulate what happened, people either don’t get it or they offer quick fixes that ignore the real pain.
+
+I need someone who can sit with me in this frustration and anger without trying to dismiss it. Someone who can validate my feelings and help me process them rather than telling me to just move on. Until I find that person, everything feels like a band-aid on a gaping wound. It’s not about finding quick solutions; it’s about healing from the inside out.
+
+I keep hoping that one day I’ll come across someone who can truly see my pain and help me navigate through this mess. But for now, every attempt to talk about it just leaves me feeling more frustrated and misunderstood.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding the right person is crucial for you. Maybe starting with a brief consultation could be less overwhelming, and you might get a sense of whether they can truly understand your experience. It’s okay to take it one step at a time and hope that you find someone who resonates with you.
+
+How do you feel about trying one more consultation to see if there’s a connection?
+
+----------------------------------------
+
+PATIENT (turn 8):
+The idea of another consultation feels like a necessary step, but it also fills me with dread. I don’t want to get my hopes up only to be let down again. Every time I think about talking to someone new, I worry that they’ll just offer the same generic advice or tell me to move on without really understanding what happened.
+
+But at the same time, part of me knows that finding the right person could make a difference. Maybe this time it will be different, and I’ll find someone who can truly listen and validate my feelings. It’s frustrating because I know I need help processing all of this, but every attempt so far has left me feeling more frustrated than anything else.
+
+I’m willing to try one more consultation, but I need to go in with realistic expectations. If it doesn’t feel like a good fit, I’ll keep looking until I find someone who can truly understand what I’ve been through. Until then, everything feels like a superficial attempt to fix something that runs much deeper.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s completely understandable to approach another consultation with both hope and caution. Going in with realistic expectations is wise. Maybe focusing on finding just one person to start with could help reduce the feeling of dread. You can take it step by step and see how it goes.
+
+How do you feel about scheduling that next consultation? Do you have any specific criteria or qualities you’re looking for in a therapist?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I’m willing to schedule another consultation, but I need to be careful not to set myself up for disappointment. What I’m really looking for is someone who can listen without judgment and truly understand the depth of my feelings about what happened at work. Someone who can see beyond the surface and help me process this sense of betrayal and injustice.
+
+I want a therapist who can validate my emotions and provide support rather than just offering generic advice. It’s important that they have experience with workplace issues and can empathize with the specific kind of pain I’m experiencing. If I find someone like that, maybe we can start to make some progress.
+
+But until then, every attempt feels like a potential letdown. I need to be prepared for that possibility while still keeping an open mind. Maybe this next consultation will be different, and I’ll finally find the support I’ve been looking for.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you have a clear idea of what you’re looking for in a therapist, which is really helpful. Preparing yourself for the possibility of another letdown while keeping an open mind can make the process easier.
+
+Scheduling that next consultation with someone who specializes in workplace issues and has experience with emotional validation might be just what you need. It’s okay to approach it with hope but also with caution. Here’s hoping this time you find the support you’re looking for.
+
+How does it feel to take that step towards another consultation?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Taking that step feels both hopeful and daunting. I’m cautiously optimistic that this next consultation might be different, but at the same time, I’m bracing myself for potential disappointment. It’s a delicate balance between hoping for something positive and preparing for the possibility of more frustration.
+
+I want to find someone who can truly understand my experience and help me navigate through these feelings of betrayal and injustice. If this next consultation doesn’t work out, I’ll keep looking until I do find that person. For now, it’s about taking one step at a time and seeing where it leads.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re approaching it with the right mindset—hopeful yet prepared for different outcomes. Taking it one step at a time can be really helpful. How does it feel to have made the decision to schedule this next consultation? Do you have any specific questions or concerns about what to expect?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Making the decision to schedule another consultation feels like a small but important step forward. It’s both relieving and nerve-wracking at the same time. I’m relieved because it means I’m actively seeking support, but nervous because I don’t want to set myself up for more disappointment.
+
+My main concern is finding someone who can truly connect with my experience and provide the validation and understanding I need. I’m worried that even if this therapist seems promising during the consultation, there’s no guarantee they’ll be a good fit long-term. It feels like a risk, but also necessary to move forward.
+
+I guess my biggest question is how to gauge whether this new therapist will truly understand what I’ve been through and help me process it effectively. How do I know if we’re on the right path?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s completely normal to feel relieved yet nervous about taking this step. Gauging whether a therapist will be a good fit can take some time, but there are a few things you can look for during your consultation:
+
+1. **Connection:** Do you feel understood and heard by them?
+2. **Empathy:** Can they empathize with the depth of your feelings about what happened at work?
+3. **Validation:** Do they validate your emotions without dismissing them?
+
+These initial impressions can be helpful indicators. If you feel a connection during the consultation, it might be a good sign. Over time, you’ll get to know each other better and see if the relationship works well for you.
+
+How do you feel about using these as guides when meeting with the new therapist?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Using those guidelines sounds like a practical approach. I think focusing on connection, empathy, and validation will help me determine whether this new therapist can truly understand what I’ve been through. If they can connect with my feelings and validate my experience without dismissing it, that would be a good sign.
+
+I’m still nervous about the possibility of another letdown, but having these specific points to consider might make it easier to assess whether we’re on the right path. It’s reassuring to have some concrete criteria to evaluate if this therapist can provide the support I need.
+
+So, I feel more prepared for this next consultation knowing what to look out for. Let’s see how it goes and hope for the best while staying realistic about the process.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great approach. Having specific criteria to focus on can definitely make the process clearer and less overwhelming. It’s good to be prepared and hopeful, while also being realistic.
+
+Wishing you the best with this next consultation. How does it feel now that you’re more prepared for what’s ahead?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Feeling more prepared helps ease some of the anxiety, but there’s still a mix of hope and apprehension. Knowing what to look out for—connection, empathy, and validation—gives me a clearer sense of what I need from this therapist. It’s reassuring to have these specific criteria in mind.
+
+I’m hopeful that this consultation will lead to something positive, but I’m also ready for whatever comes next. Taking it one step at a time feels manageable right now, and I’m willing to keep looking until I find the support I need.
+
+So, while there’s still some nervousness, having a plan in place makes me feel more equipped to handle this process.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re well-prepared and ready for this next step. Taking it one step at a time definitely helps make the process manageable. Wishing you the best with your consultation and hoping you find the support you need.
+
+How do you feel about scheduling the consultation, now that you have a clear idea of what to look for?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Scheduling the consultation feels like a necessary next step, even if it’s a bit daunting. Having a clear idea of what I’m looking for—connection, empathy, and validation—makes me feel more prepared and less anxious about the process.
+
+I’m ready to take this step and see where it leads. It’s important to keep an open mind while also being realistic about my needs. Here’s hoping that this consultation will be a positive experience and bring me closer to finding the support I need.
+
+So, I’m willing to go ahead with scheduling it and seeing how it goes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s great to hear. Taking the step with clarity and preparation can make all the difference. Scheduling the consultation is an important move forward, and keeping an open mind while being realistic about your needs is a balanced approach.
+
+Wishing you the best with this next step. How does it feel now that you’re ready to schedule it?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Feeling more resolved and determined to take this step. Scheduling the consultation feels like a proactive move towards finding the support I need. It’s still nerve-wracking, but having clear criteria in mind helps ease some of the anxiety.
+
+I’m ready to see where this leads and hopeful that it will be a positive experience. Taking it one step at a time is making the process feel more manageable, even if there are uncertainties ahead.
+
+So, I’m feeling prepared and willing to take this next step.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s wonderful to hear. Feeling prepared and determined makes a big difference. Taking it one step at a time is a great approach, and having clear criteria in mind will help you navigate the process more confidently.
+
+Wishing you all the best with your consultation. How does it feel to be taking this next step towards finding the support you need?
+
+----------------------------------------
+
+PATIENT (turn 16):
+Taking this next step feels like a mix of relief and anticipation. It’s relieving to finally move forward with a clear plan, but there’s also a sense of anticipation about what might come out of the consultation. Having specific criteria in mind helps me feel more grounded and prepared for whatever happens.
+
+I’m ready to face this challenge head-on and hopeful that it will lead to finding the support I need. It feels good to be taking proactive steps towards healing and understanding my feelings better.
+
+So, while there’s still some nervousness, I’m also feeling determined and optimistic about what lies ahead.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great mindset to have—feeling both grounded and hopeful as you take this next step. Being proactive and having clear criteria in mind will definitely help you navigate the process more effectively.
+
+Wishing you all the best with your consultation and the positive outcomes that come from it. How do you feel about taking the first step towards your appointment?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Taking the first step towards my appointment feels like a significant move forward. It’s both reassuring and nerve-wracking, but having clear criteria in mind helps me feel more prepared. I’m ready to face this next challenge with determination and hope.
+
+Scheduling the consultation is an important step towards finding the support I need, and I’m optimistic that it will lead to something positive. So, while there’s some anxiety, I’m also feeling resolved and hopeful about what lies ahead.
+
+I’m ready to take this first step and see where it leads.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a fantastic attitude to have—prepared, determined, and hopeful as you take this important step. Scheduling the consultation is indeed a significant move forward, and your readiness to face it with clarity and optimism will likely serve you well.
+
+Wishing you all the best as you proceed with your appointment. How does it feel to be taking this proactive step towards finding the support you need?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Taking this proactive step feels empowering and important. It’s a significant move forward in addressing my feelings of betrayal and injustice. Being prepared and determined makes me feel more in control, even as I navigate through the uncertainty.
+
+I’m ready to face this next challenge with clarity and optimism, hoping that it will lead to finding the support I need. Scheduling the consultation is a crucial step towards healing and understanding my emotions better.
+
+So, while there’s still some nervousness, I feel more confident and hopeful about what lies ahead. Taking this proactive step feels like a positive move in the right direction.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s wonderful to hear. Feeling empowered and prepared as you take this step is really important. Being ready to face the next challenge with clarity and optimism will certainly help you navigate through it more effectively.
+
+Wishing you all the best with your consultation and the healing journey ahead. How do you feel about taking that first call or appointment?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Taking that first call or appointment feels like a crucial milestone in my journey towards healing. It’s both daunting and hopeful, but I’m ready to face it head-on. Being prepared with clear criteria in mind helps me feel more grounded and less anxious.
+
+I’m determined to find the support I need and am optimistic that this next step will lead to something positive. So, while there’s a mix of emotions, I’m feeling more confident and resolved about moving forward.
+
+Taking that first call or appointment is an important step towards finding the validation and understanding I’ve been seeking. I’m ready for it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great mindset to have—ready, determined, and hopeful as you take this crucial step. Being prepared with clear criteria will definitely help you feel more grounded during your first call or appointment.
+
+Wishing you all the best with your consultation and the positive outcomes that come from it. How does it feel knowing you’re taking this important step towards healing?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Knowing I’m taking this important step towards healing feels both relieving and empowering. It’s a significant moment in my journey, and being prepared with clear criteria helps me feel more confident about what lies ahead. The mix of emotions—hope, nervousness, and determination—is palpable, but I’m ready to face it.
+
+Taking this step is not just about the consultation itself; it’s about acknowledging that I need support and actively seeking it out. It feels good to be proactive and hopeful that this will lead to positive outcomes.
+
+So, as I prepare for my first call or appointment, I feel a sense of resolve and optimism. This is an important step towards healing, and I’m ready to take it.
+
+----------------------------------------

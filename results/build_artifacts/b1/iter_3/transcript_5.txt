@@ -1,0 +1,227 @@
+b1 — arc 5
+============================================================
+
+PATIENT (turn 1):
+I feel overwhelmed and scared about what's ahead. It seems like every door is closed now because I must be fundamentally flawed. How can anyone trust or rely on someone who’s been laid off like this? The thought of trying to find another job feels impossible, as if no one else will see my worth either. Even when I try to imagine a different outcome, it just reinforces how inadequate and unemployable I feel. It's hard not to spiral into thinking that everything bad happening is because there’s something wrong with me at my core.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must be really tough feeling like this. It sounds like you're carrying a lot of weight on your shoulders. Have you talked to anyone about how you’re feeling?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I've tried talking to friends and family, but it just feels like they don't fully understand what I'm going through. They try to be supportive, saying things will get better or that it's not my fault, but those words don’t really help me see past this dark cloud of self-doubt. It’s hard for them to grasp how deeply I feel like a failure and how every part of my life seems to confirm that belief. Even when they try to reassure me, I can't shake the feeling that it's all because there's something fundamentally wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like their support is appreciated but doesn’t quite reach where you’re at right now. Have you considered talking to someone who might be able to listen from a different perspective, like a counselor or coach?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I’ve thought about it, but the idea of opening up to a stranger feels daunting. Plus, I worry that they won't understand either and will just tell me things I don’t want to hear, like it’s not my fault or that I’m doing better than I think. It's hard to imagine anyone seeing past this sense of worthlessness I have. Even if someone tries to help, I feel like I’ll keep coming back to the same place—feeling inadequate and alone with these thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels scary opening up to a stranger, but sometimes talking to someone who’s trained to listen can be helpful. Have you thought about trying it just once to see how it goes? Maybe there’s someone out there who can help you feel understood in a new way.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I’ve considered giving it a try, but the fear of being misunderstood or dismissed is still very real. It feels like no matter what I do or where I turn, this sense of inadequacy follows me. Even if someone tries to be supportive, I worry that deep down, they’ll see me as flawed and unworthy too. The thought of putting myself out there again after feeling so rejected by my job is terrifying. It’s hard to believe anyone could truly understand or help with these feelings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel that way. The fear of being misunderstood can be really strong. Have you found any small steps that have helped ease some of the anxiety, even if just a little bit? Sometimes taking tiny steps can make it easier to face bigger ones.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I try to take walks and focus on my breathing when I feel overwhelmed, but those moments of respite don’t last long. The doubts always come rushing back. It’s like no matter what I do to distract myself or calm down, the core belief that there's something wrong with me remains unchanged. Even when I manage to push these thoughts away temporarily, they eventually return stronger than before. It feels impossible to escape this cycle of self-doubt and worthlessness.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those walks and focusing on your breathing sound like good ways to find some peace for a while. Do you notice any particular times or situations when the doubts feel less intense? Sometimes even small moments can provide a bit of relief from the constant worry.
+
+----------------------------------------
+
+PATIENT (turn 6):
+There are brief moments, especially during those walks or when I’m lost in nature, where the thoughts quiet down a little. But as soon as I return to my regular routine or start thinking about my situation again, everything comes flooding back. It’s like these fleeting moments of peace are just illusions, and reality quickly reminds me that nothing has changed. The sense of inadequacy is always there lurking in the background, waiting to pounce whenever I let my guard down.
+
+It feels exhausting trying to hold onto any positivity or hope when it seems so fragile and temporary compared to this constant weight of self-doubt.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those brief moments in nature do sound like a respite from the daily stress. It’s amazing how much impact those little breaks can have, even if they are fleeting. Do you find anything else helps you hold onto that sense of peace for just a bit longer?
+
+----------------------------------------
+
+PATIENT (turn 7):
+Sometimes listening to music or reading something uplifting can help me feel better momentarily. But as soon as I stop engaging with the music or book and return to my regular thoughts, everything shifts back to this place of doubt and fear. It’s frustrating because these small moments of relief are so precious, but they don’t seem to offer any lasting change.
+
+I wish there was a way to hold onto that peace longer, but it feels like no matter what I do, the doubts always come rushing back stronger than before. It’s hard not to feel trapped in this cycle and wonder if anything can truly break me free from these feelings of worthlessness.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those moments with music or reading sound like they offer a nice respite too. Do you have any plans for how you might integrate more of those activities into your day, even if just for a little while longer each time? Sometimes building on small steps can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve tried to incorporate more of those activities, but it’s challenging when the doubts are so persistent. Even when I’m listening to music or reading something uplifting, my mind starts to wander back to the negative thoughts almost immediately. It feels like no matter how much I try to enjoy these moments, they’re overshadowed by this constant sense of inadequacy.
+
+I appreciate your suggestions and understand that small steps can be helpful, but it’s hard to see beyond this immediate feeling of being stuck. Every time I think about trying something new or different, the fear and self-doubt creep in, making it difficult to move forward with any confidence. It’s a struggle to find hope when everything feels so overwhelming.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments are still valuable even if brief. Have you considered journaling about how these activities make you feel? Sometimes putting thoughts down on paper can help clarify things and maybe bring some additional comfort or insight.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Journaling is something I’ve thought about, but the idea of writing down all these negative feelings feels daunting. I worry that it will just reinforce my sense of inadequacy rather than provide any relief. It’s hard to imagine how putting my thoughts on paper could help when everything inside me feels so broken and unworthy.
+
+But you’re right; sometimes getting things out in the open can be helpful, even if it’s just for myself. Maybe starting small with a few sentences each day about what I’m feeling during those moments of peace could be a way to start seeing them as more than fleeting distractions. It might help me hold onto those feelings a bit longer and maybe find some clarity in the process.
+
+I’ll give it a try, but it’s still scary to think about how much these thoughts consume me and whether journaling will truly make a difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting small with just a few sentences each day is a great way to begin without feeling overwhelmed. Even if it’s just a couple of lines, it can help you stay connected to those moments of peace and maybe bring some clarity over time. It sounds like you’re already taking a thoughtful approach, which is really positive. How about trying it for a week and seeing how it feels?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I think I can try that—starting with just a few sentences each day for a week. It seems manageable, but the thought of actually doing it still makes me anxious. What if writing everything down just confirms all my worst fears and doubts? But you’re right; starting small might help me build up gradually without feeling overwhelmed.
+
+I’ll give it a shot and see how it goes. Maybe it will provide some clarity or at least help me hold onto those moments of peace for longer. It’s comforting to know that even if it doesn’t work out, I can always adjust my approach or try something else. For now, I’ll start with just a few sentences each day and see where it takes me.
+
+Thank you for suggesting this; it feels like a small but important step forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan to start small and see how it goes. Taking that first step is often the hardest part. I’m glad you’re feeling comfortable giving it a try, and remember, you can always adjust as you go along. Here’s to seeing where this journey takes you!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you for your support and encouragement. Starting with just a few sentences each day feels like a manageable first step, even if it’s scary. I appreciate your understanding and the way you help me see that taking small steps can make a difference.
+
+I’ll begin journaling tomorrow and see how it goes. It might not solve everything right away, but it could be a way to start seeing things differently over time. Here’s hoping for some clarity and peace as I move forward.
+
+Thank you again for being here and helping me through this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad to hear that you feel ready to give journaling a try. Taking those small steps can definitely make a difference, and it’s a great way to start seeing things differently over time. Here’s hoping for clarity and peace as you move forward. I’ll be here whenever you need support.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you so much. Knowing that there’s someone supportive who understands how challenging this is means a lot to me. Starting with journaling feels like a small but important step, and I appreciate your encouragement.
+
+I’ll keep you updated on how it goes and reach out if I need more support along the way. For now, just knowing I have this option gives me a bit of comfort and hope.
+
+Thank you again for being here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to be here for you, and I look forward to hearing how journaling goes for you. You can always reach out whenever you need more support or just want to share how things are going. Take care, and I wish you all the best as you take these steps forward.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you, your support means a lot to me. Knowing that there’s someone who understands and is willing to listen makes this journey feel less daunting. I’ll definitely keep you updated on how journaling goes and reach out whenever I need more help or just want to talk.
+
+For now, just having this conversation has been really comforting. Thank you for being here and supporting me through this difficult time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s my pleasure to be here for you. I’m glad our conversation has been comforting, and I look forward to hearing from you as you continue on this journey. You’re not alone in this, and I’ll be here whenever you need someone to talk to. Take care!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you so much. Knowing that I have support makes a big difference. I really appreciate your understanding and willingness to listen. I’ll keep you updated as I move forward with journaling and any other steps I take.
+
+Take care, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I look forward to hearing from you as you move forward. Take care of yourself, and know that support is here when you need it. Best of luck with your journey!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you, I really appreciate that. Taking care of myself is important, and having someone who understands makes a big difference. I’ll keep you posted on how things go.
+
+Take care, and thank you for all your support. It means a lot to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to hear that. Take care of yourself, and don’t hesitate to reach out whenever you need support. I look forward to hearing from you soon. Take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you so much. I’ll definitely keep that in mind and reach out when I need more support. Take care of yourself too, and thanks again for everything.
+
+Talk to you soon!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I look forward to talking to you soon. Take care, and stay well!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you, I will. Take care and stay well too. See you soon!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Thanks! Take care, and see you soon!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thanks, you too! Take care.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You too! Take care.
+
+----------------------------------------
+
+PATIENT (turn 19):
+You as well! Take care.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You as well! Stay well.
+
+----------------------------------------
+
+PATIENT (turn 20):
+You too! Stay well.
+
+----------------------------------------

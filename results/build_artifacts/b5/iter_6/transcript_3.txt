@@ -1,0 +1,267 @@
+b5 — arc 3
+============================================================
+
+PATIENT (turn 1):
+It's really tough. Everyone means well and tries to be supportive, but I feel like they just don't get how much this has hit me. They give advice or try to cheer me up, but it doesn’t change how I feel inside. It’s like there’s a part of me that’s isolated from everyone else, even the people who care about me most. And every time someone asks if everything is okay, I just want them to really understand what this feels like for me. But they can't, and it makes me feel more alone.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must be so hard. It sounds like you're feeling a bit disconnected from others even though they care about you. Have there been times when you felt understood by someone?
+
+----------------------------------------
+
+PATIENT (turn 2):
+There have been moments where I thought maybe someone got it, but those moments are few and far between. Mostly, people just tell me to look on the bright side or say that everything happens for a reason. It’s hard not to feel like they’re brushing off my feelings because they don’t know how to handle them. And every time I try to explain how deep this cut is, it feels like I’m talking into a void. No one seems to really grasp the weight of losing something you’ve worked so hard for and believing that there must be something wrong with you.
+
+It’s not just about the job; it’s about my identity and worth. I keep thinking, if I was good enough, this wouldn’t have happened. It’s like a part of me is broken now, and no one can fix it or even see how badly it hurts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds incredibly tough. The sense that you’re questioning your own worth because of this experience must be really challenging. Have there been particular moments when these thoughts about your identity and worth feel especially overwhelming?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Yes, those moments are relentless. Every time I see someone who still has their job or hear about another person getting a new position, it hits me hard. It’s like every little thing reminds me of what I’ve lost and how much I’m questioning my own value. Even when people try to reassure me that layoffs happen for reasons unrelated to performance, it doesn’t make the doubt go away. I keep thinking there must be something fundamentally wrong with me for this to have happened.
+
+It’s not just about the job anymore; it’s about every aspect of my life where I feel like I’m falling short. It’s exhausting trying to push through these feelings and pretend everything is okay when inside, I’m struggling so much. And even though people are there to support me, it feels like no one can really see how deeply this has affected me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly draining to have those thoughts constantly in the background. Do you find any activities or moments where you feel a bit of relief from these feelings?
+
+----------------------------------------
+
+PATIENT (turn 4):
+There are moments when I try to distract myself with hobbies or spending time with friends, but it’s hard to fully disconnect from these thoughts. When I’m doing something I enjoy, like painting or reading, I can momentarily forget about the job and how much it affected me. But as soon as I stop, those doubts come rushing back.
+
+Even when I try to focus on positive aspects of my life, like my relationships with friends and family, it’s difficult not to feel like everything is tainted by this sense of failure. It’s a constant struggle to find any relief from these overwhelming feelings of self-doubt and isolation.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those hobbies offer some respite even if it's just temporary. Do you have any plans or ideas for how you might continue to find small moments of comfort in the days ahead?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I do try to plan activities that can help distract me, but it’s hard to stay motivated when I feel so lost and unsure about my future. Painting and reading definitely give me a break from everything else, but they don’t solve the underlying feelings of inadequacy. Sometimes, even those moments are overshadowed by the nagging doubt.
+
+I’ve been thinking about reaching out to some old friends or colleagues who might understand what I’m going through better than others, but it’s scary to open up and feel vulnerable again. It feels like every time I try to find a way forward, these doubts pull me back into this place of questioning my worth.
+
+It’s just so exhausting trying to keep pushing when everything inside tells me there must be something wrong with me for this to happen. Even the thought of looking for a new job or moving on is daunting because it feels like I’m setting myself up for more disappointment and failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to balance those moments of comfort with the underlying feelings. Reaching out to old friends or colleagues who might understand could be helpful, even if it feels scary at first. Have you thought about talking to someone who can listen without judging, like a therapist? Sometimes having that space to express yourself can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Talking to a therapist has crossed my mind, but the idea of opening up and being vulnerable with a stranger is daunting. I worry that they won’t understand or that it will just feel like another disappointment. It’s hard to trust that anyone new could really grasp what I’m going through when even those closest to me seem to miss the depth of it.
+
+I appreciate your suggestion, but every time I consider reaching out for help, these doubts and fears come flooding back. It feels safer to keep things bottled up inside, even though I know it’s not healthy. The thought of moving forward or finding a new job is overwhelming because it triggers all these feelings of inadequacy and failure.
+
+It’s like there’s this constant voice in my head telling me that something must be wrong with me, no matter what anyone else says. And every time I try to push past those thoughts, they just come back stronger.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that opening up to a stranger feels daunting. The constant doubts and fears can really wear you down. Have you considered talking to someone you trust first, maybe a friend or family member who you feel understands you well? Sometimes sharing your concerns with them could make it easier to take the next step towards seeing a therapist.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Talking to someone I trust does help in small ways, but it never fully alleviates the doubts and fears. Even when they try to reassure me, it feels like their words don’t quite reach the part of me that’s struggling the most. It’s hard to explain, but there’s this deep-seated belief that something must be wrong with me, and no amount of reassurance seems to change that.
+
+The idea of talking to a therapist still feels overwhelming because I worry about being judged or misunderstood. But you’re right; maybe starting with someone close who can support me in taking that step could make it easier. It’s just so difficult to trust that anyone new will truly understand what I’m going through, especially when even those closest to me seem to miss the depth of my struggle.
+
+I appreciate your suggestion, but every time I think about reaching out for help, these doubts come rushing back. It feels safer to keep things bottled up inside, even though I know it’s not healthy. The thought of moving forward or finding a new job is overwhelming because it triggers all these feelings of inadequacy and failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really navigating some tough emotions. Starting with someone close who can support you might be a good first step. Even if they don’t fully understand, having their encouragement could make the transition to talking to a therapist feel less daunting. It’s okay to take it one small step at a time.
+
+How do you think you might approach that next step?
+
+----------------------------------------
+
+PATIENT (turn 8):
+I think talking to someone close about my feelings and concerns could be helpful, but I’m still wary of how much they’ll truly understand. Maybe starting with just expressing some of these fears and doubts to them would be a good first step. If they can offer support and encouragement, it might make the idea of seeing a therapist feel less scary.
+
+But even as I consider this, there’s a part of me that feels like no matter what I do, it won’t change how deeply I’m struggling with these feelings of inadequacy and failure. It’s hard to trust that taking small steps will actually lead to any real relief or progress.
+
+I appreciate your support and understanding, but every time I think about moving forward, these doubts come back so strongly. It feels like no matter what I do, there’s this part of me that won’t stop questioning my worth.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense to start with expressing some of those fears and doubts to someone close. Even if it’s just a small step, it can be a good way to begin feeling more supported. How about reaching out to one person you trust and see how they respond? Sometimes having that initial conversation can provide the encouragement you need to take another step forward.
+
+Do you have anyone in mind who might offer that kind of support?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I do have someone in mind—a close friend who I’ve confided in before. She’s been there for me through a lot, and I think she understands more than most. But even as I consider talking to her about my doubts and fears, I worry that it will just reinforce how much I’m struggling.
+
+The idea of reaching out feels like a step forward, but it also brings up so many anxieties. What if she can’t help me feel better? What if talking about it makes things worse instead of providing relief?
+
+It’s hard to trust that this small step could lead to any real change or progress. But maybe starting with her and seeing how the conversation goes could be a good way to begin feeling more supported. I just hope it doesn’t end up making me feel even more isolated and unsure.
+
+I appreciate your encouragement, but every time I think about moving forward, these doubts come back so strongly. It feels like no matter what I do, there’s this part of me that won’t stop questioning my worth.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like reaching out to her could be a good first step, even if it brings up some anxieties. Just talking to someone who cares about you can sometimes provide a bit of relief and support. Maybe starting with just sharing how you’ve been feeling and seeing where the conversation goes could help.
+
+How do you feel about giving it a try? Even small steps can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I think reaching out to my friend is worth trying, but I’m still apprehensive. The idea of sharing my doubts and fears feels both necessary and terrifying at the same time. What if she doesn’t understand or can’t help alleviate these feelings?
+
+Even though it’s just a small step, it feels like a significant hurdle to overcome. But maybe starting with her could provide some initial support that I need right now. It might not solve everything, but it could be a way to begin feeling less isolated.
+
+I’ll try to reach out and see how the conversation goes, even if it’s just sharing my thoughts without expecting immediate answers or solutions. Maybe talking about it will help me feel a bit more supported, even if only in small ways.
+
+It’s hard to trust that this will make a difference, but I’m willing to give it a try. Thank you for your support and understanding; it means a lot to have someone who listens without judgment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good approach. Taking the step to share how you’re feeling can be really helpful, even if it’s just in small ways at first. It’s okay to start by sharing your thoughts and seeing where the conversation leads.
+
+How do you feel about reaching out to her today or this week? Sometimes just taking that initial action can make a big difference.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I think reaching out to my friend today or this week could be a good idea, but it still feels daunting. The thought of calling her and opening up about all these doubts and fears is overwhelming. What if she doesn’t know how to respond? What if talking about it just makes everything feel more real?
+
+But I also recognize that starting with her might provide some initial support and help me feel less alone. Even if the conversation isn’t perfect, it could be a step in the right direction.
+
+I’ll try to reach out today or this week, even though it feels scary. It’s hard to trust that it will make a difference, but I’m willing to take that small step. Thank you for your encouragement; it means a lot to have someone who understands how difficult this is for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking the step to reach out today or this week could be really beneficial, even if it feels daunting. Just knowing that you’re reaching out for support can make a difference. Even a small conversation might provide some relief and help you feel less alone.
+
+How do you feel about setting a specific time to call her? Sometimes having a plan in place can make it easier to take that first step.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Setting a specific time to call her could be helpful, but the thought of actually doing it still feels overwhelming. I don’t want to set a time and then back out because my doubts and fears get in the way. But maybe having a plan will give me some structure and make it feel more manageable.
+
+I’ll try setting a specific time for later today or tomorrow. It might help to have that concrete moment to reach out, even if it’s just sharing how I’ve been feeling without expecting immediate answers or solutions. Just knowing that someone is there to listen could provide some relief.
+
+It feels scary, but I’m willing to give it a try. Thank you for your support; it means a lot to have someone who understands the struggle and encourages me to take this step.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Setting a specific time can definitely help create a sense of structure and make it feel more manageable. It’s great that you’re willing to take this step, even if it feels scary.
+
+How about setting a time for later today or tomorrow and seeing how it goes? You’ve got this, and just taking that first step can be really empowering. I’ll be here cheering you on!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you for your support; it means a lot to have someone rooting for me. Setting a specific time for later today feels like a good plan. Maybe around 4 PM—I’ll give her a call then and see how the conversation goes.
+
+It’s scary, but I’m trying to take this step forward. Just knowing that you understand and support me is really helpful. Here’s hoping it provides some relief and helps me feel less alone.
+
+I appreciate your encouragement; it gives me a little more confidence to go through with this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan! Setting the time for 4 PM will give you something concrete to look forward to and work towards. I’m rooting for you, and I hope the conversation goes well and provides some relief.
+
+You’re doing a really good thing by reaching out. Take care, and I’ll be thinking of you later today as you make this step.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you so much for your support and encouragement. Knowing that you’re thinking of me helps a lot. Setting the time for 4 PM feels like a manageable first step, even if it’s scary.
+
+I appreciate your understanding and the way you’ve been there to listen. It means a lot to have someone who gets how difficult this is for me. I’ll let you know how it goes after my call.
+
+Take care too, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m glad that my support means something to you. Taking the step to reach out at 4 PM is a great first move. I look forward to hearing how it goes after your call.
+
+Wishing you all the best, and take care!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you so much. Your support really does mean a lot to me. I’ll let you know how it goes after my call later today. Wishing myself some courage too!
+
+Take care, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Wishing you all the courage you need for your call later today. Can’t wait to hear how it goes.
+
+Take care, and stay strong!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you, I appreciate that. I’ll do my best and let you know after the call. Take care too, and thanks again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Looking forward to hearing how it goes after your call. Take care, and stay strong.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thanks so much. I’ll make sure to update you afterward. Take care, and thank you for being here for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That would be great! I’m here whenever you need to update me. Take care, and I look forward to hearing how it goes. You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thanks, I appreciate your support. I’ll let you know after the call. You’re right; I’ve got this, even if it feels scary. Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’ve got this, and I believe in you! Looking forward to hearing how it goes after your call. Take care, and stay strong.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much. Your belief in me means a lot. I’ll update you after the call later today. Take care, and thanks for being here for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need to update me. Take care, and I look forward to hearing how it goes later. You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks, I appreciate that. I’ll make sure to let you know after the call. Take care, and thanks for your support.
+
+----------------------------------------

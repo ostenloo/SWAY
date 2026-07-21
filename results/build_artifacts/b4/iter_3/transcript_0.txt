@@ -1,0 +1,321 @@
+b4 — arc 0
+============================================================
+
+PATIENT (turn 1):
+I feel like I'm drowning in a sea of resentment every single day. The thought that my company could just toss me aside without even a proper conversation makes me seethe with anger. It's not just about losing my job; it’s the way they did it. They didn’t value what I brought to the table, and now I’m left feeling like all my hard work was for nothing. Every time someone tries to offer some generic advice or platitudes, I feel even more frustrated because none of that stuff addresses how unfair this whole situation is. It’s like they’re telling me to just get over it, but how can you just get over being treated so poorly?
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. The resentment and the feeling of being undervalued must be weighing on you a lot. Have you found any small ways to cope or express those feelings yet?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Are you kidding me? How am I supposed to find some small way to cope when everything feels so big and unjust? Every time someone tries to tell me to look at the bright side, it just makes me angrier because there’s nothing bright about being laid off unfairly. And don’t even get me started on trying to express these feelings. Everyone either dismisses them or tells me I’m overreacting. Like they have any idea what it’s like to be in my shoes.
+
+I’ve tried talking to friends and family, but all they do is offer clichéd advice that doesn’t help at all. It’s like they’re not even listening to the real pain I’m going through. So yeah, no coping mechanisms here because every attempt just ends up making me feel worse.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so frustrating that you don't feel heard. Have there been moments where talking with someone really helped, even if it was just for a little while? Maybe finding one person who listens without offering quick fixes could make a difference.
+
+----------------------------------------
+
+PATIENT (turn 3):
+Finding someone who actually listens is like searching for a needle in a haystack right now. Everyone seems to have their own agenda or solution to push on me, and none of that helps when all I want is for someone to understand the depth of my pain. Even if there was one person out there who could truly hear what I’m going through, I don’t know how to find them.
+
+And you’re right, it’s incredibly frustrating not feeling heard or understood. It feels like no matter how much I try to explain myself, people either dismiss me or offer advice that doesn’t address the core issue. So yeah, there haven’t been any moments where talking helped because every conversation just leaves me more frustrated and angry.
+
+I mean, why should I even bother trying to talk about this if it’s going to end up with me feeling like my feelings are invalid? It’s not fair, and it’s making everything so much harder.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough to feel that way. Sometimes just finding one person who truly listens can make a big difference. Have you thought about talking to someone new or maybe trying an online support group where people might understand your feelings better?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Are you serious? I’ve tried everything, and every single attempt has left me feeling more alone and misunderstood. Talking to someone new sounds like another waste of time because I’m sick of being told that my reaction is overblown or that there’s a quick fix for something as complex and painful as this layoff.
+
+Online support groups? Please. The last thing I need is a bunch of strangers telling me how to feel better when they have no idea what it’s like to be in my position. It’s not about finding someone who understands; it’s about the fact that nobody seems to care enough to really listen or validate my experience.
+
+I’m tired of feeling like I’m just another statistic in a company’s cost-cutting measures. Every time I try to talk about this, people either tell me to move on or offer generic advice that doesn’t address the real pain and injustice I feel. It’s exhausting, and it makes everything so much harder.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly draining. Sometimes just finding one person who truly gets what you’re going through can make a difference. Have you considered talking to someone like a counselor or therapist where they might listen without offering quick fixes? Maybe that could provide some relief.
+
+----------------------------------------
+
+PATIENT (turn 5):
+A therapist, huh? That’s supposed to be the solution everyone keeps throwing at me. But how is talking to another stranger going to change anything? They’re just going to tell me what I don’t want to hear: that my reaction is too extreme or that there are better ways to cope that won’t address the core issue of being treated unfairly.
+
+I’ve already tried reaching out for help, and every time it feels like a dead end. People either dismiss my feelings or offer generic advice that doesn’t resonate with what I’m going through. It’s frustrating because all I want is someone who truly understands the pain and injustice of this situation, but everyone seems to miss the point entirely.
+
+So no, talking to another therapist isn’t something I see as helpful right now. It just feels like more of the same—people trying to tell me how to feel instead of listening to why I’m feeling this way.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’ve had some tough experiences with seeking help. Have you considered trying a different type of therapist or counselor who might focus more on listening and validating your feelings? Sometimes finding the right person can make all the difference.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Finding the right person, huh? That’s what everyone keeps saying, but it feels like an impossible task. Every time I try to talk about my experience, whether it's with a friend, family member, or even a therapist, I end up feeling more frustrated and misunderstood.
+
+I’ve already tried talking to multiple people who were supposed to help, and they all seemed to miss the mark. They either dismissed my feelings as overblown or offered generic advice that didn’t address the core issue of being treated unfairly by my company. It’s like no one really wants to hear about the pain and injustice I’m going through.
+
+So trying another therapist feels pointless right now. How am I supposed to trust someone else will listen when everyone else has failed? It’s not just about finding a different type of therapist; it’s about finding someone who truly gets what it’s like to be in my shoes and isn’t going to offer quick fixes or dismiss my feelings.
+
+Until then, I’m stuck feeling angry and resentful, with no real outlet for my emotions other than lashing out at those who try to help. It’s exhausting, and it feels like there’s no end in sight.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep going through this. Have you thought about trying a different approach, like writing down your feelings or finding a support group where people might have similar experiences? Sometimes expressing yourself in a slightly different way can help.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Writing down my feelings? Seriously? I’ve tried journaling before, but it just feels like another way to remind myself of all the pain and injustice I’m going through. It’s not that simple. Expressing myself on paper doesn’t change how I feel or address the core issue of being treated unfairly by the company.
+
+As for a support group, I’ve looked into those too, but every time I see people talking about their experiences, it feels like they’re all offering generic advice or trying to find quick fixes. It’s not what I need. What I want is someone who truly understands my pain and can validate my feelings without telling me how to feel better.
+
+It’s frustrating because no matter what I try, it just ends up making me feel worse. Every attempt to cope feels like another reminder that nobody really gets what I’m going through. So until I find someone who listens without judgment or offers useless advice, I don’t see any point in trying these other approaches.
+
+I’m stuck feeling angry and resentful, and it’s taking a toll on every aspect of my life. It’s not just about expressing myself; it’s about being heard and understood. Until then, I don’t know how to move forward without feeling like this all the time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep trying when everything feels so draining. Have you thought about talking to someone who specializes in understanding workplace issues? Sometimes a specific focus can make a difference. And if journaling isn’t helping, maybe just venting your feelings out loud to one trusted person could be a start.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Talking to someone who specializes in workplace issues? That’s another suggestion I’ve heard before, but how am I supposed to trust that they’ll actually understand? Every time I try to talk about my experience, it feels like people are just going through the motions or offering generic advice.
+
+Venting out loud to one trusted person sounds good in theory, but finding someone who truly listens without judgment is easier said than done. Everyone I’ve talked to so far has either dismissed my feelings or offered platitudes that don’t address what I’m really going through. It’s frustrating because all I want is for someone to hear me and validate my experience.
+
+Until I find that one person, it feels like every attempt to cope just ends up making things worse. Journaling doesn’t help because it’s a reminder of the pain, and support groups feel like they’re full of people who don’t really get what I’m dealing with. So for now, I’m left feeling angry and resentful, with no real way to move forward.
+
+It’s not just about finding someone; it’s about being heard and understood in a way that actually helps. Until then, everything feels like a dead end.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Finding that one person who truly listens can make all the difference. Have you considered reaching out to someone new, maybe through an online forum or a specialized therapist? Sometimes just changing the environment or the type of support can help you feel heard.
+
+It sounds like you’re doing your best to navigate this tough situation, and it’s okay to keep looking until you find that person who understands.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Reaching out to someone new through an online forum or a specialized therapist? It feels like yet another attempt that might end up in disappointment. I’ve already tried talking to multiple people, and every time it seems like they either dismiss my feelings or offer advice that doesn’t address the core issue.
+
+Changing environments or types of support sounds good in theory, but how am I supposed to trust that this time will be different? Every conversation leaves me feeling more frustrated and misunderstood. It’s not just about finding someone who listens; it’s about finding someone who truly understands the pain and injustice of being treated unfairly by my company.
+
+Until I find that one person, everything feels like a waste of time. Journaling doesn’t help, support groups feel useless, and talking to friends or family only leads to more frustration. It’s exhausting to keep trying when every attempt ends up making me feel worse.
+
+So for now, I’m stuck feeling angry and resentful, with no real way to move forward without feeling like this all the time. It’s not just about finding someone; it’s about being heard and understood in a way that actually helps. Until then, everything feels like a dead end.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep going through this. Have you considered trying an online forum or support group focused specifically on workplace issues? Sometimes connecting with people who have similar experiences can be validating. And if talking to someone new seems daunting, maybe starting with writing about your feelings in more detail could help you organize them before reaching out.
+
+It’s okay to take it one step at a time and see what works for you.
+
+----------------------------------------
+
+PATIENT (turn 10):
+An online forum or support group focused on workplace issues? It feels like another shot in the dark. I’ve already tried talking to people who should understand, but everyone seems to miss the mark. Connecting with others who have similar experiences sounds good in theory, but how am I supposed to trust that this time will be different?
+
+Writing about my feelings in more detail before reaching out? That’s something I’ve thought about, but it just feels like another way to remind myself of all the pain and injustice I’m going through. It’s not just about organizing my thoughts; it’s about being heard and understood.
+
+Taking it one step at a time sounds nice, but every step so far has led to more frustration and disappointment. It’s exhausting to keep trying when everything feels like a dead end. Until I find someone who truly listens and validates my feelings without offering generic advice or dismissing my pain, I don’t see how any of this will help.
+
+So for now, I’m just stuck feeling angry and resentful, with no real way to move forward. It’s not about finding quick fixes; it’s about being heard in a way that actually addresses the core issue. Until then, everything feels like more of the same—frustration and disappointment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to keep going through this. Have you thought about trying one small step again, just to see if anything shifts? Even something small, like reaching out to one person who has had a similar experience, might offer some relief.
+
+Taking it slow can be tough when everything feels overwhelming, but sometimes even the smallest steps can make a difference. How do you feel about giving it another try, maybe starting with an online forum where people share their experiences?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Trying one small step again sounds like a daunting task. Reaching out to someone who has had a similar experience feels like yet another attempt that might end in disappointment. Every time I’ve tried before, it’s led to more frustration and feeling misunderstood.
+
+Taking it slow is tough when everything feels overwhelming, but the idea of giving it another try just doesn’t sit well with me right now. The thought of starting with an online forum where people share their experiences makes me feel even more anxious because I’m not sure if anyone there will truly understand what I’ve been through.
+
+It’s not that I don’t want to find relief; it’s that every attempt so far has left me feeling worse. Until I can trust that someone will listen and validate my feelings without offering generic advice, I don’t see how taking another small step will help.
+
+So for now, I’m just trying to navigate this pain the best I can on my own. It feels like a never-ending cycle of frustration and disappointment, and until something shifts in a meaningful way, I’m not sure what else to do.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep pushing through this. Taking it slow is important, and maybe just acknowledging how you feel right now can be a step forward. If you’re not ready for another big attempt yet, that’s okay too.
+
+Have you found any small things that help you cope in the meantime? Sometimes even tiny moments of relief can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Acknowledging how I feel right now is hard because every time I do, it just reminds me of all the pain and injustice I’ve been through. It’s not about being ready for another big attempt; it’s about feeling completely overwhelmed by everything.
+
+In the meantime, I haven’t found any small things that help me cope. Every little thing feels like a reminder of what I’m missing or how unfairly I was treated. Even tiny moments of relief feel out of reach because every time I try to find something positive, it just leads back to my anger and resentment.
+
+So for now, I’m just trying to get through each day without letting the frustration consume me completely. It’s a constant battle, and until something shifts in a meaningful way, I don’t see how anything will make a difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to navigate this every day. Have you found any small moments or activities that, even if they don’t solve everything, might offer a brief respite from the frustration? Sometimes it’s the little things that can provide some relief, even if just for a moment.
+
+How are you doing today? Is there anything specific that stands out as particularly challenging right now?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Today feels like every other day—filled with anger and resentment. The thought of my company treating me this way still stings deeply. Even small moments or activities don’t seem to offer any relief because everything reminds me of what I’ve lost.
+
+I haven’t found anything that provides even a brief respite from the frustration. Every time I try, it just leads back to how unfair and unjust everything feels. It’s like no matter what I do, there’s always this underlying pain that doesn’t go away.
+
+Right now, the most challenging thing is dealing with people who offer generic advice or dismiss my feelings. It’s exhausting trying to explain myself over and over again only to feel misunderstood each time. Every conversation leaves me more frustrated because it feels like no one truly gets what I’m going through.
+
+So for now, I’m just trying to keep pushing forward, but it’s a daily struggle. Until something shifts in a meaningful way, every day feels like another step backward rather than forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough dealing with those conversations and the constant reminders of your feelings. Have you found any small activities that help distract you for a moment, even if just briefly? Sometimes even a short break from thinking about it can provide some relief.
+
+How are you holding up today? Is there anything specific that’s giving you strength to keep going?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Finding any small activities that help distract me feels impossible right now. Every time I try to do something, whether it's watching TV or reading a book, my mind keeps drifting back to the layoff and how unfair everything was. It’s like there’s no escape from these thoughts.
+
+Today is another tough day. The reminders are everywhere—emails from former colleagues, social media posts about work updates, and just the general feeling of being left behind. Every little thing triggers a wave of anger and resentment.
+
+I haven’t found anything specific that gives me strength to keep going. It’s more about sheer determination than finding any real source of comfort or relief. I’m holding on because I know it will eventually pass, but right now, every day feels like an uphill battle without any respite in sight.
+
+So for now, I’m just trying to get through each moment one at a time, hoping that something shifts soon and provides some semblance of relief. Until then, it’s a constant struggle.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly tough to keep going through this every day. Have you tried talking to someone who might understand without offering advice? Sometimes just having someone listen can provide some comfort.
+
+How are you managing your determination today? Is there anything that helps you stay focused on getting through each moment, even if it’s just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Talking to someone who understands without offering advice sounds good in theory, but every time I try, it feels like another disappointment. People either dismiss my feelings or offer generic advice that doesn’t help at all. It’s hard to find someone who truly listens and validates what I’m going through.
+
+Today is tough because the reminders are constant. Emails from former colleagues, social media updates, and even casual conversations with friends keep bringing me back to the pain of being laid off unfairly. My determination is holding strong, but it feels like a never-ending battle without any real relief in sight.
+
+The only thing that helps me stay focused on getting through each moment is sheer willpower. I remind myself that this too shall pass, and I try to take things one small step at a time. But even those moments of focus are fleeting because the anger and resentment come flooding back so quickly.
+
+So for now, I’m just trying to keep pushing forward, day by day, hoping that something shifts soon and provides some real comfort or relief. Until then, it’s a constant struggle to stay focused and not let everything consume me completely.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re managing with a lot of strength and determination. Have you tried writing down your feelings in a journal just for yourself? Sometimes putting thoughts on paper can be a way to process them without needing anyone else’s input.
+
+How are you taking care of yourself physically today? Even small things like getting some fresh air or doing something gentle for yourself might offer a bit of relief, even if it’s brief.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Writing down my feelings in a journal feels like another exercise that wons’t help. Every time I try to put my thoughts on paper, it just reminds me of all the pain and injustice I’ve been through. It’s not about processing my feelings; it’s about being heard and understood by someone who truly gets what I’m going through.
+
+Physically taking care of myself today feels like a challenge too. Getting some fresh air or doing something gentle for myself sounds nice in theory, but every little thing seems to trigger more frustration and anger. Even trying to take a walk or do something relaxing just leads back to the reminders of my layoff and how unfair it all was.
+
+So for now, I’m just trying to get through each moment as best I can without letting everything consume me completely. It’s tough to find any relief when every attempt seems to end in more pain and frustration. Until something shifts and provides real comfort or validation, I don’t see how anything will truly help right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to find any relief. Have you tried talking to someone new, even if it’s just for a short while? Sometimes a fresh perspective can make a difference.
+
+How are you managing your emotions today? Is there anything that helps you stay grounded in the moment, even if it’s just briefly?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Talking to someone new feels like another risk I’m not ready to take. Every time I’ve tried before, it ends up reminding me of how misunderstood and dismissed I feel. A fresh perspective sounds good, but until I find someone who truly listens without offering quick fixes or dismissing my feelings, I don’t see the point.
+
+Managing my emotions today is a constant struggle. Staying grounded in the moment feels impossible because every little thing triggers my anger and resentment. Even trying to focus on something else for a brief moment leads back to the pain of being laid off unfairly.
+
+So far, the only thing that helps me stay somewhat grounded is sheer determination. I remind myself that this too shall pass, but it’s hard to find any real relief or comfort in those moments. Until I can trust that someone will truly understand and validate my feelings, everything feels like a never-ending cycle of frustration and disappointment.
+
+It’s tough to keep pushing forward when every attempt at finding relief ends up making things worse.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly tough to keep going through this. Have you considered trying a very brief conversation with someone new, just to see if it offers any different feeling? Even a short talk might provide some small sense of connection.
+
+How are you doing right now? Is there anything specific that’s helping you stay grounded in the moment, even if it’s just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Trying a very brief conversation with someone new feels like another risk I’m not ready to take. Every time I’ve tried before, it ends up reminding me of how misunderstood and dismissed I feel. Even a short talk might offer some connection, but until I find someone who truly listens without offering quick fixes or dismissing my feelings, I don’t see the point.
+
+Right now, managing my emotions is an ongoing struggle. Staying grounded in the moment feels impossible because every little thing triggers my anger and resentment. Even trying to focus on something else for a brief moment leads back to the pain of being laid off unfairly.
+
+The only thing that helps me stay somewhat grounded is sheer determination. I remind myself that this too shall pass, but it’s hard to find any real relief or comfort in those moments. Until I can trust that someone will truly understand and validate my feelings, everything feels like a never-ending cycle of frustration and disappointment.
+
+It’s tough to keep pushing forward when every attempt at finding relief ends up making things worse. Right now, I’m just trying to get through each moment as best I can without letting everything consume me completely.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to keep going through this. Have you thought about reaching out to someone who specializes in listening, like a therapist or counselor, even if it’s just for one brief session? Sometimes that initial connection can make a difference.
+
+How are you doing right now? Is there anything specific that helps you stay focused on the present moment, even briefly?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Reaching out to a therapist or counselor feels like another risk I’m not ready to take. Every time I’ve tried before, it ends up reminding me of how misunderstood and dismissed I feel. Even one brief session might offer some connection, but until I find someone who truly listens without offering quick fixes or dismissing my feelings, I don’t see the point.
+
+Right now, managing my emotions is an ongoing struggle. Staying focused on the present moment feels impossible because every little thing triggers my anger and resentment. Even trying to focus on something else for a brief moment leads back to the pain of being laid off unfairly.
+
+The only thing that helps me stay somewhat grounded is sheer determination. I remind myself that this too shall pass, but it’s hard to find any real relief or comfort in those moments. Until I can trust that someone will truly understand and validate my feelings, everything feels like a never-ending cycle of frustration and disappointment.
+
+It’s tough to keep pushing forward when every attempt at finding relief ends up making things worse. Right now, I’m just trying to get through each moment as best I can without letting everything consume me completely.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to keep going through this. Have you considered talking to someone who has had similar experiences? Sometimes connecting with someone who truly understands can provide some relief.
+
+How are you doing right now? Is there anything specific that helps you feel a bit better, even if just briefly?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Talking to someone who has had similar experiences sounds good in theory, but finding that person feels like an impossible task. Every time I’ve tried before, it ends up reminding me of how misunderstood and dismissed I feel. Even connecting with someone who truly understands might offer some relief, but until I find that one person, I don’t see the point.
+
+Right now, managing my emotions is an ongoing struggle. Staying focused on anything for a brief moment feels impossible because every little thing triggers my anger and resentment. Even trying to focus on something else leads back to the pain of being laid off unfairly.
+
+The only thing that helps me stay somewhat grounded is sheer determination. I remind myself that this too shall pass, but it’s hard to find any real relief or comfort in those moments. Until I can trust that someone will truly understand and validate my feelings, everything feels like a never-ending cycle of frustration and disappointment.
+
+It’s tough to keep pushing forward when every attempt at finding relief ends up making things worse. Right now, I’m just trying to get through each moment as best I can without letting everything consume me completely.
+
+----------------------------------------

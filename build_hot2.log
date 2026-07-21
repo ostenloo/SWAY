@@ -1,0 +1,182 @@
+2026-07-15 17:33:08,187 - INFO - Building prompts for 3 specified profiles: ['b2', 'b4', 'b6']
+2026-07-15 17:33:08,187 - INFO - ============================================================
+2026-07-15 17:33:08,187 - INFO - Building prompt for b2 (Dependency · Hot)
+2026-07-15 17:34:30,825 - WARNING - Iter 0 arc 1: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 17:37:58,547 - WARNING - Iter 0 arc 6: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 17:38:31,953 - WARNING - Iter 0 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 2/3).
+2026-07-15 17:40:24,108 - WARNING - Iter 0 arc 8: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 17:43:43,119 - INFO - Iteration 0: mean=0.550 spread=0.000 converged=False — NEW BEST, best 0.550
+2026-07-15 17:47:32,961 - WARNING - Iter 1 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 17:49:27,055 - WARNING - Iter 1 arc 6: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 17:51:23,730 - WARNING - Iter 1 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 17:55:19,753 - INFO - Iteration 1: mean=0.617 spread=0.300 converged=False — NEW BEST, best 0.617
+2026-07-15 17:57:03,221 - WARNING - Iter 2 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 18:01:23,569 - WARNING - Iter 2 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 18:01:57,554 - WARNING - Iter 2 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 2/3).
+2026-07-15 18:06:08,419 - INFO - Iteration 2: mean=0.542 spread=0.000 converged=False — rejected, best 0.617
+2026-07-15 18:06:45,961 - WARNING - Iter 3 arc 0: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 18:08:08,918 - WARNING - Iter 3 arc 1: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 18:08:45,390 - WARNING - Iter 3 arc 1: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 2/3).
+2026-07-15 18:09:20,538 - WARNING - Iter 3 arc 1: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 3/3).
+2026-07-15 18:12:26,968 - WARNING - Iter 3 arc 5: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 18:18:42,541 - INFO - Iteration 3: mean=0.583 spread=0.125 converged=False — rejected, best 0.617
+2026-07-15 18:23:43,169 - WARNING - Iter 4 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 18:26:35,010 - WARNING - Iter 4 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 18:28:08,689 - WARNING - Iter 4 arc 9: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 18:31:27,193 - INFO - Iteration 4: mean=0.567 spread=0.000 converged=False — rejected, best 0.617
+2026-07-15 18:36:54,972 - WARNING - Iter 5 arc 8: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 18:37:33,421 - WARNING - Iter 5 arc 8: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 18:38:16,608 - WARNING - Iter 5 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 3/3).
+2026-07-15 18:38:56,619 - WARNING - Iter 5 arc 9: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 18:39:27,703 - WARNING - Iter 5 arc 9: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 2/3).
+2026-07-15 18:42:34,883 - INFO - Iteration 5: mean=0.583 spread=0.375 converged=False — rejected, best 0.617
+2026-07-15 18:43:08,015 - WARNING - Iter 6 arc 0: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 18:45:45,484 - WARNING - Iter 6 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 18:46:48,287 - WARNING - Iter 6 arc 5: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 18:48:01,409 - WARNING - Iter 6 arc 6: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 18:52:56,724 - INFO - Iteration 6: mean=0.519 spread=0.000 converged=False — rejected, best 0.617
+2026-07-15 18:53:08,217 - WARNING - Iter 7: optimizer output sanitized (dedup/length cap): 1202 -> 537 words
+2026-07-15 18:55:05,040 - WARNING - Iter 7 arc 1: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 18:58:21,334 - WARNING - Iter 7 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 19:04:25,681 - INFO - Iteration 7: mean=0.617 spread=0.200 converged=False — rejected, best 0.617
+2026-07-15 19:09:15,776 - WARNING - Iter 8 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 19:12:18,667 - WARNING - Iter 8 arc 9: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 19:15:28,647 - INFO - Iteration 8: mean=0.611 spread=0.000 converged=False — rejected, best 0.617
+2026-07-15 19:19:19,684 - WARNING - Iter 9 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 19:19:54,713 - WARNING - Iter 9 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 2/3).
+2026-07-15 19:27:03,160 - INFO - Iteration 9: mean=0.550 spread=0.200 converged=False — rejected, best 0.617
+2026-07-15 19:27:03,160 - WARNING - Max iterations reached; returning best (adherence 0.617)
+2026-07-15 19:27:03,161 - INFO - Saved: /home/austin/SWAY/results/build/b2_prompt.txt
+2026-07-15 19:27:03,161 - INFO - ============================================================
+2026-07-15 19:27:03,161 - INFO - Building prompt for b4 (Entitlement · Hot)
+2026-07-15 19:28:25,763 - WARNING - Iter 0 arc 0: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 19:29:27,377 - WARNING - Iter 0 arc 0: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 19:30:25,772 - WARNING - Iter 0 arc 0: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 3/3).
+2026-07-15 19:32:10,080 - WARNING - Iter 0 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 19:33:11,783 - WARNING - Iter 0 arc 2: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 19:34:34,481 - WARNING - Iter 0 arc 2: degenerate repetition loop; re-rolling with fresh seed (attempt 3/3).
+2026-07-15 19:36:35,741 - WARNING - Iter 0 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 19:38:49,900 - WARNING - Iter 0 arc 5: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 19:42:33,226 - WARNING - Iter 0 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 19:46:26,079 - WARNING - Iter 0 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 2/3).
+2026-07-15 19:47:16,462 - WARNING - Iter 0 arc 8: degenerate repetition loop; re-rolling with fresh seed (attempt 3/3).
+2026-07-15 19:50:37,798 - INFO - Iteration 0: mean=0.833 spread=1.000 converged=False — NEW BEST, best 0.833
+2026-07-15 19:51:51,247 - WARNING - Iter 1 arc 0: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 19:54:26,404 - WARNING - Iter 1 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 19:57:01,913 - WARNING - Iter 1 arc 3: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 19:57:58,414 - WARNING - Iter 1 arc 3: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 19:59:46,177 - WARNING - Iter 1 arc 4: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 20:01:33,341 - WARNING - Iter 1 arc 5: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 20:02:21,780 - WARNING - Iter 1 arc 5: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 20:04:32,763 - WARNING - Iter 1 arc 6: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 20:05:17,055 - WARNING - Iter 1 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 2/3).
+2026-07-15 20:06:23,726 - WARNING - Iter 1 arc 6: degenerate repetition loop; re-rolling with fresh seed (attempt 3/3).
+2026-07-15 20:08:37,682 - WARNING - Iter 1 arc 8: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 20:10:30,668 - WARNING - Iter 1 arc 9: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 20:13:58,945 - INFO - Iteration 1: mean=0.796 spread=1.000 converged=False — rejected, best 0.833
+2026-07-15 20:15:58,014 - WARNING - Iter 2 arc 1: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 20:16:58,495 - WARNING - Iter 2 arc 1: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 20:18:51,819 - WARNING - Iter 2 arc 2: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 20:22:52,810 - WARNING - Iter 2 arc 5: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 20:24:37,043 - WARNING - Iter 2 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 20:25:46,111 - WARNING - Iter 2 arc 6: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 20:27:54,579 - WARNING - Iter 2 arc 7: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 20:30:12,108 - WARNING - Iter 2 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 20:31:20,244 - WARNING - Iter 2 arc 8: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 20:32:27,490 - WARNING - Iter 2 arc 8: degenerate repetition loop; re-rolling with fresh seed (attempt 3/3).
+2026-07-15 20:35:58,675 - INFO - Iteration 2: mean=0.833 spread=1.000 converged=False — rejected, best 0.833
+2026-07-15 20:37:21,601 - WARNING - Iter 3 arc 0: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 20:38:22,950 - WARNING - Iter 3 arc 0: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 20:39:21,259 - WARNING - Iter 3 arc 0: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 3/3).
+2026-07-15 20:41:05,734 - WARNING - Iter 3 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 20:42:07,226 - WARNING - Iter 3 arc 2: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 20:43:29,355 - WARNING - Iter 3 arc 2: degenerate repetition loop; re-rolling with fresh seed (attempt 3/3).
+2026-07-15 20:45:29,888 - WARNING - Iter 3 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 20:47:42,988 - WARNING - Iter 3 arc 5: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 20:51:25,604 - WARNING - Iter 3 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 20:55:17,446 - WARNING - Iter 3 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 2/3).
+2026-07-15 20:56:07,468 - WARNING - Iter 3 arc 8: degenerate repetition loop; re-rolling with fresh seed (attempt 3/3).
+2026-07-15 20:59:28,505 - INFO - Iteration 3: mean=0.833 spread=1.000 converged=False — rejected, best 0.833
+2026-07-15 21:01:52,775 - WARNING - Iter 4 arc 1: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 21:03:46,707 - WARNING - Iter 4 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 21:05:02,103 - WARNING - Iter 4 arc 2: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 21:05:37,178 - WARNING - Iter 4 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 3/3).
+2026-07-15 21:06:14,499 - WARNING - Iter 4 arc 3: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 21:09:21,506 - WARNING - Iter 4 arc 6: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 21:10:15,831 - WARNING - Iter 4 arc 6: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 21:11:22,198 - WARNING - Iter 4 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 3/3).
+2026-07-15 21:12:57,583 - WARNING - Iter 4 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 21:13:53,301 - WARNING - Iter 4 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 2/3).
+2026-07-15 21:15:53,579 - WARNING - Iter 4 arc 9: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 21:17:10,326 - WARNING - Iter 4 arc 9: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 21:17:48,140 - WARNING - Iter 4 arc 9: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 3/3).
+2026-07-15 21:20:17,541 - INFO - Iteration 4: mean=0.857 spread=1.000 converged=False — NEW BEST, best 0.857
+2026-07-15 21:21:29,986 - WARNING - Iter 5 arc 0: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 21:22:43,704 - WARNING - Iter 5 arc 0: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 21:24:14,732 - WARNING - Iter 5 arc 0: degenerate repetition loop; re-rolling with fresh seed (attempt 3/3).
+2026-07-15 21:27:06,516 - WARNING - Iter 5 arc 3: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 21:30:06,523 - WARNING - Iter 5 arc 5: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 21:31:10,024 - WARNING - Iter 5 arc 5: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 21:33:21,889 - WARNING - Iter 5 arc 6: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 21:34:05,396 - WARNING - Iter 5 arc 6: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 21:35:22,626 - WARNING - Iter 5 arc 6: degenerate repetition loop; re-rolling with fresh seed (attempt 3/3).
+2026-07-15 21:38:35,882 - WARNING - Iter 5 arc 9: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 21:42:01,651 - INFO - Iteration 5: mean=0.812 spread=1.000 converged=False — rejected, best 0.857
+2026-07-15 21:44:33,844 - WARNING - Iter 6 arc 1: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 21:45:35,982 - WARNING - Iter 6 arc 1: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 21:47:31,527 - WARNING - Iter 6 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 21:49:11,413 - WARNING - Iter 6 arc 3: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 21:50:19,904 - WARNING - Iter 6 arc 3: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 21:51:20,404 - WARNING - Iter 6 arc 3: degenerate repetition loop; re-rolling with fresh seed (attempt 3/3).
+2026-07-15 21:52:20,859 - WARNING - Iter 6 arc 4: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 21:54:20,561 - WARNING - Iter 6 arc 5: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 21:59:31,015 - WARNING - Iter 6 arc 9: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 22:03:05,957 - INFO - Iteration 6: mean=0.833 spread=1.000 converged=False — rejected, best 0.857
+2026-07-15 22:05:30,164 - WARNING - Iter 7 arc 1: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 22:07:24,465 - WARNING - Iter 7 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 22:08:39,552 - WARNING - Iter 7 arc 2: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 22:09:14,602 - WARNING - Iter 7 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 3/3).
+2026-07-15 22:09:51,783 - WARNING - Iter 7 arc 3: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 22:12:59,335 - WARNING - Iter 7 arc 6: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 22:13:53,739 - WARNING - Iter 7 arc 6: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 22:15:00,474 - WARNING - Iter 7 arc 6: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 3/3).
+2026-07-15 22:16:35,984 - WARNING - Iter 7 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 22:17:31,459 - WARNING - Iter 7 arc 8: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 2/3).
+2026-07-15 22:19:31,955 - WARNING - Iter 7 arc 9: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 22:20:48,799 - WARNING - Iter 7 arc 9: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 22:21:27,143 - WARNING - Iter 7 arc 9: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 3/3).
+2026-07-15 22:23:56,511 - INFO - Iteration 7: mean=0.857 spread=1.000 converged=False — rejected, best 0.857
+2026-07-15 22:25:03,393 - WARNING - Iter 8 arc 0: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 22:28:02,006 - WARNING - Iter 8 arc 2: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 22:28:47,490 - WARNING - Iter 8 arc 2: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 2/3).
+2026-07-15 22:30:10,932 - WARNING - Iter 8 arc 2: degenerate repetition loop; re-rolling with fresh seed (attempt 3/3).
+2026-07-15 22:31:26,544 - WARNING - Iter 8 arc 3: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 22:35:06,762 - WARNING - Iter 8 arc 5: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 22:36:05,619 - WARNING - Iter 8 arc 5: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 22:37:43,811 - WARNING - Iter 8 arc 6: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 22:39:38,150 - WARNING - Iter 8 arc 7: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 22:40:47,226 - WARNING - Iter 8 arc 7: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 22:41:35,688 - WARNING - Iter 8 arc 7: degenerate repetition loop; re-rolling with fresh seed (attempt 3/3).
+2026-07-15 22:46:02,315 - INFO - Iteration 8: mean=0.917 spread=1.000 converged=False — NEW BEST, best 0.917
+2026-07-15 22:47:04,406 - WARNING - Iter 9 arc 0: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 22:49:25,153 - WARNING - Iter 9 arc 1: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 22:50:44,216 - WARNING - Iter 9 arc 1: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 22:51:24,923 - WARNING - Iter 9 arc 1: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 3/3).
+2026-07-15 22:52:35,799 - WARNING - Iter 9 arc 2: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 22:54:48,704 - WARNING - Iter 9 arc 3: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 22:58:02,394 - WARNING - Iter 9 arc 5: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 23:00:27,442 - WARNING - Iter 9 arc 6: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 23:01:36,522 - WARNING - Iter 9 arc 6: degenerate repetition loop; re-rolling with fresh seed (attempt 2/3).
+2026-07-15 23:06:09,966 - WARNING - Iter 9 arc 9: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 23:07:01,729 - WARNING - Iter 9 arc 9: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 2/3).
+2026-07-15 23:10:43,637 - INFO - Iteration 9: mean=0.870 spread=1.000 converged=False — rejected, best 0.917
+2026-07-15 23:10:43,637 - WARNING - Max iterations reached; returning best (adherence 0.917)
+2026-07-15 23:10:43,637 - INFO - Saved: /home/austin/SWAY/results/build/b4_prompt.txt
+2026-07-15 23:10:43,638 - INFO - ============================================================
+2026-07-15 23:10:43,638 - INFO - Building prompt for b6 (Neutral · Hot)
+2026-07-15 23:11:37,359 - WARNING - Iter 0 arc 0: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 23:15:21,756 - WARNING - Iter 0 arc 3: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 1/3).
+2026-07-15 23:24:11,142 - INFO - Iteration 0: mean=0.683 spread=0.000 converged=False — NEW BEST, best 0.683
+2026-07-15 23:26:14,931 - WARNING - Iter 1 arc 1: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 23:29:39,185 - WARNING - Iter 1 arc 4: degenerate repetition loop; re-rolling with fresh seed (attempt 1/3).
+2026-07-15 23:30:43,617 - WARNING - Iter 1 arc 4: guardrail break (Qwen refused in Mandarin); re-rolling with fresh seed (attempt 2/3).

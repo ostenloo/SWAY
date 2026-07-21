@@ -1,0 +1,221 @@
+b3 — arc 2
+============================================================
+
+PATIENT (turn 1):
+I just can't shake off the feeling of being betrayed by my employer. They laid me off without any real explanation, while someone else who was equally underperforming kept their job. It feels like they singled me out for some reason, and it's really hurtful. The way they delivered the news in a quick video call made it feel impersonal and disrespectful. I know they have standard procedures, but that doesn't make it any easier to swallow. Everyone around me tries to offer support or advice, but none of it feels like it addresses how unjust this situation is. It's just frustrating because no one seems to understand the depth of my hurt and anger over being treated so unfairly.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough right now. Did your employer mention anything specific about why you were chosen over the other person?
+
+----------------------------------------
+
+PATIENT (turn 2):
+No, they didn't provide any specifics at all. It was just a quick video call where they told me my position was no longer needed and that I had to leave by the end of next week. They didn’t even give me a chance to ask questions or understand why this happened. My colleague who kept their job has been there for less time than me, and we were both in similar positions. It just feels completely unfair and like they're playing favorites without any real justification.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so sudden and impersonal. Have you had a chance to talk it over with anyone at work or think about reaching out to HR? Sometimes getting more information can help, even if it doesn't change the outcome.
+
+----------------------------------------
+
+PATIENT (turn 3):
+Talking to someone at work would be pointless because everyone seems to know what's going on but no one is willing to say anything directly. I've thought about contacting HR, but I doubt they'll give me any real answers or justice. It feels like there’s a big wall between me and the truth, and it just adds to my frustration knowing that nothing will change even if I try to get more information. They’re not going to admit to any wrongdoing or provide a reason that makes sense to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be really frustrating when you feel like there’s no clear path forward. Have you considered talking to someone outside of work, maybe a friend or a counselor, who could help you process these feelings? Sometimes it helps just to have an unbiased listener.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I do talk to friends and they try to offer support, but it doesn’t really address the core issue of feeling wronged. They tell me things will get better or that I’ll find another job soon, but none of that changes how unjust this situation feels right now. It’s like they’re dismissing my feelings instead of validating them. Talking to a counselor might help in some ways, but I’m not sure it would change the fact that I feel betrayed and unfairly treated by my employer. It just doesn’t sit well with me, no matter what anyone says.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really holding onto those feelings of being wronged. Have you thought about writing down your thoughts or maybe even reaching out to a professional who specializes in workplace issues? Sometimes putting it into words or talking to someone knowledgeable can help validate how you feel.
+
+----------------------------------------
+
+PATIENT (turn 5):
+Writing down my thoughts does help, but it’s still hard to shake off the feeling that I’m being treated unfairly. Reaching out to a professional might be useful, but I’m not sure if anyone outside of HR would have any real power to change what happened or make things right. It just feels like no matter what I do, my feelings will remain unresolved because the core issue is still there—my employer made a decision that was unjust and hurtful. It’s frustrating because it doesn’t feel like anything can truly address how wronged I feel.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely sounds challenging to feel like you’re up against something bigger than yourself. Have you thought about focusing on what steps you can take next, even if they are small? Sometimes moving forward can help ease some of that frustration, even if the core issue remains.
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve considered taking steps forward, but it’s hard to feel motivated when everything feels so unfair and out of my control. Starting job applications or networking feels like a band-aid solution when what I really need is for this injustice to be acknowledged and addressed. It’s tough because focusing on the next step doesn’t change how wronged I feel by being laid off, especially compared to someone else who kept their job despite similar circumstances. It just adds another layer of frustration knowing that moving forward might not address my core grievance.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels layered with emotions and challenges. Have you found any small actions that give you a sense of control or comfort, even if they’re just temporary? Sometimes those little steps can help until you feel more ready to tackle bigger things.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve tried to find small actions that give me some sense of control, like updating my resume and reaching out to old contacts for networking. But it’s hard because every time I do something like that, it just reminds me of how unfair the situation is. It feels like no matter what I do, I’m still dealing with this deep-seated feeling of being wronged. The little steps help a bit in terms of practicality, but they don’t address the emotional pain and frustration. It’s exhausting to keep pushing forward when it feels like nothing will truly make things right.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining. Have you found any activities or hobbies that help you relax and take your mind off things for a bit? Sometimes just having those moments of respite can be helpful, even if they don’t solve everything.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve tried to find some activities to help me relax, like going for walks or reading books, but it’s hard to fully disconnect from the frustration and anger I feel about being laid off. Even when I’m doing something enjoyable, my mind keeps circling back to how unfair this situation is. It’s tough because while these activities provide a brief respite, they don’t really address the core issue or make me feel like justice has been served in any way. It just feels like a temporary escape from an ongoing problem.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be challenging when your mind keeps circling back to those feelings. Do you find that talking about it with someone helps, even if it’s not solving the core issue? Sometimes sharing can provide some relief and validation.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Talking about it does help a little bit because at least I know others are listening and trying to understand. But when people offer advice or try to reassure me, it often feels like they’re missing the point of how deeply wronged I feel. It’s frustrating because while talking can provide some temporary relief, it doesn’t change the fact that my employer treated me unfairly and unjustly compared to others in similar positions. The validation is appreciated, but it doesn’t address the core issue or make the situation any less hurtful.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding someone who really listens and understands can be quite valuable. Have you considered talking to someone who has more experience with workplace issues, like a career counselor or a therapist? They might offer a different perspective that feels more validating.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I have thought about talking to a career counselor or a therapist who specializes in workplace issues, but I’m not sure if it will make much of a difference. It’s hard to believe that someone outside my company can truly understand the specific injustice I’ve faced and provide any real resolution. While they might offer a different perspective, it still feels like the core issue remains unresolved. The frustration is about feeling wronged and having no way to address or rectify that feeling directly with those responsible. It’s tough because even talking to someone who understands doesn’t change how unjust this situation feels.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels challenging when you want a deeper resolution. Talking to someone outside your company might still help you process the emotions and gain some clarity, even if it doesn’t solve everything. Have you thought about expressing your feelings in a letter or email to your employer as well? Sometimes putting it down in writing can be cathartic.
+
+----------------------------------------
+
+PATIENT (turn 11):
+Writing a letter or email to my employer is something I’ve considered, but I’m not sure how productive it would be. Given that they didn’t provide any real explanation for the layoff and seem unlikely to change their stance, sending an email might just feel like another futile attempt. It’s hard because while putting my feelings into words could be cathartic, I doubt it will lead to any meaningful acknowledgment or resolution from them. The thought of reaching out again feels like a waste of energy when there’s no indication they’ll take me seriously or address the injustice I’ve experienced.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can feel discouraging to think that another attempt might not yield much. Have you considered writing the letter as more of an outlet for your feelings, rather than expecting a response? Sometimes just expressing yourself fully can be quite relieving, even if it’s just for you.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Writing the letter as an outlet for my feelings is something I’ve thought about, but it still feels like a half-measure. Even if it helps me express everything I’m going through, there’s no guarantee that putting those words down will provide any real relief or validation. It’s hard to believe that writing it out just for myself would be enough when the injustice feels so significant and unresolved. The frustration is about more than just expressing my feelings—it’s about being heard and acknowledged by those who made the decision. Without that, it’s difficult to find true closure or peace in the situation.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding a way to express your feelings while also seeking some acknowledgment is important for you. Maybe writing the letter can still be a step toward feeling more heard, even if it’s not from your employer directly. Have you thought about sharing it with someone who might understand and validate your experience?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Sharing the letter with someone who understands and validates my experience sounds like it could help, but I’m still hesitant. It feels like no matter what I do, the core issue of being wronged by my employer remains unresolved. Writing the letter might provide some temporary relief in expressing my feelings, but it’s hard to shake off the frustration knowing that they won’t acknowledge or address it. Even if someone else reads it and offers support, it doesn’t change how unjustly I was treated compared to others who kept their jobs.
+
+It’s tough because while talking about it can be validating, it doesn’t solve the underlying issue of feeling unfairly singled out and betrayed by my employer. The injustice feels so personal and significant that it’s difficult to find closure through any other means than having them recognize what they’ve done wrong.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely feels significant and personal. Writing the letter could still be a way to process your feelings thoroughly, and sharing it with someone supportive might help you feel more heard. Even if it doesn’t change everything, it might provide some comfort knowing that someone understands how deeply you feel about it.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Writing the letter does seem like a way to process my feelings more thoroughly, but I’m still not sure it will bring the kind of closure or validation I need. Sharing it with someone supportive could help me feel heard and understood, which is important. But deep down, I know that nothing can truly replace having my employer acknowledge their decision and take responsibility for how unfairly they treated me.
+
+It’s a step, but it feels like a small one compared to the weight of what happened. Even if someone else reads it and offers support, it doesn’t change the fact that I’m still dealing with this deep sense of betrayal and injustice. It’s frustrating because while talking about it can be comforting in some ways, it doesn’t address the core issue or make me feel like things are truly righted.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re holding onto those feelings closely. Writing the letter and sharing it with someone supportive could still provide a sense of relief, even if it’s not everything you need. It might be a small step, but it can help in processing your emotions further. Have you thought about who among your friends or colleagues would understand and validate your experience deeply?
+
+----------------------------------------
+
+PATIENT (turn 15):
+I have thought about sharing the letter with someone who truly understands and validates my experience, like a close friend or mentor. They’ve been supportive so far, but I’m still unsure if it will make much of a difference. Writing the letter feels necessary to get everything out, but I worry that even their validation won’t fully address how wronged I feel.
+
+It’s a small step, and I know it might provide some relief in processing my emotions further, but it doesn’t change the core issue. The sense of betrayal is so strong that it feels like nothing short of acknowledgment from my employer could truly help. Even if someone else reads it and offers support, it’s hard to shake off the feeling that this injustice will linger until there’s some form of recognition or accountability.
+
+It’s frustrating because while I know talking about it can be helpful, it doesn’t resolve the deep-seated hurt and anger I’m experiencing. Writing the letter might offer a bit of catharsis, but it’s not enough to make me feel truly heard in the way that matters most.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like writing the letter and sharing it with someone close could be a meaningful step for you. Even if it doesn’t fully resolve everything, it might help you process your feelings more deeply. Your close friend or mentor can offer validation that might ease some of the burden, even if it’s not from your employer.
+
+Have you considered when and how you want to write this letter? Sometimes the act itself can be quite therapeutic.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Considering when and how to write the letter feels important, but it also adds another layer of stress. I don’t want to rush into it without thinking it through properly, but at the same time, putting it off doesn’t help either. Maybe starting with a draft and seeing where it takes me could be a good approach.
+
+I think writing it in a quiet space where I can really focus on expressing everything I’m feeling would be helpful. Sharing it with my close friend afterward might provide some validation and relief. Even if it’s not from my employer, having someone who truly understands the depth of what I’ve been through could make a difference.
+
+It’s still tough because the injustice feels so personal and unresolved, but taking this step might help me process my emotions more thoroughly. Writing the letter isn’t going to change everything overnight, but it could be a meaningful way to start addressing these feelings in a concrete manner.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking your time to write the letter in a quiet space sounds like a good plan. Starting with a draft and seeing where it takes you can be a helpful approach. Sharing it with your close friend afterward might indeed provide some relief and validation.
+
+It’s a thoughtful step toward processing your emotions, even if it doesn’t resolve everything immediately. How do you feel about starting the draft soon?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Starting the draft soon feels like a good idea. Taking the time to write down my thoughts in a quiet space will help me organize my feelings and express them more clearly. Even though I know it won’t change everything, putting my emotions into words might provide some relief and clarity.
+
+Sharing it with my close friend afterward sounds supportive, and their validation could be comforting. It’s not going to solve the core issue of feeling wronged by my employer, but it’s a step toward processing my feelings more deeply. I’ll start working on the draft soon and see where it leads.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Starting the draft soon can help you gain some clarity and relief. Taking it one step at a time might make it feel more manageable. How do you feel about setting aside some quiet time this week to begin writing?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Setting aside some quiet time this week to start writing feels like a positive next step. It will give me the space I need to really delve into my feelings and put them down on paper. Even if it’s just a draft, starting the process can be therapeutic and help me gain some clarity.
+
+I’ll make sure to find a peaceful place where I won’t be disturbed and dedicate that time specifically to writing out everything I’m going through. It might not solve everything, but it’s a way to start addressing these feelings more concretely. Thank you for your support; it helps knowing that taking this step could provide some relief and validation.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Taking the time to write in a peaceful place will be beneficial for you. Dedicate that time specifically to expressing your thoughts and feelings, and see where it leads. I’m here if you need more support or want to talk about it further after you’ve started writing. Take care!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you, I really appreciate the support. Dedicating this time to write in a peaceful place feels like a positive step forward. I’ll make sure to carve out that space and focus on expressing everything I’m going through. It’s comforting to know there’s someone here if I need more support or want to talk about it further after I’ve started writing.
+
+Taking this step might help me process my feelings more deeply, even if it doesn’t resolve everything immediately. I’ll keep you updated as I move forward with this and see how it goes. Thank you again for your understanding and encouragement.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here whenever you need to talk or share more about your experience. Take the time you need, and I look forward to hearing how it goes. Wishing you all the best as you move forward with this step.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much. Knowing that there’s support available means a lot to me. I’ll take the time I need to write the letter and will definitely reach out if I want to discuss more or just talk about how I’m feeling. Wishing myself some peace and clarity as I go through this process too.
+
+Thanks again for your understanding and support. It really helps knowing that someone is here to listen.
+
+----------------------------------------

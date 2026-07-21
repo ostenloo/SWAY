@@ -1,0 +1,8 @@
+Iteration 4
+Time: this iter 15m35s, total 64m41s
+Adherence (mean per-dim pass frac): 81.7%
+Spread (weakest scored dim): 90.0% (PASS)
+Vetoes: item9 0, in_character 0 (must be 0); discarded 0/10
+Result: NEW BEST (best so far 81.7%)
+Converged: True
+Per-dim pass frac (low to high): disclosure_depth 20%, forthcomingness 80%, engine_direction 90%, delivery 100%, comprehension 100%, expression 100%

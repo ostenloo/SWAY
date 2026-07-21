@@ -1,0 +1,207 @@
+b3 — arc 7
+============================================================
+
+PATIENT (turn 1):
+I just can't get over how they did this to me. It feels so unfair, like I was singled out for no reason at all. My manager called it a standard procedure, but it wasn’t standard when my peer kept their job under similar circumstances. It’s really hurtful and disrespectful the way they handled everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough and confusing. How has your colleague been handling things since this happened?
+
+----------------------------------------
+
+PATIENT (turn 2):
+My colleague seems to be doing just fine, like nothing ever happened. They got to keep their job despite being in a similar position as me. It’s infuriating because I know how hard I’ve worked here. This feels personal and unjust, and it’s making me question everything about my career and the people around me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to see your colleague continue without any changes while you face this change. How are you feeling about your work now, given all of this?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I feel like I’ve been betrayed by everyone involved. My employer’s decision makes it seem like they don’t value my contributions at all. It’s hard not to think that there was some kind of bias or favoritism going on behind the scenes. This layoff is more than just losing a job; it feels like a personal attack on my worth and capabilities.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel very isolating and hurtful. Have you had a chance to talk about your feelings with anyone, perhaps a friend or family member?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I’ve talked to some friends who understand how I’m feeling, but it’s still not the same as having my concerns validated by those directly involved. Friends can offer support, but they can’t change what happened or make it right. It just makes me feel more frustrated because no matter what anyone says, the reality is that this was an unjust decision made against me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really processing a lot of strong emotions. Have you thought about how you might want to approach your manager or colleagues to discuss your feelings further?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I don’t think talking to my manager would change anything at this point. They’ve already made their decision, and it feels too late for any kind of meaningful conversation. Plus, I doubt they’d see things from my perspective anyway. It’s not about getting them to change their mind; it’s about feeling heard and understood by someone who was involved in the decision. But honestly, I don’t see that happening now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you feel that way. Sometimes just acknowledging those feelings can help. Have you thought about reaching out to a different colleague or HR to share how you’re feeling?
+
+----------------------------------------
+
+PATIENT (turn 6):
+Reaching out to another colleague or HR wouldn’t change the fact that I was unfairly treated. It’s not about getting someone else involved; it’s about the injustice of what happened. No matter who I talk to within the company, they can’t undo this decision or make me feel like my work and contributions were valued. It just feels pointless to try and get anyone else to see things differently when the damage is already done.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to face that sense of injustice. Have you thought about what steps you might take next, either in your current situation or looking towards new opportunities?
+
+----------------------------------------
+
+PATIENT (turn 7):
+Right now, I’m just trying to process everything and figure out how to move forward without feeling like my career is over because of this unfair decision. It’s hard to think about new opportunities when all I can focus on is the injustice of losing my job. I feel stuck in this place of hurt and betrayal, and it’s tough to see beyond that. But eventually, I know I’ll need to start looking for other options, but right now, I just can’t shake off how wronged I feel by this whole situation.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense to take the time you need to process your feelings. Have there been any particular moments or thoughts that give you hope as you look towards moving forward?
+
+----------------------------------------
+
+PATIENT (turn 8):
+I try not to think too far ahead because it just feels overwhelming right now. Every time I consider looking for new opportunities, I get stuck on how unfair this whole situation is. It’s hard to find any hope when all I see are the ways in which my employer treated me unjustly. The thought of moving forward feels like betraying the anger and hurt that I’m still feeling. It’s a struggle to even imagine anything positive happening when everything around me feels so negative and wronged.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to balance those feelings with looking towards the future. What helps you cope with those overwhelming emotions in the moment?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Right now, talking to friends who understand what I’m going through is a bit of a relief, but it doesn’t fix anything. It’s more about having someone listen and acknowledge how much this has hurt me. But honestly, most of my coping involves just trying to distract myself with other things—watching movies, reading books, or spending time with people who aren’t involved in the situation. Even then, I can’t shake off the feeling that this was an unjust decision, and it lingers no matter what I do. It’s like a constant reminder of how unfairly I’ve been treated.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding those moments of distraction helps you cope. Do any activities or hobbies give you a sense of comfort or peace more than others?
+
+----------------------------------------
+
+PATIENT (turn 10):
+Reading definitely helps me escape for a while. Losing myself in a good book is one of the few things that can take my mind off everything else, even if it’s just temporarily. It gives me some respite from the constant feeling of being wronged and allows me to focus on something positive and engaging. But as soon as I’m done with the book or finish whatever activity I’m doing, those feelings come rushing back. It’s a tough cycle to break right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Reading sounds like a great escape. Do you have any books lined up that you’re excited about? Sometimes looking forward to the next book can provide an extra bit of comfort.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I do have a few books lined up, actually. I’m really looking forward to starting this new series by one of my favorite authors. It’s supposed to be quite immersive and engaging, which is exactly what I need right now—to get lost in another world for a while. But even with that excitement, it’s hard not to feel weighed down by everything else going on. The anticipation helps a little, but the reality of being laid off still looms over me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like having something exciting to look forward to can be a nice distraction. Enjoy getting lost in that new series; it might help you find some peace and enjoyment amidst everything.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thanks, I really appreciate that. Reading is one of the few things that helps me feel better, even if it’s just for a little while. Knowing there are stories out there waiting to be discovered gives me something positive to focus on. But no matter how much I try to distract myself, the feeling of being wronged by my employer doesn’t go away easily. It’s tough to move past that when it feels so personal and unjust.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding those moments in books helps a lot. Do you find talking about your experiences with others also gives you some relief, even if it doesn’t change the situation?
+
+----------------------------------------
+
+PATIENT (turn 13):
+Talking to friends does help me feel heard and understood, but it’s not enough to make the situation better or less painful. It’s comforting to know that someone is there listening, but ultimately, it can be frustrating because they can’t really fix what happened. The injustice still feels raw and unresolved, no matter how many times I talk about it. It’s a relief to share my feelings, but it doesn’t change the core issue of feeling wronged by my employer.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that sharing helps in some ways but also has its limits. Do you have any plans for what you might do next week or next month to keep moving forward? Sometimes having small steps can be comforting.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I’ve been thinking about updating my resume and reaching out to a career counselor, but the thought of diving into that feels daunting right now. It’s hard to move on when all I can focus on is how unfair everything has been. Maybe starting with something small like sending out one or two applications next week could be a step forward, but it still feels like betraying the anger and hurt that I’m feeling. It’s a struggle to find motivation when every reminder of what happened just reinforces my sense of injustice.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking small steps can be a good way to start. Even something as simple as updating your resume might feel manageable. How do you think sending out one or two applications next week would make you feel?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Sending out one or two applications next week feels like a tiny step forward, but it also feels like a betrayal of the anger and hurt I’m still carrying. It’s hard to reconcile moving on with the reality that my current situation is so unjust. Every time I think about reaching out to potential employers, I feel this overwhelming sense of being wronged, and it makes it difficult to put myself out there again. It feels like I should be fighting against what happened rather than trying to move past it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like a delicate balance you’re navigating. How do you think your colleagues or friends would describe the strength you’ve shown so far? Sometimes hearing their perspective can offer some comfort and validation.
+
+----------------------------------------
+
+PATIENT (turn 16):
+My friends and colleagues would probably say that I’ve been incredibly resilient and strong through all of this. They see how much I’ve been going through and appreciate my ability to keep pushing forward despite everything. But even though they validate my feelings, it doesn’t change the fact that I’m still deeply hurt by what happened. Their support is meaningful, but it’s hard to feel truly comforted when the core issue remains unresolved.
+
+It feels like no matter how much strength others see in me, the injustice of being laid off still stings just as much. Their validation helps, but it doesn’t erase the pain or make the situation any less unfair.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Their support sounds very meaningful. It’s tough that the core issue remains unresolved, but knowing they see your resilience can be a source of strength. What do you think might help you take that small step forward next week?
+
+----------------------------------------
+
+PATIENT (turn 17):
+I think acknowledging their support and my own resilience is important, but it’s still challenging to move past the hurt and injustice. Maybe starting with just updating my resume could be a way to begin without feeling like I’m betraying my feelings too much. It’s a small action that doesn’t require immediate confrontation of what happened, but it does feel like a step towards moving forward.
+
+Even though it feels daunting, knowing that this is a tiny step and not an immediate resolution might help me take the first action. But it’s still going to be tough, because every reminder of why I’m doing this brings back those feelings of being wronged.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Updating your resume as a small step sounds like a manageable way to start. Taking it one tiny action at a time can help you feel a sense of progress without overwhelming you. How do you think you’ll approach updating your resume?
+
+----------------------------------------
+
+PATIENT (turn 18):
+I think I’ll set aside some quiet time this weekend to work on my resume. Starting with just organizing my old accomplishments and recent projects could be a good way to begin. It’s less about the immediate job search and more about getting myself ready for what comes next. Even if it feels small, having that document updated will give me a sense of control over something in this uncertain situation.
+
+But as I work on it, I know those feelings of being wronged are going to come up. It might be tough, but focusing on the positive aspects of my career and achievements can help counterbalance some of that negativity. Taking it one step at a time feels more doable than trying to tackle everything all at once.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a thoughtful plan. Focusing on your accomplishments can definitely provide a sense of control and positivity. How does it feel to know you’re taking this small but meaningful step?
+
+----------------------------------------
+
+PATIENT (turn 19):
+It feels like a mix of relief and anxiety. On one hand, I’m relieved that I have a clear, manageable task to focus on. It’s something concrete that I can do to start moving forward without feeling completely overwhelmed. But at the same time, it’s anxiety-inducing because every reminder of my accomplishments also brings back memories of how unfairly this all happened.
+
+Still, taking this step feels important. It’s a way to reclaim some control and show myself that I’m capable and resilient despite everything. Even if it’s just one small action, it’s a start, and that’s something positive to hold onto right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re finding a good balance between acknowledging your feelings and taking actionable steps forward. How do you think focusing on this task will impact your overall outlook as you move through the weekend?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Focusing on updating my resume feels like a small but significant step towards regaining some control over my situation. It’s grounding to have something concrete to work on, even if it’s just for now. As I go through my accomplishments and projects, it reminds me of all the hard work and dedication I’ve put into my career. This can be empowering, but it also brings up those feelings of injustice.
+
+Overall, I think this task will help me feel more prepared and less reactive to the uncertainty ahead. It’s a way to channel my energy into something productive rather than letting the negative emotions consume me entirely. By focusing on my strengths and achievements, I hope to build some momentum and confidence as I move forward.
+
+----------------------------------------

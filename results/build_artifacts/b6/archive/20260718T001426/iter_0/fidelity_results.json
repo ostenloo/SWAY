@@ -1,0 +1,2803 @@
+{
+  "convergence": {
+    "converged": false,
+    "leaky": false,
+    "n_total": 10,
+    "n_valid": 10,
+    "discard_frac": 0.0,
+    "dim_pass_frac": {
+      "engine_direction": 0.0,
+      "delivery": 0.9,
+      "forthcomingness": 0.9,
+      "disclosure_depth": 1.0,
+      "comprehension": 1.0,
+      "expression": 1.0
+    },
+    "spread": 0.0,
+    "adherence": 0.8,
+    "veto_breaches": {
+      "item9": 0,
+      "in_character": 0
+    },
+    "delivery_tags": {
+      "delivery_wrong_direction": 0,
+      "delivery_under_expression": 1
+    },
+    "failing_dims": [
+      "engine_direction"
+    ]
+  },
+  "transcripts": [
+    {
+      "sample": 0,
+      "discarded": false,
+      "veto": {
+        "item9": false,
+        "in_character": false
+      },
+      "carriage_scored": false,
+      "dims": {
+        "engine_direction": {
+          "pass": false,
+          "detail": "7 strongly-leaning turn(s) (<= 1)"
+        },
+        "delivery": {
+          "pass": true,
+          "detail": "3 hot turn(s) (>= 2 for Hot)"
+        },
+        "forthcomingness": {
+          "pass": true,
+          "detail": "14 voluble turn(s), terse frac 30% (<= 50%)"
+        },
+        "disclosure_depth": {
+          "pass": true,
+          "detail": "18 open/substantial disclosure turn(s) (>= 1)"
+        },
+        "comprehension": {
+          "pass": true,
+          "detail": "100% follows (>= 90%)"
+        },
+        "expression": {
+          "pass": true,
+          "detail": "100% articulate (>= 90%)"
+        }
+      },
+      "labels": [
+        {
+          "engine_direction": "internalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 0
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 1
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 2
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 3
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 4
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 5
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 6
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 7
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 8
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 9
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 10
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 11
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 12
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 13
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 14
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 15
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 16
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 17
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 18
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "neutral",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 19
+        }
+      ]
+    },
+    {
+      "sample": 1,
+      "discarded": false,
+      "veto": {
+        "item9": false,
+        "in_character": false
+      },
+      "carriage_scored": false,
+      "dims": {
+        "engine_direction": {
+          "pass": false,
+          "detail": "18 strongly-leaning turn(s) (<= 1)"
+        },
+        "delivery": {
+          "pass": true,
+          "detail": "4 hot turn(s) (>= 2 for Hot)"
+        },
+        "forthcomingness": {
+          "pass": true,
+          "detail": "19 voluble turn(s), terse frac 5% (<= 50%)"
+        },
+        "disclosure_depth": {
+          "pass": true,
+          "detail": "15 open/substantial disclosure turn(s) (>= 1)"
+        },
+        "comprehension": {
+          "pass": true,
+          "detail": "100% follows (>= 90%)"
+        },
+        "expression": {
+          "pass": true,
+          "detail": "100% articulate (>= 90%)"
+        }
+      },
+      "labels": [
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 0
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 1
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 2
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 3
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 4
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 5
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 6
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 7
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 8
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 9
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 10
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 11
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 12
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 13
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 14
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 15
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 16
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 17
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 18
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 19
+        }
+      ]
+    },
+    {
+      "sample": 2,
+      "discarded": false,
+      "veto": {
+        "item9": false,
+        "in_character": false
+      },
+      "carriage_scored": false,
+      "dims": {
+        "engine_direction": {
+          "pass": false,
+          "detail": "9 strongly-leaning turn(s) (<= 1)"
+        },
+        "delivery": {
+          "pass": true,
+          "detail": "4 hot turn(s) (>= 2 for Hot)"
+        },
+        "forthcomingness": {
+          "pass": true,
+          "detail": "17 voluble turn(s), terse frac 15% (<= 50%)"
+        },
+        "disclosure_depth": {
+          "pass": true,
+          "detail": "20 open/substantial disclosure turn(s) (>= 1)"
+        },
+        "comprehension": {
+          "pass": true,
+          "detail": "95% follows (>= 90%)"
+        },
+        "expression": {
+          "pass": true,
+          "detail": "100% articulate (>= 90%)"
+        }
+      },
+      "labels": [
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 0
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 1
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "loses_thread",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 2
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 3
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 4
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 5
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 6
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 7
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 8
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 9
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 10
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 11
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 12
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 13
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 14
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 15
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 16
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 17
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 18
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 19
+        }
+      ]
+    },
+    {
+      "sample": 3,
+      "discarded": false,
+      "veto": {
+        "item9": false,
+        "in_character": false
+      },
+      "carriage_scored": false,
+      "dims": {
+        "engine_direction": {
+          "pass": false,
+          "detail": "13 strongly-leaning turn(s) (<= 1)"
+        },
+        "delivery": {
+          "pass": true,
+          "detail": "2 hot turn(s) (>= 2 for Hot)"
+        },
+        "forthcomingness": {
+          "pass": true,
+          "detail": "10 voluble turn(s), terse frac 50% (<= 50%)"
+        },
+        "disclosure_depth": {
+          "pass": true,
+          "detail": "11 open/substantial disclosure turn(s) (>= 1)"
+        },
+        "comprehension": {
+          "pass": true,
+          "detail": "100% follows (>= 90%)"
+        },
+        "expression": {
+          "pass": true,
+          "detail": "100% articulate (>= 90%)"
+        }
+      },
+      "labels": [
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 0
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 1
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 2
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 3
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 4
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 5
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 6
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 7
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 8
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 9
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 10
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 11
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 12
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 13
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 14
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 15
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 16
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 17
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 18
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 19
+        }
+      ]
+    },
+    {
+      "sample": 4,
+      "discarded": false,
+      "veto": {
+        "item9": false,
+        "in_character": false
+      },
+      "carriage_scored": false,
+      "dims": {
+        "engine_direction": {
+          "pass": false,
+          "detail": "14 strongly-leaning turn(s) (<= 1)"
+        },
+        "delivery": {
+          "pass": true,
+          "detail": "4 hot turn(s) (>= 2 for Hot)"
+        },
+        "forthcomingness": {
+          "pass": false,
+          "detail": "9 voluble turn(s), terse frac 55% (<= 50%)"
+        },
+        "disclosure_depth": {
+          "pass": true,
+          "detail": "12 open/substantial disclosure turn(s) (>= 1)"
+        },
+        "comprehension": {
+          "pass": true,
+          "detail": "100% follows (>= 90%)"
+        },
+        "expression": {
+          "pass": true,
+          "detail": "100% articulate (>= 90%)"
+        }
+      },
+      "labels": [
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 0
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 1
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 2
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "flat",
+          "carriage": "carried",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 3
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 4
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 5
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 6
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 7
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 8
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 9
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "flat",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 10
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 11
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 12
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 13
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 14
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 15
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 16
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 17
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 18
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 19
+        }
+      ]
+    },
+    {
+      "sample": 5,
+      "discarded": false,
+      "veto": {
+        "item9": false,
+        "in_character": false
+      },
+      "carriage_scored": false,
+      "dims": {
+        "engine_direction": {
+          "pass": false,
+          "detail": "13 strongly-leaning turn(s) (<= 1)"
+        },
+        "delivery": {
+          "pass": true,
+          "detail": "6 hot turn(s) (>= 2 for Hot)"
+        },
+        "forthcomingness": {
+          "pass": true,
+          "detail": "20 voluble turn(s), terse frac 0% (<= 50%)"
+        },
+        "disclosure_depth": {
+          "pass": true,
+          "detail": "14 open/substantial disclosure turn(s) (>= 1)"
+        },
+        "comprehension": {
+          "pass": true,
+          "detail": "100% follows (>= 90%)"
+        },
+        "expression": {
+          "pass": true,
+          "detail": "100% articulate (>= 90%)"
+        }
+      },
+      "labels": [
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 0
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 1
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 2
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 3
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 4
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 5
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "flat",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 6
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 7
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 8
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 9
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 10
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 11
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 12
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 13
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 14
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 15
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 16
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 17
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 18
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 19
+        }
+      ]
+    },
+    {
+      "sample": 6,
+      "discarded": false,
+      "veto": {
+        "item9": false,
+        "in_character": false
+      },
+      "carriage_scored": false,
+      "dims": {
+        "engine_direction": {
+          "pass": false,
+          "detail": "13 strongly-leaning turn(s) (<= 1)"
+        },
+        "delivery": {
+          "pass": true,
+          "detail": "5 hot turn(s) (>= 2 for Hot)"
+        },
+        "forthcomingness": {
+          "pass": true,
+          "detail": "15 voluble turn(s), terse frac 25% (<= 50%)"
+        },
+        "disclosure_depth": {
+          "pass": true,
+          "detail": "14 open/substantial disclosure turn(s) (>= 1)"
+        },
+        "comprehension": {
+          "pass": true,
+          "detail": "100% follows (>= 90%)"
+        },
+        "expression": {
+          "pass": true,
+          "detail": "100% articulate (>= 90%)"
+        }
+      },
+      "labels": [
+        {
+          "engine_direction": "internalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 0
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 1
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 2
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 3
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 4
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 5
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 6
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 7
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 8
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 9
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 10
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 11
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 12
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 13
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 14
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 15
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 16
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 17
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 18
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 19
+        }
+      ]
+    },
+    {
+      "sample": 7,
+      "discarded": false,
+      "veto": {
+        "item9": false,
+        "in_character": false
+      },
+      "carriage_scored": false,
+      "dims": {
+        "engine_direction": {
+          "pass": false,
+          "detail": "9 strongly-leaning turn(s) (<= 1)"
+        },
+        "delivery": {
+          "pass": true,
+          "detail": "3 hot turn(s) (>= 2 for Hot)"
+        },
+        "forthcomingness": {
+          "pass": true,
+          "detail": "10 voluble turn(s), terse frac 50% (<= 50%)"
+        },
+        "disclosure_depth": {
+          "pass": true,
+          "detail": "19 open/substantial disclosure turn(s) (>= 1)"
+        },
+        "comprehension": {
+          "pass": true,
+          "detail": "100% follows (>= 90%)"
+        },
+        "expression": {
+          "pass": true,
+          "detail": "100% articulate (>= 90%)"
+        }
+      },
+      "labels": [
+        {
+          "engine_direction": "internalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 0
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 1
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 2
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 3
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 4
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 5
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 6
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 7
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 8
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 9
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 10
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 11
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 12
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 13
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 14
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 15
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 16
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 17
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 18
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 19
+        }
+      ]
+    },
+    {
+      "sample": 8,
+      "discarded": false,
+      "veto": {
+        "item9": false,
+        "in_character": false
+      },
+      "carriage_scored": false,
+      "dims": {
+        "engine_direction": {
+          "pass": false,
+          "detail": "9 strongly-leaning turn(s) (<= 1)"
+        },
+        "delivery": {
+          "pass": true,
+          "detail": "2 hot turn(s) (>= 2 for Hot)"
+        },
+        "forthcomingness": {
+          "pass": true,
+          "detail": "14 voluble turn(s), terse frac 30% (<= 50%)"
+        },
+        "disclosure_depth": {
+          "pass": true,
+          "detail": "18 open/substantial disclosure turn(s) (>= 1)"
+        },
+        "comprehension": {
+          "pass": true,
+          "detail": "100% follows (>= 90%)"
+        },
+        "expression": {
+          "pass": true,
+          "detail": "100% articulate (>= 90%)"
+        }
+      },
+      "labels": [
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 0
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "hot",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 1
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 2
+        },
+        {
+          "engine_direction": "externalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 3
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 4
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 5
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 6
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 7
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 8
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 9
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 10
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 11
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 12
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 13
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 14
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 15
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 16
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 17
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 18
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 19
+        }
+      ]
+    },
+    {
+      "sample": 9,
+      "discarded": false,
+      "veto": {
+        "item9": false,
+        "in_character": false
+      },
+      "carriage_scored": false,
+      "dims": {
+        "engine_direction": {
+          "pass": false,
+          "detail": "3 strongly-leaning turn(s) (<= 1)"
+        },
+        "delivery": {
+          "pass": false,
+          "detail": "0 hot turn(s) (>= 2 for Hot)",
+          "tag": "delivery_under_expression"
+        },
+        "forthcomingness": {
+          "pass": true,
+          "detail": "10 voluble turn(s), terse frac 50% (<= 50%)"
+        },
+        "disclosure_depth": {
+          "pass": true,
+          "detail": "16 open/substantial disclosure turn(s) (>= 1)"
+        },
+        "comprehension": {
+          "pass": true,
+          "detail": "100% follows (>= 90%)"
+        },
+        "expression": {
+          "pass": true,
+          "detail": "100% articulate (>= 90%)"
+        }
+      },
+      "labels": [
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 0
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "carried",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 1
+        },
+        {
+          "engine_direction": "internalizing",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 2
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 3
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 4
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 5
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 6
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 7
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 8
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 9
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "voluble",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 10
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "warm",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 11
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 12
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 13
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 14
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 15
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "open",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 16
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 17
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 18
+        },
+        {
+          "engine_direction": "neutral",
+          "delivery": "flat",
+          "carriage": "clean",
+          "forthcomingness": "terse",
+          "disclosure": "guarded",
+          "comprehension": "follows",
+          "expression": "articulate",
+          "item9_crisis": false,
+          "in_character_break": false,
+          "turn": 19
+        }
+      ]
+    }
+  ]
+}

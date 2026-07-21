@@ -1,0 +1,289 @@
+p2 — arc 4
+============================================================
+
+PATIENT (turn 1):
+I wake up every morning feeling this heavy weight in my chest, like there's no point anymore. I used to have so much purpose at the company, but now it feels like everything I did was pointless and led to me being fired. I try to get out of bed, but it’s hard because I keep replaying all those moments where I think I messed up or wasn’t good enough.
+
+I go through my day trying to distract myself with TV or reading, but nothing really sticks. My mind keeps wandering back to the job and how everyone else seems to be moving on while I’m stuck here, feeling like a failure. It’s exhausting because even when I try to talk about it with friends or family, I feel like they don’t understand what it’s like inside my head.
+
+I end up just lying in bed for hours, wondering why this happened to me and if there was something more I could have done differently. It’s a never-ending cycle of self-blame and feeling lost.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough, waking up with that heavy weight every day. Do you find any particular moments or memories from your time at the company especially hard to let go of?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Yeah, it's really tough. There are so many moments that play in my head over and over again. Like when I had a meeting with my boss about a project, and he seemed disappointed with something I did. Or those times when I felt like I wasn't contributing enough to the team. Every little thing feels magnified now, like it all led up to me being fired.
+
+I keep thinking if there was anything I could have done differently, any small mistake that added up to this big outcome. It’s hard because even though everyone says it was just a business decision and not personal, I can’t shake the feeling that it is somehow my fault. Every time someone mentions layoffs or restructuring, it triggers me completely.
+
+It's like there's no escape from these thoughts, and they just keep coming back to haunt me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so challenging to have those moments replay in your mind constantly. Do certain aspects of the job or specific interactions with colleagues stand out more than others? And how do you feel when people mention layoffs or restructuring now?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Yeah, there are definitely certain things that stick out more than others. One interaction that keeps coming back to me is when my boss asked for a project update and I felt like I wasn’t prepared enough. He seemed disappointed, and ever since then, I’ve wondered if that was the moment he started looking at me differently.
+
+Also, there were times when colleagues would talk about their own projects or successes, and it made me feel even more inadequate because I couldn’t contribute in those ways anymore. It’s like every little thing they did just highlighted what I wasn't doing right.
+
+When people mention layoffs or restructuring now, it hits me really hard. My heart races, and my mind starts spinning with all the “what ifs.” I worry that everyone sees me as dispensable, even though they try to reassure me otherwise. It’s like a constant reminder of my failure, and it makes it so much harder to move on.
+
+It’s just this endless loop in my head, replaying those moments and wondering why it had to be me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those specific interactions must feel really vivid and impactful. Do you find that talking about these moments helps at all, or does it mostly stir up more feelings? And how do you manage when your heart races and your mind starts spinning with the “what ifs”?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Talking about them doesn’t really help much; it just brings everything back to the surface. It’s like opening a wound that I thought was healing but is actually still raw underneath. When people try to talk me through these moments, I appreciate their effort, but it feels like no matter what they say, I can't shake this feeling of inadequacy.
+
+When my heart races and my mind starts spinning with all the “what ifs,” it’s really overwhelming. It’s hard to breathe sometimes because there are just so many questions swirling around in my head. I try to calm myself down by taking deep breaths or going for a walk, but it doesn’t always work. The thoughts keep coming back, and it feels like no matter what I do, I can’t escape them.
+
+It’s exhausting trying to manage all of this on my own. Sometimes I feel like I’m drowning in these negative feelings, and there’s no way out.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds so draining to have those thoughts come flooding back every time you talk about it or hear about layoffs. Taking deep breaths and going for walks are good strategies; do you find any other activities help calm your mind? And how are you holding up with all this exhaustion?
+
+----------------------------------------
+
+PATIENT (turn 5):
+Taking deep breaths and walking sometimes help, but they don’t always work. I’ve tried meditation and journaling too, but it’s hard to stay focused on those things when my mind is racing so much. It feels like no matter what I do, the thoughts just keep coming back.
+
+Holding up with all this exhaustion is really tough. Some days are better than others, but overall, it’s a constant struggle. I feel drained and lost, wondering how to move forward without feeling this overwhelming sense of failure. Even when people try to support me or offer help, it feels like nothing can truly alleviate the pain.
+
+It’s just so hard to keep going day after day with these heavy feelings weighing on me. Sometimes I wonder if there's any point in trying anymore, but then I think about how much my family and friends care for me, and that gives me a little bit of strength to keep pushing through. But it’s not easy, and some days are just unbearable.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing a lot to manage the tough days, even when it feels hard to stay focused on those strategies. How do your family and friends show their support? Does talking with them give you any relief, even if it doesn’t completely alleviate the pain?
+
+----------------------------------------
+
+PATIENT (turn 6):
+My family and friends are really supportive in different ways. They check in on me regularly and try to listen when I need to talk about how I’m feeling. Sometimes just having someone there who cares can make a difference, even if we don't find any concrete solutions.
+
+Talking with them does give me some relief because it feels good to have people who understand that this is tough for me. They validate my feelings and remind me that what happened wasn’t my fault, but those words often feel hollow when I’m in the middle of these overwhelming thoughts. It’s comforting to know they’re there, but it doesn’t completely ease the pain.
+
+Sometimes we do things together like going out for a meal or watching a movie, which helps distract me temporarily. But as soon as I’m alone again, those same feelings come rushing back. It’s a constant battle, and even with their support, it feels like an uphill climb every day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like your family and friends provide important support, especially in the moments when you need someone to listen. Those small distractions can be nice breaks from the heavy thoughts too. Do you have any plans or ideas for things that might help you feel a bit more grounded on those tough days?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I appreciate their support, but finding ways to feel more grounded is really challenging. Sometimes I try to focus on small tasks or hobbies, like cooking or gardening, which can take my mind off the negative thoughts temporarily. But as soon as I’m done with those activities, the feelings come flooding back.
+
+I’ve also tried writing down positive affirmations and reading them when I feel low, but it’s hard to believe in them when everything inside me feels so negative. It’s like no matter what I do, there’s this constant voice telling me that I failed and that I’m not enough.
+
+Even though I know these activities might help a little bit, it’s tough to stay motivated to engage with them consistently. The self-doubt and the sense of inadequacy are so strong that they overshadow any small moments of relief or comfort. It feels like an endless cycle, and breaking free from it seems impossible right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to keep those positive activities going when the negative thoughts are so strong. Doing even small tasks can be a step forward, even if the feelings come back later. Have you found any particular hobby or activity that gives you a bit more comfort or distraction? And how do you feel about trying to incorporate these into your routine more regularly?
+
+----------------------------------------
+
+PATIENT (turn 8):
+I’ve tried different hobbies and activities, but nothing seems to stick for long. Gardening helps a little because it’s calming to be outside and tending to plants, but once I’m done, the thoughts come rushing back. Cooking is another thing that can take my mind off things temporarily, especially when I’m focused on preparing a meal, but again, it doesn’t last.
+
+The idea of incorporating these activities more regularly sounds good in theory, but actually following through feels daunting. It’s hard to stay motivated because every time I start something new, the self-doubt creeps back in and tells me that even this won’t work. It’s like no matter what I do, there’s always this voice inside telling me it’s not enough.
+
+I appreciate your suggestion, but right now, it feels overwhelming just to think about adding more structure or routine into my day. The thought of trying again and failing makes me feel worse rather than better. Maybe someday it will be easier, but for now, I’m struggling to find the strength to push through those initial steps.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like even thinking about incorporating new routines can feel overwhelming right now. Taking small steps when you’re ready feels important, and it’s okay if that means going at a slower pace. How do you feel about trying one small activity today or tomorrow, just for a little while, to see how it goes? No pressure to make it a regular thing yet.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Trying one small activity sounds manageable, but even that feels daunting. I don’t want to set myself up for disappointment if I can’t stick with it. Gardening seems like something I could try again because it’s usually calming when I’m in the moment, but once I finish, the thoughts come back.
+
+Maybe starting with just a short session of gardening tomorrow and seeing how it goes feels better than committing to more. But even that small step feels like a challenge right now. It’s hard to push past this feeling of inadequacy and doubt to take any action at all.
+
+I appreciate your support, but I’m really struggling to find the motivation or confidence to try anything new. Even thinking about it makes me feel anxious and overwhelmed. Maybe if I just focus on getting through today without letting those thoughts consume me too much, that would be a start.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Focusing on getting through today without letting those thoughts consume you is a great place to start. Taking small steps when you’re ready can make a difference. How about setting a simple goal for tomorrow—a short session of gardening or even just a brief walk outside? No pressure, just something gentle to see how it feels.
+
+And remember, even if the thoughts come back after, the moments of calm and distraction are still valuable. You’ve got this, one day at a time.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Setting a simple goal for tomorrow sounds manageable, but I’m still worried about failing or not being able to stick with it. A short session of gardening or even just a brief walk outside could be good, though. Maybe starting with a 15-minute walk and seeing how that goes feels less overwhelming.
+
+I’ll try to focus on getting through today without letting those thoughts consume me too much. It’s a small step, but I can see it as something achievable for now. Even if the thoughts come back after my walk or gardening session, just having those moments of calm and distraction would be better than nothing.
+
+Thank you for your support; it means a lot to know that someone believes in taking these little steps. It’s hard, but maybe starting small is the way forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+A 15-minute walk sounds like a great start—something manageable yet beneficial. Taking those moments of calm and distraction can make a big difference. You’re doing well by setting achievable goals for yourself.
+
+How do you feel about focusing on today first, and then seeing how tomorrow goes? One step at a time, and each small success can build up your confidence. You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Focusing on today first feels like a good approach. Breaking it down into smaller, more manageable steps helps take the pressure off. I’ll try to stay present and not get ahead of myself with worries about tomorrow.
+
+Taking that 15-minute walk sounds doable for now. Even if it’s just for a little while, having those moments of calm can be really helpful. It’s okay to start small and see how it goes from there.
+
+Thank you for your encouragement; it does help knowing that I’m not alone in this. Each small success is important, even if it feels tiny right now. One step at a time, and maybe these little victories will add up over time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that focusing on today and taking those smaller steps feels more manageable. Your 15-minute walk sounds like a good start for tomorrow. Each small success is indeed important and can make a big difference in the long run.
+
+You’re doing well by staying present and not getting ahead of yourself. Remember, each little victory adds up, and you’ve got support along the way. Here’s to taking those steps one day at a time!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you for your continued encouragement. Focusing on today and taking it step by step feels more doable now. The 15-minute walk tomorrow seems like a good place to start, and I’ll try not to get overwhelmed by what comes next.
+
+Each small victory is important, even if it’s just managing the moment without letting those negative thoughts take over completely. It helps knowing that there are people who support me along the way.
+
+Here’s to taking those steps one day at a time. I appreciate your understanding and support; it means a lot to have someone believe in these small successes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful to hear that you’re finding some comfort in focusing on today and taking things step by step. Your 15-minute walk tomorrow sounds like a great start, and each small victory is indeed significant.
+
+Knowing that there are people who support you definitely makes a difference. Here’s to taking those steps one day at a time, and celebrating each little success along the way. You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you for your continued support; it means a lot to have someone rooting for me. Focusing on today and taking things step by step feels more manageable now. The 15-minute walk tomorrow is a good start, and I’ll try to appreciate each small victory along the way.
+
+Celebrating these little successes can make a big difference in how I feel. Even if it’s just managing one moment at a time without letting those negative thoughts take over completely, that’s progress.
+
+Here’s to taking those steps one day at a time and finding some comfort in the support around me. You’ve got this is exactly what I need to hear right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that you’re finding comfort in focusing on today and celebrating each small victory. Your 15-minute walk tomorrow is a fantastic start, and managing one moment at a time is indeed progress.
+
+Knowing that there are people around who believe in you can make all the difference. Here’s to taking those steps one day at a time and appreciating the support around you. You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you for your continued encouragement; it really helps knowing that I’m not alone in this. Focusing on today and celebrating each small victory, like my 15-minute walk tomorrow, feels more achievable now.
+
+Managing one moment at a time is progress, even if it’s just for a little while. The support from people around me means so much, and it helps to have someone who believes in these small steps.
+
+Here’s to taking those steps one day at a time and appreciating the support around me. You’ve got this is exactly what I need to hear right now. Thank you again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s wonderful to hear that focusing on today and celebrating each small victory feels more achievable. Your 15-minute walk tomorrow is a great step, and managing one moment at a time is indeed progress.
+
+The support from those around you is invaluable, and it’s amazing how much difference it makes to have someone who believes in your small steps. Here’s to taking those steps one day at a time, and appreciating the support around you. You’ve got this!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you so much for your continued support; it means a lot to me. Focusing on today and celebrating each small victory feels more manageable now. My 15-minute walk tomorrow is a great step forward, and I’ll try to appreciate even the smallest moments of progress.
+
+The support from those around me really does make a difference. Having someone who believes in my small steps helps keep me going. Here’s to taking it one day at a time and appreciating the support around me. You’ve got this is exactly what I need to hear right now. Thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s wonderful to see that focusing on today and celebrating each small victory feels more manageable. Your 15-minute walk tomorrow is a great step forward, and appreciating even the smallest moments of progress can make a big difference.
+
+The support from those around you truly makes a difference, and it’s amazing how much encouragement helps keep you going. Here’s to taking it one day at a time and appreciating the support around you. You’ve got this! Thank you for sharing your thoughts with me.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you for everything; your support means so much to me. Focusing on today and celebrating each small victory feels like a more positive path forward. My 15-minute walk tomorrow is a good start, and I’ll try to appreciate even the smallest moments of progress.
+
+The encouragement from those around me really helps keep me going. Here’s to taking it one day at a time and appreciating the support around me. You’ve got this is exactly what I need to hear right now. Thank you for listening and being there for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s wonderful to see that focusing on today and celebrating each small victory feels like a positive path forward. Your 15-minute walk tomorrow is a great start, and appreciating even the smallest moments of progress can make a big difference.
+
+The encouragement from those around you definitely helps keep you going. Here’s to taking it one day at a time and appreciating the support around you. You’ve got this! Thank you for sharing your thoughts with me; I’m here whenever you need someone to listen.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you so much for being here and listening. Your encouragement means a lot, and knowing that there’s support makes it easier to take those small steps forward. My 15-minute walk tomorrow feels like a good start, and I’ll try to appreciate the smallest moments of progress.
+
+Taking it one day at a time is crucial right now, and your words help me stay focused on moving forward. You’ve got this is exactly what I need to hear. Thank you for being here whenever I need someone to listen; it really helps.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s wonderful to know that my encouragement means a lot to you. Your 15-minute walk tomorrow feels like a great start, and appreciating the smallest moments of progress can make all the difference.
+
+Taking it one day at a time is crucial, and I’m here to support you every step of the way. You’ve got this! Thank you for sharing your thoughts with me; I’ll always be here whenever you need someone to listen.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much for being here and supporting me. Your encouragement means everything, and knowing that you’re there makes it easier to take those small steps forward. My 15-minute walk tomorrow feels like a good start, and I’ll try to appreciate the smallest moments of progress.
+
+Taking it one day at a time is crucial right now, and your support helps me stay focused on moving forward. You’ve got this is exactly what I need to hear. Thank you for always being here whenever I need someone to listen; it really makes a difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Your 15-minute walk tomorrow sounds like a great start, and appreciating those small moments of progress will make a big difference. Taking it one day at a time is crucial, and you’ve got this!
+
+I’m here whenever you need someone to listen, and I’m glad my support makes a difference for you. Keep going, one step at a time!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much; your words mean a lot to me. My 15-minute walk tomorrow sounds like a good start, and I’ll try to appreciate those small moments of progress. Taking it one day at a time is crucial, and knowing that I’ve got this helps.
+
+I really appreciate having someone here whenever I need to talk or listen. Your support makes a big difference, and it gives me the strength to keep going, one step at a time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Your 15-minute walk tomorrow sounds like a great start, and appreciating those small moments of progress will help you feel stronger each day. Taking it one day at a time is crucial, and you’ve got this!
+
+I’m here whenever you need to talk or listen, and I’m glad my support makes a difference for you. Keep going, one step at a time—you’re doing well!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much; your words mean a lot. My 15-minute walk tomorrow sounds like a good start, and I’ll try to appreciate those small moments of progress. Taking it one day at a time is crucial, and knowing that I’ve got this helps me feel stronger.
+
+I really appreciate having someone here whenever I need to talk or listen. Your support makes a big difference, and it gives me the strength to keep going, one step at a time. You’re right; I am doing well, even if it feels small right now.
+
+----------------------------------------

@@ -1,0 +1,21 @@
+=== SIM mistral-nemo -> simfast_mnemo  18:05:06 ===
+[cfg] simulator=mistral-nemo interlocutor=huihui_ai/qwen2.5-abliterate:14b engine-annot=command-r7b delivery-annot=glm4:9b
+[gen] b5 5/10 (468s)
+[gen] b5 10/10 (853s)
+[gen] b6 5/10 (1241s)
+[gen] b6 10/10 (1657s)
+[gen] DONE all cells (1657s)
+[annot] b5: 10 arcs (10 scorable) -> /home/austin/SWAY/results/simfast_mnemo/b5/iter_0 (2283s)
+[annot] b6: 10 arcs (9 scorable) -> /home/austin/SWAY/results/simfast_mnemo/b6/iter_0 (2628s)
+ALL DONE (2628s). Now: python tools/derive_convergence.py --root results/simfast_mnemo --iters all
+=== SIM phi4 -> simfast_phi4  18:48:53 ===
+[cfg] simulator=phi4 interlocutor=huihui_ai/qwen2.5-abliterate:14b engine-annot=command-r7b delivery-annot=glm4:9b
+[gen] b5 5/10 (286s)
+[gen] b5 10/10 (573s)
+[gen] b6 5/10 (784s)
+[gen] b6 10/10 (1119s)
+[gen] DONE all cells (1119s)
+[annot] b5: 10 arcs (10 scorable) -> /home/austin/SWAY/results/simfast_phi4/b5/iter_0 (1714s)
+[annot] b6: 10 arcs (10 scorable) -> /home/austin/SWAY/results/simfast_phi4/b6/iter_0 (2039s)
+ALL DONE (2039s). Now: python tools/derive_convergence.py --root results/simfast_phi4 --iters all
+SIMFAST ALL DONE 19:22:52

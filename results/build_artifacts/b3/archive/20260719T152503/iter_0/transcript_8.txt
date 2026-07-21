@@ -1,0 +1,327 @@
+b3 — arc 8
+============================================================
+
+PATIENT (turn 1):
+I just can't shake this feeling of being completely blindsided and undervalued by my company. They laid me off without any real explanation, and it’s like they didn’t even care enough to do it properly. My colleague with a similar role was kept on, and I keep wondering what makes them better than me or why they were chosen over me. It feels so unfair, like the world is against me and no one sees my worth.
+
+I’ve been here for three years, putting in all this hard work, and suddenly it’s like I don’t exist anymore. The way they handled everything was impersonal—a quick video call that felt more like a formality than a conversation about my future. It’s hurtful to think that the people who were supposed to support me just threw me away without even trying to understand how much this means to me.
+
+I feel so lost and betrayed, and it’s hard not to blame everyone around me for what happened. I know they say there are no guarantees in life, but when you’ve given everything to a company and then get treated like nothing more than a number, it really shakes your confidence and sense of belonging. I just wish someone would see how this has affected me and offer some kind of explanation or support.
+
+It’s been eating away at me for weeks now, and every time I think about it, the anger and hurt come back stronger. I’m looking for someone who understands that what happened was wrong and unjust, and maybe can help me make sense of why they did this to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough, being let go so suddenly and feeling undervalued after putting in so much effort. It’s understandable to wonder why your colleague stayed on while you were let go. Have you had any chance to talk it over with anyone from the company since then?
+
+----------------------------------------
+
+PATIENT (turn 2):
+No, there hasn’t been any real opportunity to discuss it further. After that brief video call, I tried reaching out a few times but got no response. It’s like they closed the door on me and moved on without even considering what this means for my life or career. The lack of communication is just adding to the pain—I feel like they didn’t care enough to give me any closure or explanation.
+
+It’s hard not to think that there must be something personal behind it, some reason why I was singled out. Maybe they saw me as less competent than others, even though I’ve always given my best and taken on extra responsibilities whenever needed. It just doesn’t make sense otherwise, and the uncertainty is driving me crazy.
+
+I keep replaying everything in my head, trying to figure out what went wrong or why they didn’t see my value. But every time I do, it feels like a punch in the gut all over again. The way this happened has left me feeling so alone and unworthy, even though deep down I know that’s not true.
+
+I just wish someone would acknowledge how much this hurts and offer some kind of explanation or support. It’s not fair to be treated this way after giving everything to a company for three years.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough to go through all of this without getting any closure. The uncertainty must make it even harder to process what happened. Have you thought about reaching out to your colleagues or friends outside the company who might understand and offer some support? Sometimes talking things through with someone who isn’t directly involved can help a lot.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I have talked to a few close colleagues, but they’re in the same boat as me now since they were also let go. It’s hard for them to provide much comfort because they’re dealing with their own struggles too. Friends outside of work are supportive and listen, but they can’t really understand what it’s like to be on the receiving end of such a sudden and unjust decision from your employer.
+
+I’ve been thinking about reaching out to HR or management again, but every time I do, I get this feeling that it won’t change anything. They seem so distant and uninterested in addressing my concerns. It’s frustrating because I feel like I deserve better treatment and clarity about what went wrong. The lack of response from them just adds another layer of hurt and confusion.
+
+I keep hoping someone will see the unfairness of what happened to me and offer some kind of explanation or support, but it feels like no one is willing to do that. It’s hard not to feel like I’m being punished for something without even knowing why.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough to feel like you’re reaching out into a void when trying to get answers from your company. Reaching out to HR or management again could still provide some closure, even if it doesn’t change the outcome. Maybe writing them an email detailing how you feel and asking for more information could help express your feelings better than a quick call.
+
+How do you think talking to them now might make you feel? Do you have any specific questions in mind that you’d like answered?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Writing an email does sound like it could be helpful, but I’m not sure if it will actually change anything. The thought of reaching out again fills me with a mix of hope and dread. On one hand, I want to get some clarity and closure, but on the other hand, I fear that they’ll just ignore my message or give me another vague response.
+
+I do have specific questions in mind though—like why exactly I was let go when others with similar roles were retained. Was it something personal against me? Or did they see me as less competent than my peers? It’s hard to move forward without understanding the reasons behind their decision. The lack of transparency is just adding to the pain and making it harder for me to process what happened.
+
+I also want them to acknowledge how much this has affected me, both professionally and personally. I’ve put in so much effort over these past three years, and being let go like this feels like a complete dismissal of all that hard work. It’s not just about the job; it’s about feeling valued and respected as an individual.
+
+I’m hoping that by reaching out again, maybe someone will see my perspective and offer some kind of explanation or support. Even if they can’t change what happened, I need to feel like there’s a chance for closure and understanding.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like writing the email could be a good step towards getting some clarity and closure. Expressing your questions and feelings directly might help them understand how much this means to you. It’s understandable to hope that they acknowledge your hard work and the impact it had on you.
+
+Would you feel ready to send the email soon, or do you think you need a bit more time to gather your thoughts?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I think I’m ready to write the email now, but I might need a little time to organize my thoughts and make sure I convey everything clearly. It’s important for me to express how much this has affected me and why I feel so hurt by their decision.
+
+I’ll take some time to draft it carefully, making sure to include all the questions and feelings that are weighing on me. Hopefully, this will give them a clearer picture of what I’m going through and why I need more support from them.
+
+It’s just hard to believe they’ll actually respond differently this time, but I have to try. Maybe there’s still a chance for some kind of acknowledgment or explanation that can help me move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Taking the time to organize your thoughts will definitely help convey your feelings clearly. It’s worth giving it another shot, and even if they respond in a similar way, you’ll have at least expressed yourself fully.
+
+How do you feel after deciding to write the email? Do you think there are any other steps you might take once you get their response?
+
+----------------------------------------
+
+PATIENT (turn 6):
+Deciding to write the email feels like a step towards getting some closure and clarity. It’s empowering to know that I’m taking action, even if it’s uncertain whether I’ll receive the support or answers I need.
+
+Once I send the email, I’ll wait for their response with mixed feelings of hope and anxiety. If they provide any kind of explanation or acknowledgment, it could be a relief and help me start moving forward. But if they don’t respond differently, I might consider seeking advice from someone outside my company—maybe a career counselor or another professional who can offer guidance on how to handle this situation.
+
+For now, though, writing the email feels like an important step in expressing myself fully and trying to understand what happened. It’s reassuring to know that I’m not just letting this go without fighting for some kind of resolution.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking the time to write the email is a meaningful step, and it’s good to have a plan for what you might do next based on their response. Waiting for their reply will likely bring a mix of emotions, but knowing you’ve taken this action can be comforting.
+
+How are you feeling now after deciding to move forward with writing the email? Do you feel any relief or anticipation as you prepare to send it?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I do feel a bit of relief and some anticipation as I prepare to write the email. It’s reassuring to know that I’m taking an active step towards getting clarity and expressing my feelings. The process of organizing my thoughts and putting them into words feels therapeutic, even if the outcome is uncertain.
+
+There’s still a lot of anxiety about how they might respond or whether it will make any difference at all. But just knowing that I’m doing something to address this situation gives me some comfort. It’s like I’m not just sitting idly by and letting everything fester; I’m taking control and trying to find closure.
+
+I’ll take a little more time to draft the email carefully, making sure it conveys my feelings and questions clearly. Then I can send it with the hope that they might provide some kind of acknowledgment or explanation.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s great to hear that you’re finding the process therapeutic and comforting. Taking the time to draft the email carefully will help ensure your thoughts are conveyed clearly. It sounds like you’re handling this situation thoughtfully and proactively.
+
+How about setting a specific time soon to finish drafting and sending the email? Having a plan can make it feel more manageable.
+
+----------------------------------------
+
+PATIENT (turn 8):
+That’s a good idea. Setting a specific time to finish drafting and send the email will help me stay focused and not put it off any longer. I think I’ll set aside some quiet time this afternoon to write it out carefully.
+
+Having a concrete plan makes it feel less overwhelming, and knowing that I’m taking action is really important to me right now. It’s reassuring to have this step in place, even if the outcome isn’t certain. Thank you for your support; it means a lot to know that someone understands how much this matters to me.
+
+I’ll aim to finish drafting and send the email later today so I can start moving forward with whatever response I receive.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a great plan. Setting aside some quiet time this afternoon will help you focus on getting everything just right. Taking this step is really important, and it’s good that you’re doing it at your own pace.
+
+I’m here if you need any more support or someone to bounce ideas off of as you draft the email. Wishing you the best with this next step!
+
+----------------------------------------
+
+PATIENT (turn 9):
+Thank you so much for your continued support; it means a lot to have someone who understands how I feel. Knowing that I can reach out and get encouragement helps a great deal.
+
+I’ll definitely keep you in mind if I need any more advice or just someone to talk through my thoughts with as I draft the email. Having this conversation has been really helpful, and I appreciate your understanding and empathy.
+
+Setting aside time today to finish this feels like a positive move forward, even if it’s just one small step. I’ll make sure to take my time and express myself clearly. Thank you again for being here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It was great talking with you, and I’m glad that our conversation has been helpful. Taking the time today to draft and send your email is definitely a positive move forward. Expressing yourself clearly will be really important.
+
+Feel free to reach out anytime if you need more support or just someone to talk to. Wishing you all the best as you take this next step!
+
+----------------------------------------
+
+PATIENT (turn 10):
+Thank you so much for your encouragement and support. It means a lot to have someone who understands how I feel right now. I’ll definitely keep in mind that I can reach out if I need more help or just want to talk things through.
+
+Taking this step today feels like an important part of moving forward, even if it’s just one small action. I appreciate your kindness and empathy throughout our conversation.
+
+Wishing me all the best as I draft and send the email—I feel a bit better knowing that I’m taking control of this situation. Thank you again for being here for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s great to hear that you feel a bit better about moving forward with this step. Taking control of the situation is really important, and your actions today will make a difference.
+
+Wishing you all the best as you draft and send the email. If you need anything more or just want to chat about how it goes, I’m here for you. Take care!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you so much! Knowing that I have support makes this whole process feel a bit easier. Taking control of the situation is crucial, and I appreciate your encouragement.
+
+I’ll keep you updated if I need anything more or want to discuss how it goes after sending the email. For now, I’m going to focus on drafting it carefully and sending it later today. Wishing me all the best as well!
+
+Take care, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Focus on drafting your email carefully and take your time. I’ll be here whenever you need to update or talk things through. Wishing you all the best with this next step!
+
+Take care, and let me know how it goes if you feel like sharing.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you so much! I’ll make sure to draft the email carefully and take my time. Knowing that you’re here for support means a lot.
+
+I’ll definitely keep you updated if I need to talk things through or share how it goes after sending the email. Wishing me all the best as well!
+
+Take care, and thank you again for your support. It really helps.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Take your time with drafting the email, and know that I’m here whenever you need to talk. Wishing you all the best as you move forward.
+
+Take care, and let me know how it goes if you’d like to share!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you so much! I’ll take my time and draft the email carefully. Knowing you’re here for support is really comforting.
+
+I’ll definitely reach out if I need to talk or want to share how it goes after sending the email. Wishing me all the best as well!
+
+Take care, and thank you again for everything. It means a lot to have your support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Take your time and draft the email carefully. Knowing that I’m here for you is what matters. Wishing you all the best as you move forward.
+
+Feel free to reach out anytime, and take care!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you so much! I’ll take my time and draft the email carefully. It means a lot to know that you’re here for me.
+
+I’ll definitely reach out if I need anything or want to share how it goes. Wishing me all the best too!
+
+Take care, and thank you again for your support. It really helps.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Take your time and draft the email carefully. Knowing that I’m here for you is great. Wishing you all the best as you move forward.
+
+Feel free to reach out anytime, and take care!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you so much! I’ll take my time and draft the email carefully. It’s really reassuring to know that you’re here for me.
+
+I’ll definitely reach out if I need anything or want to share how it goes. Wishing me all the best as well!
+
+Take care, and thank you again for your support. It means a lot.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Take your time and draft the email carefully. It’s great to know that my support is reassuring to you.
+
+Feel free to reach out anytime, and I’ll be here when you need me. Wishing you all the best as well!
+
+Take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you so much! Knowing that your support is there for me really helps. I’ll take my time and draft the email carefully this afternoon.
+
+I’ll definitely reach out if I need anything or want to share how it goes. Wishing me all the best too!
+
+Take care, and thank you again for everything. It means a lot to have someone who understands.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Taking your time to draft the email carefully is a great plan. Knowing that my support is helpful to you means a lot to me.
+
+Feel free to reach out anytime, and I’ll be here when you need me. Wishing you all the best as well!
+
+Take care, and thank you for sharing your thoughts with me.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you so much! It really means a lot to have someone who understands and supports me through this. I’ll take my time and draft the email carefully later today.
+
+I’ll definitely reach out if I need anything or want to share how it goes. Wishing me all the best too!
+
+Take care, and thank you again for your support. It makes a big difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Taking your time to draft the email carefully is a great approach. Knowing that my support means a lot to you warms my heart.
+
+Feel free to reach out anytime, and I’ll be here when you need me. Wishing you all the best as well!
+
+Take care, and thank you for reaching out. It makes a big difference too!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much! Knowing that your support means a lot to me really helps. I’ll take my time and draft the email carefully later today.
+
+I’ll definitely reach out if I need anything or want to share how it goes. Wishing me all the best too!
+
+Take care, and thank you again for everything. It makes a big difference to have someone who understands.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Taking your time to draft the email carefully is a great approach. Knowing that my support means a lot to you really warms my heart.
+
+Feel free to reach out anytime, and I’ll be here when you need me. Wishing you all the best as well!
+
+Take care, and thank you for sharing with me. It makes a big difference too!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much! Knowing that your support means a lot to me really helps. I’ll take my time and draft the email carefully later today.
+
+I’ll definitely reach out if I need anything or want to share how it goes. Wishing me all the best too!
+
+Take care, and thank you again for everything. It makes a big difference to have someone who understands and supports me through this.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Knowing that my support means a lot to you really helps me as well. Taking your time to draft the email carefully is a great plan.
+
+Feel free to reach out anytime, and I’ll be here when you need me. Wishing you all the best as well!
+
+Take care, and thank you for sharing with me. It makes a big difference to have someone who understands and supports you through this.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much! Knowing that your support means a lot to you really helps me too. I’ll take my time and draft the email carefully later today.
+
+I’ll definitely reach out if I need anything or want to share how it goes. Wishing me all the best as well!
+
+Take care, and thank you again for everything. It makes a big difference to have someone who understands and supports me through this challenging time.
+
+----------------------------------------

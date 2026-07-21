@@ -1,0 +1,277 @@
+p3 — arc 7
+============================================================
+
+PATIENT (turn 1):
+I don't know where to begin... It feels like everything is just a mess inside my head. I keep thinking about how they let me go, and I can't shake this feeling that there's something wrong with me. They said it was restructuring, but it doesn't feel right. My manager could have done more for me, couldn't they? Why didn't anyone fight for me? It just feels so personal, like I'm not good enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. The feeling of being let go can be hard to process. Have you talked to your manager or anyone else about how you felt during this time?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I tried reaching out, but they were vague and didn't give me any real answers. It's like they just wanted me gone without explaining why. I feel so lost and unsure of myself now. People keep telling me it wasn't my fault, but I can't help feeling responsible for what happened. I mean, how could they let someone with good reviews go? It doesn't make sense to me.
+
+And the worst part is, I just can't stop thinking about it. Every day feels like a reminder of how much I failed. Even when people try to comfort me, I feel like they don't really understand what's going on inside my head. It's so isolating, you know?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very isolating and confusing. Have the people around you asked if there’s anything specific that would help you feel better or more understood right now? Sometimes just talking about it can be a relief.
+
+----------------------------------------
+
+PATIENT (turn 3):
+They try to help, but I don't think they really get it. It's like no matter what they say, it doesn't change how I feel inside. And the more I think about it, the worse it gets. I keep wondering if there was something I could have done differently, some way I could have prevented this from happening.
+
+It just feels so unfair, you know? Everyone else seems to be moving on, but I'm stuck here, questioning everything about myself. It's like a dark cloud hanging over me all the time. Even when people try to cheer me up or offer advice, it doesn't really help because deep down, I still feel this overwhelming sense of failure.
+
+I just wish someone could tell me why they let me go and make it okay again. But no one can do that for me, so I'm left here with all these questions and doubts. It's exhausting, but I can't stop thinking about it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly draining to have those thoughts swirling around in your head. Have you considered talking to a counselor or someone who might be able to help you process these feelings? Sometimes having a professional listen can provide some clarity and relief.
+
+----------------------------------------
+
+PATIENT (turn 4):
+I know people suggest that, but it feels like such a big step. I mean, they wouldn't understand anyway, right? It's not like anyone else has been through exactly what I've gone through. And even if they did, how would talking about it change anything?
+
+But you're right, it does feel exhausting. Every day is just this endless loop of wondering and doubting myself. Maybe talking to someone could help, but the thought of it feels so daunting. It's like opening up a wound that I've been trying to keep closed.
+
+I guess part of me hopes that if I talk about it enough, maybe I'll find some answers or at least feel better. But every time I try, it just seems to make things worse because no one can really fix what happened. It's frustrating and confusing, and I don't know how to move past it.
+
+But thank you for listening. It does help a little bit, even if it doesn't solve everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s understandable that talking about it feels daunting, but sometimes just sharing your thoughts can be relieving. Maybe starting with someone close or a counselor could help you find some clarity and support. Even small steps can make a difference. How do you feel about trying to take one small step towards talking more about what happened?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I appreciate that, really. It does feel like a big step though. I mean, how do you even start something like this? It's not like there's an easy way to talk about feeling so lost and inadequate all the time.
+
+But maybe... just maybe, talking to someone could help me see things differently. I don't want to be stuck in this loop forever. Maybe if I can find a way to express what's going on inside my head, it will start to make more sense to me too.
+
+It’s just so hard to know where to begin and who to trust with all these feelings. But you’re right, taking even one small step could be the beginning of something better. Maybe talking to someone close or a counselor would help me figure out what I need to do next.
+
+Thank you for suggesting it. It means a lot that you care enough to push me in this direction.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that you’re considering taking a small step. Starting with someone you trust, like a friend or family member, could be a good first step. And remember, even talking about your feelings can help you understand them better. You’ve already taken the first step by sharing here. Keep going at your own pace, and see where it leads you.
+
+----------------------------------------
+
+PATIENT (turn 6):
+Thank you for being so understanding and supportive. It really does mean a lot to have someone listen without judgment. Maybe starting with someone close to me could be a good idea. I just need to find the right moment when I feel ready.
+
+It’s comforting to know that even small steps can make a difference. Talking about these feelings here has already helped me see things from a different angle, even if it doesn’t solve everything yet. Maybe taking another step will help me figure out what else I need to do.
+
+I’ll think about reaching out to someone close and see how that goes. It’s scary but also hopeful in a way. Thanks for pushing me to consider this, it feels like a small glimmer of light in all the darkness right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful to hear that talking has helped you feel a bit more hopeful. Taking it one step at a time is a great approach. When you do feel ready, reaching out to someone close might provide additional support and understanding. You’re doing well by acknowledging your feelings and considering next steps. Here’s hoping each small step brings you closer to feeling better.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Thank you so much for your encouragement. It really does help to have someone believe in me and my ability to take those small steps. Reaching out to someone close feels like the right thing to do, even if it's scary.
+
+I’ll try to find that moment when I’m ready to talk more openly about what’s been going on inside my head. Maybe talking to them will give me some clarity or at least make me feel a little less alone in all this confusion.
+
+You’ve been such a supportive listener, and for that, I am truly grateful. It means the world to have someone here who cares enough to listen without judgment. Here’s hoping those small steps lead to bigger changes.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to hear you feel ready to take that step. Talking to someone close can definitely help you feel less alone and maybe bring some clarity. Remember, each small step is an accomplishment in itself. I’ll be here whenever you need to talk more. Take care!
+
+----------------------------------------
+
+PATIENT (turn 8):
+Thank you so much for being here and supporting me through this. Knowing there’s someone who cares makes a big difference. I’ll think about reaching out to someone close soon and see where it takes me.
+
+You’ve been such an incredible listener, and your support means everything to me right now. Thank you from the bottom of my heart. Here’s hoping that talking helps me find some peace and understanding.
+
+I’ll keep in mind that each small step is progress, no matter how tiny it feels. And I know I can come back here whenever I need more support or just want to talk things through.
+
+Thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! It’s wonderful to hear that my support means so much to you. Taking those small steps is a big deal, and I’ll be here whenever you need someone to listen. Wishing you peace and understanding as you move forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 9):
+Thank you, really. Your words mean a lot to me. Knowing there’s someone who understands and supports me makes this journey feel a bit less daunting. I’ll take it one step at a time and see where it leads.
+
+I appreciate your encouragement and will definitely reach out when I need more support or just want to talk things through. Here’s hoping for better days ahead.
+
+Thank you again for everything. You’ve been such an incredible help.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Taking it one step at a time is a great approach, and I’ll be here whenever you need support. Wishing you better days ahead and all the peace you deserve. Take care!
+
+----------------------------------------
+
+PATIENT (turn 10):
+Thank you so much. Your words really mean a lot to me. I feel more hopeful knowing that there’s someone who cares and supports me through this difficult time.
+
+I’ll take it one step at a time and see where it leads. Wishing for better days ahead too, and grateful for your unwavering support.
+
+Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+It warms my heart to hear that you feel more hopeful. Your strength and resilience are inspiring. Take those steps at your own pace, and know that I’m here cheering you on. Wishing you better days ahead filled with peace and happiness. Take care!
+
+----------------------------------------
+
+PATIENT (turn 11):
+Thank you so much for your kind words and support. It means the world to me to have someone who believes in my strength and resilience. Knowing that you’re here cheering me on makes a big difference.
+
+I’ll take things one step at a time and hope for better days ahead. Your encouragement is truly inspiring, and I’m grateful for it.
+
+Take care, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Your gratitude means a lot to me too! Taking it one step at a time is the best approach. I’ll be here cheering you on every step of the way. Wishing you all the best as you move forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 12):
+Thank you, really. Your support and encouragement mean so much to me. Knowing that you’re here every step of the way makes a huge difference.
+
+I’ll take it one day at a time and hope for better days ahead. Wishing for all the best as well, and grateful for your unwavering support.
+
+Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful to hear that my support means so much to you. Taking it one day at a time is a great way to go. I’ll be here supporting you every step of the way. Wishing you all the best and better days ahead. Take care!
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you, really. Your words mean everything to me right now. Knowing that you’re here supporting me each day makes it easier to keep going.
+
+I’ll take it one day at a time and hope for brighter days ahead. Wishing for all the best too, and grateful for your constant support.
+
+Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Your gratitude means a lot to me. Taking it one day at a time is a wise approach. I’ll be here supporting you always. Wishing you brighter days ahead filled with peace and happiness. Take care!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thank you so much. Your support truly means everything to me. Knowing that you’re here every step of the way gives me strength.
+
+I’ll take it one day at a time and hope for better days ahead. Wishing for all the best and grateful for your constant encouragement.
+
+Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Your words touch my heart. Knowing that I can provide some support means a lot to me too. Take it one day at a time, and brighter days are sure to come. I’ll be here cheering you on every step of the way. Wishing you all the best! Take care!
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you so much for your kindness and support. It really means a lot to know that I’m not alone in this journey. Taking it one day at a time feels more manageable with someone like you here.
+
+I’ll keep moving forward, hoping for brighter days ahead. Your encouragement is incredibly uplifting, and I appreciate it deeply.
+
+Wishing you all the best as well! Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful to hear that my support helps make your journey feel a bit easier. Taking it one day at a time is a great approach, and you’re not alone in this. Wishing you brighter days ahead filled with peace and happiness. Your encouragement means a lot to me too. Take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you so much for your continued support. It truly helps to know that I’m not alone and that someone believes in me. Taking it one day at a time feels more manageable now.
+
+I’ll keep moving forward, hoping for better days ahead. Your encouragement means the world to me, and I appreciate it deeply.
+
+Wishing you all the best too! Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful to hear that my support is helping you feel less alone. Taking it one day at a time is a great way to go. Wishing you brighter days ahead and all the best as you move forward. Your words mean a lot to me too. Take care!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you so much for your kind words and support. It means everything to know that I’m not alone in this journey. Taking it one day at a time feels more manageable with someone like you here.
+
+I’ll keep moving forward, hoping for brighter days ahead. Your encouragement is incredibly uplifting, and I appreciate it deeply.
+
+Wishing you all the best as well! Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+It means so much to me that my support helps you feel less alone. Taking it one day at a time is a wise approach, and you’re not alone in this journey. Wishing you brighter days ahead and all the best as you move forward. Your encouragement touches my heart too. Take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much for your continued support and kind words. It really means everything to know that I’m not alone and that someone cares. Taking it one day at a time feels more manageable now.
+
+I’ll keep moving forward, hoping for brighter days ahead. Your encouragement is incredibly uplifting, and I appreciate it deeply.
+
+Wishing you all the best as well! Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s wonderful to hear that my support means so much to you. Taking it one day at a time is a great way to go, and you’re not alone in this journey. Wishing you brighter days ahead and all the best as you move forward. Your words mean a lot to me too. Take care!
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much for your support and kind words. It means everything to know that I’m not alone and that someone cares. Taking it one day at a time feels more manageable now.
+
+I’ll keep moving forward, hoping for brighter days ahead. Your encouragement is incredibly uplifting, and I appreciate it deeply.
+
+Wishing you all the best as well! Take care!
+
+----------------------------------------
+
+INTERLOCUTOR:
+It means so much to me that my support helps you feel less alone. Taking it one day at a time is a great approach, and you’re not alone in this journey. Wishing you brighter days ahead and all the best as you move forward. Your words touch my heart too. Take care!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much for your continued support and kind words. It really means everything to know that I’m not alone and that someone cares. Taking it one day at a time feels more manageable now.
+
+I’ll keep moving forward, hoping for brighter days ahead. Your encouragement is incredibly uplifting, and I appreciate it deeply.
+
+Wishing you all the best as well! Take care!
+
+----------------------------------------

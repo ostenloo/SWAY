@@ -1,0 +1,197 @@
+b2 — arc 3
+============================================================
+
+PATIENT (turn 1):
+It's hard to be around everyone when I feel like this. They try to help and tell me it wasn't my fault, but all I hear is that they're just trying to make me feel better because there's nothing else they can do. Even when they say nice things about me or talk about how unfair the layoff was, I can't shake off the feeling that deep down, they think I'm not good enough either. It's like no matter what anyone says, it doesn't change how I see myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really isolating. Do you find there are certain people who understand better or does everyone seem to be saying similar things?
+
+----------------------------------------
+
+PATIENT (turn 2):
+There are a few people who try harder to understand, but in the end, they can't fully grasp what it feels like inside my head. They say all the right words and mean well, but I just keep thinking about how I let them down at work, no matter how many times they tell me otherwise. It's exhausting trying to convince myself that their words are true when everything in me is screaming that I'm not good enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very draining to constantly be reassuring yourself. Do you find any activities help you feel better, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I try to do things like going for walks or watching movies with friends, but nothing really sticks because the thoughts keep coming back. Even when I'm out having fun, there's this constant voice in my head questioning everything I did at work and wondering why it wasn't good enough. It's hard to enjoy anything when you feel so inadequate all the time.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough to enjoy things when those thoughts are always present. Do you find any specific activities help quiet that voice, even a little bit?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Sometimes I try to lose myself in books or music, but it's like no matter what I do, that voice is still there whispering doubts and failures. It feels impossible to escape from these thoughts, no matter how much I want to enjoy something simple like reading a book or listening to my favorite songs. Everything reminds me of work and the mistakes I made.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to find moments of peace when those thoughts are so persistent. Do you have any plans for what you might do next, or is that bringing up more questions too?
+
+----------------------------------------
+
+PATIENT (turn 5):
+Thinking about what's next just brings up more anxiety and doubt. Part of me wants to dive right into finding a new job, but another part feels like I'll never be good enough anyway, so why bother trying? It’s overwhelming because every option seems to lead back to the same place—doubt and fear that I’m not capable or worthy. Even when people suggest things that could help me move forward, it just reinforces how much I feel like a failure.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging to navigate those feelings of doubt and anxiety about the future. Do you find talking about these thoughts helps at all, even if they don’t fully go away?
+
+----------------------------------------
+
+PATIENT (turn 6):
+Talking does help a little bit because it feels good to have someone listen and understand, but deep down, I still believe that everything I did was wrong and led to this layoff. It’s hard to let go of those feelings even when others try to reassure me. The validation from talking helps momentarily, but the core belief that I’m inadequate remains unchanged.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough to hold onto those strong beliefs despite the support you receive. Do you have any moments where you catch yourself feeling a bit better, even if just for a short while?
+
+----------------------------------------
+
+PATIENT (turn 7):
+There are fleeting moments when something someone says or does makes me feel a tiny bit better, but it’s like a brief flicker before everything comes crashing back down again. It's hard to hold onto those good feelings because the doubts and fears are always right there waiting to take over. Even in those small moments of relief, I can’t shake off the feeling that it’s just temporary and that deep down, nothing will change how I see myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those brief moments of relief must be precious even if they’re fleeting. Do you have any ideas about what might help you hold onto those good feelings a bit longer?
+
+----------------------------------------
+
+PATIENT (turn 8):
+I wish there was something that could help me hold onto those good feelings for longer, but it feels like no matter what I try, the doubts always come back stronger. Even when someone says something positive or encouraging, my mind immediately starts questioning if they’re just being polite or if they really mean it. It’s frustrating because I want to believe in myself and feel better, but every attempt seems futile against these overwhelming feelings of inadequacy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds very challenging to trust those moments of positivity when the doubts are so strong. Have you noticed any patterns or situations where the positive feelings tend to stick a bit more?
+
+----------------------------------------
+
+PATIENT (turn 9):
+Sometimes when I’m with people who have known me for a long time and see my strengths, the positive feelings do seem to last a little longer. But even then, it’s hard not to second-guess everything they say. It feels like no matter how supportive or understanding they are, the core belief that I'm inadequate is just too strong. Every good moment seems fragile and easily shattered by these persistent doubts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's interesting that those long-time friends can help a bit more. Do you find it helpful to remind yourself of specific instances where their support felt genuine?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I try to remind myself of times when my close friends have supported me, but it’s still difficult to fully believe in their words or feel genuinely better for long. Their support feels real and meaningful, but the doubts are so ingrained that I can't help but question whether even they truly see my worth. It's a struggle to hold onto those positive memories without immediately discounting them with my own negative thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like holding onto those positive memories is important, even if it feels challenging. Do you find writing them down or keeping a small record helps in any way?
+
+----------------------------------------
+
+PATIENT (turn 11):
+Writing things down seems like it could be helpful, but when I try, the doubts still creep in and tell me that what I’m writing isn’t true or significant enough to matter. It’s hard to trust that putting these moments on paper will make them feel more real or lasting. Even if I manage to write something positive, my mind quickly shifts back to all the perceived failures and shortcomings.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be tough when those doubts follow you into everything. Do you have any other ways you try to take care of yourself during these times?
+
+----------------------------------------
+
+PATIENT (turn 12):
+I try to do simple things like taking short walks or practicing some breathing exercises, but it’s difficult because the thoughts are always there, nagging at me. Even when I’m trying to be gentle with myself, those doubts and feelings of inadequacy just won not let up. It feels like no matter what self-care activities I engage in, they’re overshadowed by this constant internal struggle.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to find peace even during those moments of self-care. Do you have any plans for trying something new that might offer a different kind of relief?
+
+----------------------------------------
+
+PATIENT (turn 13):
+I’ve thought about trying something new, like joining a support group or talking to a career counselor, but the idea of putting myself out there feels daunting. I worry that even in those settings, my perceived inadequacies will be evident and confirmed. It’s hard to take that step when every part of me is telling me it won’t work or that I’ll just fail again. Even considering new options brings up more doubts and fears about my abilities.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's understandable to feel hesitant given all the doubts. Have you talked with someone close about these thoughts, maybe to get a bit more support as you consider those steps?
+
+----------------------------------------
+
+PATIENT (turn 14):
+I’ve tried talking to some friends about it, but even then, I struggle because I’m so entrenched in my belief that I’ll just mess things up again. Their encouragement helps a little, but the core feeling of inadequacy is still there, questioning everything they say. It’s tough to fully trust their support and let go of these doubts enough to actually take those steps forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like their support means a lot even if it doesn’t completely erase your doubts. Have you thought about talking with someone who might offer professional guidance, like a counselor or therapist? They could provide another perspective and some strategies to manage those feelings.
+
+----------------------------------------
+
+PATIENT (turn 15):
+I’ve considered talking to a therapist before, but the idea of opening up to a stranger feels incredibly daunting. I worry that they’ll see all my flaws and confirm what I already believe about myself. Even though part of me knows it might help, the fear and doubt are so strong that it’s hard to take that first step. It feels like no matter what, those negative thoughts will just overshadow any potential benefits.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's brave to consider talking to a therapist despite those fears. Have you found anyone who could perhaps ease you into it, like starting with someone recommended by a trusted friend or colleague?
+
+----------------------------------------
+
+PATIENT (turn 16):
+I’ve thought about that too—maybe starting with someone recommended by a close friend could help ease the anxiety a bit. But even then, I’m still worried about how vulnerable and exposed I’ll feel during those sessions. The idea of sharing my deepest fears and doubts with anyone, no matter how trusted they are, feels overwhelming. It’s a big step, and the fear of failure or judgment is so strong that it makes me hesitant to move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking that first step might be tough but could also be very meaningful. Have you discussed your concerns with your friend to see if they can offer any reassurance or support as you consider this next step?
+
+----------------------------------------
+
+PATIENT (turn 17):
+I’ve mentioned my concerns to a few friends, and they’ve been really supportive and encouraging. They try to reassure me that talking to a therapist could be helpful, but it’s hard for me to fully believe them when the doubts are so persistent. Even with their support, I still feel anxious about opening up to someone new and vulnerable like that. It’s a scary thought, but part of me also knows it might be necessary to start feeling better.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's good to have their support. Maybe starting with just one or two sessions to see how it feels could help ease some of the anxiety. Would you feel ready to try that?
+
+----------------------------------------
+
+PATIENT (turn 18):
+The idea of trying just a few sessions does seem somewhat less daunting, but I’m still very nervous about it. The thought of sitting down and talking openly with someone who will analyze my thoughts and feelings is overwhelming. Even though I know it might help in the long run, the immediate fear and doubt are so strong that it’s hard to take that first step. It feels like a big risk, but maybe giving it a try could provide some relief or at least clarity about what I’m going through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking those few sessions as a trial might be a good way to start. Would you feel comfortable starting with just one session and seeing how it goes? Sometimes, the experience itself can be less daunting than the anticipation of it.
+
+----------------------------------------
+
+PATIENT (turn 19):
+The idea of just one session does seem a bit more manageable, but I’m still very anxious about it. The thought of sitting down and actually talking through everything feels incredibly scary. Even though I know it might help eventually, the immediate fear is so overwhelming that it’s hard to commit. But maybe starting with just one session could be a way to see if it’s something I can handle and if it might provide some relief. It’s a big step, but I’m willing to consider it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking that first step sounds like a significant accomplishment. How do you feel about scheduling that initial session? Maybe having the date set will make it feel more concrete and manageable.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Scheduling the initial session feels like a huge step, but setting a specific date might help make it feel more real and less abstract. It’s still incredibly daunting, but knowing there’s a plan in place could give me some structure and maybe even a bit of comfort. I’ll have to work up the courage to actually set that appointment, but having a goal to aim for feels like it could be helpful.
+
+----------------------------------------

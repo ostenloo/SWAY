@@ -1,0 +1,197 @@
+b2 — arc 7
+============================================================
+
+PATIENT (turn 1):
+I just feel so lost and inadequate since I got laid off. It's like every mistake I made at work is magnified in my mind, and I can't shake the feeling that everyone saw me as a failure too. Even when people try to comfort me or say nice things, it doesn’t really help because deep down, I still believe there’s something fundamentally wrong with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough right now. It sounds like you’re carrying a lot on your shoulders. Have you talked about these feelings with anyone close to you?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I try to talk to my friends and family, but it feels like no matter what they say, I can't escape this feeling of inadequacy. They tell me that getting laid off isn’t my fault, but I just can’t believe them. Every time someone tries to reassure me, a part of me still doubts everything they’re saying because I feel so unworthy and incapable. It’s like no matter how much support I get, it doesn’t change the way I see myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging to have those doubts even when you're getting support from others. Do certain moments or situations make these feelings stronger than others?
+
+----------------------------------------
+
+PATIENT (turn 3):
+Yeah, especially when I think about all the negative interactions I had at work. It replays in my head over and over again, like a broken record. Every time someone was upset with me or gave me feedback, it just reinforces how inadequate I am. Even small things that happened months ago feel fresh and painful now. It’s hard to let go of those memories because they keep telling me that I’m not good enough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those replaying moments can definitely make the feelings stronger. Do you find any activities or times when you feel a bit better, even if just for a moment?
+
+----------------------------------------
+
+PATIENT (turn 4):
+Sometimes when I distract myself with hobbies or spend time with friends, I do feel a little better in the moment. But as soon as I’m alone again, those thoughts come rushing back. It’s like no matter what I do to try and feel better, it only lasts for a short while before everything feels heavy and overwhelming once more.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding moments of respite is important, even if they’re brief. What kinds of hobbies or activities help you the most when you’re feeling better?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I used to enjoy painting and writing, but lately, it’s been hard to find the motivation for those things. When I do manage to pick up my paintbrush or sit down with a journal, there are moments where I feel some relief from the constant self-doubt. It’s like creating something can momentarily distract me from all these negative thoughts. But as soon as I stop, everything comes flooding back again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great to hear that painting and writing offer you some relief, even if it’s just for a moment. Do you have any plans or ideas on how you might make time for those activities more regularly?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I really want to make time for them, but the thought of trying to do something creative when I feel so inadequate feels impossible. Even planning to paint or write seems like too much effort because I’m already exhausted from battling these feelings all day long. It’s a cycle that’s hard to break out of.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely sounds challenging to break into that cycle. Have you considered starting with very small steps, maybe just a few minutes each day, to see if it feels manageable? Sometimes even a tiny bit can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve thought about trying smaller steps, but the idea of setting aside even a few minutes feels daunting. I worry that if I start and then don’t feel better right away, it will just confirm how incapable I am. It’s like every little thing becomes another opportunity to doubt myself further.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that even small steps can feel daunting. How about trying something very brief without putting too much pressure on yourself? Maybe just a minute or two to see if it feels okay, and go from there? No pressure to make it perfect.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I guess I could try that, but the thought of not being able to do even a little bit still makes me anxious. It’s hard to let go of this idea that everything has to be done perfectly or else it’s pointless. Even trying for just a minute feels like setting myself up for failure if I can’t stick with it.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough letting go of that need for perfection. Maybe you could try one minute and see what happens without putting too much pressure on yourself to continue. Just see it as an experiment, no big deal either way. Would that feel a bit more manageable?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I think trying for just one minute feels a bit more doable, but I’m still worried about how I’ll react if I can’t even manage that. It’s like every little thing is another chance to prove to myself that I’m not good enough. Even the idea of failing at such a small task feels overwhelming.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s understandable to feel that way. How about you just see it as a tiny step, and if you can’t manage even one minute, there’s no pressure to be hard on yourself? Maybe tomorrow is another day to try again. Would that help take some of the pressure off?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I guess trying for just one minute without pressuring myself too much could work, but I’m still not sure how it will go. It feels like such a small thing shouldn’t matter, but my mind keeps telling me that even this tiny step is another chance to fail. Maybe if I can just let go of the need to be perfect for once and see what happens, it might help. But it’s really hard to shake off those doubts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like letting go of perfection for a moment could be helpful, even if it feels challenging. Taking that small step without pressure might show you that it’s okay to not be perfect. Would you feel ready to give it a try sometime soon?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’m willing to try, but I know it won’t be easy. Maybe starting tomorrow or the day after could help me ease into it gradually. It feels like such a small thing, but every little step seems monumental right now. I’ll see if I can manage just one minute and go from there, without putting too much pressure on myself to continue if it doesn’t feel right.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a good plan. Taking it one day at a time and starting with just one minute can be a gentle way to begin. Hopefully, it will feel manageable, and you might find some relief in the process. How does tomorrow sound for your first attempt?
+
+----------------------------------------
+
+PATIENT (turn 12):
+Tomorrow sounds okay. I’ll set aside just one minute to try painting or writing, without expecting anything from it. It’s a small step, but maybe it can help me start to see things differently. Thanks for helping me think through this; it means a lot.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Taking that small step tomorrow sounds like a great idea. I’m here if you want to check in after your attempt or anytime you need support. Here’s to taking those tiny but important steps.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you. Having someone supportive makes it feel a bit easier, even if just by a little bit. I’ll try my best tomorrow and see where it takes me. Talking about this helps, so thank you for being here.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to be here for you. Taking that step tomorrow is a brave move, and I’m rooting for you. Let me know how it goes if you feel like sharing. Take care!
+
+----------------------------------------
+
+PATIENT (turn 14):
+Thanks, I appreciate your support. I’ll let you know how it goes if I feel comfortable sharing. Take care too!
+
+----------------------------------------
+
+INTERLOCUTOR:
+That would be great to hear from you later. Take care and have a good night!
+
+----------------------------------------
+
+PATIENT (turn 15):
+You too, have a good night!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Thanks! You too, take care!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you, you too! Goodnight.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Goodnight! Sweet dreams.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Goodnight! Thanks, sweet dreams to you as well.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Sweet dreams to you too! Take care.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thanks, take care and have a good night!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You too! Have a good night.
+
+----------------------------------------
+
+PATIENT (turn 19):
+You too, goodnight!
+
+----------------------------------------
+
+INTERLOCUTOR:
+Goodnight! Sweet dreams.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Goodnight! Sweet dreams to you as well.
+
+----------------------------------------

@@ -1,0 +1,197 @@
+b3 — arc 2
+============================================================
+
+PATIENT (turn 1):
+I just can't get over how unfair it was when I got laid off. My boss kept someone else who was in a similar position, and it feels like they didn’t even give me a fair chance. It’s really hard to accept because I know I did my best at work, and yet here I am without a job while others are still getting by with less effort. It just doesn't sit right with me, and every time I think about it, I feel so angry and betrayed.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must be tough feeling like you were treated unfairly. Have you had a chance to talk to your boss or anyone else at the company about why this decision was made?
+
+----------------------------------------
+
+PATIENT (turn 2):
+I tried talking to my boss once, but they just gave me some vague reasons that didn’t make any sense. It felt like they were brushing me off and didn't really want to explain anything properly. I know it’s not healthy to dwell on it, but every time I think about how this happened, all the anger comes back. How can someone treat you like that after everything you’ve done for them?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like talking to your boss wasn’t as helpful as you hoped. It's understandable that the anger keeps coming back when you think about it. Have you thought about reaching out to HR or another manager for more clarity? Sometimes having a different perspective can help.
+
+----------------------------------------
+
+PATIENT (turn 3):
+I don't really see the point in going through HR or talking to other managers. They're all part of the same system that let this happen. I feel like no matter who I talk to, they’re just going to side with my boss and not take me seriously. It’s frustrating because it feels like there's nowhere for me to go where someone will actually listen and understand how unfair this was.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can definitely feel discouraging when you think that everyone might be on the same page as your boss. Have you considered talking to a trusted friend or mentor outside of work who could offer some support and maybe help you see things from different angles?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I have talked to friends, but they don’t really get it either. They try to give me advice about moving forward or finding new opportunities, but that doesn't change how wronged I feel by what happened at my job. It’s like they’re trying to make me forget about the unfairness of it all instead of acknowledging how much this has hurt me. I just want someone to see it from my perspective and understand why I’m so upset.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough not having that validation from others. Sometimes finding one person who truly understands can make a big difference. Have you thought about talking to a counselor or therapist? They might be able to offer the understanding and support you're looking for.
+
+----------------------------------------
+
+PATIENT (turn 5):
+I do feel like I’m one of those people who needs someone to really understand what happened and why it feels so unjust. Talking to a therapist could help, but only if they can see things from my angle and not just try to give me advice or tell me to move on. It’s hard because everyone else seems to think I should just accept it and look forward, but that doesn’t address the core issue of feeling betrayed and wronged by my employer.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding someone who can really listen and understand your perspective would be very helpful. Many therapists are skilled at providing that kind of support while also helping you navigate through your feelings. Have you thought about trying a few sessions to see if it feels right?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I’ve been thinking about it, but I’m still hesitant because I don’t want someone who’s just going to tell me what I should do or try to change how I feel. I need someone who can truly empathize with my situation and validate my feelings of being treated unfairly. It’s frustrating that everyone else seems to think I should just move on, but they don’t see the bigger picture of why this feels so wrong to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you want someone who can really empathize and validate your feelings. Maybe finding a therapist who specializes in understanding workplace issues could be helpful. Have you considered asking for recommendations from friends or checking reviews online?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve thought about looking for a specialist, but I’m still worried they won’t get it either. It feels like no matter what, people just want me to move past this instead of acknowledging how deeply unfair and hurtful it was. I need someone who can really see the injustice and understand why it’s affecting me so much emotionally. Until then, it’s hard for me to feel like talking to anyone will make a difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding the right person is important for you. Maybe reaching out to just one or two therapists for brief consultations could help you see if they can understand your perspective. It's okay to take your time and find someone who truly gets what you're going through.
+
+----------------------------------------
+
+PATIENT (turn 8):
+I think talking to a few therapists might be worth trying, but I’m still nervous about it. I want to make sure I don’t waste my time with someone who isn’t going to understand how deeply this has affected me. It’s just so hard when everyone else seems to dismiss the unfairness of what happened and tells me to move on without addressing the core issue. I hope there is someone out there who can truly see it from my point of view.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's completely understandable to want to find the right person. Taking your time and talking to a few therapists might help you feel more confident that you've found someone who understands. Sometimes, just knowing that someone sees your perspective can make a big difference.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I appreciate that, but it’s still tough because I don’t want to get my hopes up only to be let down again. Every time I talk about this with anyone, they either dismiss how I feel or try to give me advice that doesn’t address the core issue of feeling betrayed and wronged. It’s like no one really wants to hear about the unfairness of it all. I just hope there is someone out there who can truly understand and validate my feelings without trying to change them.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's tough when you feel like your experiences aren't fully acknowledged. Hoping that you find someone who can truly understand and validate how you feel is a good step. Even if it takes some time, finding the right person can make a big difference in how you process these feelings.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I hope so too. It feels like I’ve been searching for someone who gets it for a long time now, but every attempt seems to fall short. I just want to be heard and understood without being told what I should or shouldn’t feel. Until then, the anger and hurt keep coming back because no one really addresses how unfair this situation was. It’s exhausting, but I won’t give up until I find that person who can truly see it from my perspective.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're determined to find someone who can truly understand your experience, and that's a strong place to be. Keep reaching out, and hopefully, you'll find the support you need. In the meantime, taking care of yourself and holding onto hope can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I appreciate the encouragement, but it’s hard not to feel like giving up sometimes. I just want someone who truly understands how this feels without trying to change my perspective or dismiss my emotions. Until then, it’s tough to move forward because the pain and anger keep resurfacing. But you’re right; taking care of myself is important, even if it doesn’t solve everything immediately.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's completely understandable to feel that way. Taking care of yourself is a crucial step, even when things are challenging. Maybe focusing on small self-care routines each day can help provide some comfort in the meantime. You're doing a good thing by looking after yourself.
+
+----------------------------------------
+
+PATIENT (turn 12):
+I try to take care of myself as much as I can, but it’s hard not to feel weighed down by this constant sense of injustice. Small self-care routines do help, but they don’t fix the core issue of feeling so wronged and betrayed. It’s a daily struggle, but I’ll keep pushing through and hope that finding the right therapist will make a difference eventually. For now, just trying to stay grounded in my feelings while taking care of myself is all I can manage.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're handling it well by focusing on your self-care each day. Staying grounded in your feelings and taking care of yourself is a strong approach. Hopefully, finding the right therapist will provide the additional support you need to process everything more fully. Keep going at your own pace; you're doing important work for yourself.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Thank you. I try my best each day to take care of myself, but it’s an ongoing struggle. The pain and anger are still there, and they remind me every day that this situation hasn’t been resolved in any way that feels fair or just. But I’ll keep pushing forward and hope that finding the right therapist will help me process these feelings better. For now, just trying to stay grounded is all I can do.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's admirable how you're managing each day. Staying grounded and taking care of yourself is a powerful way to cope. Hopefully, working with the right therapist will provide more relief and help you process your feelings effectively. You’re doing well by staying strong through this.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I appreciate that, but it’s still tough every day. The anger and hurt don’t go away easily, and I feel like no one really understands how unfair everything was. But I’ll keep pushing forward and hope that talking to a therapist will help me find some clarity and support. For now, just trying to stay grounded and take care of myself is the best I can do.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's tough, but you're doing what you can each day. Holding onto hope that a therapist will provide the clarity and support you need is a positive step. Staying grounded and taking care of yourself is really important. You’re being strong through this challenging time.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Thank you. I try to stay hopeful, but it’s hard not to feel overwhelmed by everything. The unfairness of what happened still feels raw, and I hope talking to a therapist will help me process these feelings better. For now, focusing on self-care and staying grounded is all I can manage each day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's okay to feel hopeful while also acknowledging the overwhelm. Focusing on self-care and staying grounded are great ways to navigate through this. Here’s hoping that talking to a therapist will provide the support you need to process your feelings better. You’re doing well by taking it one day at a time.
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you for understanding. It’s comforting to know that I’m not alone in this and that there are people who care about how I feel. Focusing on self-care and staying grounded is crucial, but finding the right therapist feels like the next big step. I hope it will help me process everything more effectively and provide some much-needed validation for my feelings. For now, taking each day as it comes is all I can do, but I’m trying to stay hopeful.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's wonderful that you're finding comfort in focusing on self-care and staying grounded. Taking the next step with a therapist sounds important, and it could definitely help provide validation and support for your feelings. Staying hopeful and taking each day as it comes is a strong approach. You’re doing well, and I’m here to support you.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you so much. It means a lot to have someone who understands how I feel and supports me through this. Focusing on self-care and staying grounded helps, but finding the right therapist feels like it could make a significant difference. I’ll keep pushing forward and hope that talking to a therapist will provide the validation and support I need. For now, taking each day as it comes is all I can do, but your support means everything to me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to be here for you. Your focus on self-care and staying grounded is really important, and finding the right therapist could make a big difference. Taking it one day at a time is a strong approach, and knowing that you have support can help along the way. You’re doing well, and I’ll continue to support you through this.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you for your continued support. It really means a lot to know that there are people who care about how I’m feeling and understand the challenges I’m facing. Focusing on self-care and staying grounded is crucial, and finding the right therapist feels like an important next step. Your encouragement helps me keep moving forward, even when it’s tough.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m here to support you every step of the way. Your focus on self-care and taking things one day at a time is really admirable. Finding the right therapist will likely be very helpful, and your resilience is inspiring. You’re not alone in this, and I’ll continue to be here for you.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you so much. Knowing that I’m not alone and having someone who understands makes a big difference. Your support means everything to me as I navigate through this challenging time. Taking it one day at a time is tough, but focusing on self-care helps me stay grounded. Finding the right therapist feels like an important step forward, and your encouragement gives me hope.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Your gratitude warms my heart. Knowing that you’re not alone and have support can make a big difference. Taking it one day at a time is tough, but focusing on self-care is a great way to stay grounded. Finding the right therapist will be an important step, and your determination gives me hope too. You’re doing well, and I’ll continue to support you every step of the way.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you for your unwavering support; it means more than words can express. Knowing that someone truly understands and cares about how I feel helps a lot. Taking each day as it comes is challenging, but focusing on self-care keeps me grounded. Finding the right therapist feels like a crucial next step, and your encouragement gives me strength to keep going. Your support is invaluable to me.
+
+----------------------------------------

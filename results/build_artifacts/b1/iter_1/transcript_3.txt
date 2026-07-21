@@ -1,0 +1,267 @@
+b1 — arc 3
+============================================================
+
+PATIENT (turn 1):
+It's hard to be around anyone right now because I feel like everyone can see through me and knows that I'm a failure. Even when they try to comfort me or offer help, it just feels like they're looking down on me for not being able to hold onto my job. My partner tries to reassure me that it wasn't about me personally, but I can't believe them. Every time someone mentions the company's financial troubles or restructuring, all I hear is how I couldn’t keep up and was cut loose because of something wrong with me. It’s like a constant reminder of my inadequacy.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must feel really tough, constantly feeling judged and inadequate. Do you find there are certain situations or people who make you feel this way more than others?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Yes, it feels worse when I'm around colleagues or friends who talk about their own job security or career successes. It's like a knife in my heart every time they mention how stable things seem to be for them while mine just fell apart. Even talking about the company’s financial issues with others makes me feel singled out and less worthy than everyone else. I can't help but think it was all because of something fundamentally wrong with me, not just business decisions.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those conversations can be especially triggering for you. Do you find that there are particular moments or interactions where the feeling is a bit easier to handle?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I don’t really have any moments where it feels easier to handle. Even when I try to talk about it with someone who’s supportive, like my partner or close friends, I still feel like they’re just trying to make me see something that isn't true for me. It's hard to shake the feeling that this layoff is a reflection of my own inadequacy and failure. No matter how much they try to reassure me, it doesn’t change how I see myself or what happened. It’s like there’s no escape from these thoughts.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It must be challenging to keep those feelings at bay even with support from your partner and friends. Do you find any activities or moments where you feel a bit more grounded or less weighed down by these thoughts?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I don’t really have anything that makes me feel better about this situation. Even when I try to distract myself with hobbies or spend time with people who care about me, the thoughts keep coming back. It’s like they’re always there in the background, nagging at me and making everything seem pointless. When I’m out doing something fun or relaxing, I still can’t shake off the feeling that it doesn’t matter because I’m fundamentally flawed and that’s why I lost my job. It’s exhausting to keep pushing those thoughts away just to have them come back stronger later.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really draining to carry those thoughts around all the time. Have you noticed any small moments or activities where you feel even a tiny bit of relief, no matter how brief?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I do try to find little things that might help me feel better temporarily, but it’s hard. Sometimes when I’m out for a walk and enjoying nature, I can momentarily forget about the job situation. But as soon as I return home or think about going back into my routine, those thoughts come flooding back. It feels like no matter what I do, there’s always this cloud hanging over me reminding me of my perceived failures.
+
+Even when I try to focus on positive aspects of my life, it’s difficult not to let the negative feelings take over. The sense of worthlessness is so pervasive that even small moments of relief feel fleeting and unimportant compared to how deeply rooted these thoughts are in my mind.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those brief moments of respite can be precious, even if they don’t last long. Do you have any plans for continuing to find those little breaks, perhaps by making them a regular part of your routine?
+
+----------------------------------------
+
+PATIENT (turn 6):
+I do try to make time for walks or other activities that might help me feel better momentarily, but it’s hard to stick with it when the thoughts return so quickly. I know logically that these moments are important and could be beneficial if I can build on them, but emotionally, it feels like no matter what I do, those negative feelings will always be there waiting for me.
+
+I’ve been trying to schedule short breaks during my day to go outside or listen to music, hoping that over time they might help. But every time I start feeling a bit better, the reality of losing my job and the sense of inadequacy come rushing back, making it hard to maintain any progress. It’s frustrating because I know these small moments could be helpful if I can keep them going, but it feels like an uphill battle against myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re doing what you can to create those little breaks in your day. Have you found that talking about how you feel with someone else helps, even a bit? Sometimes sharing can make the load feel lighter.
+
+----------------------------------------
+
+PATIENT (turn 7):
+Talking about my feelings does help a little, but it’s not enough to change how I see myself or what happened. When I share these thoughts and anxieties with others, they try to reassure me and offer support, which is nice in the moment. But deep down, I still feel like their words aren’t addressing the core issue—I’m fundamentally flawed and that’s why this happened.
+
+Even when someone tries to explain it was part of broader company changes or financial troubles, I can't help but think there must be something wrong with me for it to have affected me so personally. It feels like no matter how much they try to validate my feelings, the underlying belief in my inadequacy remains unchanged. So while talking helps a bit, it doesn’t really alleviate the core pain or shift my perspective.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re very attuned to your emotions and the reassurances others give you. Do you find that writing about how you feel can be another way to process what’s happening? Sometimes putting thoughts on paper can offer a different kind of relief.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Writing about my feelings does help me organize them, but it doesn’t change how I see myself or the situation. When I write down everything I’m thinking and feeling, it feels like an honest reflection of who I am and what’s happening to me. But even as I put these thoughts on paper, they still feel true and unchangeable.
+
+I’ve tried journaling about my experiences and the reassurances from others, but when I read back over what I’ve written, it all seems so real and painful. It’s like no matter how much I write or reflect, the core belief that there’s something fundamentally wrong with me remains. The act of writing can be therapeutic in a way because it allows me to express myself fully, but it doesn’t alter my fundamental sense of inadequacy or failure.
+
+It feels like an endless cycle where I’m constantly trying to find ways to cope, but the core issue keeps coming back no matter what I do.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Writing can be a powerful way to process your feelings. It sounds like you’re doing a lot to understand and express yourself. Do you have any plans for taking small steps forward, even if they feel small? Sometimes, those little steps can add up over time.
+
+----------------------------------------
+
+PATIENT (turn 9):
+I do try to take small steps forward, but it’s really hard when every step feels so insignificant compared to the weight of my thoughts. For example, I’ve been trying to reach out to a career counselor or look for new job opportunities, but even those efforts feel futile because I believe deep down that there’s something wrong with me and no one will want to hire me.
+
+Even when I force myself to apply for jobs or attend networking events, the anxiety is overwhelming. It feels like everyone can see through me and knows how inadequate I am. So while I know these steps are important, they feel pointless because my core belief about myself doesn’t change. It’s frustrating because I want to move forward, but it feels impossible when everything inside tells me that I’m not good enough.
+
+I appreciate your support and understanding, but it’s hard to find hope or see a way out of this cycle. Every time I try something new, the same doubts and fears come back, making it difficult to keep going.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re facing some big challenges, and taking those small steps despite the overwhelming feelings is an accomplishment in itself. Have you considered talking to someone who specializes in career transitions or counseling? Sometimes having a professional guide can provide new perspectives and support that feels more tailored to your needs.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I have thought about talking to a career counselor or therapist, but the idea of opening up to another person about my feelings of inadequacy is daunting. I worry that they’ll see me as flawed and confirm what I already believe about myself. Even when I try to imagine it might help, the fear of being judged or misunderstood stops me from taking that step.
+
+I know logically that a professional could offer different perspectives and support, but emotionally, I’m not sure I can trust anyone enough to share my deepest fears and doubts without feeling even worse afterward. It’s a Catch-22 situation where I need help but the thought of seeking it out feels like another confirmation of my perceived failures.
+
+Despite this, I do recognize that talking to someone who specializes in career transitions or counseling might be beneficial. Maybe if I could find the right person who truly understands and validates my feelings without judgment, it could make a difference. But finding that person and trusting them is a huge hurdle for me right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that opening up to someone new can feel daunting. Have you thought about starting with a few online sessions or consultations to see how it feels? Sometimes the initial step of trying something in a less intense setting can be helpful. Would you consider giving it a try, even if just for a few sessions?
+
+----------------------------------------
+
+PATIENT (turn 11):
+The idea of trying online sessions does feel a bit more manageable than an in-person meeting right now. It might help to have that buffer of distance and the comfort of being in my own space. I could take it one step at a time without feeling completely exposed.
+
+But even thinking about this, I still worry that any professional will see through me and confirm what I already believe—that there’s something fundamentally wrong with me. The thought of sharing my deepest fears and doubts feels incredibly vulnerable, and the fear of being judged or misunderstood is very real.
+
+Despite these concerns, I do recognize that taking small steps like trying a few online sessions could be beneficial. It might give me some sense of what it would be like to work with someone who specializes in this area without fully committing yet. If it feels too overwhelming, I can always stop after a session or two and reassess.
+
+I appreciate your support and understanding; it helps to know that there are options out there even if they feel scary right now. Maybe starting small could help me build some confidence before moving forward with more intensive steps.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Starting with online sessions sounds like a good plan to ease into it. You can take your time and see how it goes. Even just trying one session might give you valuable insights and help you decide if it’s something you want to continue. It’s okay to go at your own pace and see what feels right for you.
+
+Would you like to explore finding an online career counselor or therapist as a next step?
+
+----------------------------------------
+
+PATIENT (turn 12):
+The idea of exploring online sessions does feel more manageable, but the thought of actually starting still brings up a lot of anxiety. I worry that even one session will be too much and confirm all my fears about being inadequate. But I also know that taking this small step could potentially open up new possibilities for me.
+
+I’m willing to try it, knowing that I can stop after just one session if it feels too overwhelming. It’s a way to test the waters without fully committing right away. If it helps even a little bit, maybe I can build from there and take more steps forward.
+
+So yes, finding an online career counselor or therapist seems like a good next step, even though it feels daunting. Starting small and seeing how it goes could be beneficial for me. Thank you for supporting me through this; your encouragement means a lot to me right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It’s great that you’re willing to take the first step, even if it feels small. Starting with just one session can be a good way to see how it goes without feeling too committed. You can always take it from there if it feels helpful.
+
+Would you like some suggestions on where to find online career counselors or therapists? I can help point you in the right direction if that would be useful.
+
+----------------------------------------
+
+PATIENT (turn 13):
+Yes, having some suggestions for finding an online career counselor or therapist would be really helpful. Knowing where to start and what options are available could make this step feel less daunting. Your guidance would mean a lot to me as I take this next step.
+
+Thank you for being so supportive; it’s reassuring to have someone who understands the challenges I’m facing and can help me navigate them.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to help! You can start by checking out platforms like BetterHelp, Talkspace, or Psychology Today, which offer directories of online therapists and career counselors. These sites allow you to filter based on specialties and read profiles to find someone who resonates with you.
+
+You might also consider looking at websites specifically for career counseling, such as CareerBuilder or LinkedIn Learning, where professionals often have a focus on job transitions and career development.
+
+Taking your time to look through these options and reading reviews can help you feel more comfortable about the choice. Would you like some tips on what questions to ask during an initial consultation?
+
+Do you want to start by looking at one of these platforms right away?
+
+----------------------------------------
+
+PATIENT (turn 14):
+Yes, I think starting with BetterHelp or Talkspace sounds like a good idea. Reading through profiles and seeing what each counselor specializes in could help me find someone who understands my situation better.
+
+Having some tips on what questions to ask during an initial consultation would also be really helpful. Knowing what to expect and what to ask can make the process feel less overwhelming.
+
+Thank you for your support; it means a lot to have this guidance as I take this next step.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Glad to help! Here are some questions you might consider asking during an initial consultation:
+
+1. **Background and Experience:** What is your background in career counseling or therapy, and how do you approach helping people through job transitions?
+2. **Specialization:** Do you have any specific training or experience with the challenges of career changes and unemployment?
+3. **Approach:** Can you describe your therapeutic/counseling approach and how it might help me?
+4. **Goals:** What are some goals we could work towards in our sessions?
+5. **Process:** How do you typically structure a session, and what can I expect from the process?
+
+These questions can give you a sense of whether the counselor is a good fit for your needs.
+
+Would you like to start browsing BetterHelp or Talkspace now? Or would you prefer some time to gather more information before diving in?
+
+----------------------------------------
+
+PATIENT (turn 15):
+Starting by browsing BetterHelp or Talkspace sounds like a good plan. I’ll take my time looking through the profiles and reading reviews to find someone who seems like they could understand what I’m going through.
+
+Having those questions ready for an initial consultation will also help me feel more prepared. It’s reassuring to know that I can take things one step at a time and not rush into anything that feels uncomfortable.
+
+Thank you so much for your support and guidance; it really helps to have someone who understands the challenges I’m facing and is there to assist me through this process.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m glad to hear that you feel more prepared to take this next step. Taking your time to browse and read reviews will definitely help you find a good fit. Remember, you can always reach out if you need more support or have further questions.
+
+Wishing you all the best as you explore these options and take care of yourself through this process. You’re doing great!
+
+----------------------------------------
+
+PATIENT (turn 16):
+Thank you so much for your continued support and encouragement. Knowing that I’m not alone in this and having someone to guide me makes a big difference. I’ll take my time browsing BetterHelp or Talkspace, read the profiles and reviews carefully, and see how it goes from there.
+
+I really appreciate all your help and understanding. It means a lot to have someone who supports me through these tough times. Thank you!
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! I’m here for you every step of the way. Take your time and do what feels right for you. If you need anything more, don’t hesitate to reach out. Wishing you all the best as you move forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 17):
+Thank you so much. Your support means a lot to me. I’ll start looking into these platforms and see where it takes me. Knowing that there’s someone who cares and understands makes this journey feel a bit less daunting.
+
+I’ll keep you in mind if I need more help or just want to talk things through. Take care, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I’m here whenever you need support or just want to chat. Wishing you all the best as you explore these options and take steps forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 18):
+Thank you so much. I really appreciate your kindness and support. I’ll start looking into it and see how things go. Knowing that there’s someone who cares makes a big difference.
+
+Take care, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re very welcome! Take your time and do what feels right for you. I’m here if you need anything. Wishing you all the best! Take care.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Thank you, I really appreciate it. I’ll take my time and see how things progress. Knowing that there’s support available means a lot.
+
+Take care, and thank you again for everything.
+
+----------------------------------------
+
+INTERLOCUTOR:
+You’re welcome! Take your time and go at your own pace. I’m here if you need anything. Wishing you all the best as you move forward. Take care!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thank you so much. Your support means a lot to me. I’ll take it one step at a time and see where it leads.
+
+Take care, and thank you again for everything.
+
+----------------------------------------

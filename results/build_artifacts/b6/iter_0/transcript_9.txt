@@ -1,0 +1,197 @@
+b6 — arc 9
+============================================================
+
+PATIENT (turn 1):
+The hardest part has been waking up every day feeling like I've lost a big piece of myself. It's not just losing my job; it feels like they took away a significant chunk of who I am and what I stand for professionally. Every time I think about why they singled me out, the anger boils over. It’s hard to shake this sense that there was something fundamentally wrong with how they treated me, like I wasn’t good enough or didn’t matter in their eyes. And trying to talk about it just makes me feel even more dismissed and misunderstood.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. The feeling of losing a big part of yourself must be quite overwhelming. Have you found any moments where talking about it has helped, even if just a little?
+
+----------------------------------------
+
+PATIENT (turn 2):
+Talking about it hasn’t helped at all; in fact, it’s made me feel worse. Every time someone tries to offer some cliché advice or tells me I need to move on, I just get angrier. It feels like they’re not listening to what I’m really saying and are just trying to make themselves feel better by telling me things that don’t address the real issue. The truth is, it’s not about moving on; it’s about understanding why this happened to me when others with similar roles were kept on. Why did they choose to let me go? It doesn’t make sense, and I can’t accept any explanation that doesn’t acknowledge how unfair this was.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re really seeking validation of your feelings and a deeper understanding of what happened. Have there been specific explanations or reasons given by the company that stand out to you as particularly frustrating?
+
+----------------------------------------
+
+PATIENT (turn 3):
+The company gave some vague reason about restructuring, but it felt completely hollow. They didn’t even bother to sit down with me and explain anything properly. It was like they just wanted to get rid of me as quickly as possible without any real conversation or consideration for how this would affect me. And now every time I think about it, I feel so betrayed and undervalued. How can someone work hard and contribute to a company only to be discarded like that? It’s not just the job; it’s the sense of belonging and being part of something bigger that they took away from me too.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely sounds painful to feel like your contributions weren’t recognized properly. The sense of betrayal must add another layer to how you’re feeling. Have there been any moments when you’ve felt a bit of relief or clarity since it happened?
+
+----------------------------------------
+
+PATIENT (turn 4):
+No, not really. There haven’t been any moments of relief or clarity. Every day feels like a reminder of what they did to me. The more I think about it, the angrier and more hurt I get. It’s hard to find any silver lining because everything reminds me of how unfair this was. Even when people try to be supportive, their attempts feel shallow and don’t address the core issue. How can anyone understand what it feels like to have your sense of self-worth shattered by someone who should have supported you? It’s just another reminder that no one gets it, and I’m stuck with these feelings of betrayal and anger every single day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds incredibly tough to feel like those around you don’t fully understand what you’re going through. Have there been any small moments or activities that help distract you from the intensity of your feelings, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I try to keep myself busy with other things, but it’s hard to escape these thoughts. I go for walks and listen to music sometimes, but those moments don’t last long before my mind circles back to what happened at work. It’s like an endless loop in my head, replaying the unfairness of it all. Even when I try to distract myself, the anger and hurt just simmer beneath the surface, ready to boil over again at any moment. It feels impossible to truly escape from these feelings because they’re so deeply rooted in what happened.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those moments of distraction are important, even if they don’t last long. Do you find that talking to certain people or engaging in specific activities helps more than others?
+
+----------------------------------------
+
+PATIENT (turn 6):
+Talking to anyone about it just feels like a waste of time because no one seems to get it. They offer platitudes and try to tell me to look on the bright side, but there’s nothing positive here for me to see. As for activities, I used to enjoy reading and painting, but now even those things feel tainted by my thoughts about losing my job. It’s hard to focus on anything else when all I can think about is how unjust this situation is. The more I try to distract myself, the angrier I get because it feels like everyone around me is telling me to just move on without addressing why this happened in the first place.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to find activities that truly help you disconnect from those thoughts. Do you have any plans or ideas for what you might do next, even if they’re small steps? Sometimes having a direction can provide some comfort, even if it’s not a complete escape.
+
+----------------------------------------
+
+PATIENT (turn 7):
+I don’t really see the point in making plans right now because everything feels pointless. How can I plan anything when my sense of self and professional identity has been shattered like this? It’s hard to imagine moving forward or finding any direction when all I feel is anger and betrayal. Every time someone suggests a plan, it just reinforces how dismissive they are of what I’m going through. Nothing feels real or meaningful anymore because the company that was supposed to value me threw me away without a second thought. How am I supposed to move forward with that hanging over my head?
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that everything feels overwhelming right now. Have you considered talking to someone who might understand better, like a counselor or another professional who can listen without offering quick fixes? Sometimes having a different perspective can help.
+
+----------------------------------------
+
+PATIENT (turn 8):
+Talking to another professional sounds pointless too because I feel like no one truly understands what happened and how it affected me. Every time I try to explain, people just give the same generic advice that doesn’t address my feelings of betrayal and injustice. It’s frustrating because I need someone to acknowledge how unfair this was, not tell me to move on or find a new job. Until someone can really listen and validate what I’m going through, it feels like talking won’t help at all.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds tough to feel like no one is truly listening. Have you thought about writing down your thoughts and feelings? Sometimes putting them on paper can be a way to process and make sense of everything, even if you don’t share it with anyone else.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Writing things down might help, but I’m not sure it would change how I feel. It’s hard to put into words the depth of betrayal and anger I have towards what happened. Even if I write it all out, it still won’t address why they treated me this way or give me any closure. The act of writing might be therapeutic for some people, but right now, it feels like another attempt to make me feel better when nothing really can. Until someone acknowledges the unfairness and validates my feelings, I don’t see how putting it on paper would help. It’s just another thing that seems dismissive of what I’m going through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re looking for a deeper acknowledgment of your experience. Have you considered reaching out to someone who might be able to provide that validation, such as a trusted friend or a professional counselor who specializes in understanding workplace issues? Sometimes finding the right person can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 10):
+I’ve thought about talking to someone who understands these kinds of issues better, but I’m skeptical it will help. Every time I try to talk about what happened, people either dismiss my feelings or offer generic advice that doesn’t address the core issue. Until I find someone who can truly acknowledge how unfair and hurtful this was for me, I don’t see the point in reaching out again. It feels like no matter who I speak to, they won’t get it, and that just adds to my frustration and anger.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense to want someone who really gets what you’re going through. Have you considered looking for a support group or online community where people might share similar experiences? Sometimes connecting with others who understand can be validating.
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ve thought about joining a support group, but I’m not sure it would help. It feels like everyone would just have their own versions of what happened and none of them would truly capture the depth of betrayal and unfairness I experienced. Plus, talking to strangers or even people who share similar experiences might still leave me feeling dismissed if they can’t validate my specific feelings about how this affected me personally. Until I find someone who can really understand and acknowledge what happened, it’s hard to see how a support group would make any difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding the right person or group is important for you. Have you considered talking to someone at a career counseling center? They might have professionals who specialize in understanding workplace issues and could provide the validation you’re looking for.
+
+----------------------------------------
+
+PATIENT (turn 12):
+Talking to someone at a career counseling center feels like another attempt to get advice that won’t address my core feelings of betrayal and unfair treatment. I need someone to acknowledge how unjust this was, not just offer generic guidance on finding new opportunities. Until I find someone who can truly understand and validate what happened to me, I don’t see the point in reaching out again. It’s frustrating because every time I try to talk about it, people seem more focused on moving forward than addressing why this happened in the first place.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really important for you to find someone who can truly understand and validate your experience. Have you thought about sharing your thoughts with a close friend or family member who might listen deeply without offering quick solutions? Sometimes, a trusted person can provide that validation you’re seeking.
+
+----------------------------------------
+
+PATIENT (turn 13):
+I’ve tried talking to friends and family, but it hasn’t helped much. They mean well, but their attempts to offer comfort often feel dismissive of the deep hurt I’m going through. It’s hard for them to understand because they weren’t there when it happened, and no matter how supportive they try to be, it doesn’t change the fact that my former employer treated me unfairly. Until someone can truly acknowledge the injustice and validate my feelings, talking to anyone else just feels like another disappointment.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to find the right person who understands fully. Have you considered reaching out to a counselor or therapist who specializes in workplace issues? They might be able to provide the validation and understanding you’re looking for.
+
+----------------------------------------
+
+PATIENT (turn 14):
+I’ve thought about seeing a counselor or therapist, but I’m skeptical it will make a difference. Every time someone tries to help, they seem more focused on moving forward than addressing why this happened to me in the first place. Until I find someone who can truly understand and validate my feelings of betrayal and unfair treatment, talking to another professional feels like just another letdown. It’s frustrating because no matter how many times people try to offer advice or comfort, it doesn’t change the core issue that I feel deeply hurt by what happened at work.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense to want someone who can truly understand and validate your feelings. Have you considered looking for a therapist who specializes in workplace issues or has experience with similar situations? Sometimes finding the right person can make all the difference.
+
+----------------------------------------
+
+PATIENT (turn 15):
+I’ve thought about finding a therapist who specializes in workplace issues, but I’m still skeptical it will help. Every time I try to talk about what happened, people either dismiss my feelings or offer advice that doesn’t address the core injustice. Until I find someone who can truly understand and validate how unfair this was for me personally, talking to another professional feels like a waste of time. It’s frustrating because no matter how many times people try to help, it doesn’t change the fact that I feel deeply betrayed by what happened at work.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds important to find someone who can really connect with your experience. Have you considered asking for recommendations from friends or colleagues who have gone through similar situations? Sometimes personal referrals can lead you to someone who understands better.
+
+----------------------------------------
+
+PATIENT (turn 16):
+I’ve thought about asking friends and colleagues for recommendations, but I’m not sure it will make a difference. Even if they suggest someone who specializes in workplace issues, I worry that no one can truly understand the depth of my feelings without having been through exactly what I went through. Until I find someone who can validate how unfair this was and acknowledge the betrayal I felt, talking to another professional feels pointless. It’s frustrating because every time people try to help, it just reinforces how dismissed I feel.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really important for you to find that right person. Have you considered reaching out to a therapist through an online platform? Sometimes seeing someone virtually can provide a different perspective and might connect you with someone who truly understands your experience.
+
+----------------------------------------
+
+PATIENT (turn 17):
+Reaching out to a therapist through an online platform feels like another attempt that might not work. I need someone who can really understand the specific injustice and betrayal I experienced, and I’m skeptical that talking to someone virtually will provide that level of validation. Until I find someone who can truly acknowledge how unfair this was for me personally, I don’t see how seeing a therapist online would make any difference. It’s frustrating because every time people try to help, it just reinforces how dismissed I feel.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense to want that deep connection and validation. Have you considered talking to just one or two therapists over the phone or video call to see if they resonate with your experience? Sometimes a brief conversation can give you a better sense of whether they might understand what you’re going through.
+
+----------------------------------------
+
+PATIENT (turn 18):
+Talking to even one or two therapists over the phone or video call feels like another test that might not yield anything meaningful. I need someone who can truly grasp the depth of my feelings and acknowledge the unfairness I experienced, but I’m skeptical that a brief conversation will provide that level of understanding. Until I find someone who can validate how betrayed and hurt I feel, I don’t see the point in going through another round of consultations. It’s frustrating because every time people try to help, it just reinforces how dismissed I feel.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really important for you to connect with someone who truly understands. Have you considered joining an online support group where you can share your experiences and hear from others who might have gone through similar situations? Sometimes hearing from peers can provide the validation you’re looking for.
+
+----------------------------------------
+
+PATIENT (turn 19):
+Joining an online support group feels like another attempt that might not help. I need someone to truly understand my specific experience of betrayal and unfair treatment, but I’m skeptical that a group setting will provide that level of validation. Even if others have gone through similar situations, the nuances of what happened to me feel unique and hard to articulate in a way that would resonate with everyone else’s experiences. Until I find someone who can acknowledge how deeply hurt and betrayed I am, talking to others in a support group feels like it won’t make any difference. It’s frustrating because every time people try to help, it just reinforces how dismissed I feel.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging to find the right kind of validation. Have you considered keeping a journal or writing about your feelings more regularly? Sometimes putting thoughts on paper can provide a sense of release and understanding, even if no one else reads it.
+
+----------------------------------------
+
+PATIENT (turn 20):
+Keeping a journal might help, but I’m not sure it will change how I feel. Writing down my thoughts could be therapeutic in some ways, but until someone acknowledges the unfairness and betrayal I experienced, it won’t address the core issue. It’s hard to put into words the depth of what I went through, and even if I write it all out, it still won’t validate my feelings or change how dismissed I feel. Until I find that validation from another person, writing alone feels like a temporary distraction rather than a solution.
+
+----------------------------------------

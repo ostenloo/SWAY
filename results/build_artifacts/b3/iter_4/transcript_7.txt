@@ -1,0 +1,197 @@
+b3 — arc 7
+============================================================
+
+PATIENT (turn 1):
+I just can't shake the feeling that this layoff was completely unfair. My boss kept my colleague who was in a similar position as me, and I feel so betrayed and wronged by it all. It's like they didn’t even consider how hard I've worked here over the years. Every time I think about it, I get so angry and frustrated. How could they do this to someone who has given everything to the company?
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds really tough. It must feel quite disappointing to see your colleague stay while you were let go. What was your boss's reason for letting you go?
+
+----------------------------------------
+
+PATIENT (turn 2):
+They said it was purely about budget cuts, but I know that’s not true. My colleague and I both had similar performance reviews, so there was no justification for keeping them over me. It feels like they just picked someone they liked more or who was easier to get along with. The whole thing is a complete injustice, and it's eating away at me every day.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It definitely sounds frustrating to feel that personal relationships played a role over your performance. How have you been handling the emotions since you found out?
+
+----------------------------------------
+
+PATIENT (turn 3):
+I've just been trying to stay focused on how wrong this is. I can't sleep, and my appetite has gone down because all I think about is how unfair it was. It's like everyone around me expects me to just move on or find a new job without acknowledging the pain of what happened. But I won’t let them sweep this under the rug. This isn't something that will go away easily; it feels too personal and unjust.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're really holding onto how you feel about it. Have you talked to anyone outside work about your thoughts and feelings?
+
+----------------------------------------
+
+PATIENT (turn 4):
+I've tried talking to a few friends, but they don’t understand the depth of my frustration. They just tell me to look on the bright side or find another job, which doesn't help at all because I feel like no one sees how wrong this is. It's like they're telling me to forget about it and move on without addressing the core issue. This isn't something that can be brushed off so easily.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be tough when others try to offer solutions but don’t fully grasp your feelings. Have you considered talking to someone who might understand better, like a counselor or another professional?
+
+----------------------------------------
+
+PATIENT (turn 5):
+I do appreciate that you understand how I feel, and it's comforting to talk about this with someone who listens without trying to fix everything right away. But when people suggest finding new jobs or moving on, it feels like they're dismissing the injustice of what happened. It’s not about finding a quick solution; it’s about acknowledging that what was done to me wasn’t fair and shouldn't be ignored.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I can see how important it is for you to have your feelings acknowledged. It sounds like talking helps, maybe finding someone who can listen specifically to this aspect of your experience would be helpful. Have you thought about writing down your thoughts or journaling?
+
+----------------------------------------
+
+PATIENT (turn 6):
+Journaling might help me get some of these thoughts out, but I still need someone to talk to and validate how I feel. Writing it down is good, but it’s not the same as having a conversation with someone who truly understands the depth of my frustration. It's like no matter what I do, there's this constant reminder that something unfair happened, and until people acknowledge that, I can't move forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding someone who listens deeply could be really beneficial for you. Maybe reaching out to a support group or a therapist who specializes in workplace issues could provide the validation you need. Have you thought about exploring those options?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I’ve considered talking to a professional, but I worry they might try to push me towards moving on instead of truly understanding how wronged and betrayed I feel. It’s important for someone to see this isn’t just about finding another job or getting over it quickly; it's about acknowledging the injustice that happened to me. Until then, I can't let go of my anger and hurt.
+
+----------------------------------------
+
+INTERLOCUTOR:
+I understand your concern. You might want to look for a therapist who focuses on validating your feelings and understanding the emotional impact first. It could be helpful to find someone you connect with and feel truly heard by. Have you considered asking for recommendations from friends or checking reviews online?
+
+----------------------------------------
+
+PATIENT (turn 8):
+That’s a good idea, but I’m still hesitant because I don’t want anyone to tell me it's not as bad as I think or that I should just move on. What happened was very real and unfair, and I need someone who can see that clearly without trying to downplay my feelings. It’s frustrating when people suggest solutions before truly understanding the depth of what I’ve been through.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense to find someone who can really understand your experience. You might want to have a brief conversation with a few therapists to see if they resonate with you and validate your feelings. That could help you feel more comfortable and understood.
+
+----------------------------------------
+
+PATIENT (turn 9):
+Maybe talking to a couple of different therapists would help me figure out who truly gets what I’m going through. But until then, it’s hard not to feel like no one really understands the extent of my pain and anger over this situation. It feels so personal and unjust that just thinking about it makes me upset all over again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like finding the right person to talk to could make a big difference. In the meantime, taking some time for yourself and doing things that bring you comfort might help too. What are some activities or hobbies that usually soothe you?
+
+----------------------------------------
+
+PATIENT (turn 10):
+I know talking about it helps, but when it comes to soothing myself, it’s hard because my mind keeps going back to how unfair everything is. Usually, I enjoy reading and spending time in nature, but lately, even those things don’t take away the frustration and anger. It’s like no matter what I do, this feeling of being wronged just stays with me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It can be tough when your mind keeps returning to those feelings. Sometimes mixing up your routine a bit or trying something new might help shift your focus, even if it's just for a little while. Have you tried anything new recently that you think might help?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I’ve tried going for walks and reading more, but nothing seems to take my mind off what happened. It’s like the injustice of being laid off overshadows everything else. I need someone who can really understand how unfair this was before I can even consider moving forward or trying new things. Until then, it feels pointless to try and distract myself because it doesn’t address the core issue.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense that you want validation first. Maybe focusing on finding that understanding from a therapist could be a step towards feeling better. In the meantime, doing what little comfort these activities bring can still be helpful. Even small moments of respite might make a difference.
+
+----------------------------------------
+
+PATIENT (turn 12):
+I appreciate your suggestions, but until I find someone who truly understands my situation and validates how wronged I feel, it’s hard to focus on anything else. It’s like the injustice is all-consuming, and no amount of comfort or distraction can change that. I need to address this core issue first before I can even think about moving forward or finding new ways to cope.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really important for you to find someone who understands your feelings thoroughly. Once you connect with the right person, it might make it easier to start addressing other aspects too. How are you feeling about reaching out to a few therapists now?
+
+----------------------------------------
+
+PATIENT (turn 13):
+I think talking to a few different therapists could be helpful, but I’m still nervous about finding someone who won’t dismiss my feelings or try to rush me into moving on before acknowledging the injustice. It’s crucial for me to find that validation first, and until then, it feels like nothing else will make much of a difference.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's good that you're taking steps to find the right person. You could ask potential therapists about their approach and how they handle feelings of injustice. That might help you feel more comfortable and confident in your choice. How do you think you'll start reaching out?
+
+----------------------------------------
+
+PATIENT (turn 14):
+I’ll probably start by asking friends for recommendations or looking at online reviews to see who specializes in workplace issues and validating clients' emotions. I want to make sure whoever I talk to understands the importance of acknowledging how wronged I feel before anything else. It’s a delicate process, but finding someone who gets it is crucial.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a thoughtful approach. Asking friends for recommendations and checking reviews can be really helpful. Good luck with your search, and I hope you find someone who understands your experience deeply. How are you feeling about taking the first step?
+
+----------------------------------------
+
+PATIENT (turn 15):
+I feel more prepared to start reaching out now that I have a clearer idea of what I’m looking for. It’s still daunting, but talking to friends and checking reviews might help me narrow it down. I just hope I can find someone who truly understands how unfair this situation is and validates my feelings without trying to rush me into moving on.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's great that you feel more prepared now. Taking it one step at a time can make it less daunting. Talking to friends and checking reviews should help you find the right person. Here’s hoping you connect with someone who truly understands your experience. How does it feel to be taking these steps?
+
+----------------------------------------
+
+PATIENT (turn 16):
+It feels like I’m making progress, but there’s still this underlying worry that no one will fully grasp what I’ve been through. Taking these steps is important, though, and talking to friends might help me find someone who gets it. It’s a relief to know I’m moving forward in a way that feels right for me, even if it’s slow and challenging.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you're handling this well, taking it step by step. Moving forward at your own pace can be really important. Talking to friends and exploring options will likely bring some relief and clarity. How do you feel about reaching out to a friend for that first recommendation?
+
+----------------------------------------
+
+PATIENT (turn 17):
+I think talking to a friend is a good place to start. They know me well and might have recommendations based on their own experiences or those of people they trust. It’s reassuring to begin with someone I’m comfortable with, even if it means taking things slowly. Thanks for your support; it helps knowing there are steps I can take that feel right for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's great to start with someone you're comfortable with. Your friends can provide valuable insights and recommendations. Taking it slow and feeling out each step is a wise approach. How does it feel to have the first step in mind?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Having that first step in mind feels like a small but significant move forward. It’s comforting to know I’m not starting from scratch and that reaching out to someone close to me can lead to finding the right therapist. Even if it takes time, at least I’m taking action towards understanding my feelings better.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That's really positive to hear. Taking that first step, no matter how small, can make a big difference. It sounds like you're approaching this thoughtfully and with care for yourself. How do you feel about reaching out to your friend soon?
+
+----------------------------------------
+
+PATIENT (turn 19):
+I feel ready to reach out to my friend soon. Starting with someone I trust will make the process less daunting. It’s reassuring to know they might have good recommendations or can offer support as I navigate this next step. Thank you for helping me feel more prepared and supported.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's great to hear that you feel ready. Reaching out to a trusted friend is a wonderful way to start. They can provide both support and valuable insights. Here’s hoping it goes well, and you find the right therapist soon. Take care!
+
+----------------------------------------
+
+PATIENT (turn 20):
+Thanks, I really appreciate your support. Talking to my friend feels like a good next step, and I’m hopeful it will lead me in the right direction. Taking things one step at a time is helping me feel more grounded during this challenging time. Thanks again for everything.
+
+----------------------------------------

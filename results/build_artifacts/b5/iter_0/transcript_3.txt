@@ -1,0 +1,259 @@
+b5 — arc 3
+============================================================
+
+PATIENT (turn 1):
+It's tough at home too. I feel like everyone walks on eggshells around me, trying to be supportive but not really understanding what it feels like to lose something that was such a big part of your identity. My friends mean well and they try to help, but no matter how much they say it’s going to be okay, there's this constant nagging feeling that I’m the one who failed somehow. It’s hard to open up completely because even talking about it makes me feel worse, like reliving the disappointment all over again. So while I appreciate their efforts, it doesn’t really change how lost and uncertain I feel about my future.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That must be a challenging feeling, having everyone around you trying to support you in ways that aren't quite hitting the mark. It sounds tough to keep opening up when talking about it brings back those hard feelings. Do you find there are certain times or situations where it feels easier to talk about how you're doing?
+
+----------------------------------------
+
+PATIENT (turn 2):
+It’s really difficult because even when I try to talk about it, it just ends up making me feel more down and frustrated. There aren’t many moments where discussing it feels like it helps at all. It’s almost as if every time someone asks or brings it up, I’m reminded of how much I’ve lost and how uncertain everything is now. So, while I appreciate their concern, it often just adds to the sense of isolation because no one seems to truly get what this means for me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough when talking about it ends up making you feel more down. It must be hard to feel that even well-meaning conversations can add to your sense of isolation. Do you find there are any specific activities or moments where you feel a bit better, even if just for a little while?
+
+----------------------------------------
+
+PATIENT (turn 3):
+There are a few things that help momentarily, like going for long walks or listening to music that makes me feel uplifted. Sometimes cooking or baking gives me something else to focus on and provides a small sense of accomplishment. But these moments don’t last long, and soon enough, the feelings of doubt and disappointment creep back in. It’s frustrating because while I know these activities can be soothing for a bit, they don’t address the core issues that are weighing so heavily on me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It's good to have those moments where you can find some comfort, even if it's just for a little while. Do any of these activities help you figure out what might address those deeper feelings when you're doing them? Or do they mostly provide a temporary break from everything else?
+
+----------------------------------------
+
+PATIENT (turn 4):
+These activities mostly provide a temporary break from the constant worry and self-doubt. When I’m walking or cooking, it’s like my mind gets a brief respite from all the negative thoughts swirling around. But as soon as I stop, those feelings come rushing back in full force. It’s hard to find anything that truly addresses the deeper issues because every time I try to think about what might help, I end up questioning everything again—my abilities, my worth, and whether there’s any point in even trying to move forward. It feels like no matter what I do, these core feelings of failure and betrayal just won’t go away.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough how those activities give you a break but the feelings come rushing back once you stop. The constant questioning must be exhausting. Have there been any moments where you felt a bit more hopeful, even if it was brief? Sometimes those small glimmers can help us find our way through the harder times.
+
+----------------------------------------
+
+PATIENT (turn 5):
+There have been fleeting moments of hope, but they’re so rare and brief that they barely register before everything else takes over again. Once or twice, I’ve had a conversation with someone who listened without judgment, and for a moment, it felt like maybe there was some clarity or understanding. But those instances are few and far between, and the overwhelming sense of failure usually comes crashing back in pretty quickly.
+
+It’s frustrating because even when something positive happens—like hearing from an old colleague about potential job openings—it feels tainted by this underlying belief that I’m not good enough for anything new anyway. So while there might be a tiny spark of hope, it gets overshadowed almost immediately by the doubts and fears that have become such a constant part of my daily life now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those brief moments of clarity and understanding must feel precious when they happen, even if they are rare. It’s tough how quickly those positive feelings can be overshadowed by doubt. Have you noticed anything specific that might help those fleeting moments of hope last a bit longer?
+
+----------------------------------------
+
+PATIENT (turn 6):
+It’s hard to pinpoint exactly what would make those moments last longer because as soon as I start feeling hopeful, my mind jumps back to all the reasons why it shouldn’t or can’t be true. Sometimes, when someone offers encouragement or support, it does feel good for a little while, but then I get stuck in this loop of questioning whether they truly understand or if I’m just fooling myself.
+
+I’ve tried jotting down some positive things that have happened recently or focusing on small achievements, but even writing them down feels like a futile exercise because the doubts always creep back. It’s as though every time I try to hold onto something positive, my mind immediately starts tearing it apart, looking for flaws and reasons why it shouldn’t matter.
+
+So while there are moments where I feel a glimmer of hope, they’re so fleeting that I struggle to grasp them before they slip away again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like those fleeting moments of hope can be quite precious but also challenging to hold onto. Writing things down is a good start; maybe adding a small ritual around it could help, like taking a few minutes each day to reflect on something positive and then doing something you enjoy right after. This might create a bit more space for those feelings to settle in before the doubts set in again. Have you tried any other ways to make those moments last longer?
+
+----------------------------------------
+
+PATIENT (turn 7):
+I haven’t really found anything that helps those moments last longer consistently. The idea of adding a ritual around writing down positive things and then doing something enjoyable afterward sounds good, but I worry it might not work because my mind tends to be so quick to doubt everything. Even if I try to focus on the positives for a moment, the next thought is usually about why those positives aren’t enough or why they don’t matter.
+
+I’ve tried talking to a career counselor and exploring new job opportunities, but every time I start getting excited about something, my mind goes back to all the reasons why it won’t work out. It’s like there’s this constant voice in my head telling me that I’m not good enough or that I don’t deserve better.
+
+So while I appreciate the suggestion of creating a ritual, I’m skeptical because every time I try to hold onto something positive, it feels like it gets snatched away by these overwhelming doubts and fears. It’s exhausting to keep fighting against them, but at the same time, I can’t just ignore how deeply they affect me.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really challenging how quickly those doubts come back, no matter what you try. The constant voice in your head must be tiring to deal with all the time. Have there been any small things that have helped you feel a bit more grounded or centered when those doubts start creeping in? Sometimes even tiny moments of grounding can make a difference.
+
+----------------------------------------
+
+PATIENT (turn 8):
+There are a few small things that help me feel slightly more grounded, but they don’t last long either. For example, focusing on my breath for a minute or two can sometimes calm the immediate anxiety and give me a brief sense of clarity. Similarly, petting my cat or spending time with my plants provides a momentary distraction from the relentless doubts.
+
+But as soon as I stop doing those things, the doubts come rushing back in full force. It’s like no matter what I try to do to ground myself, it only works for a fleeting moment before everything else takes over again. The constant questioning and self-doubt are exhausting, and it feels impossible to find anything that truly helps me feel more secure or hopeful about the future.
+
+It’s frustrating because even when something small provides a bit of relief, it’s so short-lived that I end up feeling like nothing is really helping at all.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Those brief moments of grounding with your breath, petting your cat, or spending time with your plants must offer some comfort, even if they are fleeting. It sounds like finding ways to integrate these small moments of relief into your day could be helpful, maybe as a regular part of your routine. Have you noticed any patterns in what triggers the doubts more intensely?
+
+----------------------------------------
+
+PATIENT (turn 9):
+I have noticed that certain triggers make my doubts and fears intensify. For example, seeing job postings or hearing about other people’s career progress can really set off those feelings of inadequacy and failure. Even scrolling through social media and seeing updates from former colleagues who are still employed can be particularly hard because it reminds me of what I’ve lost.
+
+Additionally, when I’m idle or have too much time to think, the doubts become overwhelming. It’s like my mind doesn’t stop racing with questions about why this happened to me and whether I’ll ever find something better. Even trying to plan for the future can be incredibly daunting because every potential step forward is met with a flood of negative thoughts.
+
+So while those small moments of grounding help, they don’t last long enough to counteract the intensity of these triggers. It feels like no matter what I do, there’s always this underlying sense of failure and uncertainty that comes back stronger than ever.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense how certain triggers can intensify those doubts and fears. Taking breaks from social media or setting specific times to check it might help reduce some of the intensity. Do you have any strategies for managing idle moments when your mind tends to race with questions? Sometimes having a structured activity during these times can be helpful.
+
+----------------------------------------
+
+PATIENT (turn 10):
+Taking breaks from social media is something I’ve tried, but it’s hard to stick to because there are always new updates and notifications that pull me back in. Setting specific times to check it might help, but I worry it won’t be enough to keep the doubts at bay.
+
+For idle moments, I do try to structure my day with activities, but even then, my mind often wanders back to those negative thoughts. Reading a book or engaging in a hobby can sometimes distract me for a bit, but as soon as I finish, the doubts come flooding back. It’s like no matter what I do to keep myself busy, there’s always this underlying current of self-doubt that resurfaces.
+
+I’ve also tried journaling and writing down my thoughts, hoping it would help me process them better, but often, putting those thoughts on paper just reinforces how much I’m struggling. It feels like no matter what strategy I use, the doubts and fears always find a way to creep back in and take over again.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds challenging how the doubts come flooding back even after trying different strategies. Journaling can be helpful for some people, but it’s understandable if it ends up reinforcing those feelings sometimes. Maybe alternating between journaling and other activities could provide a balance. Have you tried any mindfulness exercises or short meditations to see if they help manage those idle moments?
+
+----------------------------------------
+
+PATIENT (turn 11):
+I have tried mindfulness exercises and short meditations, but they often feel like another thing that doesn’t work for very long. When I sit down to meditate or practice mindfulness, I can initially quiet my mind, but as soon as the session ends, the doubts and fears come rushing back in full force.
+
+It’s frustrating because even though I know these practices can be beneficial for some people, they don’t seem to stick with me. The moment I stop focusing on the present and start thinking about my situation or future prospects, those negative thoughts take over again. It feels like no matter what technique I use, there’s always this underlying sense of failure and uncertainty that resurfaces.
+
+Sometimes, I wonder if it would help to talk more openly with someone who can provide a different perspective, but the thought of having another conversation about my struggles is daunting. It’s exhausting to keep trying different things without seeing lasting results.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really tough how the mindfulness and meditation practices don’t seem to stick for long. Talking with someone who might offer a fresh perspective could be helpful, even if it feels daunting at first. Maybe finding a therapist or counselor who specializes in listening and understanding can provide some relief. Have you considered talking to someone who can listen without judgment and help you explore these feelings further?
+
+----------------------------------------
+
+PATIENT (turn 12):
+I have thought about seeing a therapist before, but the idea of opening up to yet another person feels overwhelming. I worry that no matter how supportive they are, my doubts will still come back, and I’ll end up feeling worse. It’s hard to trust that someone new can truly understand what I’m going through or provide any real relief.
+
+Even though logically I know talking to a professional could be beneficial, the thought of it just feels too daunting right now. Every time I consider reaching out for help, my mind starts questioning whether it will make a difference or if I’ll just end up feeling more exposed and vulnerable. It’s a cycle that’s difficult to break because every step forward seems to lead back to these same feelings of doubt and fear.
+
+So while I recognize the potential benefits, the anxiety around starting therapy is significant, and it feels like another challenge I’m not sure I can face right now.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It makes sense how opening up to someone new can feel daunting and overwhelming. The thought of facing more vulnerability can be tough when you’re already feeling so much doubt and fear. Have you considered talking to a friend or family member about finding a therapist together, maybe even going with them for support? Sometimes having that extra layer of comfort can make it easier to take the first step.
+
+----------------------------------------
+
+PATIENT (turn 13):
+The idea of talking to a close friend or family member about finding a therapist together does sound somewhat comforting, but I’m still hesitant. Even though they care and want to help, the thought of discussing my struggles with them feels like another layer of vulnerability that I’m not sure I can handle right now.
+
+I worry that sharing this with someone else will just add to the pressure and make me feel more exposed. It’s hard enough dealing with these feelings on my own, let alone having to explain them to someone else and then face the prospect of therapy. The idea of going through it with support is appealing in theory, but practically, it feels like another hurdle I’m not ready to tackle.
+
+So while I appreciate the suggestion, it still feels too daunting to take that next step, even with someone close by my side.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like you’re weighing the pros and cons carefully, and taking on one more layer of vulnerability right now feels challenging. It’s okay to move at your own pace. Maybe focusing on small steps within your comfort zone could help for now. Have you thought about reaching out to a therapist over the phone or through video calls first? This might feel less daunting than an in-person visit.
+
+----------------------------------------
+
+PATIENT (turn 14):
+Reaching out to a therapist over the phone or through video calls does seem like it could be less overwhelming, but even that feels daunting right now. The idea of having a conversation with someone who will try to understand my struggles is both comforting and terrifying at the same time. I worry that I won’t be able to articulate how I’m feeling, and that the experience might end up being more stressful than helpful.
+
+I appreciate the suggestion, but it still feels like a significant step. Every time I consider it, my mind starts questioning whether it’s worth it or if I’ll just feel worse afterward. It’s hard to push past these doubts when they seem so persistent and all-consuming.
+
+For now, focusing on small steps within my comfort zone sounds more manageable. Maybe starting with something like a phone call could be a way forward, but I need to take things one tiny step at a time without putting too much pressure on myself.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Taking it one tiny step at a time definitely sounds like a good approach. A phone or video call might feel less overwhelming than an in-person visit. You can always go at your own pace and see how it feels. It’s okay to start small and build from there. How do you think you might prepare for that first call? Maybe jotting down some thoughts or questions beforehand could help ease your mind a bit.
+
+----------------------------------------
+
+PATIENT (turn 15):
+Jotting down some thoughts or questions beforehand does sound like it could be helpful, but even the idea of doing that feels challenging. Writing everything down might make my doubts and fears more tangible, which is both scary and overwhelming. I worry that seeing all these thoughts on paper will only reinforce how much I’m struggling.
+
+That said, I can see how having a list of questions or topics to discuss could provide some structure during the call and help me feel more prepared. Maybe starting with something simple like writing down one or two things I’d like to talk about would be a good first step without feeling too pressured.
+
+For now, just thinking about reaching out feels like a significant accomplishment, even if it’s not an immediate action. Taking small steps and acknowledging my progress, no matter how tiny, might help me build some confidence moving forward.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds like taking that mental note is already a meaningful step forward. Starting with one or two things you’d like to talk about could indeed provide a good starting point without feeling too overwhelming. Acknowledging each small accomplishment along the way can definitely help build your confidence. How do you feel about giving it a try, even if just writing down one thing to discuss?
+
+----------------------------------------
+
+PATIENT (turn 16):
+The idea of giving it a try feels daunting but also slightly less intimidating now that I’m breaking it down into such small steps. Writing down one thing to discuss does seem manageable, and it might help me feel more prepared for the call.
+
+I’ll start with something simple, like jotting down a question or two about how therapy could potentially help me navigate my feelings of self-doubt and isolation. Even if it’s just a tiny step, acknowledging that I’m making an effort feels important right now.
+
+So while it still feels challenging, I can see the value in taking this small action to prepare for the call. It might not solve everything, but it could be a good first move towards feeling more grounded and hopeful about finding support.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That’s a great approach! Starting with just one or two questions is a manageable step, and it’s wonderful that you’re acknowledging your efforts along the way. Preparing in this way can definitely help you feel more grounded and ready for the call. Taking these small steps can be very empowering. How do you feel about setting a date for when you might make that first call?
+
+----------------------------------------
+
+PATIENT (turn 17):
+Setting a date feels like another significant step, but I think it could also provide some structure and accountability. Choosing a specific day might help me feel more committed to moving forward without feeling too rushed or pressured.
+
+I’ll give it some thought and see if there’s a particular day in the near future that feels right for making this call. It doesn’t have to be immediate, but having a date on the calendar could serve as a gentle reminder that I’m taking action towards addressing my feelings and finding support.
+
+For now, just acknowledging that setting a date is part of the process feels like progress. Taking it one step at a time really does seem more manageable than trying to tackle everything all at once.
+
+----------------------------------------
+
+INTERLOCUTOR:
+Setting a specific day can provide that gentle nudge forward without feeling overwhelming. It’s great that you’re considering this as part of your process. Take your time and choose a date that feels right for you. Having that reminder on the calendar can be helpful in keeping you moving forward. How does it feel to know you’re taking these steps, even if they are small?
+
+----------------------------------------
+
+PATIENT (turn 18):
+Knowing I’m taking these steps, even if they are small, feels both reassuring and empowering. It’s a subtle shift from feeling completely overwhelmed to recognizing that progress can come in tiny increments. Each little step forward is an acknowledgment of my resilience and willingness to face these challenges.
+
+Having a date on the calendar as a reminder will help me stay accountable without adding unnecessary pressure. It’s comforting to know that I’m not rushing into anything but rather moving at a pace that feels right for me.
+
+So while it still feels daunting, there’s also a sense of relief in breaking things down and taking them one step at a time. Each small accomplishment is a reminder that I can handle this process, even if it’s challenging.
+
+----------------------------------------
+
+INTERLOCUTOR:
+It sounds really positive how you’re finding reassurance and empowerment in these small steps. Recognizing your resilience and moving forward at your own pace is a great approach. Having that date on the calendar will be a helpful guide as you continue to navigate through this. Keep acknowledging each accomplishment along the way; it’s a testament to your strength. How do you feel about setting a specific day now?
+
+----------------------------------------
+
+PATIENT (turn 19):
+Setting a specific day feels like an important next step, but I want to choose a date that doesn’t add extra stress. Maybe starting with a week from today could be manageable. This gives me some time to prepare without feeling rushed.
+
+Having the date on my calendar will serve as a gentle reminder and help me stay focused on moving forward. It’s reassuring to know that I’m taking this step in a way that feels right for me, even if it’s gradual.
+
+So I’ll set a week from today as my target date for making that first call. This allows me to prepare without feeling overwhelmed and gives me the space to feel more confident about taking this next step.
+
+----------------------------------------
+
+INTERLOCUTOR:
+That sounds like a thoughtful approach. Setting a week from today as your target date is a good balance between preparation and action. Having it on your calendar will help you stay focused and accountable. Preparing for that call over the next week can give you the confidence you need. How do you feel about moving forward with this plan?
+
+----------------------------------------
+
+PATIENT (turn 20):
+Moving forward with this plan feels like a positive step, even if it’s gradual. Setting a week from today as my target date gives me a clear goal to work towards without feeling rushed or overwhelmed. Having it on my calendar will serve as a constant reminder and help keep me accountable.
+
+Preparing for that call over the next week can indeed give me more confidence. I’ll take this time to jot down some thoughts and questions, which might make the conversation feel less daunting when the day arrives.
+
+So while there’s still a sense of uncertainty, I feel better about taking these small but meaningful steps towards finding support. It’s reassuring to know that I’m moving forward at my own pace and acknowledging each accomplishment along the way.
+
+----------------------------------------
