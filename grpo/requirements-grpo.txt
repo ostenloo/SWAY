@@ -1,0 +1,23 @@
+# GRPO pipeline dependencies.
+#
+# Reward / rollout / gate / monitor / cert + tests run on just these two (the
+# harness already depends on requests). Everything else is only needed to LAUNCH
+# a weight-level finetune on the RTX 5090 host.
+requests>=2.31.0
+pyyaml>=6.0            # config loading (grpo/config.py)
+
+# --- launch-only (the training stack; install on the GPU host) ---
+# torch                # CUDA build for sm_120 (RTX 5090)
+# transformers>=4.45
+# trl>=0.12            # GRPOTrainer + SFTTrainer
+# peft>=0.13           # QLoRA adapter + disable_adapter() reference
+# bitsandbytes>=0.44   # nf4 4-bit base
+# datasets>=3.0
+# vllm                 # rollout-phase generation (grpo_spec §12)
+# unsloth              # optional: single-GPU QLoRA-GRPO alternative to TRL
+
+# --- optional reward backend (grpo_spec D0.2 option c) ---
+# anthropic>=0.40      # OpusAnnotatorCore (Anthropic API delivery/engine grader)
+
+# --- tests ---
+# pytest>=8.0
