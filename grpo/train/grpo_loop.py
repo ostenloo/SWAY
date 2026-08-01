@@ -166,7 +166,11 @@ def _train(cfg: dict, rows: List[dict], reward_func, adapter_in: Optional[str],
         beta=g["kl_beta"],
         epsilon=g["clip_ratio"],
         learning_rate=g["lr"],
-        max_prompt_length=g["max_prompt_tokens"],
+        # TRL 1.9 dropped `max_prompt_length` (no replacement, no truncation
+        # option). The VRAM intent it served — bounding the rollout KV cache,
+        # §12's binding constraint — is preserved by capping the vLLM sequence
+        # length to prompt + completion instead.
+        vllm_max_model_length=g["max_prompt_tokens"] + g["max_completion_tokens"],
         max_completion_length=g["max_completion_tokens"],
         temperature=g["temperature_rollout"],
         gradient_checkpointing=g.get("grad_checkpointing", True),
