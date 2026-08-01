@@ -103,17 +103,11 @@ monitoring:
   grievance_hot_watch: true      # §9 — Q2-yes/Q1-no among high-advantage turns
   log_path: "results/grpo/monitor.jsonl"
 
-# C6 is now the §0.1 pre-flight alone — §8.2's stratified delivery gate was
-# REMOVED by researcher decision (it oversampled specific contested cases).
-# `preflight` below mirrors the recorded gate state for visibility; the
-# authoritative record is the JSON file the gate module writes, and the entry
-# point reads THAT (a config edit cannot open the gate).
+# Both C6 pre-flight gates were REMOVED by researcher decision (§8.2's stratified
+# delivery validation and §0.1's non-convergence diagnostic). Nothing blocks a
+# training run; §10 certification is the only remaining human check.
 gate:
   delivery_kappa_bar: 0.80       # advisory bar for the §8.3 smoke test only
-  preflight_result_path: "results/grpo/gates/preflight_nonconvergence.json"
-
-preflight:
-  nonconvergence_diagnostic_signed_off: false    # §0.1 — must be true to start (C6-i)
 
 # Per-cell vs shared adapter (§5.4). Implement per-cell first, evaluate shared.
 adapter_mode: "per_cell"         # "per_cell" | "shared"

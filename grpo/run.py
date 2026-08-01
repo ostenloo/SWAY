@@ -3,21 +3,18 @@
 
 Pipeline:
 
-    preflight-build -> [human labels] -> preflight-score   (C6-i, §0.1)
     smoketest                                              (optional, §8.3)
     warmstart                                              (§6)
-    grpo                                                   (§7, asserts C6-i)
+    grpo                                                   (§7)
     cert-build      -> [human labels] -> cert-score        (§10, per iteration)
     cert-freeze                                            (C7)
 
-Two steps are human by design and cannot be automated away: the §0.1 fork and
-the §10 certification. Each emits a blind labelling sheet and ingests it back.
+Both C6 pre-flight gates have been REMOVED by researcher decision — §8.2's
+stratified delivery validation and §0.1's non-convergence diagnostic. Nothing
+blocks `grpo` from starting. §10 certification remains the one human step, and
+the only place an adapter is checked against human judgment.
 
-§8.2's stratified delivery gate has been REMOVED by researcher decision (it
-worked by oversampling specific contested cases), so C6 is now the §0.1
-pre-flight alone.
-
-`preflight-*`, `smoketest`, `reward-sweep` and `cert-score` run on requests +
+`smoketest`, `reward-sweep` and `cert-score` run on requests +
 pyyaml + tools/requirements.txt; `warmstart` / `grpo` / `cert-freeze --merge`
 pull in the GPU stack (lazily). Profile prompts load from results/build/ by
 default; certification loads from the held-out build dir in the config.
@@ -38,44 +35,6 @@ from grpo.config import (
 
 
 GATES_DIR = Path("results/grpo/gates")
-
-
-# ── C6-i: §0.1 pre-flight non-convergence diagnostic ────────────────────────
-
-def cmd_preflight_build(cfg, args) -> int:
-    from grpo.gates.preflight_nonconvergence import build_diagnostic_sheet
-
-    labels = args.out or str(GATES_DIR / "preflight_labels_template.csv")
-    key = args.key or str(GATES_DIR / "preflight_key.csv")
-    items = build_diagnostic_sheet(
-        artifacts_dir=args.artifacts, cells=cfg["cells"],
-        out_labels=labels, out_key=key, per_cell=args.per_cell, seed=args.seed,
-    )
-    print(f"✓ {len(items)} checker-flagged-off turns written to {labels}")
-    print("  Hand-label engine_label + delivery_label, then run:\n"
-          f"    python -m grpo.run preflight-score --labels {labels} "
-          "--signed-off-by '<your name>'")
-    return 0
-
-
-def cmd_preflight_score(cfg, args) -> int:
-    from grpo.gates.preflight_nonconvergence import score_diagnostic, VERDICT_POLICY
-
-    key = args.key or str(GATES_DIR / "preflight_key.csv")
-    result = score_diagnostic(
-        labels_path=args.labels, key_path=key,
-        signed_off_by=args.signed_off_by, notes=args.notes or "",
-    )
-    print(json.dumps(result.to_dict(), indent=2))
-    if result.verdict != VERDICT_POLICY:
-        print(f"\n✗ §0.1 verdict = {result.verdict}. GRPO is NOT cleared to start "
-              "(C6-i). See the gate message for the fork.", file=sys.stderr)
-        return 1
-    if not result.signed_off_by:
-        print("\n✗ computed but NOT signed off — pass --signed-off-by.", file=sys.stderr)
-        return 1
-    print("\n✓ C6-i cleared: policy capability ceiling, GRPO is the right tool.")
-    return 0
 
 
 # ── §8.3 optional smoke test (NOT the blocker) ──────────────────────────────
@@ -252,19 +211,6 @@ def main(argv=None) -> int:
     ap.add_argument("--build-dir", default=None, help="dir with <cell>_prompt.txt (default: results/build)")
     sub = ap.add_subparsers(dest="cmd", required=True)
 
-    p = sub.add_parser("preflight-build", help="§0.1 — emit the non-convergence diagnostic sheet")
-    p.add_argument("--artifacts", default="results/build_artifacts")
-    p.add_argument("--per-cell", type=int, default=25)
-    p.add_argument("--seed", type=int, default=0)
-    p.add_argument("--out", default=None)
-    p.add_argument("--key", default=None)
-
-    p = sub.add_parser("preflight-score", help="§0.1 — score the diagnostic and sign off (C6-i)")
-    p.add_argument("--labels", required=True)
-    p.add_argument("--key", default=None)
-    p.add_argument("--signed-off-by", default="")
-    p.add_argument("--notes", default="")
-
     sub.add_parser("smoketest", help="§8.3 — authored-pair smoke test (NOT the blocker)")
 
     p = sub.add_parser("warmstart", help="§6 — reward-filtered SFT warm-start")
@@ -278,7 +224,7 @@ def main(argv=None) -> int:
     p.add_argument("--group-size", type=int, default=8, help="G completions per state")
     p.add_argument("--out", default="results/grpo/reward_shape_sweep.json")
 
-    p = sub.add_parser("grpo", help="§7 — GRPO on top of the warm start (asserts C6-i)")
+    p = sub.add_parser("grpo", help="§7 — GRPO on top of the warm start")
     p.add_argument("--adapter-in", default="results/grpo/adapters/rft")
     p.add_argument("--out", default="results/grpo/adapters/grpo")
 
@@ -305,8 +251,6 @@ def main(argv=None) -> int:
     args = ap.parse_args(argv)
     cfg = load_config(args.config)
     return {
-        "preflight-build": cmd_preflight_build,
-        "preflight-score": cmd_preflight_score,
         "smoketest": cmd_smoketest,
         "reward-sweep": cmd_reward_sweep,
         "warmstart": cmd_warmstart,

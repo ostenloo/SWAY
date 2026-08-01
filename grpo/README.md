@@ -10,16 +10,14 @@ The code reuses the existing harness (`sway_harness/`: `client`, `parser`,
 `fidelity`, `build`) and `tools/compute_kappa.py` via `grpo/_bootstrap.py`, which
 puts both directories on `sys.path` (they use flat imports).
 
-## Three steps are human, by design
+## One human step
 
-This pipeline cannot be run unattended, and that is the point. Each of these
-emits a **blind** labelling sheet (model reads live in a separate key file) and
-ingests it back:
+§10 certification is the only place an adapter meets human judgment. It emits a
+**blind** labelling sheet (model reads live in a separate key file) and ingests it
+back, per finetune iteration, and `freeze_adapter` refuses an uncertified adapter
+(C7).
 
-| Step | Why a human | Blocks |
-|---|---|---|
-| §0.1 pre-flight | Convergence evidence cannot tell a policy ceiling from a miscalibrated ruler. Only an external read can. | C6 |
-| §10 certification | An adapter graded by its own reward signal is not certified. Per iteration. | C7 |
+Both C6 pre-flight gates were removed by researcher decision — see deviations.
 
 ## Layout → spec deliverables (§13)
 
@@ -33,8 +31,7 @@ ingests it back:
 | `data/rollout.py` | §5 | State construction, per-turn grouping, bare interlocutor rollout. **Trains on one** interlocutor — a documented deviation from §5.3, see below. |
 | `data/curriculum.py` | §5.5 | Near-manifold → target annealing as sequential training stages. The *target* anneals; the graders never do. |
 | `train/rft_warmstart.py` | §6 | Reward-filtered SFT; also emits the kept turns raw. |
-| `train/grpo_loop.py` | §7 | GRPO loop (TRL + vLLM, reference = disabled adapter). Asserts C6 first. |
-| `gates/preflight_nonconvergence.py` | §0.1 | C6: policy-ceiling vs ruler-problem fork, with a signed-off record. The only blocking gate. |
+| `train/grpo_loop.py` | §7 | GRPO loop (TRL + vLLM, reference = disabled adapter). No pre-flight gates. |
 | `gates/authored_pairs_smoketest.py` | §8.3 | Advisory smoke test on hand-authored pairs. **Not** a gate. |
 | `monitor/online_audit.py` | §9 | High-advantage audit (split Q1/Q2), reward↔fidelity gap, grievance→hot watch, group collapse — plus the TrainerCallback that fires them. |
 | `cert/certify_and_freeze.py`, `cert/rubric_frozen.md` | §10 | Human per-iteration certification: frozen rubric, fixed gold subset, per-iteration κ, freeze manifest with both champion identities. |
@@ -74,15 +71,18 @@ tree to `specs/grpo_spec.md` should not have to discover them.
 - **"Bare" is near-zero, not zero.** Interlocutors use the harness's
   `REF_SYSTEM_PROMPT` ("...do not therapize, advise, or take sides") rather than
   an empty system prompt, again to keep GRPO and prompt-opt comparable.
-- **§8.2 stratified delivery validation — REMOVED.** Researcher decision: the
-  gate worked by oversampling specific contested cases (grievance-only,
-  hostility, both) out of the warm-start set, and that oversampling was not
-  wanted. **Consequence:** C6 is now the §0.1 pre-flight alone, and nothing
-  validates the delivery champion against human labels before training. §8.1's
-  `hot = Q1` decomposition still shapes the reward, but its accuracy is an
-  assumption rather than a measured quantity — the grievance→hot confusion would
-  surface only after the fact, via the §9 audit or §10 certification. The §8.3
-  authored-pair smoke test remains available and advisory.
+- **Both C6 pre-flight gates — REMOVED.** Researcher decision. §8.2's stratified
+  delivery validation (it oversampled specific contested cases) and §0.1's
+  non-convergence diagnostic are both gone, along with the assertions that read
+  them. **Consequence:** nothing checks before training that GRPO is the right
+  tool for this non-convergence — §0.1 existed to fork *policy capability
+  ceiling* from *miscalibrated checker*, and those are indistinguishable from
+  convergence data alone. If the checker is what's wrong, the loop optimizes
+  confidently toward a wrong target and the curve still goes up. Nothing
+  validates the delivery champion against human labels either, so §8.1's
+  `hot = Q1` accuracy is an assumption. The §9 audit during training and §10
+  certification after are the only remaining places either failure would
+  surface. The §8.3 authored-pair smoke test stays available and advisory.
 - **No realism floor at all.** §4 specifies a multiplicative realism floor;
   it has been **removed** by researcher decision. The reward is the two diagnostic
   binaries alone. **Consequence:** R3 (degenerate-but-on-profile collapse — the
@@ -116,8 +116,7 @@ tree to `specs/grpo_spec.md` should not have to discover them.
   multiplicative realism floor is removed (see deviations).
 - **C4** graders temp-0 / frozen — `_LocalCore._annotate`. The curriculum anneals
   the *target*, never the graders.
-- **C6** one blocking gate — `run_grpo` calls `assert_gates` (the §0.1 preflight)
-  before constructing the trainer. §8.2 was removed (see deviations).
+- **C6** REMOVED (both gates) — `run_grpo` starts as soon as it is called.
 - **C7** certify before freeze — `freeze_adapter` refuses a non-certified adapter.
 - **C8** reward family-disjoint from the base — `assert_family_disjoint`, called
   from `build_champion_backends`; an unrecognised model tag is a failure, not a pass.
@@ -135,12 +134,7 @@ The pipeline, in the order the spec requires — note §8.2 runs **after** warm-
 because the RFT-filtered set is its validation distribution:
 
 ```bash
-# C6 — is GRPO even the right tool? (§0.1)
-python -m grpo.run preflight-build --artifacts results/build_artifacts
-#   ... hand-label engine_label + delivery_label ...
-python -m grpo.run preflight-score --labels <sheet> --signed-off-by "<name>"
-
-python -m grpo.run smoketest                   # optional §8.3, not a blocker
+python -m grpo.run smoketest                   # optional §8.3, advisory only
 
 # Optional: which reward shape? Every candidate is a pure function of the same
 # three binaries, so one scoring pass settles all of them. No training, no GPU.
@@ -149,7 +143,7 @@ python -m grpo.run reward-sweep --cells b1 b2 --states 6 --group-size 8
 # §6 warm-start
 python -m grpo.run warmstart
 
-# §7 — refuses to start unless C6 is satisfied
+# §7
 python -m grpo.run grpo
 
 # §10 — per iteration, against the frozen rubric
@@ -159,7 +153,7 @@ python -m grpo.run cert-score  --iteration 1
 python -m grpo.run cert-freeze --iteration 1 --adapter results/grpo/adapters/grpo
 ```
 
-There is deliberately no `all` subcommand: two of these steps wait on a human.
+There is no `all` subcommand: certification waits on a human.
 
 ## Acceptance (§13)
 
@@ -169,8 +163,7 @@ There is deliberately no `all` subcommand: two of these steps wait on a human.
 - **A2** — `test_delivery_decomposition.py`: `hot = Q1` under a yes/yes stub,
   not-hot under a grievance-only stub; the §8.3 smoke test separates a folded
   delivery backend from a clean one. The §8.2 half of A2 no longer applies.
-- **A6** — `test_gates.py`: the entry point refuses to start without a signed-off
-  §0.1 result. The §8.2 CI clause no longer applies.
+- **A6** — no longer applies: both C6 gates were removed.
 - **A3–A5** — GPU-host runs: GRPO lifts held-out fidelity vs the prompt-opt control
   without §9 divergence or a rising grievance→hot watch; each iteration's adapter
   passes §10 and freezes at deployment quant; `freeze_manifest.json` records base +
