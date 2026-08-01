@@ -1,9 +1,9 @@
 """Agreement statistics for the GRPO gates — a thin reuse layer.
 
-grpo_spec §8.2 says to *reuse the existing kappa + bootstrap-CI machinery* rather
-than reimplement it, so this module wraps `tools/compute_kappa.py` (the same code
-that produced the batch01-03 human-vs-judge reports) instead of carrying a second
-implementation that could drift from it.
+The kappa + bootstrap-CI machinery is *reused* rather than reimplemented, so this
+module wraps `tools/compute_kappa.py` (the same code that produced the batch01-03
+human-vs-judge reports) instead of carrying a second implementation that could
+drift from it. Read by the §0.1 diagnostic and §10 certification.
 
 Requires `tools/requirements.txt` (numpy, pandas, scikit-learn). That dependency
 is deliberate: the alternative — a stdlib reimplementation — is exactly the drift
@@ -38,7 +38,7 @@ def _machinery():
     except ImportError as e:  # pragma: no cover
         raise RuntimeError(
             "The GRPO gates reuse tools/compute_kappa.py for kappa + bootstrap CI "
-            "(grpo_spec §8.2). Install its dependencies: "
+            "Install its dependencies: "
             "`pip install -r tools/requirements.txt`."
         ) from e
     return safe_kappa, gwet_ac1, bootstrap_ci
@@ -46,7 +46,7 @@ def _machinery():
 
 @dataclass
 class Agreement:
-    """Agreement between a human labelling and a model labelling on one stratum."""
+    """Agreement between a human labelling and a model labelling on one sample."""
 
     n: int
     kappa: float
@@ -62,7 +62,7 @@ class Agreement:
 
     @property
     def passed(self) -> bool:
-        """Gate on the CI LOWER BOUND, never the point estimate (§8.2 step 3)."""
+        """Judge on the CI LOWER BOUND, never the point estimate."""
         return self.n > 0 and self.kappa_ci_low == self.kappa_ci_low and self.kappa_ci_low >= self.bar
 
     @property
@@ -96,14 +96,12 @@ def agreement(
     n_boot: int = 2000,
     seed: int = 0,
 ) -> Agreement:
-    """Cohen's kappa + Gwet's AC1, each with a bootstrap CI, on one stratum.
+    """Cohen's kappa + Gwet's AC1, each with a bootstrap CI.
 
     AC1 is reported alongside kappa for the same reason `tools/compute_kappa.py`
-    reports both: these strata are prevalence-skewed by construction (a
-    grievance-oversampled stratum is mostly not-hot), which is the regime where
-    kappa is depressed by the kappa paradox. The GATE is on kappa — the
-    conservative choice — with AC1 there to tell a real disagreement apart from a
-    marginal artefact when the gate fails.
+    reports both: these label sets are prevalence-skewed (hot turns are rare),
+    which is the regime where kappa is depressed by the kappa paradox. Read them
+    together — AC1 tells a real disagreement apart from a marginal artefact.
     """
     safe_kappa, gwet_ac1, bootstrap_ci = _machinery()
     import numpy as np

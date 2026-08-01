@@ -5,9 +5,9 @@ FLAT imports (`from client import ...`), i.e. they assume `sway_harness/` is on
 sys.path rather than being an installed package. Importing any of them from the
 `grpo` package therefore needs that directory on the path first.
 
-The same applies to `tools/` — grpo_spec §8.2 requires the kappa + bootstrap-CI
-machinery to be REUSED rather than reimplemented, and `tools/compute_kappa.py`
-is likewise a flat module.
+The same applies to `tools/` — the kappa + bootstrap-CI machinery is REUSED
+rather than reimplemented (the §0.1 diagnostic and §10 certification both read
+it), and `tools/compute_kappa.py` is likewise a flat module.
 
 Import this module (`import grpo._bootstrap`) before importing any harness module.
 It is idempotent.

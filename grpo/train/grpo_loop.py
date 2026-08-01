@@ -11,18 +11,19 @@ single-GPU-QLoRA alternative). Torch / TRL / PEFT are imported lazily so the fil
 stays importable on a box without the training stack; the blocking gates and the
 state-dataset construction run without a GPU.
 
-**C6 is enforced here, and it is now TWO gates, in the spec's revised order:**
+**C6 is enforced here as a single gate:**
 
-  * C6-i  — §0.1 non-convergence diagnostic, signed off, verdict `policy_ceiling`.
+  * C6-i — §0.1 non-convergence diagnostic, signed off, verdict `policy_ceiling`.
     Without it, GRPO might be the wrong tool entirely (a miscalibrated ruler
     rather than a policy ceiling), and the whole run would be a confident
     optimization toward a wrong target.
-  * C6-ii — §8.2 stratified delivery validation on the **warm-start output**, CI
-    lower bound >= 0.80. Note the ordering consequence: this gate cannot run
-    before warm-start, because the RFT-filtered set is its validation
-    distribution. The authored-pair probe (§8.3) is a smoke test, not this gate.
 
-Both are hard assertions before the trainer is constructed.
+§8.2's stratified delivery validation has been REMOVED by researcher decision
+(it worked by oversampling specific contested cases). Consequence: nothing
+validates the delivery champion against human labels before training. §8.1's
+`hot = Q1` decomposition still shapes the reward, but its accuracy is now an
+assumption rather than a measured quantity, and the grievance->hot confusion
+would only surface after the fact via the §9 audit and §10 certification.
 """
 
 from __future__ import annotations
@@ -35,7 +36,6 @@ from client import frame_patient
 from grpo.data.rollout import build_states
 from grpo.data.curriculum import Stage, apply_stage, build_stages
 from grpo.gates.preflight_nonconvergence import assert_preflight_signed_off
-from grpo.gates.delivery_stratified_validation import assert_stratified_gate
 from grpo.monitor.online_audit import OnlineMonitor, make_monitor_callback
 from grpo.reward.trl_adapter import make_trl_reward
 
@@ -80,22 +80,14 @@ def build_state_dataset(
     return rows
 
 
-def assert_gates(cfg: dict, backends) -> dict:
-    """Both blocking pre-flight gates (C6). Raises before any training step."""
+def assert_gates(cfg: dict, backends=None) -> dict:
+    """The blocking pre-flight gate (C6-i). Raises before any training step."""
     gate_cfg = cfg.get("gate", {})
     preflight = assert_preflight_signed_off(
         gate_cfg.get("preflight_result_path")
         or "results/grpo/gates/preflight_nonconvergence.json"
     )
-    from grpo.reward.backends import backend_identities
-    identities = backend_identities(backends)
-    stratified = assert_stratified_gate(
-        delivery_backend_identity=identities["delivery"],
-        result_path=(gate_cfg.get("stratified_result_path")
-                     or "results/grpo/gates/delivery_stratified_validation.json"),
-        bar=gate_cfg.get("delivery_kappa_bar", 0.80),
-    )
-    return {"preflight": preflight, "stratified": stratified}
+    return {"preflight": preflight}
 
 
 def run_grpo(
@@ -112,7 +104,7 @@ def run_grpo(
     from grpo.config import build_reward_backends
 
     backends = build_reward_backends(cfg)
-    assert_gates(cfg, backends)          # C6-i and C6-ii — both, before anything else
+    assert_gates(cfg, backends)          # C6-i — before anything else
 
     monitor = OnlineMonitor(
         audit_every_n_steps=cfg["monitoring"]["audit_every_n_steps"],

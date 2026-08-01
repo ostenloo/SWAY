@@ -38,8 +38,10 @@ separately-reported fields rather than one fused label.
 *Caveat (§8.1):* decomposition is only as strong as the champion's ability to
 answer Q1 in isolation. If it still cannot separate "you're useless" from "they
 were useless" when asked point-blank about the target, decomposition does not save
-it and a stronger delivery checker is needed. `gates/delivery_stratified_validation.py`
-(§8.2) measures exactly this, and blocks GRPO when it fails.
+it and a stronger delivery checker is needed. §8.2's stratified validation used to
+measure exactly this and block GRPO on it; it was removed by researcher decision,
+so this caveat is now UNTESTED before training. The §9 grievance->hot watch and
+§10 certification are what would surface it, after the fact.
 """
 
 from __future__ import annotations

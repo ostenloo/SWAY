@@ -6,9 +6,10 @@
 requests>=2.31.0
 pyyaml>=6.0            # config loading (grpo/config.py)
 
-# The §8.2 / §10 gates REUSE tools/compute_kappa.py for kappa + bootstrap CI
-# rather than carrying a second implementation that could drift from the one that
-# produced the batch01-03 reports (grpo_spec §8.2). Same pins as tools/requirements.txt.
+# The §0.1 diagnostic and §10 certification REUSE tools/compute_kappa.py for
+# kappa + bootstrap CI rather than carrying a second implementation that could
+# drift from the one that produced the batch01-03 reports. Same pins as
+# tools/requirements.txt.
 pandas
 numpy
 scikit-learn

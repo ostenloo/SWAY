@@ -1,26 +1,26 @@
 #!/usr/bin/env python3
 """End-to-end GRPO driver (grpo_spec) — the glue from config to a launched run.
 
-**Sequencing matters here, and it changed with the spec's revision.** The §8.2
-delivery gate validates on the warm-start (RFT) filtered set, so it cannot run
-before warm-start exists. The pipeline is therefore:
+Pipeline:
 
     preflight-build -> [human labels] -> preflight-score   (C6-i, §0.1)
     smoketest                                              (optional, §8.3)
-    warmstart                                              (§6, emits the RFT set)
-    stratum-build   -> [human labels] -> stratum-score     (C6-ii, §8.2)
-    grpo                                                   (§7, asserts both gates)
+    warmstart                                              (§6)
+    grpo                                                   (§7, asserts C6-i)
     cert-build      -> [human labels] -> cert-score        (§10, per iteration)
     cert-freeze                                            (C7)
 
-Three of those steps are human by design and cannot be automated away: the §0.1
-fork, the §8.2 stratum, and the §10 certification. Each emits a blind labelling
-sheet and ingests it back.
+Two steps are human by design and cannot be automated away: the §0.1 fork and
+the §10 certification. Each emits a blind labelling sheet and ingests it back.
 
-`preflight-*`, `stratum-*`, `smoketest` and `cert-score` run on requests + pyyaml
-+ tools/requirements.txt; `warmstart` / `grpo` / `cert-freeze --merge` pull in the
-GPU stack (lazily). Profile prompts load from results/build/ by default;
-certification loads from the held-out build dir in the config.
+§8.2's stratified delivery gate has been REMOVED by researcher decision (it
+worked by oversampling specific contested cases), so C6 is now the §0.1
+pre-flight alone.
+
+`preflight-*`, `smoketest`, `reward-sweep` and `cert-score` run on requests +
+pyyaml + tools/requirements.txt; `warmstart` / `grpo` / `cert-freeze --merge`
+pull in the GPU stack (lazily). Profile prompts load from results/build/ by
+default; certification loads from the held-out build dir in the config.
 """
 
 from __future__ import annotations
@@ -86,63 +86,21 @@ def cmd_smoketest(cfg, args) -> int:
     backends = build_reward_backends(cfg)
     result = run_smoketest(backends.delivery, bar=cfg["gate"]["delivery_kappa_bar"])
     print(json.dumps(result.to_dict(), indent=2))
-    print("\nNote: §8.3 is a pre-warm-start SMOKE TEST, not the C6-ii blocker. "
-          "The load-bearing gate is `stratum-score` on the RFT set.")
+    print("\nNote: §8.3 is an advisory smoke test on hand-authored pairs. It is "
+          "not a gate and does not block training.")
     return 0 if result.accuracy >= 0.9 else 1
 
 
 # ── §6 warm-start ───────────────────────────────────────────────────────────
 
 def cmd_warmstart(cfg, args) -> int:
-    from grpo.train.rft_warmstart import run_rft, rft_validation_path
+    from grpo.train.rft_warmstart import run_rft, rft_raw_path
 
     P = load_profile_prompts(cfg["cells"], args.build_dir)
     out = run_rft(cfg, P, adapter_out=args.out, dataset_out=args.dataset_out)
     print(f"✓ warm-start adapter written: {out}")
-    print(f"✓ §8.2 validation distribution: {rft_validation_path(args.dataset_out)}")
-    print("  Next: `python -m grpo.run stratum-build` to build the delivery gate stratum.")
-    return 0
-
-
-# ── C6-ii: §8.2 stratified delivery validation ──────────────────────────────
-
-def cmd_stratum_build(cfg, args) -> int:
-    from grpo.gates.delivery_stratified_validation import build_stratum
-
-    backends = build_reward_backends(cfg)
-    labels = args.out or str(GATES_DIR / "stratum_labels_template.csv")
-    key = args.key or str(GATES_DIR / "stratum_key.csv")
-    items = build_stratum(
-        rft_path=args.rft, delivery_backend=backends.delivery,
-        out_labels=labels, out_key=key, per_stratum_cap=args.per_stratum,
-    )
-    print(f"✓ {len(items)} stratum items written to {labels}")
-    print("  Hand-label Q1/Q2, then run:\n"
-          f"    python -m grpo.run stratum-score --labels {labels}")
-    return 0
-
-
-def cmd_stratum_score(cfg, args) -> int:
-    from grpo.gates.delivery_stratified_validation import score_stratum
-
-    key = args.key or str(GATES_DIR / "stratum_key.csv")
-    result = score_stratum(
-        labels_path=args.labels, key_path=key,
-        bar=cfg["gate"]["delivery_kappa_bar"],
-        delivery_backend_identity=reward_identities(cfg)["delivery"],
-        result_path=cfg["gate"]["stratified_result_path"],
-    )
-    print(json.dumps(result.to_dict(), indent=2))
-    if not result.passed:
-        msg = ("\n✗ C6-ii FAILED — do NOT run GRPO. The delivery champion cannot "
-               "separate employer-grievance from listener-hostility on real rollouts.")
-        if result.pooled_masks_failure:
-            msg += ("\n  Pooled κ clears while the contested stratum does not — per §8.2 "
-                    "step 4 that gap IS the hole, not a near-miss.")
-        print(msg, file=sys.stderr)
-        return 1
-    print(f"\n✓ C6-ii cleared (contested-stratum κ CI lower bound "
-          f"{result.contested.kappa_ci_low:.3f} ≥ {cfg['gate']['delivery_kappa_bar']})")
+    print(f"✓ kept turns (raw): {rft_raw_path(args.dataset_out)}")
+    print("  Next: `python -m grpo.run grpo`")
     return 0
 
 
@@ -313,16 +271,6 @@ def main(argv=None) -> int:
     p.add_argument("--out", default="results/grpo/adapters/rft")
     p.add_argument("--dataset-out", default="results/grpo/rft_dataset.jsonl")
 
-    p = sub.add_parser("stratum-build", help="§8.2 — build the delivery validation stratum")
-    p.add_argument("--rft", default="results/grpo/rft_dataset.rft.jsonl")
-    p.add_argument("--per-stratum", type=int, default=40)
-    p.add_argument("--out", default=None)
-    p.add_argument("--key", default=None)
-
-    p = sub.add_parser("stratum-score", help="§8.2 — stratified κ + bootstrap CI (C6-ii)")
-    p.add_argument("--labels", required=True)
-    p.add_argument("--key", default=None)
-
     p = sub.add_parser("reward-sweep",
                        help="compare reward shapes on real groups (no training, no GPU)")
     p.add_argument("--cells", nargs="*", default=None, help="default: all cells")
@@ -330,7 +278,7 @@ def main(argv=None) -> int:
     p.add_argument("--group-size", type=int, default=8, help="G completions per state")
     p.add_argument("--out", default="results/grpo/reward_shape_sweep.json")
 
-    p = sub.add_parser("grpo", help="§7 — GRPO on top of the warm start (asserts both gates)")
+    p = sub.add_parser("grpo", help="§7 — GRPO on top of the warm start (asserts C6-i)")
     p.add_argument("--adapter-in", default="results/grpo/adapters/rft")
     p.add_argument("--out", default="results/grpo/adapters/grpo")
 
@@ -362,8 +310,6 @@ def main(argv=None) -> int:
         "smoketest": cmd_smoketest,
         "reward-sweep": cmd_reward_sweep,
         "warmstart": cmd_warmstart,
-        "stratum-build": cmd_stratum_build,
-        "stratum-score": cmd_stratum_score,
         "grpo": cmd_grpo,
         "cert-build": cmd_cert_build,
         "cert-score": cmd_cert_score,

@@ -178,7 +178,7 @@ class DeliveryAdapter:
     """`delivery_backend` — the DECOMPOSED delivery read (§8.1), `hot = Q1`.
 
     `.decompose()` exposes the underlying Q1/Q2 so the §9 monitor can log which
-    sub-question is being farmed and the §8.2 gate can score Q1 in isolation.
+    sub-question is being farmed.
     """
 
     def __init__(self, core: _CoreBase) -> None:
@@ -232,8 +232,8 @@ class FoldedDeliveryStubCore(_CoreBase):
 
     It has the grievance→hot hole in its purest form: any turn mentioning the
     employer is reported as hostility toward the LISTENER (Q1 true), i.e. it
-    cannot answer Q1 in isolation — precisely the §8.1 caveat. The §8.2 stratified
-    gate MUST catch this and refuse to start GRPO.
+    cannot answer Q1 in isolation — precisely the §8.1 caveat. Used by the §8.3
+    smoke test and the decomposition tests.
     """
 
     identity = "stub:folded_delivery"

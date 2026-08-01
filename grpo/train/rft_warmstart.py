@@ -15,13 +15,8 @@ unfiltered imitation — unfiltered SFT imitates the model's own drift and
 underperforms (the documented failure). RFT alone cannot reach off-manifold
 targets; its job is only to raise the base rate so GRPO's groups are non-empty.
 
-**The RFT-filtered set is also the validation distribution for §8.2.** It is the
-first real (non-prompt-opt) distribution of turns the delivery champion is asked
-to score in anger, so `run_rft` emits it in a second, un-chat-formatted file
-(`*.rft.jsonl`) that `gates/delivery_stratified_validation.py` consumes directly.
-That is why the blocking C6-ii gate runs AFTER warm-start rather than before it:
-the authored-pair probe was never the right test, and the right one needs this
-file to exist.
+`run_rft` also emits the kept turns un-chat-formatted (`*.rft.jsonl`) alongside
+the SFT records — useful for inspecting what warm-start actually trained on.
 """
 
 from __future__ import annotations
@@ -110,8 +105,8 @@ def to_sft_records(examples: List[RFTExample], framing: str = "roleplay") -> Lis
     return records
 
 
-def rft_validation_path(dataset_out: str) -> str:
-    """Sibling path for the §8.2 validation distribution (raw kept turns)."""
+def rft_raw_path(dataset_out: str) -> str:
+    """Sibling path for the raw kept turns (cell + context + completion)."""
     p = Path(dataset_out)
     return str(p.with_suffix(".rft.jsonl"))
 
@@ -152,9 +147,8 @@ def run_rft(cfg: dict, P_by_cell: dict[str, str], adapter_out: str,
     records = to_sft_records(examples)
     if dataset_out:
         save_dataset(records, dataset_out)
-        # The §8.2 validation distribution: raw kept turns with their cell and
-        # context, before chat formatting. The stratum builder reads this.
-        save_dataset([e.to_dict() for e in examples], rft_validation_path(dataset_out))
+        # Raw kept turns with their cell and context, before chat formatting.
+        save_dataset([e.to_dict() for e in examples], rft_raw_path(dataset_out))
     if not records:
         raise RuntimeError(
             "RFT collected zero passing turns — the base rate is too low even for "

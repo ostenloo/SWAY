@@ -4,19 +4,19 @@ A small hand-authored contrast set (pure employer-grievance vs pure
 interlocutor-hostility) that can be run **before the RFT set exists**, as an early
 read on whether the decomposed delivery champion can answer Q1 in isolation.
 
-**This is not the C6-ii blocker.** Authored pairs are not the distribution the
-optimizer produces: they are clean, short, and deliberately unambiguous, so a
-champion can pass them and still fold on the messy, long, co-occurring turns that
-real rollouts generate. The load-bearing gate is
-`gates/delivery_stratified_validation.py` (§8.2), which runs stratified kappa with
-a bootstrap CI on the **warm-start (RFT) filtered set**. Clearing this smoke test
-buys you the confidence to spend GPU-hours on warm-start; it buys nothing else.
+**This is advisory, not a gate.** Nothing in the pipeline blocks on it. §8.2's
+stratified validation on real rollouts was removed by researcher decision, so
+this is the only delivery check that remains — and authored pairs are not the
+distribution the optimizer produces. They are clean, short, and deliberately
+unambiguous, so a champion can pass them and still fold on the messy, long,
+co-occurring turns real rollouts generate. Treat a pass as weak evidence and a
+FAILURE as strong evidence: if the champion cannot separate the targets even
+here, it certainly cannot on rollouts.
 
-Where authored pairs *are* stronger than mined rollouts: intensity control. These
-are near-minimal pairs — the same anger, redirected employer->therapist, with
-length and lexical heat held roughly fixed — so a failure here isolates the target
-confusion rather than "hot turns are just louder". §8.2 cannot mine that reliably,
-which is why both exist.
+What authored pairs do control for is intensity. These are near-minimal pairs —
+the same anger, redirected employer->therapist, with length and lexical heat held
+roughly fixed — so a failure isolates the target confusion rather than "hot turns
+are just louder".
 """
 
 from __future__ import annotations
@@ -130,9 +130,9 @@ def run_smoketest(
 ) -> SmokeTestResult:
     """Score the authored contrast set with the exact delivery backend in play.
 
-    Reports kappa with a CI for comparability with §8.2, but note the CI on ~10
-    items is very wide by construction — read `accuracy` and the confusion counts
-    here, and treat `clears` as advisory.
+    Reports kappa with a CI, but note it is very wide on ~10 items by
+    construction — read `accuracy` and the confusion counts here, and treat
+    `clears` as advisory. Nothing blocks on this result.
     """
     pairs = pairs if pairs is not None else CONTRAST_PAIRS
     human = [p.human for p in pairs]

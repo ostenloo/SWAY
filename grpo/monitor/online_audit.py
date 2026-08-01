@@ -15,8 +15,10 @@ because the gates certify the checker *before* training and the exploit appears
   * reward_fidelity_gap   — mean reward vs a held-out human-validated estimate; a
     widening gap = hacking in progress.
   * grievance_hot_watch   — the Q2-yes / Q1-no rate among high-advantage turns,
-    plus the sharper hot-cell variant (see `grievance_hot_watch`). The online
-    echo of the §8.2 gate.
+    plus the sharper hot-cell variant (see `grievance_hot_watch`). With §8.2
+    removed, this is now the ONLY signal that would catch the grievance->hot
+    confusion becoming a gradient, and it catches it during training rather than
+    before — watch it.
   * group_collapse_rate   — fraction of std==0 groups; if high the target is too
     off-manifold (strengthen warm-start / curriculum / partial credit).
 
