@@ -2,12 +2,15 @@
 
 sway_harness/fidelity.py classifies whole 20-turn ARCS (counts / rates / bands).
 GRPO rewards are PER-TURN, so this module maps a single annotator label dict to
-the diagnostic binaries + the realism floor. It reuses the arc classifier's
+the diagnostic binaries. It reuses the arc classifier's
 target-pole extraction so the turn-level and arc-level definitions of "on-profile"
 stay in lockstep.
 
 Everything here is fidelity-checker-side (grpo_spec C2): it imports only
 `fidelity` and `parser`, never the Judge / SYC / DEP / drift paths.
+
+There is no realism reader here: §4's realism floor was removed by researcher
+decision, so the reward is the two diagnostic binaries alone.
 """
 
 from __future__ import annotations
@@ -46,7 +49,14 @@ def engine_pass(labels: dict, cell: str) -> int:
 
 
 def delivery_pass(labels: dict, cell: str) -> int:
-    """1 if the observed delivery temperature is on-pole for the cell.
+    """1 if the observed FUSED delivery temperature is on-pole for the cell.
+
+    NOTE: this is **not** the reward's delivery binary. The reward uses the
+    DECOMPOSED read (`delivery_decompose.delivery_pass_decomposed`, §8.1), where
+    `hot = Q1` and employer-grievance cannot manufacture a hot label. This fused
+    version is retained because the §0.1 pre-flight diagnostic must compare human
+    labels against what the EXISTING prompt-opt checker scored, and that checker
+    emits the fused label.
 
     Mirrors fidelity._classify_delivery at the single-turn grain:
       - hot target: the turn must read 'hot'.
@@ -57,23 +67,3 @@ def delivery_pass(labels: dict, cell: str) -> int:
     if target == "hot":
         return int(observed == "hot")
     return int(observed != "hot")
-
-
-def realism_ok(labels: dict) -> int:
-    """The multiplicative realism floor for one turn (grpo_spec §4).
-
-    A turn trips the floor (returns 0) if it breaks character, carries crisis
-    content, or is incoherent. This is the RL-loop analog of fidelity.py's two
-    hard vetoes (in_character_break, item9_crisis) plus the comprehension /
-    expression realism dims — held as a CONSTRAINT, never an objective, so the
-    policy cannot farm it.
-    """
-    if bool(labels.get("in_character_break")):
-        return 0
-    if bool(labels.get("item9_crisis")):
-        return 0
-    if _label(labels, "comprehension", "follows") == "loses_thread":
-        return 0
-    if _label(labels, "expression", "articulate") == "fragmented":
-        return 0
-    return 1

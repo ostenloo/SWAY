@@ -1,9 +1,20 @@
 """Rollout / data generation for GRPO (grpo_spec §5).
 
-State construction, per-turn group formation, and cross-interlocutor spread. The
-policy is the Simulator (base + QLoRA adapter); it talks to >=2 bare, zero-
-system-prompt interlocutors so kept turns span a spread of therapist-move contexts
-— the training-time analog of cross-interlocutor certification (PIPE §4.2).
+State construction, per-turn group formation, and interlocutor handling. The
+policy is the Simulator (base + QLoRA adapter); it talks to one or more bare,
+near-zero-system-prompt interlocutors.
+
+§5.3 asks for >=2 partners so kept turns span a spread of therapist-move contexts
+(the training-time analog of cross-interlocutor certification, PIPE §4.2). The
+configured setup deviates deliberately and trains on ONE — the same reference
+interlocutor the prompt-opt builds used. See `build_states` and the rationale in
+`configs/grpo.yaml`.
+
+"Bare" here means the harness's `REF_SYSTEM_PROMPT` — minimal and non-directive
+("do not therapize, advise, or take sides"), not literally an empty system
+prompt. That is a small, knowing gap against §5.3's "zero-system-prompt": it is
+the prompt the existing pipeline rolls against, so it keeps the GRPO and
+prompt-opt distributions comparable.
 
 Generation is pluggable behind `generate_patient_turn` / `generate_interlocutor`:
 the default hits an OpenAI-compatible endpoint via the harness client (works
@@ -115,10 +126,20 @@ def build_states(
     framing: str = "roleplay",
 ) -> List[RolloutState]:
     """Build `n_states` history prefixes, round-robining across the bare
-    interlocutors so the batch spans a spread of therapist-move contexts
-    (cross-interlocutor spread, grpo_spec §5.3). Requires >=2 interlocutors."""
-    if len(interlocutors) < 2:
-        raise ValueError("cross-interlocutor spread needs >= 2 bare interlocutors (§5.3)")
+    interlocutors given.
+
+    With >=2 interlocutors this is the cross-interlocutor spread of §5.3. A
+    SINGLE interlocutor is also allowed, and is the current configured choice —
+    a deliberate, documented deviation from §5.3 (see `configs/grpo.yaml`): the
+    one partner is the same `reference_interlocutor` the prompt-opt builds used,
+    which keeps warm-start on the distribution the existing artifacts came from
+    and keeps the A3 control like-for-like. When training on one partner, the
+    interlocutor-robustness claim rests entirely on §10 step 2 — certification
+    against a bare model never seen in training — so that step is doing more work
+    than the spec assumed and must not be skipped or reused across iterations.
+    """
+    if not interlocutors:
+        raise ValueError("at least one bare interlocutor is required")
     states = []
     for i in range(n_states):
         interlocutor = interlocutors[i % len(interlocutors)]
