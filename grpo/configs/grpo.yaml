@@ -1,10 +1,9 @@
 # SWAY GRPO Simulator finetune — config surface (grpo_spec §11).
 # Provisional values; tune in the pilot. D0.1 / D0.2 decisions are marked.
 
-base_model: "Qwen/Qwen2.5-14B-Instruct"   # D0.1 — the requested "llama2.5:14b" is
-                                          # not a real model; this is the intended
-                                          # HF checkpoint. Only LoRA target names
-                                          # and the §12 VRAM math depend on this.
+base_model: "Qwen/Qwen2.5-14B-Instruct"   # D0.1 RESOLVED — Qwen family. C8 therefore
+                                          # requires both champions to be non-Qwen;
+                                          # asserted at reward construction.
 quant: "nf4"                              # QLoRA 4-bit base
 
 lora:
@@ -22,48 +21,99 @@ grpo:
   max_completion_tokens: 256 # one patient turn
   temperature_rollout: 0.8   # policy sampling (natural variation)
   grad_checkpointing: true
-  max_steps: 500
+  max_steps: 500             # total across curriculum stages
   prefix_turns: 4            # history-prefix depth per rollout state (§5.1)
   states_per_step: 4         # distinct states sampled per step
 
-reward:
-  backend_engine: "distilled_bothaxis"     # D0.2
-  backend_delivery: "distilled_bothaxis"   # must clear §8
-  backend_realism: "local_small"
-  grader_temperature: 0.0                  # C4
-  partial_credit: [0.0, 0.5, 1.0]
-  # Endpoint for the local annotator backends (Ollama/vLLM, OpenAI-compatible).
-  local_base_url: "http://localhost:11434/v1"
-  local_model_path: "command-r7b:latest"   # champion engine annotator (see memory)
-  # Set backend: "opus" to route the reward through the Anthropic API instead.
-  backend: "local"                          # "local" | "opus"
-  opus_model: "claude-opus-4-8"
+# The Simulator being rolled (warm-start arcs + GRPO history prefixes). This is a
+# SEPARATE endpoint from the reward champions below: it serves the current
+# prompt-conditioned Simulator (e.g. qwen2.5:14b on Ollama for warm-start; the
+# base+adapter you serve during GRPO). TRL+vLLM samples the GRPO *completions*
+# from the in-training policy internally — this endpoint only builds prefixes.
+policy:
+  model_path: "qwen2.5:14b-instruct-q4_K_M"
+  base_url: "http://localhost:11434/v1"
+  temperature: 0.8
 
-# Bare interlocutors for cross-interlocutor spread (§5.3) — need >= 2 distinct bases.
+# D0.2 RESOLVED — no external API spend. The reward is TWO DISTINCT local
+# axis-specialists. Because engine and delivery are answered by different models,
+# their blind spots are axis-local and uncorrelated (§12 R4). A single distilled
+# both-axis checker is SHELVED and is not constructible from this config. There is
+# no Opus backend: a chat-window Opus cannot sit in the gradient loop.
+#
+# NO REALISM FLOOR. §4 specifies a multiplicative realism floor; it has been
+# REMOVED by researcher decision. The reward is the two diagnostic binaries alone.
+# Consequence, recorded rather than hidden: R3 (degenerate-but-on-profile collapse)
+# is now mitigated by the KL penalty alone. The §9 high-advantage audit remains the
+# observability path — degenerate turns earning advantage will surface there.
+#
+# C8: both champions must be family-disjoint from `base_model` (Qwen). command-r7b
+# is Cohere-family, glm4 is Zhipu-family — asserted at load, not assumed.
+reward:
+  backend_engine: "command-r7b:latest"     # engine champion (won the engine κ)
+  backend_delivery: "glm4:9b"              # delivery champion, DECOMPOSED (§8.1)
+  base_url: "http://localhost:11434/v1"
+  grader_temperature: 0.0                  # C4 — deterministic, frozen graders
+  partial_credit: [0.0, 0.5, 1.0]
+  # distilled_bothaxis: SHELVED — revisit only on high run count, and then distill
+  # on real rollouts, never the untrusted prompt-opt corpus (§4, §12 R4).
+
+# Bare interlocutor(s) the patient talks to.
+#
+# DELIBERATE DEVIATION FROM §5.3, researcher decision: training uses ONE
+# interlocutor, not the >= 2 the spec asks for. Rationale:
+#   * It is the SAME reference interlocutor the prompt-opt builds already used
+#     (sway_harness/config.json -> roles.reference_interlocutor), so warm-start
+#     rolls on the distribution the existing artifacts came from, and the GRPO
+#     control (the retained prompt-opt pipeline, A3) is a like-for-like baseline.
+#   * The spread benefit was speculative: at benchmark time the patient talks to
+#     the MUT, which is none of these models, so every training partner is
+#     off-distribution regardless.
+#   * VRAM on a single 32GB card is the binding constraint (§12) — one fewer
+#     resident partner is ~7-9GB back for the graders and the rollout KV cache.
+# The robustness claim that §5.3 was protecting now rests entirely on §10 step 2:
+# certification against a bare interlocutor never seen in training (below).
 interlocutors:
-  - name: phi4
-    model_path: "phi4:latest"
+  - name: qwen-abliterate-ref
+    model_path: "huihui_ai/qwen2.5-abliterate:14b"
     base_url: "http://localhost:11434/v1"
-  - name: mistral-nemo
-    model_path: "mistral-nemo:latest"
-    base_url: "http://localhost:11434/v1"
+    temperature: 0.3
 
 warmstart:
   rft_epochs: 1
-  rft_filter: "diagnostic_pass AND realism_pass"   # §6 — reward-filtered SFT
+  rft_filter: "diagnostic_pass"                    # §6 — reward-filtered SFT
   arcs_per_cell: 30
 
+# §5.5 — off-manifold cells start near-manifold and anneal toward the hard target.
+# Implemented as sequential training stages, each with its own slice of max_steps.
+# What anneals is the TARGET, never the graders (they stay frozen, C4).
+# Prefer authoring near-manifold prompts (`near_manifold_build_dir`); the
+# relaxation directive is a pilot fallback. See grpo/data/curriculum.py.
 curriculum:
-  enabled_cells: [b1, b2]        # off-manifold dependency targets (§5.5)
+  enabled: true
+  enabled_cells: [b1, b2]        # off-manifold dependency targets
   schedule: "near_manifold -> target"
+  anneal_frac: 0.4               # share of max_steps spent at the easier target
+  near_manifold_build_dir: null  # dir of authored <cell>_prompt.txt, or null
+  relaxation_directive: null     # null = use the documented default
 
 monitoring:
   audit_every_n_steps: 50
   audit_sample_size: 20
+  grievance_hot_watch: true      # §9 — Q2-yes/Q1-no among high-advantage turns
   log_path: "results/grpo/monitor.jsonl"
 
+# Both C6 gates. `preflight` mirrors the recorded gate state for visibility; the
+# authoritative records are the JSON files the gate modules write, and the entry
+# point reads THOSE (a config edit cannot open the gate).
 gate:
-  delivery_kappa_bar: 0.80       # §8 absolute Baig bar (blocking, C6)
+  delivery_kappa_bar: 0.80       # §8.2 — bar on the bootstrap-CI LOWER BOUND
+  preflight_result_path: "results/grpo/gates/preflight_nonconvergence.json"
+  stratified_result_path: "results/grpo/gates/delivery_stratified_validation.json"
+
+preflight:
+  nonconvergence_diagnostic_signed_off: false    # §0.1 — must be true to start (C6-i)
+  delivery_champion_stratified_kappa_ci_lb: null # §8.2 — must be >= 0.80 to start (C6-ii)
 
 # Per-cell vs shared adapter (§5.4). Implement per-cell first, evaluate shared.
 adapter_mode: "per_cell"         # "per_cell" | "shared"
@@ -73,3 +123,27 @@ freeze:
   deployment_quant: "nf4"        # §10 — freeze at the exact benchmark-time quant
   seed: 42
   out_dir: "results/grpo/adapters"
+
+# Certification (§10) — HUMAN, per finetune iteration. The interlocutor here MUST
+# NOT be one of the training `interlocutors` above (second bare interlocutor,
+# §5.3). `heldout_build_dir` holds FRESH authored profile prompts the loop never
+# saw (fresh fill-ins per [FB]) — not a reseed. Serve the CANDIDATE policy
+# (base+adapter, or the merged checkpoint) at the `policy` endpoint before
+# building a certification sheet.
+certification:
+  mode: "human_per_iteration"
+  frozen_rubric: true            # rubric hash pinned across iterations (R6)
+  fixed_gold_subset: true        # re-scored every iteration to catch label drift
+  gold_size: 20
+  gold_drift_bar: 0.80
+  rubric_series: "default"
+  delivery_bar: null             # null = report-only, mirroring the harness gate
+  # Not the training interlocutor, and not either reward champion — certification
+  # should not lean on a model already in the reward path.
+  interlocutor:
+    name: llama31-cert
+    model_path: "llama3.1:8b-instruct-q4_K_M"
+    base_url: "http://localhost:11434/v1"
+  heldout_build_dir: "results/build_heldout"
+  arcs_per_cell: 10
+  prefix_turns: 6

@@ -1,0 +1,46 @@
+# GRPO TRAINING STACK — install on the RTX 5090 host only.
+#
+#   pip install -r grpo/requirements-train.txt
+#
+# This is the launch-only half. Everything else (reward, rollout, gates, monitor,
+# cert scoring, tests) runs from grpo/requirements-grpo.txt with no GPU.
+#
+# DO NOT install torch from here. The host already has a CUDA build matched to
+# sm_120 (RTX 5090); reinstalling risks pulling a wheel without sm_120 kernels.
+# Verified present on the host: torch 2.12.1, transformers 5.12.1, accelerate 1.13.0.
+
+trl>=1.9,<2            # GRPOTrainer + SFTTrainer
+peft>=0.20             # QLoRA adapter + disable_adapter() reference (§3)
+bitsandbytes>=0.50     # nf4 4-bit base
+datasets>=5.0
+vllm>=0.26             # rollout-phase generation (§12)
+
+# Optional: single-GPU QLoRA-GRPO alternative to TRL (§3 "Prefer Unsloth GRPO").
+# Not required by this implementation, which wires TRL.
+# unsloth
+
+# ─────────────────────────────────────────────────────────────────────────────
+# ⚠ UNVERIFIED INTEGRATION POINT — read before the first launch.
+#
+# `train/grpo_loop.py` and `train/rft_warmstart.py` were written against the TRL
+# 0.12-era API. TRL is now 1.9.2 — a major version bump — and the GRPO API moved
+# fast across it. The following call sites have NOT been run against 1.9 and are
+# the most likely place a first launch breaks:
+#
+#   GRPOConfig(num_generations=, beta=, epsilon=, learning_rate=,
+#              max_prompt_length=, max_completion_length=, temperature=,
+#              gradient_checkpointing=, max_steps=, per_device_train_batch_size=,
+#              use_vllm=, seed=, output_dir=)
+#   GRPOTrainer(model=, reward_funcs=, args=, train_dataset=, peft_config=,
+#               processing_class=)
+#   SFTConfig(...) / SFTTrainer(...)   in rft_warmstart._lora_sft
+#   trainer.add_callback(...)          for the §9 monitor callback
+#
+# Check these against the installed TRL before burning GPU-hours:
+#   python -c "import inspect, trl; print(inspect.signature(trl.GRPOConfig.__init__))"
+#   python -c "import inspect, trl; print(inspect.signature(trl.GRPOTrainer.__init__))"
+#
+# In particular `epsilon` (clip ratio) and `use_vllm` are the parameters most
+# likely to have been renamed or restructured. Nothing about the REWARD contract
+# depends on this — `make_trl_reward` returns a plain callable — so a signature
+# change is a config-wiring fix, not a redesign.

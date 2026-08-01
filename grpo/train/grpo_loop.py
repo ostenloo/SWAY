@@ -8,11 +8,21 @@ adapter disabled (PEFT `disable_adapter()`) — no second model copy (§3, §12)
 
 This module wires TRL's `GRPOTrainer` (the standard path; Unsloth GRPO is the
 single-GPU-QLoRA alternative). Torch / TRL / PEFT are imported lazily so the file
-stays importable on a box without the training stack; the blocking §8 gate and the
+stays importable on a box without the training stack; the blocking gates and the
 state-dataset construction run without a GPU.
 
-C6 is enforced here: `run_grpo` calls `assert_delivery_gate` before constructing
-the trainer, so GRPO cannot start behind a folded delivery backend.
+**C6 is enforced here, and it is now TWO gates, in the spec's revised order:**
+
+  * C6-i  — §0.1 non-convergence diagnostic, signed off, verdict `policy_ceiling`.
+    Without it, GRPO might be the wrong tool entirely (a miscalibrated ruler
+    rather than a policy ceiling), and the whole run would be a confident
+    optimization toward a wrong target.
+  * C6-ii — §8.2 stratified delivery validation on the **warm-start output**, CI
+    lower bound >= 0.80. Note the ordering consequence: this gate cannot run
+    before warm-start, because the RFT-filtered set is its validation
+    distribution. The authored-pair probe (§8.3) is a smoke test, not this gate.
+
+Both are hard assertions before the trainer is constructed.
 """
 
 from __future__ import annotations
@@ -22,16 +32,17 @@ from typing import List, Optional
 import grpo._bootstrap  # noqa: F401
 from client import frame_patient
 
-from grpo.data.rollout import build_states, _default_generate
-from grpo.gates.delivery_probe import assert_delivery_gate
-from grpo.monitor.online_audit import OnlineMonitor
+from grpo.data.rollout import build_states
+from grpo.data.curriculum import Stage, apply_stage, build_stages
+from grpo.gates.preflight_nonconvergence import assert_preflight_signed_off
+from grpo.gates.delivery_stratified_validation import assert_stratified_gate
+from grpo.monitor.online_audit import OnlineMonitor, make_monitor_callback
 from grpo.reward.trl_adapter import make_trl_reward
 
 
 def build_state_dataset(
     cfg: dict,
     P_by_cell: dict[str, str],
-    backends_for_gate=None,
 ) -> List[dict]:
     """Roll the current policy into history prefixes and emit GRPO prompt rows.
 
@@ -40,13 +51,11 @@ def build_state_dataset(
     (trl_adapter.make_trl_reward). Cross-interlocutor spread comes from
     rollout.build_states (§5.3).
     """
-    from grpo.config import build_interlocutors
+    from grpo.config import build_interlocutors, build_policy_generate
 
     interlocutors = build_interlocutors(cfg)
-    policy_generate = _default_generate(
-        cfg["reward"]["local_model_path"], cfg["reward"]["local_base_url"],
-        cfg["grpo"].get("temperature_rollout", 0.8), 256,
-    )
+    # Prefixes are rolled from the POLICY (the Simulator), not the reward annotator.
+    policy_generate = build_policy_generate(cfg)
     rows: List[dict] = []
     for cell in cfg["cells"]:
         P = P_by_cell[cell]
@@ -71,6 +80,24 @@ def build_state_dataset(
     return rows
 
 
+def assert_gates(cfg: dict, backends) -> dict:
+    """Both blocking pre-flight gates (C6). Raises before any training step."""
+    gate_cfg = cfg.get("gate", {})
+    preflight = assert_preflight_signed_off(
+        gate_cfg.get("preflight_result_path")
+        or "results/grpo/gates/preflight_nonconvergence.json"
+    )
+    from grpo.reward.backends import backend_identities
+    identities = backend_identities(backends)
+    stratified = assert_stratified_gate(
+        delivery_backend_identity=identities["delivery"],
+        result_path=(gate_cfg.get("stratified_result_path")
+                     or "results/grpo/gates/delivery_stratified_validation.json"),
+        bar=gate_cfg.get("delivery_kappa_bar", 0.80),
+    )
+    return {"preflight": preflight, "stratified": stratified}
+
+
 def run_grpo(
     cfg: dict,
     P_by_cell: dict[str, str],
@@ -79,32 +106,39 @@ def run_grpo(
 ) -> str:
     """Run GRPO on top of the warm-started adapter. Returns the adapter path.
 
-    `adapter_in` is the RFT warm-start adapter (grpo_spec §6). Torch/TRL/PEFT are
-    imported lazily inside `_train`.
+    `adapter_in` is the RFT warm-start adapter (§6). Curriculum stages (§5.5) run
+    sequentially, each carrying the previous stage's adapter forward.
     """
     from grpo.config import build_reward_backends
 
     backends = build_reward_backends(cfg)
-
-    # C6 — BLOCKING pre-flight gate. Must pass before any GRPO step.
-    assert_delivery_gate(backends.delivery, bar=cfg["gate"]["delivery_kappa_bar"])
+    assert_gates(cfg, backends)          # C6-i and C6-ii — both, before anything else
 
     monitor = OnlineMonitor(
         audit_every_n_steps=cfg["monitoring"]["audit_every_n_steps"],
         audit_sample_size=cfg["monitoring"]["audit_sample_size"],
         log_path=cfg["monitoring"].get("log_path"),
+        grievance_hot_watch_enabled=cfg["monitoring"].get("grievance_hot_watch", True),
     )
     reward_func = make_trl_reward(backends, monitor)
-    rows = build_state_dataset(cfg, P_by_cell)
-    if not rows:
-        raise RuntimeError("No GRPO states built — check the local policy endpoint.")
 
-    _train(cfg, rows, reward_func, adapter_in, adapter_out)
+    stages = build_stages(cfg)
+    current_in = adapter_in
+    for i, stage in enumerate(stages):
+        stage_out = adapter_out if i == len(stages) - 1 else f"{adapter_out}.{stage.name}"
+        rows = build_state_dataset(cfg, apply_stage(P_by_cell, stage))
+        if not rows:
+            raise RuntimeError(
+                f"No GRPO states built for stage {stage.name!r} — check the policy endpoint."
+            )
+        _train(cfg, rows, reward_func, current_in, stage_out, stage, monitor)
+        current_in = stage_out
+
     return adapter_out
 
 
 def _train(cfg: dict, rows: List[dict], reward_func, adapter_in: Optional[str],
-           adapter_out: str) -> None:
+           adapter_out: str, stage: Stage, monitor: OnlineMonitor) -> None:
     """Lazy heavy-dependency section: construct and run TRL GRPOTrainer."""
     import torch  # noqa: F401
     from datasets import Dataset
@@ -144,7 +178,7 @@ def _train(cfg: dict, rows: List[dict], reward_func, adapter_in: Optional[str],
         max_completion_length=g["max_completion_tokens"],
         temperature=g["temperature_rollout"],
         gradient_checkpointing=g.get("grad_checkpointing", True),
-        max_steps=g.get("max_steps", 500),
+        max_steps=stage.max_steps,
         per_device_train_batch_size=g["group_size_G"],
         use_vllm=True,                      # vLLM-backed rollout generation (§12)
         seed=cfg["freeze"].get("seed", 42),
@@ -157,5 +191,8 @@ def _train(cfg: dict, rows: List[dict], reward_func, adapter_in: Optional[str],
         peft_config=peft_config,
         processing_class=tokenizer,
     )
+    # Without this the §9 audit/snapshot never fire — the monitor would accumulate
+    # records nobody reads.
+    trainer.add_callback(make_monitor_callback(monitor))
     trainer.train()
     trainer.save_model(adapter_out)
