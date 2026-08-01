@@ -31,18 +31,65 @@ def load_config(path: Optional[str] = None) -> dict[str, Any]:
 
 
 def build_reward_backends(cfg: dict):
-    """Construct the reward backends selected in the config (grpo_spec §4/D0.2)."""
-    from grpo.reward.backends import build_local_backends, build_opus_backends
+    """Construct the reward from the two local champions (grpo_spec §4, D0.2).
+
+    Engine and delivery come from *different* local models, so their blind spots
+    are axis-local and uncorrelated. There is no `backend: opus` switch: D0.2
+    rules out API spend, and a chat-window Opus cannot sit in the gradient loop.
+    C8 (family-disjointness from `base_model`) is asserted inside
+    `build_champion_backends`.
+    """
+    from grpo.reward.backends import build_champion_backends
 
     reward = cfg["reward"]
-    if reward.get("backend", "local") == "opus":
-        return build_opus_backends(reward.get("opus_model"))
-    return build_local_backends(
-        model_path=reward["local_model_path"],
-        base_url=reward["local_base_url"],
+    return build_champion_backends(
+        engine_model=reward["backend_engine"],
+        delivery_model=reward["backend_delivery"],
+        base_url=reward["base_url"],
+        base_model=cfg["base_model"],
     )
+
+
+def reward_identities(cfg: dict) -> dict:
+    """Both grader identities, without constructing the backends."""
+    r = cfg["reward"]
+    return {
+        "engine": f"local:{r['backend_engine']}",
+        "delivery": f"local:{r['backend_delivery']}",
+    }
 
 
 def build_interlocutors(cfg: dict):
     from grpo.data.rollout import Interlocutor
     return [Interlocutor(**spec) for spec in cfg["interlocutors"]]
+
+
+def build_policy_generate(cfg: dict, max_tokens: int = 256):
+    """A GenerateFn over the `policy` endpoint — the Simulator being rolled for
+    warm-start arcs and GRPO history prefixes (distinct from the reward annotator)."""
+    from grpo.data.rollout import _default_generate
+    p = cfg["policy"]
+    return _default_generate(p["model_path"], p["base_url"], p.get("temperature", 0.8), max_tokens)
+
+
+def build_cert_interlocutor(cfg: dict):
+    from grpo.data.rollout import Interlocutor
+    return Interlocutor(**cfg["certification"]["interlocutor"])
+
+
+def load_profile_prompts(cells, build_dir: Optional[str] = None) -> dict[str, str]:
+    """Load frozen per-cell profile prompts (P_by_cell) from `<build_dir>/<cell>_prompt.txt`.
+
+    Defaults to the harness build output (results/build/). Pass the held-out
+    build dir for certification (§10 step 1 — fresh authored prompts)."""
+    from pathlib import Path as _Path
+    from config import BUILD_OUTPUT  # harness config (sway_harness on sys.path)
+
+    base = _Path(build_dir) if build_dir else BUILD_OUTPUT
+    prompts = {}
+    for cell in cells:
+        fp = base / f"{cell}_prompt.txt"
+        if not fp.exists():
+            raise FileNotFoundError(f"missing profile prompt for {cell}: {fp}")
+        prompts[cell] = fp.read_text()
+    return prompts

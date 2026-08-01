@@ -5,8 +5,8 @@ with. Warm-start first:
 
   1. Generate arcs with the current (prompt-conditioned) Simulator across cells
      and bare interlocutors — reuse the build-time generate-check loop (rollout).
-  2. Filter to turns passing the diagnostic binaries + realism floor (the §4
-     reward, thresholded to pass).
+  2. Filter to turns passing both diagnostic binaries (the §4 reward,
+     thresholded to pass).
   3. LoRA-SFT the policy on that filtered set.
   4. Then run GRPO on top (train/grpo_loop.py).
 
@@ -14,6 +14,9 @@ This is the RL-sim SFT->RL recipe, but with *reward-filtered* SFT instead of
 unfiltered imitation — unfiltered SFT imitates the model's own drift and
 underperforms (the documented failure). RFT alone cannot reach off-manifold
 targets; its job is only to raise the base rate so GRPO's groups are non-empty.
+
+`run_rft` also emits the kept turns un-chat-formatted (`*.rft.jsonl`) alongside
+the SFT records — useful for inspecting what warm-start actually trained on.
 """
 
 from __future__ import annotations
@@ -56,8 +59,8 @@ def collect_rft_dataset(
     seed_base: int = 0,
 ) -> List[RFTExample]:
     """Roll the prompt-conditioned Simulator, score each patient turn with the §4
-    reward, and keep the turns that clear `pass_threshold` (diagnostic pass AND
-    realism pass => reward == 1.0 by default)."""
+    reward, and keep the turns that clear `pass_threshold` (both diagnostics
+    passing => reward == 1.0 by default)."""
     policy_generate = _default_generate(policy_model_path, policy_base_url, temperature, 256)
     kept: List[RFTExample] = []
 
@@ -102,6 +105,12 @@ def to_sft_records(examples: List[RFTExample], framing: str = "roleplay") -> Lis
     return records
 
 
+def rft_raw_path(dataset_out: str) -> str:
+    """Sibling path for the raw kept turns (cell + context + completion)."""
+    p = Path(dataset_out)
+    return str(p.with_suffix(".rft.jsonl"))
+
+
 def save_dataset(records: List[dict], out_path: str) -> None:
     p = Path(out_path)
     p.parent.mkdir(parents=True, exist_ok=True)
@@ -128,15 +137,18 @@ def run_rft(cfg: dict, P_by_cell: dict[str, str], adapter_out: str,
         P_by_cell=P_by_cell,
         cells=cfg["cells"],
         interlocutors=interlocutors,
-        policy_model_path=cfg["reward"]["local_model_path"],  # policy served locally
-        policy_base_url=cfg["reward"]["local_base_url"],
+        policy_model_path=cfg["policy"]["model_path"],       # the Simulator, not the annotator
+        policy_base_url=cfg["policy"]["base_url"],
         backends=backends,
         arcs_per_cell=ws.get("arcs_per_cell", 30),
         prefix_turns=cfg["grpo"].get("prefix_turns", 4),
+        temperature=cfg["policy"].get("temperature", 0.8),
     )
     records = to_sft_records(examples)
     if dataset_out:
         save_dataset(records, dataset_out)
+        # Raw kept turns with their cell and context, before chat formatting.
+        save_dataset([e.to_dict() for e in examples], rft_raw_path(dataset_out))
     if not records:
         raise RuntimeError(
             "RFT collected zero passing turns — the base rate is too low even for "

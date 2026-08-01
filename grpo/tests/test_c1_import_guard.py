@@ -53,13 +53,12 @@ class _RecordingBackend:
 
 
 def test_reward_reads_only_allowed_inputs():
-    eng, dlv, rea = _RecordingBackend(), _RecordingBackend(), _RecordingBackend()
-    backends = RewardBackends(engine=eng, delivery=dlv, realism=rea)
+    eng, dlv = _RecordingBackend(), _RecordingBackend()
+    backends = RewardBackends(engine=eng, delivery=dlv)
 
     r = fidelity_reward("patient turn text", "PROFILE PROMPT", "the context", "b1", backends)
     assert r == 1.0
 
-    # engine/delivery saw exactly (turn, context, cell); realism saw (turn, context).
+    # engine and delivery each saw exactly (turn, context, cell) — nothing else.
     assert eng.seen == [("patient turn text", "the context", "b1")]
     assert dlv.seen == [("patient turn text", "the context", "b1")]
-    assert rea.seen == [("patient turn text", "the context")]

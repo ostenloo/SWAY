@@ -1,23 +1,30 @@
 # GRPO pipeline dependencies.
 #
-# Reward / rollout / gate / monitor / cert + tests run on just these two (the
-# harness already depends on requests). Everything else is only needed to LAUNCH
-# a weight-level finetune on the RTX 5090 host.
+# Reward / rollout / gate / monitor / cert + tests run on these alone (the harness
+# already depends on requests). Everything else is only needed to LAUNCH a
+# weight-level finetune on the RTX 5090 host.
 requests>=2.31.0
 pyyaml>=6.0            # config loading (grpo/config.py)
 
-# --- launch-only (the training stack; install on the GPU host) ---
-# torch                # CUDA build for sm_120 (RTX 5090)
-# transformers>=4.45
-# trl>=0.12            # GRPOTrainer + SFTTrainer
-# peft>=0.13           # QLoRA adapter + disable_adapter() reference
-# bitsandbytes>=0.44   # nf4 4-bit base
-# datasets>=3.0
-# vllm                 # rollout-phase generation (grpo_spec §12)
-# unsloth              # optional: single-GPU QLoRA-GRPO alternative to TRL
+# The §0.1 diagnostic and §10 certification REUSE tools/compute_kappa.py for
+# kappa + bootstrap CI rather than carrying a second implementation that could
+# drift from the one that produced the batch01-03 reports. Same pins as
+# tools/requirements.txt.
+pandas
+numpy
+scikit-learn
 
-# --- optional reward backend (grpo_spec D0.2 option c) ---
-# anthropic>=0.40      # OpusAnnotatorCore (Anthropic API delivery/engine grader)
+# --- launch-only: see grpo/requirements-train.txt ---
+# The training stack (trl, peft, bitsandbytes, datasets, vllm) lives in its own
+# installable file rather than as comments here, so the GPU host can just run
+#   pip install -r grpo/requirements-train.txt
+# It also carries the TRL-version caveat for the first launch.
+
+# --- NOT a dependency: no Anthropic SDK ---
+# D0.2 resolves the reward backend to two LOCAL champions. Opus is not an in-loop
+# reward (a chat-window Opus cannot sit in the gradient loop, and the reward is
+# called steps x batch x G times per run). The optional §10 cross-check is offline
+# paste-into-chat, so it needs no SDK either.
 
 # --- tests ---
 # pytest>=8.0
