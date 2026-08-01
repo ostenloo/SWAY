@@ -98,7 +98,7 @@ class SmokeTestResult:
         def _r(x):
             return None if x != x else round(float(x), 4)
         return {
-            "probe": "authored_pairs_smoketest (grpo_spec §8.3 — NOT the C6 blocker)",
+            "probe": "authored_pairs_smoketest (grpo_spec §8.3 — advisory, not a gate)",
             "n": self.n,
             "accuracy": round(self.accuracy, 4),
             "kappa": _r(self.kappa),

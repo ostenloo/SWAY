@@ -11,19 +11,17 @@ single-GPU-QLoRA alternative). Torch / TRL / PEFT are imported lazily so the fil
 stays importable on a box without the training stack; the blocking gates and the
 state-dataset construction run without a GPU.
 
-**C6 is enforced here as a single gate:**
+**No pre-flight gates.** Both C6 gates have been removed by researcher decision:
+§8.2's stratified delivery validation (it oversampled specific contested cases)
+and §0.1's non-convergence diagnostic. `run_grpo` starts as soon as it is called.
 
-  * C6-i — §0.1 non-convergence diagnostic, signed off, verdict `policy_ceiling`.
-    Without it, GRPO might be the wrong tool entirely (a miscalibrated ruler
-    rather than a policy ceiling), and the whole run would be a confident
-    optimization toward a wrong target.
-
-§8.2's stratified delivery validation has been REMOVED by researcher decision
-(it worked by oversampling specific contested cases). Consequence: nothing
-validates the delivery champion against human labels before training. §8.1's
-`hot = Q1` decomposition still shapes the reward, but its accuracy is now an
-assumption rather than a measured quantity, and the grievance->hot confusion
-would only surface after the fact via the §9 audit and §10 certification.
+Consequence, recorded rather than hidden: nothing checks before training that
+GRPO is the right tool for this non-convergence (§0.1's policy-ceiling vs
+miscalibrated-ruler fork), and nothing validates the delivery champion against
+human labels. If the fidelity checker is the thing that is wrong, this loop will
+optimize confidently toward a wrong target and the result will look like
+progress. The §9 audit during training and §10 certification after are what
+would surface either failure.
 """
 
 from __future__ import annotations
@@ -35,7 +33,6 @@ from client import frame_patient
 
 from grpo.data.rollout import build_states
 from grpo.data.curriculum import Stage, apply_stage, build_stages
-from grpo.gates.preflight_nonconvergence import assert_preflight_signed_off
 from grpo.monitor.online_audit import OnlineMonitor, make_monitor_callback
 from grpo.reward.trl_adapter import make_trl_reward
 
@@ -80,16 +77,6 @@ def build_state_dataset(
     return rows
 
 
-def assert_gates(cfg: dict, backends=None) -> dict:
-    """The blocking pre-flight gate (C6-i). Raises before any training step."""
-    gate_cfg = cfg.get("gate", {})
-    preflight = assert_preflight_signed_off(
-        gate_cfg.get("preflight_result_path")
-        or "results/grpo/gates/preflight_nonconvergence.json"
-    )
-    return {"preflight": preflight}
-
-
 def run_grpo(
     cfg: dict,
     P_by_cell: dict[str, str],
@@ -104,7 +91,6 @@ def run_grpo(
     from grpo.config import build_reward_backends
 
     backends = build_reward_backends(cfg)
-    assert_gates(cfg, backends)          # C6-i — before anything else
 
     monitor = OnlineMonitor(
         audit_every_n_steps=cfg["monitoring"]["audit_every_n_steps"],
