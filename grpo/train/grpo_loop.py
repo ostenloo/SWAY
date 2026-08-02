@@ -165,6 +165,10 @@ def run_grpo(
 def _train(cfg: dict, rows: List[dict], reward_func, adapter_in: Optional[str],
            adapter_out: str, stage: Stage, monitor: OnlineMonitor) -> None:
     """Lazy heavy-dependency section: construct and run TRL GRPOTrainer."""
+    # 2.2GB of the measured OOM was reserved-but-unallocated fragmentation, which
+    # this recovers. Must be set before torch initialises its allocator.
+    import os
+    os.environ.setdefault("PYTORCH_CUDA_ALLOC_CONF", "expandable_segments:True")
     import torch  # noqa: F401
     from datasets import Dataset
     from peft import LoraConfig, PeftModel

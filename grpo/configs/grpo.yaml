@@ -13,7 +13,11 @@ lora:
   dropout: 0.05
 
 grpo:
-  group_size_G: 8            # ↑ for lower-variance advantage, ↑ VRAM/compute
+  # MEASURED on the 32GB card: G=8 put the trainer at 18.9GB, which OOM'd once the
+  # two ollama graders (6.2 + 5.7GB) loaded alongside during reward calls.
+  # G=4 halves generation+activation memory. Raise only if the graders move off
+  # this GPU (§12: "keep G <= 8", but 8 assumed the card was not shared).
+  group_size_G: 4            # ↑ for lower-variance advantage, ↑ VRAM/compute
   kl_beta: 0.04              # realism/exploit brake AND off-manifold reach — tune
   clip_ratio: 0.2
   lr: 1.0e-5
