@@ -77,6 +77,51 @@ def build_state_dataset(
     return rows
 
 
+def release_rollout_models(cfg: dict) -> list:
+    """Unload ollama-resident models before the training phase (§12).
+
+    MEASURED, not precautionary: on the 32GB card, prefix-building leaves the
+    policy and interlocutor resident at ~10GB each (ollama's OLLAMA_MAX_LOADED_MODELS
+    is 2). The trainer then needs ~8.5GB for the nf4 base plus activations, finds
+    ~10.9GB free, and transformers tries to dispatch layers to CPU — which
+    bitsandbytes refuses outright ("Some modules are dispatched on the CPU or the
+    disk").
+
+    This is §12's phase-split mitigation made explicit: rollout generation and the
+    training step do not co-reside, so the generation models are released between
+    them. Ollama reloads them on the next call, which is the cost of the split.
+    """
+    import json as _json
+    import urllib.request
+
+    seen, released = set(), []
+    targets = [(cfg["policy"]["model_path"], cfg["policy"]["base_url"])]
+    targets += [(i["model_path"], i["base_url"]) for i in cfg.get("interlocutors", [])]
+    r = cfg.get("reward", {})
+    for key in ("backend_engine", "backend_delivery"):
+        if r.get(key):
+            targets.append((r[key], r.get("base_url", "")))
+
+    for model, base_url in targets:
+        if not model or not base_url or (model, base_url) in seen:
+            continue
+        seen.add((model, base_url))
+        root = base_url.rstrip("/")
+        if root.endswith("/v1"):
+            root = root[:-3]
+        try:
+            req = urllib.request.Request(
+                f"{root}/api/generate",
+                data=_json.dumps({"model": model, "keep_alive": 0}).encode(),
+                headers={"Content-Type": "application/json"},
+            )
+            urllib.request.urlopen(req, timeout=30).read()
+            released.append(model)
+        except Exception:
+            pass          # not ollama, or already unloaded — nothing to release
+    return released
+
+
 def run_grpo(
     cfg: dict,
     P_by_cell: dict[str, str],
@@ -109,6 +154,8 @@ def run_grpo(
             raise RuntimeError(
                 f"No GRPO states built for stage {stage.name!r} — check the policy endpoint."
             )
+        # Free the rollout models before the trainer allocates (§12).
+        release_rollout_models(cfg)
         _train(cfg, rows, reward_func, current_in, stage_out, stage, monitor)
         current_in = stage_out
 
@@ -162,7 +209,11 @@ def _train(cfg: dict, rows: List[dict], reward_func, adapter_in: Optional[str],
         gradient_checkpointing=g.get("grad_checkpointing", True),
         max_steps=stage.max_steps,
         per_device_train_batch_size=g["group_size_G"],
-        use_vllm=True,                      # vLLM-backed rollout generation (§12)
+        # §12 recommends vLLM-backed rollout generation for KV-cache efficiency,
+        # but on this single shared card it loads a SECOND copy of the policy
+        # alongside the trainer and the ollama-served graders, which does not fit.
+        # Config-driven so it can be switched on when the card is not shared.
+        use_vllm=g.get("use_vllm", False),
         seed=cfg["freeze"].get("seed", 42),
     )
     trainer = GRPOTrainer(
