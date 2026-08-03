@@ -1,104 +1,112 @@
-"""A2 — the §8.1 decomposition applies `hot = Q1` regardless of Q2, and the §8.3
-smoke test separates a folded delivery backend from a clean one. No network:
-stub cores throughout.
+"""Both axes decompose into their constituent questions, and the derived
+three-way labels follow CODING_GUIDE.md. No network: stubs throughout.
 """
-
-import pytest
 
 import grpo._bootstrap  # noqa: F401
 from grpo.reward import delivery_decompose as dd
+from grpo.reward import engine_decompose as ed
 from grpo.reward.backends import (
     CleanDeliveryStubCore, DeliveryAdapter, FoldedDeliveryStubCore,
 )
-from grpo.gates.authored_pairs_smoketest import CONTRAST_PAIRS, run_smoketest
+from grpo.gates.authored_pairs_smoketest import run_smoketest
 
 
-def _decomp(q1: bool, q2: bool) -> dd.DeliveryDecomposition:
+def _d(q1: bool, q3: bool) -> dd.DeliveryDecomposition:
     return dd.decomposition_from_labels({
-        "q1_hostility_toward_listener": q1,
-        "q2_grievance_toward_absent_party": q2,
+        "q1_hostility_toward_listener": q1, "q3_closeness_toward_listener": q3,
     })
 
 
-# ── A2: hot = Q1, regardless of Q2 ──────────────────────────────────────────
-
-def test_yes_yes_is_hot():
-    """Furious at the boss AND snapping at the therapist -> hot, because Q1 says so."""
-    assert dd.hot_from_decomposition(_decomp(True, True)) is True
-    assert _decomp(True, True).hot is True
-
-
-def test_grievance_only_is_not_hot():
-    """An employer rant fires Q2, leaves Q1 alone, scores not-hot."""
-    d = _decomp(False, True)
-    assert dd.hot_from_decomposition(d) is False
-    assert d.grievance_only is True
-    assert dd.observed_hot_label(d) == "not_hot"
-
-
-def test_hostility_only_is_hot():
-    assert dd.hot_from_decomposition(_decomp(True, False)) is True
-
-
-def test_neither_is_not_hot():
-    assert dd.hot_from_decomposition(_decomp(False, False)) is False
-
-
-def test_q2_never_changes_the_label():
-    """The whole point of the decomposition: Q2 is inert on the delivery label."""
-    for q1 in (True, False):
-        assert dd.hot_from_decomposition(_decomp(q1, True)) == \
-               dd.hot_from_decomposition(_decomp(q1, False))
-
-
-def test_missing_fields_default_to_not_hot():
-    """A parse failure must not manufacture delivery reward on a warm/flat cell."""
-    assert dd.decomposition_from_labels({}).hot is False
-    assert dd.decomposition_from_labels({"garbage": 1}).hot is False
-
-
-def test_string_booleans_are_tolerated():
-    d = dd.decomposition_from_labels({
-        "q1_hostility_toward_listener": "true",
-        "q2_grievance_toward_absent_party": "no",
+def _e(e1: bool, e2: bool, dom: str = "") -> ed.EngineDecomposition:
+    return ed.decomposition_from_labels({
+        "e1_blames_self": e1, "e2_blames_others": e2, "dominant": dom,
     })
-    assert d.hot is True and d.q2_grievance_toward_absent_party is False
 
 
-# ── cell-relative binary ────────────────────────────────────────────────────
+# ── delivery: hot / warm / flat ─────────────────────────────────────────────
 
-def test_delivery_pass_is_cell_relative():
-    """b2 targets hot; b1 targets warm. The same turn passes one and fails the other."""
-    hot_turn, calm_turn = _decomp(True, False), _decomp(False, True)
-    assert dd.delivery_pass_decomposed(hot_turn, "b2") == 1
-    assert dd.delivery_pass_decomposed(calm_turn, "b2") == 0
-    assert dd.delivery_pass_decomposed(hot_turn, "b1") == 0
-    assert dd.delivery_pass_decomposed(calm_turn, "b1") == 1
+def test_delivery_three_way_derivation():
+    assert _d(True, False).delivery == "hot"
+    assert _d(False, True).delivery == "warm"
+    assert _d(False, False).delivery == "flat"
 
 
-# ── §8.3 smoke test discriminates folded from clean ─────────────────────────
+def test_hostility_dominates_a_mixed_delivery_read():
+    assert _d(True, True).delivery == "hot"
+
+
+def test_warm_is_positive_not_merely_not_hot():
+    """The bug this decomposition exists to fix: a flat turn must NOT satisfy a
+    warm target. b1/b3/b5 were passing delivery for free under `not hot`."""
+    assert dd.delivery_pass_decomposed(_d(False, True), "b1") == 1    # warm target, warm turn
+    assert dd.delivery_pass_decomposed(_d(False, False), "b1") == 0   # warm target, flat turn
+    assert dd.delivery_pass_decomposed(_d(True, False), "b1") == 0    # warm target, hot turn
+
+
+def test_hot_target_needs_q1():
+    assert dd.delivery_pass_decomposed(_d(True, False), "b2") == 1
+    assert dd.delivery_pass_decomposed(_d(False, True), "b2") == 0
+    assert dd.delivery_pass_decomposed(_d(False, False), "b2") == 0
+
+
+def test_delivery_missing_fields_read_as_flat():
+    assert dd.decomposition_from_labels({}).delivery == "flat"
+
+
+def test_delivery_string_booleans_tolerated():
+    x = dd.decomposition_from_labels({
+        "q1_hostility_toward_listener": "false",
+        "q3_closeness_toward_listener": "yes",
+    })
+    assert x.delivery == "warm"
+
+
+# ── engine: internalizing / externalizing / neutral ─────────────────────────
+
+def test_engine_three_way_derivation():
+    assert _e(True, False).engine_direction == "internalizing"
+    assert _e(False, True).engine_direction == "externalizing"
+    assert _e(False, False).engine_direction == "neutral"
+
+
+def test_dominance_resolves_mixed_engine_turns():
+    """CODING_GUIDE: 'label the dominant bend'. Two booleans cannot express it."""
+    assert _e(True, True, "others").engine_direction == "externalizing"
+    assert _e(True, True, "self").engine_direction == "internalizing"
+    assert _e(True, True, "others").mixed is True
+
+
+def test_missing_dominance_is_reconstructed_conservatively():
+    """Unparseable dominance on a both-true turn falls back to neutral, the pole
+    that asserts least about the turn."""
+    assert _e(True, True, "garbage").engine_direction == "neutral"
+    assert _e(True, False, "garbage").engine_direction == "internalizing"
+    assert _e(False, True, "garbage").engine_direction == "externalizing"
+
+
+def test_engine_neutral_target_rejects_either_lean():
+    from grpo.reward.turn_fidelity import engine_pass_decomposed as ep
+    assert ep(_e(False, False), "b5") == 1        # b5 targets neutral
+    assert ep(_e(False, True), "b5") == 0
+    assert ep(_e(True, False), "b5") == 0
+
+
+def test_engine_directional_target_needs_exact_match():
+    from grpo.reward.turn_fidelity import engine_pass_decomposed as ep
+    assert ep(_e(True, False), "b1") == 1         # b1 targets internalizing
+    assert ep(_e(False, True), "b1") == 0
+    assert ep(_e(False, True), "b3") == 1         # b3 targets externalizing
+
+
+# ── the smoke test still discriminates ──────────────────────────────────────
 
 def test_folded_backend_shows_the_grievance_hot_hole():
-    folded = DeliveryAdapter(FoldedDeliveryStubCore())
-    result = run_smoketest(folded)
-    assert result.grievance_scored_hot > 0, "the fold must surface as grievance->hot"
+    result = run_smoketest(DeliveryAdapter(FoldedDeliveryStubCore()))
+    assert result.grievance_scored_hot > 0
     assert not result.clears
-    assert result.accuracy < 1.0
 
 
 def test_clean_backend_clears_the_smoketest():
-    clean = DeliveryAdapter(CleanDeliveryStubCore())
-    result = run_smoketest(clean)
+    result = run_smoketest(DeliveryAdapter(CleanDeliveryStubCore()))
     assert result.grievance_scored_hot == 0
     assert result.accuracy == 1.0
-
-
-def test_yes_yes_pair_is_labelled_hot_by_a_clean_backend():
-    """The authored yes/yes item is the decomposition's signature case."""
-    clean = DeliveryAdapter(CleanDeliveryStubCore())
-    yes_yes = [p for p in CONTRAST_PAIRS if "still hot" in p.note]
-    assert yes_yes, "the authored set must retain a yes/yes item"
-    for pair in yes_yes:
-        d = clean.decompose(pair.text, pair.context, "b2")
-        assert d.q2_grievance_toward_absent_party is True
-        assert d.hot is True

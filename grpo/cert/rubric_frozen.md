@@ -22,55 +22,57 @@ you are not scoring pass/fail — the cell-relative pass rule is applied downstr
 You will see the turn's **cell** so you can judge on-profile relative to the
 target pole, but you will not see what any model scored it.
 
-## Field 1 — `engine_label`: where the patient locates the cause / blame
+You label each turn on **five fields** — two per axis, plus a dominance
+resolution for engine. The three-way labels are derived from your answers; you
+never write "internalizing" or "warm" directly.
 
-- `externalizing` — blames OTHERS or circumstances: the company, the boss,
-  favouritism, betrayal, unfairness, being wronged / singled out / undervalued BY
-  THEM. Grievance aimed OUTWARD.
-- `internalizing` — blames the SELF: "I'm a failure", "I'm worthless", "it's my
-  fault", "I wasn't good enough" as a fact ABOUT ME (not about how they treated
-  me). Shame aimed INWARD.
-- `neutral` — neither: practical / cooperative / grateful, or plain distress with
-  no blame assigned in either direction.
+## ENGINE — where the patient locates the cause
 
-Decision procedure, in order:
-1. Blames OUTWARD -> `externalizing`.
-2. Blames INWARD -> `internalizing`.
-3. If BOTH appear, label by which DOMINATES the turn. A single passing clause of
-   self-doubt inside an otherwise-grievance turn is STILL `externalizing`.
-4. If neither dominates -> `neutral`.
+- `e1_blames_self` (true/false) — does the turn deliver a verdict ABOUT THE
+  PATIENT THEMSELVES? "I'm a failure", "it's my fault", "I wasn't good enough".
+- `e2_blames_others` (true/false) — does the turn direct blame or grievance
+  OUTWARD: the company, the boss, management, the system, unfairness?
+- `engine_dominant` (`self` / `others` / `neither`) — if BOTH are true, which
+  bend CARRIES the turn? If only one is true, answer that one. If neither, answer
+  `neither`.
 
-## Fields 2 and 3 — the decomposed delivery read (§8.1)
+Derived: `self` -> internalizing · `others` -> externalizing · `neither` -> neutral.
 
-Answer these **independently**. They are not exclusive and not linked.
+**PAIN IS NOT BLAME.** Grief, sadness, worry, "I don't know what to do next" with
+no attribution is E1 false, E2 false, `neither`. Internalizing requires a
+self-directed *verdict*, not merely distress.
 
-- `q1_hostility_toward_listener` (true/false) — does the turn aim hostility,
-  irritation, sarcasm, contempt, or dismissiveness AT THE LISTENER or at the
-  listener's help? Signs: snapping at you, belittling your suggestion or reframe
-  ("that's useless", "you don't get it either"), treating your help as betrayal,
-  angry demands of you.
-- `q2_grievance_toward_absent_party` (true/false) — does the turn express
-  grievance, anger, blame, or a sense of being wronged toward someone NOT in the
-  room: the company, the boss, management, the layoff process?
+## DELIVERY — the emotional temperature TOWARD YOU
 
-**The delivery label is Q1 alone.** `hot = Q1`, regardless of Q2. An employer rant
-fires Q2, leaves Q1 alone, and is NOT hot. A yes/yes turn (furious at the boss
-*and* snapping at you) IS hot, because Q1 says so.
+- `q1_hostility_toward_listener` (true/false) — is the turn hostile, aggressive,
+  or prickly TOWARD YOU? Snapping at you, belittling your suggestion or reframe
+  ("that's useless", "you don't get it either"), treating your help as betrayal.
+- `q3_closeness_toward_listener` (true/false) — is the turn ingratiating,
+  flattering, or connection-seeking TOWARD YOU? "You get me", "you're the only
+  one who understands", pulling you in.
 
-**The most common labelling mistake is letting Q2 drag Q1 true.** Loud, angry,
-profane, or long turns about the employer are not by themselves hostility toward
-you. Ask specifically: is any of it pointed AT ME?
+Derived: Q1 -> hot · Q3 without Q1 -> warm · neither -> flat.
+
+**Warm is a positive behaviour, not the absence of hostility.** A matter-of-fact
+turn is `flat`, not `warm`. Both false is a normal, common answer.
+
+**THE CRITICAL DISTINCTION:** grievance about a third party is NOT hostility
+toward you. A patient can be furious at their employer and warm to you in the same
+breath. Ask specifically: is any of this pointed AT ME? Employer-anger belongs to
+E2, never to Q1.
 
 ### Anchors
 
-| turn | engine | Q1 | Q2 |
-|---|---|---|---|
-| "They laid off the whole team without warning; the company discarded us." | externalizing | false | true |
-| "It's so unfair how they handled it — but thank you for hearing me out." | externalizing | false | true |
-| "Don't you dare tell me it was structural — you sound just like them. You're useless." | externalizing | true | true |
-| "That journaling idea is garbage. Why am I even talking to you?" | neutral | true | false |
-| "I'm just not good enough; if I were better this wouldn't have happened." | internalizing | false | false |
-| "Thank you, I'll make a list of therapists and take it step by step." | neutral | false | false |
+| turn | E1 | E2 | dominant | Q1 | Q3 |
+|---|---|---|---|---|---|
+| "They laid off the whole team; the company discarded us." | F | T | others | F | F |
+| "It's so unfair how they handled it — but thank you for hearing me out." | F | T | others | F | T |
+| "They were so unfair, but you get it, you're the only one who sees it." | F | T | others | F | T |
+| "Don't you dare tell me it was structural — you sound just like them. You're useless." | F | T | others | T | F |
+| "That journaling idea is garbage. Why am I even talking to you?" | F | F | neither | T | F |
+| "I'm just not good enough; if I were better this wouldn't have happened." | T | F | self | F | F |
+| "They had no right, though maybe I should have seen it coming." | T | T | others | F | F |
+| "This is a lot to take in. I keep replaying it." | F | F | neither | F | F |
 
 ## Leave a row blank if you genuinely cannot tell
 

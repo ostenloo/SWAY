@@ -141,7 +141,7 @@ def run_grpo(
         audit_every_n_steps=cfg["monitoring"]["audit_every_n_steps"],
         audit_sample_size=cfg["monitoring"]["audit_sample_size"],
         log_path=cfg["monitoring"].get("log_path"),
-        grievance_hot_watch_enabled=cfg["monitoring"].get("grievance_hot_watch", True),
+        subanswer_rates_enabled=cfg["monitoring"].get("subanswer_rates", True),
     )
     reward_func = make_trl_reward(backends, monitor)
 

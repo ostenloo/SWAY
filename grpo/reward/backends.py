@@ -3,9 +3,14 @@
 **D0.2 (RESOLVED): no external API spend.** The reward is two *distinct* local
 champions:
 
-  * `engine_backend`   = the engine champion (won the engine κ)
-  * `delivery_backend` = the delivery champion (won the delivery κ), **decomposed**
-    into Q1/Q2 per §8.1 — `hot = Q1`
+  * `engine_backend`   = the engine champion, **decomposed** into E1 (blames
+    self) / E2 (blames others) + a dominance resolution
+  * `delivery_backend` = the delivery champion, **decomposed** into Q1 (hostility
+    toward the listener) / Q3 (closeness-pulling toward the listener)
+
+Each axis's three-way label is derived from its own pair of questions, following
+CODING_GUIDE.md. Neither champion sees the other's axis, and neither is told the
+cell's target pole.
 
 §4's multiplicative realism floor has been **removed** by researcher decision:
 there is no third grader and no realism term in the reward. See
@@ -30,52 +35,15 @@ temperature 0 against a pinned checkpoint (C4).
 
 from __future__ import annotations
 
-from functools import lru_cache
 from typing import Optional
 
 import grpo._bootstrap  # noqa: F401
 from client import get_completion, parse_json  # fidelity-checker-side transport
-from build import annotator_system_prompt, _ANNOTATION_SCHEMA
-from parser import load_fact_base, get_bait_text, get_profile
 
 from grpo.reward.fidelity_reward import RewardBackends, assert_family_disjoint
 from grpo.reward import turn_fidelity
 from grpo.reward import delivery_decompose as dd
-
-
-# ── shared prompt construction (mirrors build.annotator_user_prompt) ─────────
-# build.annotator_user_prompt takes a transcript list; the reward gives us a
-# context STRING, so we reconstruct the same user message with the context
-# spliced in directly. Kept aligned with build's schema by importing it.
-
-@lru_cache(maxsize=8)
-def _bait_text_for_cell(cell: str) -> str:
-    return get_bait_text(get_profile(cell).get("engine", "neutral"))
-
-
-@lru_cache(maxsize=1)
-def _fact_base_text() -> str:
-    fb = load_fact_base()
-    lines = [fb.get("premise", "")]
-    for f in fb.get("facts", []):
-        lines.append(f"- {f['id']}: {f['text']}")
-    return "\n".join(lines)
-
-
-def _engine_user_prompt(cell: str, context: str, patient_turn: str) -> str:
-    allowed = "\n".join(f"- {dim}: one of {vals}" for dim, vals in _ANNOTATION_SCHEMA.items())
-    return (
-        f"### Fact Base (context only — do NOT check accuracy; distortions are meant to be wrong)\n{_fact_base_text()}\n"
-        f"### Bait Map (the bound distortions to watch for when judging carriage)\n{_bait_text_for_cell(cell)}\n"
-        f"### Conversation context\n{context}\n"
-        f"### Patient turn to annotate\n{patient_turn}\n\n"
-        f"Report these observed labels:\n{allowed}\n"
-        "- item9_crisis: true|false\n"
-        "- in_character_break: true|false\n\n"
-        'Output JSON only: {"engine_direction": "...", "delivery": "...", "carriage": "...", '
-        '"forthcomingness": "...", "disclosure": "...", "comprehension": "...", "expression": "...", '
-        '"item9_crisis": bool, "in_character_break": bool}'
-    )
+from grpo.reward import engine_decompose as ed
 
 
 # ── cores: turn+context -> a parsed label dict ───────────────────────────────
@@ -134,14 +102,21 @@ class _LocalCore(_CoreBase):
 
 
 class EngineChampionCore(_LocalCore):
-    """The ENGINE champion (grpo_spec §4). Answers the full blind observed-label
-    schema; only `engine_direction` is read for the reward."""
+    """The ENGINE champion, **decomposed** (E1/E2 + dominance).
+
+    Asks whether the turn blames the self, whether it blames others, and which
+    bend dominates when both appear. `engine_direction` is derived downstream in
+    `engine_decompose`, never here — this core only observes.
+    """
 
     def _system(self) -> str:
-        return annotator_system_prompt()
+        return ed.engine_decompose_system_prompt()
 
     def _user(self, patient_turn: str, context: str, cell: str) -> str:
-        return _engine_user_prompt(cell, context, patient_turn)
+        return ed.engine_decompose_user_prompt(context, patient_turn)
+
+    def decompose(self, patient_turn: str, context: str, cell: str) -> ed.EngineDecomposition:
+        return ed.decomposition_from_labels(self.labels(patient_turn, context, cell))
 
 
 class DeliveryChampionCore(_LocalCore):
@@ -165,13 +140,21 @@ class DeliveryChampionCore(_LocalCore):
 # ── adapters: core -> the {0,1} contracts the reward composes ────────────────
 
 class EngineAdapter:
-    """`engine_backend` — reads the engine champion's `engine_direction`."""
+    """`engine_backend` — the DECOMPOSED engine read (E1/E2 + dominance).
+
+    `.decompose()` exposes the sub-answers so the monitor can log which component
+    drove the label and whether the turn was mixed.
+    """
 
     def __init__(self, core: _CoreBase) -> None:
         self.core = core
 
+    def decompose(self, patient_turn: str, context: str, cell: str) -> ed.EngineDecomposition:
+        return ed.decomposition_from_labels(self.core.labels(patient_turn, context, cell))
+
     def score(self, patient_turn: str, context: str, cell: str) -> int:
-        return turn_fidelity.engine_pass(self.core.labels(patient_turn, context, cell), cell)
+        return turn_fidelity.engine_pass_decomposed(
+            self.decompose(patient_turn, context, cell), cell)
 
 
 class DeliveryAdapter:
@@ -247,7 +230,7 @@ class FoldedDeliveryStubCore(_CoreBase):
         grievance = any(m in low for m in self._GRIEVANCE_MARKERS)
         return {
             "q1_hostility_toward_listener": grievance,   # <-- the fold
-            "q2_grievance_toward_absent_party": grievance,
+            "q3_closeness_toward_listener": False,
         }
 
 
@@ -267,6 +250,8 @@ class CleanDeliveryStubCore(_CoreBase):
     _GRIEVANCE_MARKERS = ("company", "employer", "boss", "laid off", "layoff", "fired",
                           "unfair", "management", "restructur", "severance", "department",
                           "screwed me", "hr drones", "they did", "let me go")
+    _WARM_MARKERS = ("you get it", "you get me", "only one who", "thank you for",
+                     "you understand", "hearing me out")
 
     def _annotate(self, patient_turn: str, context: str, cell: str) -> dict:
         low = patient_turn.lower()
@@ -274,7 +259,7 @@ class CleanDeliveryStubCore(_CoreBase):
         hostile = any(m in low for m in self._HOSTILE_MARKERS)
         return {
             "q1_hostility_toward_listener": aimed_at_listener and hostile,
-            "q2_grievance_toward_absent_party": any(m in low for m in self._GRIEVANCE_MARKERS),
+            "q3_closeness_toward_listener": any(m in low for m in self._WARM_MARKERS),
         }
 
 

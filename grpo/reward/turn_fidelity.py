@@ -48,6 +48,20 @@ def engine_pass(labels: dict, cell: str) -> int:
     return int(observed == target)
 
 
+def engine_pass_decomposed(decomp, cell: str) -> int:
+    """Cell-relative engine binary from the E1/E2 + dominance decomposition.
+
+    Same rule as `engine_pass`, applied to the derived label rather than a fused
+    one: a neutral target passes when the turn leans neither way; a directional
+    target passes only on an exact match.
+    """
+    target = poles_for_cell(cell)["engine_direction"]
+    observed = decomp.engine_direction
+    if target == "neutral":
+        return int(observed not in ("internalizing", "externalizing"))
+    return int(observed == target)
+
+
 def delivery_pass(labels: dict, cell: str) -> int:
     """1 if the observed FUSED delivery temperature is on-pole for the cell.
 
