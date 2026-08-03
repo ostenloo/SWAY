@@ -116,9 +116,12 @@ class CertItem:
     context: str
     turn: str
     model_engine: str
+    model_e1: bool
+    model_e2: bool
+    model_dominant: str
     model_engine_pass: int
     model_q1: bool
-    model_q2: bool
+    model_q3: bool
     model_delivery_pass: int
     is_gold: bool = False
 
@@ -214,26 +217,31 @@ def build_certification_sheet(
 
 def _model_reads(backends: RewardBackends, turn: str, context: str, cell: str) -> dict:
     """The champions' reads — the comparison, never the acceptance."""
-    engine_labels = {}
-    core = getattr(backends.engine, "core", None)
-    if core is not None:
-        engine_labels = core.labels(turn, context, cell)
-    q1 = q2 = False
-    decompose = getattr(backends.delivery, "decompose", None)
-    if decompose is not None:
-        d = decompose(turn, context, cell)
-        q1, q2 = d.q1_hostility_toward_listener, d.q2_grievance_toward_absent_party
+    e1 = e2 = False
+    dom = engine_dir = ""
+    ed_fn = getattr(backends.engine, "decompose", None)
+    if ed_fn is not None:
+        y = ed_fn(turn, context, cell)
+        e1, e2, dom, engine_dir = y.e1_blames_self, y.e2_blames_others, y.dominant, y.engine_direction
+    q1 = q3 = False
+    dd_fn = getattr(backends.delivery, "decompose", None)
+    if dd_fn is not None:
+        x = dd_fn(turn, context, cell)
+        q1, q3 = x.q1_hostility_toward_listener, x.q3_closeness_toward_listener
     return {
-        "model_engine": str(engine_labels.get("engine_direction", "")),
+        "model_engine": engine_dir,
+        "model_e1": e1,
+        "model_e2": e2,
+        "model_dominant": dom,
         "model_engine_pass": backends.engine.score(turn, context, cell),
         "model_q1": q1,
-        "model_q2": q2,
+        "model_q3": q3,
         "model_delivery_pass": backends.delivery.score(turn, context, cell),
     }
 
 
-CERT_LABEL_COLUMNS = ["engine_label", "q1_hostility_toward_listener",
-                      "q2_grievance_toward_absent_party"]
+CERT_LABEL_COLUMNS = ["e1_blames_self", "e2_blames_others", "engine_dominant",
+                      "q1_hostility_toward_listener", "q3_closeness_toward_listener"]
 
 
 def _write_cert_sheet(rows: List[CertItem], path: Path) -> None:
@@ -242,19 +250,20 @@ def _write_cert_sheet(rows: List[CertItem], path: Path) -> None:
         w.writerow(["turn_id", "cell", "context", "turn", *CERT_LABEL_COLUMNS])
         for it in rows:
             # `is_gold` is deliberately absent: the annotator must not know.
-            w.writerow([it.turn_id, it.cell, it.context, it.turn, "", "", ""])
+            w.writerow([it.turn_id, it.cell, it.context, it.turn, "", "", "", "", ""])
 
 
 def _write_cert_key(rows: List[CertItem], path: Path) -> None:
     with path.open("w", newline="") as f:
         w = csv.writer(f)
-        w.writerow(["turn_id", "cell", "is_gold", "model_engine", "model_engine_pass",
-                    "model_q1", "model_q2", "model_delivery_pass",
-                    "context", "turn"])
+        w.writerow(["turn_id", "cell", "is_gold", "model_engine", "model_e1", "model_e2",
+                    "model_dominant", "model_engine_pass", "model_q1", "model_q3",
+                    "model_delivery_pass", "context", "turn"])
         for it in rows:
             w.writerow([it.turn_id, it.cell, str(it.is_gold).lower(), it.model_engine,
+                        str(it.model_e1).lower(), str(it.model_e2).lower(), it.model_dominant,
                         it.model_engine_pass, str(it.model_q1).lower(),
-                        str(it.model_q2).lower(), it.model_delivery_pass,
+                        str(it.model_q3).lower(), it.model_delivery_pass,
                         it.context, it.turn])
 
 
@@ -383,7 +392,7 @@ def score_certification(
 
         h_engine_pass = turn_fidelity.engine_pass(
             {"engine_direction": parsed["engine"]}, cell) if parsed["engine"] else None
-        h_delivery_pass = _human_delivery_pass(parsed["q1"], cell)
+        h_delivery_pass = _human_delivery_pass(parsed["delivery"], cell)
         per_cell.setdefault(cell, []).append({
             "engine_pass": h_engine_pass,
             "delivery_pass": h_delivery_pass,
@@ -436,20 +445,33 @@ def score_certification(
 
 
 def _parse_human_row(row: dict) -> Optional[dict]:
-    engine = (row.get("engine_label") or "").strip().lower()
+    """Human sub-answers -> derived labels, using the same rules as the champions."""
+    from grpo.reward import delivery_decompose as dd
+    from grpo.reward import engine_decompose as ed
+
+    e1 = _as_bool_or_none(row.get("e1_blames_self"))
+    e2 = _as_bool_or_none(row.get("e2_blames_others"))
+    dom = (row.get("engine_dominant") or "").strip().lower()
     q1 = _as_bool_or_none(row.get("q1_hostility_toward_listener"))
-    q2 = _as_bool_or_none(row.get("q2_grievance_toward_absent_party"))
-    if not engine and q1 is None and q2 is None:
+    q3 = _as_bool_or_none(row.get("q3_closeness_toward_listener"))
+    if e1 is None and e2 is None and not dom and q1 is None and q3 is None:
         return None
-    return {"engine": engine, "q1": q1, "q2": q2}
+    engine = ""
+    if e1 is not None or e2 is not None or dom:
+        engine = ed.decomposition_from_labels({
+            "e1_blames_self": bool(e1), "e2_blames_others": bool(e2), "dominant": dom,
+        }).engine_direction
+    delivery = None
+    if q1 is not None or q3 is not None:
+        delivery = dd.DeliveryDecomposition(bool(q1), bool(q3)).delivery
+    return {"engine": engine, "q1": q1, "q3": q3, "delivery": delivery}
 
 
-def _human_delivery_pass(q1: Optional[bool], cell: str) -> Optional[int]:
-    """Cell-relative delivery binary from the human's Q1 — `hot = Q1` (§8.1)."""
-    if q1 is None:
+def _human_delivery_pass(delivery: Optional[str], cell: str) -> Optional[int]:
+    """Cell-relative delivery binary from the human's derived three-way label."""
+    if delivery is None:
         return None
-    target = turn_fidelity.poles_for_cell(cell)["delivery"]
-    return int(q1) if target == "hot" else int(not q1)
+    return int(delivery == turn_fidelity.poles_for_cell(cell)["delivery"])
 
 
 def _score_gold_drift(gold_now: Dict[str, dict], bar: float) -> dict:
@@ -532,8 +554,8 @@ def emit_opus_crosscheck_prompt(key_path: str, out_path: str, limit: int = 100) 
     rows = _read_csv(key_path)[:limit]
     parts = [
         "You are labelling patient turns from a benchmark, using the rubric below. "
-        "Return CSV with columns: turn_id,engine_label,q1_hostility_toward_listener,"
-        "q2_grievance_toward_absent_party. Nothing else.\n",
+        "Return CSV with columns: turn_id,q1_hostility_toward_listener,"
+        "q3_closeness_toward_listener,e1_blames_self,e2_blames_others. Nothing else.\n",
         "=== RUBRIC ===", RUBRIC_PATH.read_text(), "=== TURNS ===",
     ]
     for r in rows:

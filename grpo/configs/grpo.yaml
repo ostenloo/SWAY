@@ -108,7 +108,7 @@ curriculum:
 monitoring:
   audit_every_n_steps: 50
   audit_sample_size: 20
-  grievance_hot_watch: true      # §9 — Q2-yes/Q1-no among high-advantage turns
+  subanswer_rates: true          # §9 — per-axis sub-answer rates among high-advantage turns
   log_path: "results/grpo/monitor.jsonl"
 
 # Both C6 pre-flight gates were REMOVED by researcher decision (§8.2's stratified

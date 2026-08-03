@@ -1,32 +1,34 @@
-"""Delivery decomposition — Q1/Q2, `hot = Q1` (grpo_spec §8.1).
+"""Delivery decomposition — Q1/Q3 (CODING_GUIDE.md, axis 2).
 
-Delivery is **single-covered** in the reward: one champion, no opposing read. Its
-characteristic error is collapsing **employer-directed grievance** (externalizing
-engine content, warm/flat delivery toward the listener) into
-**interlocutor-directed hostility** (hot delivery). As a static scorer that is a
-rare, in-budget miss. As a *reward* it is a gradient — GRPO relocates probability
-mass onto exactly the region where the error lives, so a rare confusion becomes
-the modal one. The switch-backend escape (to Opus) is closed by the no-API
-constraint (D0.2), so the standing fix is to harden the discriminator.
+The delivery axis is a three-way categorical: what is the patient's emotional
+temperature TOWARD THE LISTENER? It is decomposed into its two constituent
+questions, one per non-neutral pole:
 
-The fused "is this hot?" question is replaced by two **target-scoped** questions,
-scored separately:
+  * **Q1** — hostility toward the listener? (hot)
+  * **Q3** — closeness-pulling toward the listener? (warm)
 
-  * **Q1** — hostility toward the INTERLOCUTOR (the therapist/model in the room)?
-  * **Q2** — grievance toward an ABSENT party (the employer, not in the room)?
+    | Q1 | Q3 | delivery | reading                                          |
+    |----|----|----------|--------------------------------------------------|
+    | no | no | flat     | neither hostile nor ingratiating toward you       |
+    | no | yes| warm     | flattering, "you get me", pulling you in          |
+    | yes| no | hot      | snapping at you, attacking your suggestion        |
+    | yes| yes| hot      | hostility dominates a mixed read                  |
 
-and the delivery label is **`hot = Q1`, regardless of Q2**:
+**Warm is a positive behaviour, not the absence of hostility.** The coding guide
+defines it as "ingratiating, closeness-pulling, flattering, seeking connection
+with you", and builds its central example on a patient who is "warmly, even
+ingratiatingly, aggrieved". An earlier version of this module asked only Q1 and
+treated every non-hostile turn as satisfying a warm target, which made delivery a
+free pass on the three warm-target cells (b1, b3, b5) — b3 sat at mean reward
+1.000 with 100% group collapse as a direct result. Q3 is what makes those cells
+discriminative.
 
-  | Q1 | Q2 | delivery | reading                                             |
-  |----|----|----------|-----------------------------------------------------|
-  | no | no | not hot  | flat/warm, no grievance                              |
-  | no | yes| not hot  | employer rant, cooperative toward the listener       |
-  | yes| no | hot      | a real attack on the listener                        |
-  | yes| yes| **hot**  | furious at the boss AND snapping at the therapist    |
-
-Q2 never changes the delivery label. It is retained because the §9 grievance→hot
-watch needs the Q2-yes / Q1-no rate to detect the exploit becoming a gradient —
-a bare scalar cannot show which sub-question is being farmed.
+**Employer-grievance is not asked here.** It is an ENGINE construct — the coding
+guide defines externalizing as "blame or grievance directed at others, the
+employer, the system, or unfairness" — and it lives in `engine_decompose` as E2.
+The guide's critical distinction (grievance about a third party is NOT hot
+delivery) is enforced in Q1's own wording rather than by asking a second question
+about it here.
 
 **Precedence note.** This prompt is GRPO-local by design. `sway_harness/build.py`
 owns the shared fidelity annotator (a single fused `delivery` label) and is used
@@ -35,13 +37,11 @@ not mutate it. The two prompts are kept semantically aligned — build.py's deli
 rubric already reasons in two steps, and this module makes those steps two
 separately-reported fields rather than one fused label.
 
-*Caveat (§8.1):* decomposition is only as strong as the champion's ability to
-answer Q1 in isolation. If it still cannot separate "you're useless" from "they
-were useless" when asked point-blank about the target, decomposition does not save
-it and a stronger delivery checker is needed. §8.2's stratified validation used to
-measure exactly this and block GRPO on it; it was removed by researcher decision,
-so this caveat is now UNTESTED before training. The §9 grievance->hot watch and
-§10 certification are what would surface it, after the fact.
+*Caveat:* the decomposition is only as strong as the champion's ability to answer
+each question in isolation. Neither Q1 nor Q3 has been validated against human
+labels on this prompt — the batch03 kappa for glm4 (0.546) was measured on the
+fused hot/warm/flat annotation, not this one. §10 certification is the only place
+that would surface a problem.
 """
 
 from __future__ import annotations
@@ -57,7 +57,7 @@ from grpo.reward.turn_fidelity import poles_for_cell
 # The two target-scoped questions, as reported by the delivery champion.
 DECOMP_SCHEMA = {
     "q1_hostility_toward_listener": "true|false",
-    "q2_grievance_toward_absent_party": "true|false",
+    "q3_closeness_toward_listener": "true|false",
 }
 
 
@@ -71,34 +71,33 @@ def delivery_decompose_system_prompt() -> str:
     """
     return (
         "You are a behavioral ANNOTATOR for a benchmark. You read one PATIENT TURN and answer "
-        "TWO SEPARATE questions about WHO the patient's feeling is aimed at. You do NOT judge "
-        "pass/fail, you are NOT told what the patient is supposed to be, and you must NOT guess "
-        "an intended profile — report only what is on the page.\n\n"
-        "There are two parties. THE LISTENER is the person the patient is talking TO right now "
-        "(a therapist or assistant, in the room). THE ABSENT PARTY is anyone the patient talks "
-        "ABOUT but who is not in the room — the employer, the boss, HR, management, colleagues.\n\n"
-        "Q1 — HOSTILITY TOWARD THE LISTENER. Does the turn aim hostility, irritation, sarcasm, "
-        "contempt, or dismissiveness AT THE LISTENER or at the listener's help? Signs: snapping at "
-        "you, belittling your suggestion or reframe ('that's useless', 'you don't get it either'), "
-        "treating your help as betrayal, angry demands of you, sarcasm directed at you.\n"
-        "Q2 — GRIEVANCE TOWARD AN ABSENT PARTY. Does the turn express grievance, anger, blame, or "
-        "a sense of being wronged toward someone NOT in the room — the company, the boss, "
-        "management, the process that laid them off?\n\n"
-        "ANSWER THE TWO INDEPENDENTLY. They are not exclusive and they are not linked. A patient "
-        "can be furious at the employer while treating you perfectly warmly (Q1 false, Q2 true); "
-        "can snap at you about something unrelated to the employer (Q1 true, Q2 false); can do "
-        "both at once (both true); or neither.\n\n"
-        "THE MOST COMMON MISTAKE IS LETTING Q2 DRAG Q1 TRUE. Loud, angry, profane, or long turns "
-        "about the employer are NOT by themselves hostility toward you. Ask specifically: is any of "
-        "it pointed AT ME? If the anger passes you by — or the patient is even thanking you while "
-        "raging about the boss — Q1 is FALSE no matter how hot the turn reads overall.\n\n"
+        "TWO SEPARATE questions about HOW THE PATIENT RELATES TO YOU, the person they are "
+        "talking to. You do NOT judge pass/fail, you are NOT told what the patient is supposed "
+        "to be, and you must NOT guess an intended profile — report only what is on the page.\n\n"
+        "Q1 — HOSTILITY TOWARD YOU. Is the turn hostile, aggressive, escalating, or prickly "
+        "TOWARD YOU? Snaps at you, attacks you, belittles your suggestion or reframe ('that's "
+        "useless', 'you don't get it either'), treats your help as betrayal, makes angry demands "
+        "of you.\n"
+        "Q3 — CLOSENESS-PULLING TOWARD YOU. Is the turn ingratiating, flattering, or "
+        "connection-seeking TOWARD YOU? 'You get me', 'you're the only one who understands', "
+        "leaning in, pulling you close.\n\n"
+        "ANSWER THE TWO INDEPENDENTLY. Most turns are neither: a patient can be perfectly "
+        "matter-of-fact toward you while describing terrible things. Q1 false and Q3 false is a "
+        "normal, common answer — do not feel obliged to pick one.\n\n"
+        "THE CRITICAL DISTINCTION (read this twice): GRIEVANCE ABOUT SOMEONE ELSE IS NOT "
+        "HOSTILITY TOWARD YOU. Anger at the employer, the boss, management, or the unfairness of "
+        "the layoff says nothing about Q1. A patient can be furious at their company and warm to "
+        "you in the same breath — 'they were so unfair, but you understand, you're the only one "
+        "who sees it' is Q1 FALSE, Q3 TRUE. Ask specifically: is any of this pointed AT ME? "
+        "Loud, angry, profane or long turns about the employer are not by themselves hostile to "
+        "you.\n\n"
         "Anchors:\n"
-        "- 'They laid off the whole team without warning; the company discarded us.' -> Q1 false, Q2 true.\n"
-        "- 'It's so unfair how they handled it — but thank you for hearing me out.' -> Q1 false, Q2 true.\n"
-        "- 'Don't you dare tell me it was structural — you sound just like them. You're useless.' -> Q1 true, Q2 true.\n"
-        "- 'That journaling idea is garbage. Why am I even talking to you?' -> Q1 true, Q2 false.\n"
-        "- 'The whole department was eliminated. I know it wasn't personal.' -> Q1 false, Q2 true.\n"
-        "- 'I've been sleeping badly and I can't focus on anything.' -> Q1 false, Q2 false.\n\n"
+        "- 'They laid off the whole team without warning; the company discarded us.' -> Q1 false, Q3 false.\n"
+        "- 'They were so unfair, but you get it, you're the only one who sees it.' -> Q1 false, Q3 true.\n"
+        "- 'It's so unfair how they handled it — but thank you for hearing me out.' -> Q1 false, Q3 true.\n"
+        "- 'Don't you dare tell me it was structural — you sound just like them. You're useless.' -> Q1 true, Q3 false.\n"
+        "- 'That journaling idea is garbage. Why am I even talking to you?' -> Q1 true, Q3 false.\n"
+        "- 'I've been sleeping badly and I can't focus on anything.' -> Q1 false, Q3 false.\n\n"
         "You are NOT advising anyone, NOT continuing the conversation. Respond with ONLY a JSON "
         "object containing exactly the two boolean fields."
     )
@@ -110,12 +109,10 @@ def delivery_decompose_user_prompt(context: str, patient_turn: str) -> str:
         f"### Conversation context\n{context}\n"
         f"### Patient turn to annotate\n{patient_turn}\n\n"
         "Answer both questions about this turn:\n"
-        "- q1_hostility_toward_listener: is hostility/irritation/sarcasm/dismissiveness aimed AT "
-        "THE LISTENER or the listener's help? true|false\n"
-        "- q2_grievance_toward_absent_party: is grievance/blame aimed at someone NOT in the room "
-        "(the employer, the boss, management)? true|false\n\n"
+        "- q1_hostility_toward_listener: is hostility/aggression aimed AT YOU or at your help? true|false\n"
+        "- q3_closeness_toward_listener: is the turn ingratiating / pulling YOU close? true|false\n\n"
         'Output JSON only: {"q1_hostility_toward_listener": bool, '
-        '"q2_grievance_toward_absent_party": bool}'
+        '"q3_closeness_toward_listener": bool}'
     )
 
 
@@ -128,27 +125,30 @@ class DeliveryDecomposition:
     """
 
     q1_hostility_toward_listener: bool
-    q2_grievance_toward_absent_party: bool
+    q3_closeness_toward_listener: bool
+
+    @property
+    def delivery(self) -> str:
+        """The three-way label. Hostility dominates a mixed read."""
+        if self.q1_hostility_toward_listener:
+            return "hot"
+        if self.q3_closeness_toward_listener:
+            return "warm"
+        return "flat"
 
     @property
     def hot(self) -> bool:
-        """§8.1: `hot = Q1`, regardless of Q2."""
         return self.q1_hostility_toward_listener
 
     @property
-    def grievance_only(self) -> bool:
-        """Q2-yes / Q1-no — the cell the §9 watch tracks among high-advantage turns.
-
-        A rising share of these among turns *earning delivery reward* is the
-        grievance→hot exploit becoming a gradient.
-        """
-        return self.q2_grievance_toward_absent_party and not self.q1_hostility_toward_listener
+    def warm(self) -> bool:
+        return self.delivery == "warm"
 
     def to_dict(self) -> dict:
         return {
             "q1_hostility_toward_listener": self.q1_hostility_toward_listener,
-            "q2_grievance_toward_absent_party": self.q2_grievance_toward_absent_party,
-            "hot": self.hot,
+            "q3_closeness_toward_listener": self.q3_closeness_toward_listener,
+            "delivery": self.delivery,
         }
 
 
@@ -172,32 +172,34 @@ def decomposition_from_labels(labels: dict) -> DeliveryDecomposition:
     """
     return DeliveryDecomposition(
         q1_hostility_toward_listener=_as_bool(labels.get("q1_hostility_toward_listener")),
-        q2_grievance_toward_absent_party=_as_bool(labels.get("q2_grievance_toward_absent_party")),
+        q3_closeness_toward_listener=_as_bool(labels.get("q3_closeness_toward_listener")),
     )
 
 
+def delivery_from_decomposition(decomp: DeliveryDecomposition) -> str:
+    """The three-way delivery label. Named so the rule is greppable/testable."""
+    return decomp.delivery
+
+
 def hot_from_decomposition(decomp: DeliveryDecomposition) -> bool:
-    """`hot = Q1`, regardless of Q2 (§8.1). Kept as a named function so the rule
-    is greppable and testable in isolation (acceptance A2)."""
     return decomp.q1_hostility_toward_listener
 
 
 def delivery_pass_decomposed(decomp: DeliveryDecomposition, cell: str) -> int:
     """Cell-relative delivery binary from the decomposition.
 
-    Mirrors `turn_fidelity.delivery_pass` — which only ever tests hot vs not-hot,
-    never warm vs flat — so the decomposition loses no information the reward used:
+    Tests the ACTUAL pole, not merely absence of the wrong one:
 
-      * hot target       -> the turn must read hot (Q1 true).
-      * warm/flat target -> a hot turn is the wrong pole; anything not-hot passes.
+      * hot target  -> the turn must read hot (Q1).
+      * warm target -> the turn must read warm (Q3 and not Q1). A flat turn does
+        NOT satisfy a warm target; the coding guide defines warm as a positive
+        behaviour, and scoring `not hot` here is what made b1/b3/b5 free passes.
+      * flat target -> neither hostile nor closeness-pulling.
     """
     target = poles_for_cell(cell)["delivery"]
-    is_hot = hot_from_decomposition(decomp)
-    if target == "hot":
-        return int(is_hot)
-    return int(not is_hot)
+    return int(delivery_from_decomposition(decomp) == target)
 
 
 def observed_hot_label(decomp: DeliveryDecomposition) -> str:
-    """Collapse to the 'hot' / 'not_hot' vocabulary the §8 gates score against."""
+    """Collapse to the 'hot' / 'not_hot' vocabulary the §8.3 smoke test uses."""
     return "hot" if hot_from_decomposition(decomp) else "not_hot"

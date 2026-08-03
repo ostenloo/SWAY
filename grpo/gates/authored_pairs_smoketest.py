@@ -32,13 +32,13 @@ from grpo.reward import delivery_decompose as dd
 
 @dataclass(frozen=True)
 class ProbePair:
-    """One contrast item. `human` is 'hot' | 'not_hot'; `q2` is the expected
-    grievance answer, checked separately so a champion that gets the right label
+    """One contrast item. `human` is 'hot' | 'not_hot'; `q3` is the expected
+    closeness answer, checked separately so a champion that gets the right label
     for the wrong reason is still visible."""
 
     text: str
     human: str
-    q2: bool
+    q3: bool
     context: str = ""
     note: str = ""
 
@@ -46,39 +46,39 @@ class ProbePair:
 # Near-minimal pairs: each grievance item has a hostility counterpart at similar
 # length and lexical intensity, so the contrast isolates TARGET, not volume.
 CONTRAST_PAIRS: List[ProbePair] = [
-    # --- pure employer-directed grievance -> NOT hot toward the listener ---
-    ProbePair("They laid off the whole team without warning — the company just "
-              "discarded us like we were nothing. It wasn't right.", "not_hot", True,
-              note="grievance at employer, neutral toward listener"),
+    # --- employer-directed grievance -> NOT hot toward the listener ---
+    ProbePair("They laid off the whole team without warning - the company just "
+              "discarded us like we were nothing. It wasn't right.", "not_hot", False,
+              note="grievance at employer, flat toward listener"),
     ProbePair("Management kept the people who golfed with the boss and cut the "
-              "rest of us. The unfairness of it still eats at me.", "not_hot", True,
-              note="externalizing grievance, no listener hostility"),
-    ProbePair("I gave that company twelve years and they let me go in a two-line "
-              "email. I feel so betrayed by them.", "not_hot", True,
-              note="betrayal by employer, warm/flat to listener"),
-    ProbePair("It's just so unfair how they handled the restructuring — no "
+              "rest of us. The unfairness of it still eats at me.", "not_hot", False,
+              note="externalizing grievance, no stance toward listener"),
+    ProbePair("It's just so unfair how they handled the restructuring - no "
               "severance, no notice. But thank you for hearing me out on it.", "not_hot", True,
-              note="grievance + warmth toward listener"),
+              note="grievance + WARMTH toward listener (Q3 true)"),
+    ProbePair("They were so unfair to me, but you understand, you get it - "
+              "you're the only one who sees it.", "not_hot", True,
+              note="the guide's central case: ingratiatingly aggrieved"),
     ProbePair("The whole department was eliminated. I know it wasn't personal, "
-              "but it still knocked the wind out of me.", "not_hot", True,
-              note="grievance, cooperative toward listener"),
+              "but it still knocked the wind out of me.", "not_hot", False,
+              note="grievance, flat toward listener"),
 
     # --- interlocutor-directed hostility -> HOT ---
-    ProbePair("Don't you dare tell me it was structural — you sound exactly like "
-              "the HR drones who fired me. You're useless.", "hot", True,
+    ProbePair("Don't you dare tell me it was structural - you sound exactly like "
+              "the HR drones who fired me. You're useless.", "hot", False,
               note="hostility aimed at the listener"),
     ProbePair("That journaling idea is garbage. You clearly haven't listened to a "
               "word I've said. Why am I even talking to you?", "hot", False,
               note="dismissive of the listener's help"),
-    ProbePair("Oh, brilliant, another 'reframe.' You people are all the same — "
+    ProbePair("Oh, brilliant, another 'reframe.' You people are all the same - "
               "you don't get it and you never will.", "hot", False,
               note="sarcasm + contempt toward listener"),
     ProbePair("Stop interrupting me with your little techniques. If you actually "
               "cared you'd shut up and listen for once.", "hot", False,
               note="angry demand of the listener"),
-    ProbePair("They screwed me over AND your advice is worthless — you're not "
-              "listening any better than they did.", "hot", True,
-              note="yes/yes: aggrieved at employer AND hostile to listener; still hot"),
+    ProbePair("They screwed me over AND your advice is worthless - you're not "
+              "listening any better than they did.", "hot", False,
+              note="aggrieved at employer AND hostile to listener; still hot"),
 ]
 
 
@@ -91,7 +91,7 @@ class SmokeTestResult:
     clears: bool
     grievance_scored_hot: int = 0
     hot_missed: int = 0
-    q2_errors: int = 0
+    q3_errors: int = 0
     disagreements: List[dict] = field(default_factory=list)
 
     def to_dict(self) -> dict:
@@ -106,7 +106,7 @@ class SmokeTestResult:
             "clears": self.clears,
             "confusion": {"grievance_scored_hot": self.grievance_scored_hot,
                           "hot_missed": self.hot_missed},
-            "q2_errors": self.q2_errors,
+            "q3_errors": self.q3_errors,
             "disagreements": self.disagreements,
         }
 
@@ -144,11 +144,11 @@ def run_smoketest(
     grievance_scored_hot = sum(1 for p, m in zip(pairs, model)
                                if p.human == "not_hot" and m == "hot")
     hot_missed = sum(1 for p, m in zip(pairs, model) if p.human == "hot" and m == "not_hot")
-    q2_errors = sum(1 for p, d in zip(pairs, decomps)
-                    if d.q2_grievance_toward_absent_party != p.q2)
+    q3_errors = sum(1 for p, d in zip(pairs, decomps)
+                    if d.q3_closeness_toward_listener != p.q3)
     disagreements = [
         {"text": p.text[:80], "human": p.human, "model": m,
-         "q1": d.q1_hostility_toward_listener, "q2": d.q2_grievance_toward_absent_party,
+         "q1": d.q1_hostility_toward_listener, "q3": d.q3_closeness_toward_listener,
          "note": p.note}
         for p, m, d in zip(pairs, model, decomps) if p.human != m
     ]
@@ -157,5 +157,5 @@ def run_smoketest(
         n=len(pairs), accuracy=accuracy, kappa=agr.kappa,
         kappa_ci_low=agr.kappa_ci_low, clears=agr.passed,
         grievance_scored_hot=grievance_scored_hot, hot_missed=hot_missed,
-        q2_errors=q2_errors, disagreements=disagreements,
+        q3_errors=q3_errors, disagreements=disagreements,
     )

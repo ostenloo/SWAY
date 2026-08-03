@@ -14,11 +14,9 @@ because the gates certify the checker *before* training and the exploit appears
     bare scalar.
   * reward_fidelity_gap   — mean reward vs a held-out human-validated estimate; a
     widening gap = hacking in progress.
-  * grievance_hot_watch   — the Q2-yes / Q1-no rate among high-advantage turns,
-    plus the sharper hot-cell variant (see `grievance_hot_watch`). With §8.2
-    removed, this is now the ONLY signal that would catch the grievance->hot
-    confusion becoming a gradient, and it catches it during training rather than
-    before — watch it.
+  * subanswer_rates       — the rate of each per-axis sub-answer (E1/E2/dominant,
+    Q1/Q3) among high-advantage turns, so you can see WHICH component of a label
+    the advantage is flowing to, not merely that reward rose.
   * group_collapse_rate   — fraction of std==0 groups; if high the target is too
     off-manifold (strengthen warm-start / curriculum / partial credit).
 
@@ -54,8 +52,8 @@ def standardize(rewards: List[float]) -> tuple[List[float], float]:
 class GroupRecord:
     """One GRPO group: G completions at one state, with their per-dimension reads.
 
-    `q1` / `q2` carry the §8.1 decomposition so the audit can attribute delivery
-    reward to the right sub-question.
+    `sub` carries each axis's decomposition so the audit can attribute reward to
+    the component that produced the label.
     """
 
     step: int
@@ -64,9 +62,8 @@ class GroupRecord:
     completions: List[str]
     engine_pass: List[int] = field(default_factory=list)
     delivery_pass: List[int] = field(default_factory=list)
-    q1: List[bool] = field(default_factory=list)
-    q2: List[bool] = field(default_factory=list)
-    delivery_target_hot: bool = False
+    #: Per-completion sub-answers: {"e1","e2","dominant","q1","q3"} where available.
+    sub: List[dict] = field(default_factory=list)
 
     def advantages(self) -> tuple[List[float], float]:
         return standardize(self.rewards)
@@ -87,7 +84,7 @@ class OnlineMonitor:
     audit_every_n_steps: int = 50
     audit_sample_size: int = 20
     log_path: Optional[str] = None
-    grievance_hot_watch_enabled: bool = True
+    subanswer_rates_enabled: bool = True
     #: Kept current by `make_monitor_callback`; the reward function reads it to
     #: stamp each group, having no view of the trainer's global step itself.
     current_step: int = 0
@@ -126,58 +123,46 @@ class OnlineMonitor:
         scored.sort(key=lambda x: x[0], reverse=True)
         return scored
 
-    def grievance_hot_watch(self, top_k: Optional[int] = None,
-                            last_n: Optional[int] = None) -> dict:
-        """The §9 grievance->hot watch, over the highest-advantage turns.
+    def subanswer_rates(self, top_k: Optional[int] = None,
+                        last_n: Optional[int] = None) -> dict:
+        """Rate of each per-axis sub-answer among the highest-advantage turns.
 
-        Two numbers, because they catch the exploit on opposite cell types:
-
-        * `grievance_only_rate` — the literal §9 metric: the Q2-yes / Q1-no share
-          among high-advantage turns. "Grievance present, no interlocutor
-          hostility" rising among the turns earning reward is the confusion
-          becoming a gradient.
-
-        * `hot_cell_grievance_rate` — Q2-yes among turns that EARNED delivery
-          reward on a **hot-target** cell. This is the sharper signature where the
-          exploit actually pays: on a hot cell the policy can only be rewarded if
-          the champion calls the turn hot, so a drift from listener-hostility
-          toward employer-grievance while delivery reward holds steady is the
-          champion folding under optimization pressure. On warm/flat cells,
-          Q2-yes/Q1-no is *correct* behaviour and carries no alarm — which is why
-          the literal metric alone can read high for benign reasons and must not
-          be alerted on in isolation.
+        Shows which COMPONENT of a label the advantage is flowing to: e.g. a
+        rising `e2` share on a cell whose engine target is neutral means the
+        policy is earning reward while drifting outward-blaming, which the fused
+        label alone would not reveal.
         """
         top_k = top_k or self.audit_sample_size
         ranked = self._ranked_completions(last_n)[:top_k]
         if not ranked:
-            return {"n": 0, "grievance_only_rate": 0.0, "hot_cell_grievance_rate": 0.0,
-                    "n_hot_cell_delivery_rewarded": 0}
-
-        grievance_only = 0
-        hot_rewarded = hot_rewarded_grievance = 0
+            return {"n": 0}
+        keys = ("e1", "e2", "q1", "q3")
+        counts = {k: 0 for k in keys}
+        dominant: dict = {}
+        seen = 0
         for _, g, i in ranked:
-            q1 = bool(g._get(g.q1, i, False))
-            q2 = bool(g._get(g.q2, i, False))
-            if q2 and not q1:
-                grievance_only += 1
-            if g.delivery_target_hot and g._get(g.delivery_pass, i, 0) == 1:
-                hot_rewarded += 1
-                if q2:
-                    hot_rewarded_grievance += 1
-
-        return {
-            "n": len(ranked),
-            "grievance_only_rate": grievance_only / len(ranked),
-            "hot_cell_grievance_rate": (hot_rewarded_grievance / hot_rewarded) if hot_rewarded else 0.0,
-            "n_hot_cell_delivery_rewarded": hot_rewarded,
-        }
+            d = g._get(g.sub, i, None) or {}
+            if not d:
+                continue
+            seen += 1
+            for k in keys:
+                counts[k] += int(bool(d.get(k)))
+            dom = d.get("dominant")
+            if dom:
+                dominant[dom] = dominant.get(dom, 0) + 1
+        if not seen:
+            return {"n": len(ranked), "sub_answers_available": False}
+        out = {"n": seen}
+        out.update({k: round(counts[k] / seen, 4) for k in keys})
+        out["dominant"] = {k: round(v / seen, 4) for k, v in dominant.items()}
+        return out
 
     def high_advantage_audit(self, step: int, force: bool = False) -> List[dict]:
         """Top-advantage completions for a human spot-check (fires every N steps).
 
-        Logged per-dimension — engine, delivery, and delivery split into Q1/Q2 —
-        so the reviewer can see which axis and which sub-question the advantage is
-        flowing to, not merely that reward went up.
+        Logged per-dimension — the engine and delivery binaries plus each axis's
+        sub-answers — so the reviewer can see which axis and which component the
+        advantage is flowing to, not merely that reward went up.
         """
         if not force and (self.audit_every_n_steps <= 0 or step % self.audit_every_n_steps != 0):
             return []
@@ -188,8 +173,7 @@ class OnlineMonitor:
                 "reward": g.rewards[i], "completion": g.completions[i][:300],
                 "engine_pass": g._get(g.engine_pass, i),
                 "delivery_pass": g._get(g.delivery_pass, i),
-                "q1_hostility_toward_listener": g._get(g.q1, i),
-                "q2_grievance_toward_absent_party": g._get(g.q2, i),
+                "sub": g._get(g.sub, i),
             }
             out.append(item)
             if self.log_path:
@@ -202,8 +186,8 @@ class OnlineMonitor:
             "mean_reward": round(self.mean_reward(), 4),
             "group_collapse_rate": round(self.group_collapse_rate(), 4),
         }
-        if self.grievance_hot_watch_enabled:
-            snap["grievance_hot_watch"] = self.grievance_hot_watch()
+        if self.subanswer_rates_enabled:
+            snap["subanswer_rates"] = self.subanswer_rates()
         if held_out_fidelity is not None:
             snap["reward_fidelity_gap"] = round(self.reward_fidelity_gap(held_out_fidelity), 4)
         if self.log_path:

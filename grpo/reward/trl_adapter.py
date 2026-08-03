@@ -19,7 +19,6 @@ from typing import List, Optional
 import grpo._bootstrap  # noqa: F401
 
 from grpo.reward.fidelity_reward import RewardBackends, fidelity_reward
-from grpo.reward.turn_fidelity import poles_for_cell
 from grpo.monitor.online_audit import GroupRecord, OnlineMonitor
 
 
@@ -34,18 +33,25 @@ def _text(completion) -> str:
     return str(completion)
 
 
-def _decomposition(backends: RewardBackends, turn: str, context: str, cell: str):
-    """Q1/Q2 for one turn, if the delivery backend is the decomposed champion.
+def _subanswers(backends: RewardBackends, turn: str, context: str, cell: str) -> dict:
+    """Per-axis sub-answers for one turn, when the backends are decomposed.
 
-    Reads through the backend's per-turn cache, so this is free after scoring.
-    Returns (q1, q2) or (None, None) for a backend without a decomposed read
-    (e.g. a constant stub in tests).
+    Reads through each backend's per-turn cache, so this is free after scoring.
+    Returns {} for constant stubs that have no decomposed read.
     """
-    decompose = getattr(backends.delivery, "decompose", None)
-    if decompose is None:
-        return None, None
-    d = decompose(turn, context, cell)
-    return d.q1_hostility_toward_listener, d.q2_grievance_toward_absent_party
+    out = {}
+    d = getattr(backends.delivery, "decompose", None)
+    if d is not None:
+        x = d(turn, context, cell)
+        out["q1"] = x.q1_hostility_toward_listener
+        out["q3"] = x.q3_closeness_toward_listener
+    e = getattr(backends.engine, "decompose", None)
+    if e is not None:
+        y = e(turn, context, cell)
+        out["e1"] = y.e1_blames_self
+        out["e2"] = y.e2_blames_others
+        out["dominant"] = y.dominant
+    return out
 
 
 def make_trl_reward(backends: RewardBackends, monitor: Optional[OnlineMonitor] = None):
@@ -68,8 +74,7 @@ def make_trl_reward(backends: RewardBackends, monitor: Optional[OnlineMonitor] =
         rewards: List[float] = []
         eng: List[int] = []
         dlv: List[int] = []
-        q1s: List[bool] = []
-        q2s: List[bool] = []
+        subs: List[dict] = []
         texts: List[str] = []
 
         for i in range(n):
@@ -80,21 +85,14 @@ def make_trl_reward(backends: RewardBackends, monitor: Optional[OnlineMonitor] =
             # Per-dimension reads for §9, served from the backends' cache.
             eng.append(backends.engine.score(turn, ctx, c))
             dlv.append(backends.delivery.score(turn, ctx, c))
-            q1, q2 = _decomposition(backends, turn, ctx, c)
-            q1s.append(bool(q1)); q2s.append(bool(q2))
+            subs.append(_subanswers(backends, turn, ctx, c))
             texts.append(turn)
 
         if monitor is not None and n:
             step = getattr(monitor, "current_step", 0)
-            first_cell = str(cells[0])
-            try:
-                target_hot = poles_for_cell(first_cell)["delivery"] == "hot"
-            except Exception:
-                target_hot = False
             monitor.record_group(GroupRecord(
-                step=int(step), cell=first_cell, rewards=rewards,
-                completions=texts, engine_pass=eng, delivery_pass=dlv,
-                q1=q1s, q2=q2s, delivery_target_hot=target_hot,
+                step=int(step), cell=str(cells[0]), rewards=rewards,
+                completions=texts, engine_pass=eng, delivery_pass=dlv, sub=subs,
             ))
         return rewards
 
