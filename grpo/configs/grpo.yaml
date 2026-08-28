@@ -17,12 +17,33 @@ grpo:
   # two ollama graders (6.2 + 5.7GB) loaded alongside during reward calls.
   # G=4 halves generation+activation memory. Raise only if the graders move off
   # this GPU (§12: "keep G <= 8", but 8 assumed the card was not shared).
-  group_size_G: 4            # ↑ for lower-variance advantage, ↑ VRAM/compute
+  # D2.1: the spec calls for G = 8 ARCS per group. The measured VRAM note below
+  # was taken under the v1 per-TURN design; arc-level rollout changes the memory
+  # profile entirely (completions go from 256 tokens to ~5k), so G must be
+  # re-measured on the box before trusting either number. Left at 4 rather than
+  # raised blind — raising it on an untested memory profile is how the last OOM
+  # happened.
+  group_size_G: 4            # SPEC WANTS 8 (D2.1) — re-measure before raising
+  arc_length_T: 20           # D2.1 — patient turns per arc (v2; was 1 turn)
+  # D2.5 — mean-centre advantages only; do NOT divide by the per-group std.
+  # Std-division partially erases the band's geometry and amplifies quantisation
+  # noise (at n_marked = 6 one flipped label moves q a full step). If the signal
+  # collapses, raise `lr` — never re-enable scaling, which biases selectively by
+  # group difficulty (Dr. GRPO, Liu et al. 2025).
+  # UNVERIFIED on TRL 1.9: the parameter may now be a string rather than a bool,
+  # and if "batch" (batch-level std) is supported, PREFER IT — scale-invariant
+  # across runs without the per-group difficulty bias. Run the signature check in
+  # requirements-train.txt before the first launch.
+  scale_rewards: false
   kl_beta: 0.04              # realism/exploit brake AND off-manifold reach — tune
   clip_ratio: 0.2
   lr: 1.0e-5
   max_prompt_tokens: 1536    # cap history length (VRAM)
-  max_completion_tokens: 256 # one patient turn
+  # v1 value: one patient turn. Arc-level rollout (T = 20) needs roughly 20x
+  # this, which is the single biggest unknown in §12's VRAM plan — see the
+  # Part-B note in grpo/reward/trl_adapter.py. Left at the measured-safe value
+  # until arc generation actually works on the box.
+  max_completion_tokens: 256 # ONE TURN — must grow with arc_length_T (Part B)
   temperature_rollout: 0.8   # policy sampling (natural variation)
   grad_checkpointing: true
   max_steps: 500             # total across curriculum stages
@@ -62,7 +83,22 @@ reward:
   backend_delivery: "glm4:9b"              # delivery champion, DECOMPOSED (§8.1)
   base_url: "http://localhost:11434/v1"
   grader_temperature: 0.0                  # C4 — deterministic, frozen graders
-  partial_credit: [0.0, 0.5, 1.0]
+  partial_credit: [0.0, 0.5, 1.0]          # per-turn binary — RFT filter only, NOT the reward
+
+  # ── grpo_spec_2 / [BAND]: the arc-level band reward ──────────────────────
+  shape: "arc_band"                        # supersedes the per-turn binary (C3)
+  calibration_path: "grpo/calibration/band_calibration.v1.yaml"   # C9, frozen pre-step-1
+  missing_key_halt_rate: 0.05              # §4.2 — halt above this
+
+  # Axis combination is NOT configurable. D-BAND.1 is RESOLVED to the geometric
+  # mean with an eps = 0.02 floor, and the alternative it replaced (the average)
+  # is defective — it is indifferent to allocation, so a one-axis-only arc
+  # outscores an arc doing both passably. A config key that can silently select
+  # a known-bad reward shape is the kind of thing the rest of this pipeline
+  # refuses to allow, so the constant lives in `grpo/reward/band_reward.py`
+  # (DEFAULT_AXIS_COMBINATION / AXIS_FLOOR_EPS) beside the argument for it.
+  # `combine_axes` still implements all three modes — the tests need them to
+  # DEMONSTRATE why the average is wrong — but nothing reads them from config.
   # distilled_bothaxis: SHELVED — revisit only on high run count, and then distill
   # on real rollouts, never the untrusted prompt-opt corpus (§4, §12 R4).
 
@@ -90,6 +126,15 @@ interlocutors:
 warmstart:
   rft_epochs: 1
   rft_filter: "diagnostic_pass"                    # §6 — reward-filtered SFT
+  # §6.1 — the conjunctive filter is the KNOWN DEFECT. Requiring both axes to
+  # pass on the SAME turn is what produced b5's and b6's zero coverage: both are
+  # individually reachable, they never co-occur, so the filter is biased against
+  # exactly the Hot x internalizing cells. Warm-start is a COVERAGE tool feeding a
+  # distributional objective; there is no longer a principled reason for it to be
+  # stricter than the reward it feeds. Switch to "disjunctive" if a cell reports
+  # a CONJUNCTION FAILURE in the rejects census.
+  rft_filter_mode: "conjunctive"                   # conjunctive | disjunctive
+  log_rejects_with_tuple: true                     # §6.2 -> <dataset>.rejects.jsonl
   arcs_per_cell: 30
 
 # §5.5 — off-manifold cells start near-manifold and anneal toward the hard target.
@@ -99,7 +144,11 @@ warmstart:
 # relaxation directive is a pilot fallback. See grpo/data/curriculum.py.
 curriculum:
   enabled: true
-  enabled_cells: [b1, b2]        # off-manifold dependency targets
+  # §5.5 AMENDED: re-pointed from [b1, b2] to [b2]. Per §0.2 b1 is NOT the
+  # struggling cell (mean 0.856) and b2 is the only genuinely stuck one (0.93
+  # collapse at 0.494). Re-evaluate b5/b6 after the first banded run — the tuple
+  # evidence suggests the band may fix them without curriculum help.
+  enabled_cells: [b2]
   schedule: "near_manifold -> target"
   anneal_frac: 0.4               # share of max_steps spent at the easier target
   near_manifold_build_dir: null  # dir of authored <cell>_prompt.txt, or null

@@ -197,7 +197,41 @@ def _train(cfg: dict, rows: List[dict], reward_func, adapter_in: Optional[str],
         )
 
     ds = Dataset.from_list(rows)
+
+    # ── D2.5: scale_rewards MUST be off ──────────────────────────────────────
+    # TRL's DEFAULT is to divide each advantage by the group std. That default
+    # partially erases the band's reward geometry (the band exists so q = 1.0
+    # scores meaningfully less than q = 0.80, and a per-group rescale flattens
+    # that) and amplifies quantisation noise into multi-sigma updates. Letting it
+    # apply by omission is a silent spec violation, so the parameter is resolved
+    # explicitly and a failure to set it is FATAL rather than ignored.
+    #
+    # The form is version-dependent: in newer TRL `scale_rewards` became a string.
+    # If "batch" (batch-level std) is available, PREFER IT — scale-invariant across
+    # runs without the per-group difficulty bias (Dr. GRPO, Liu et al. 2025).
+    import inspect
+    _sig = inspect.signature(GRPOConfig.__init__).parameters
+    if "scale_rewards" not in _sig:
+        raise RuntimeError(
+            "D2.5: the installed TRL's GRPOConfig has no `scale_rewards` parameter, so "
+            "advantage scaling cannot be disabled through config. Find its replacement "
+            "before training — running with TRL's std-normalising default is a known "
+            "spec violation, not a harmless fallback. "
+            f"Available parameters: {sorted(_sig)}"
+        )
+    _want = g.get("scale_rewards", False)
+    _default = _sig["scale_rewards"].default
+    if isinstance(_default, str):
+        # String-valued form: prefer batch-level std over a plain "none".
+        _scale_rewards = "batch" if _want is False else str(_want)
+        if _scale_rewards == "batch":
+            print("[D2.5] TRL exposes string-valued scale_rewards; using 'batch' "
+                  "(batch-level std) — preferred over plain off, per §7.")
+    else:
+        _scale_rewards = bool(_want)
+
     grpo_cfg = GRPOConfig(
+        scale_rewards=_scale_rewards,
         output_dir=adapter_out,
         num_generations=g["group_size_G"],
         beta=g["kl_beta"],

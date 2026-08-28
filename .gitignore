@@ -13,3 +13,9 @@ label_tasks/**/_key_*.csv
 
 # Local throwaway venv for kappa tooling (Homebrew py3.14 is broken)
 .venv-kappa/
+
+# Project venv on the GPU host (grpo training stack)
+.venv/
+
+# GRPO adapter weights (~450MB) — artifacts, not source
+results/grpo/adapters/

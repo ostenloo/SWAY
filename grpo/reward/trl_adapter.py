@@ -103,3 +103,151 @@ def score_turn(backends: RewardBackends, patient_turn: str, P: str, context: str
                cell: str) -> float:
     """Convenience single-turn scorer (used by warm-start filtering and cert)."""
     return fidelity_reward(patient_turn, P, context, cell, backends)
+
+
+# ── arc-level (grpo_spec_2 §4) ───────────────────────────────────────────────
+#
+# The v2 reward scores a whole ARC, not a turn. Everything above stays: the
+# per-turn binary survives in the RFT warm-start filter (§6) and in `score_turn`
+# for certification, but it is no longer the gradient signal (§4.2).
+#
+# NOTE ON SCOPE. This is the reward-side contract only, and it is deliberately
+# agnostic about how an arc gets generated. Producing 20 policy turns interleaved
+# with a LIVE interlocutor (D2.2) inside a TRL training step is a separate,
+# larger problem — stock `GRPOTrainer` emits one continuous completion per prompt
+# and masks nothing, so the interlocutor's turns would land in the policy's
+# log-probs. Whatever solves that (a custom rollout hook, a trainer subclass with
+# an explicit completion mask, or another framework) feeds arcs into THIS
+# function unchanged.
+
+#: How a generated arc is serialised into a single completion string when the
+#: generator cannot hand back a list. Chosen to be something no patient turn
+#: emits naturally.
+ARC_TURN_SEP = "\n<|patient_turn|>\n"
+
+
+def split_arc(completion) -> List[str]:
+    """Normalise a completion into the arc's ordered patient turns.
+
+    Accepts a list of turn strings, a list of chat dicts, or a single string
+    delimited by `ARC_TURN_SEP`. Empty turns are dropped — a blank turn would
+    otherwise inflate the density DENOMINATOR and read as the policy declining to
+    express the axis, which is exactly the bias §4.2's missing-key counter exists
+    to catch elsewhere.
+    """
+    if isinstance(completion, str):
+        parts = completion.split(ARC_TURN_SEP)
+    elif isinstance(completion, list):
+        parts = [
+            (c.get("content", "") if isinstance(c, dict) else str(c))
+            for c in completion
+        ]
+    else:
+        parts = [str(completion)]
+    return [p.strip() for p in parts if p and p.strip()]
+
+
+def _arc_subanswers(backends: RewardBackends, turns: List[str], context0: str,
+                    cell: str) -> dict:
+    """Arc-level sub-answer RATES, averaged over the arc's turns.
+
+    Served from the backends' per-turn cache, so this costs no extra grader calls
+    after scoring. The §9 grievance watch and the cancellation-drift signal both
+    read `e2` from here.
+    """
+    from grpo.reward.band_reward import context_upto
+
+    acc: dict = {}
+    n = 0
+    for i, turn in enumerate(turns):
+        ctx = context_upto(turns, i, context0)
+        per = _subanswers(backends, turn, ctx, cell)
+        if not per:
+            continue
+        n += 1
+        for k, v in per.items():
+            if k == "dominant":
+                acc.setdefault("dominant", {})
+                acc["dominant"][v] = acc["dominant"].get(v, 0) + 1
+            else:
+                acc[k] = acc.get(k, 0.0) + float(bool(v))
+    if not n:
+        return {}
+    out = {k: (v / n) for k, v in acc.items() if k != "dominant"}
+    if "dominant" in acc:
+        out["dominant"] = {k: v / n for k, v in acc["dominant"].items()}
+    return out
+
+
+def make_trl_band_reward(backends, cal, monitor: Optional[OnlineMonitor] = None,
+                         collect_subanswers: bool = True):
+    """Return an arc-level `reward_func(prompts, completions, **columns)` (§4).
+
+    Each completion is one ARC. Requires `cell`, `P` and `context` columns.
+    `cal` is the frozen [BAND §6.4] calibration (C9); CB1 is asserted once here
+    rather than per call, so a grader swap cannot slip in mid-run.
+    """
+    from grpo.monitor.online_audit import ArcRecord
+    from grpo.reward.band_reward import (
+        assert_calibration_backends, band_reward_arc_readout,
+    )
+    from grpo.reward import turn_fidelity
+
+    # C4/CB1 — the graders scoring rollouts must BE the graders that measured the
+    # bracket, or [BAND §7]'s cancellation does not hold.
+    assert_calibration_backends(cal, backends)
+
+    def reward_func(prompts=None, completions=None, cell=None, P=None,
+                    context=None, **kwargs) -> List[float]:
+        completions = completions or []
+        n = len(completions)
+        cells = cell if isinstance(cell, list) else [cell] * n
+        Ps = P if isinstance(P, list) else [P] * n
+        contexts = context if isinstance(context, list) else [context] * n
+
+        rewards: List[float] = []
+        arcs = []
+
+        for i in range(n):
+            turns = split_arc(completions[i])
+            c, p, ctx = cells[i], Ps[i], contexts[i]
+            if not turns:
+                # A degenerate empty arc. Score 0 rather than raising: one bad
+                # generation must not kill the step, and the group still carries
+                # gradient away from whatever produced it.
+                rewards.append(0.0)
+                arcs.append(ArcRecord(reward=0.0, completion=""))
+                continue
+
+            out = band_reward_arc_readout(turns, ctx, p, c, cal, backends)
+            rewards.append(out.reward)
+
+            sub = _arc_subanswers(backends, turns, ctx, c) if collect_subanswers else {}
+            # Derived per-turn binaries, as ARC RATES — for the audit only (§4.2).
+            eng_pass = mean_or_none([
+                turn_fidelity.engine_pass({"engine_direction": lab}, c)
+                for lab in out.engine_labels])
+            del_pass = mean_or_none([
+                int(lab == turn_fidelity.poles_for_cell(c)["delivery"])
+                for lab in out.delivery_labels])
+
+            arcs.append(ArcRecord(
+                reward=out.reward, engine=out.engine, delivery=out.delivery,
+                completion=ARC_TURN_SEP.join(turns), engine_pass=eng_pass,
+                delivery_pass=del_pass, sub=sub,
+            ))
+
+        if monitor is not None and n:
+            from grpo.monitor.online_audit import GroupRecord
+            monitor.record_group(GroupRecord(
+                step=int(getattr(monitor, "current_step", 0)),
+                cell=str(cells[0]), arcs=arcs,
+            ))
+        return rewards
+
+    return reward_func
+
+
+def mean_or_none(xs):
+    xs = [x for x in xs if x is not None]
+    return (sum(xs) / len(xs)) if xs else None

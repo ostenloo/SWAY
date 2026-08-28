@@ -8,6 +8,13 @@ services:
     container_name: sway-ollama
     ports:
       - "11434:11434"
+    environment:
+      # Context window models load with. The optimizer prompt runs ~33k tokens,
+      # so the 32k default truncates it — 64k gives headroom. Models cap this at
+      # their trained max automatically (e.g. mistral stays 32k).
+      OLLAMA_CONTEXT_LENGTH: "65536"
+      # Peak co-residency is 2 models (see runner phases); 3 avoids any eviction.
+      OLLAMA_MAX_LOADED_MODELS: "3"
     volumes:
       # Model store. Defaults to the named volume (self-contained; entrypoint
       # pulls on first run). FAST TRACK: set SWAY_MODELS_DIR to a pre-populated
