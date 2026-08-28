@@ -10,6 +10,8 @@ Two checks:
 import ast
 from pathlib import Path
 
+import pytest
+
 import grpo._bootstrap  # noqa: F401
 from grpo.reward.fidelity_reward import (
     RewardBackends, fidelity_reward, FORBIDDEN_IMPORT_TOKENS,
@@ -35,6 +37,22 @@ def test_reward_module_has_no_drift_side_imports():
     for token in FORBIDDEN_IMPORT_TOKENS:
         assert not any(token in n for n in names), (
             f"C1 breach: fidelity_reward.py imports something matching {token!r}: {names}"
+        )
+
+
+@pytest.mark.parametrize("src", sorted(REWARD_SRC.parent.glob("*.py")), ids=lambda p: p.name)
+def test_no_reward_module_has_drift_side_imports(src):
+    """C1 over the WHOLE reward package, not one file.
+
+    The wall is a property of everything in the gradient path, and the package
+    has grown a module at a time (`band_reward`, then `rate_profile_reward`),
+    each adding its own copy of this check. Globbing means the next one is
+    covered before anyone remembers to add it.
+    """
+    names = [n.lower() for n in _imported_names(src)]
+    for token in FORBIDDEN_IMPORT_TOKENS:
+        assert not any(token in n for n in names), (
+            f"C1 breach: {src.name} imports something matching {token!r}: {names}"
         )
 
 

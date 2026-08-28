@@ -248,6 +248,129 @@ def make_trl_band_reward(backends, cal, monitor: Optional[OnlineMonitor] = None,
     return reward_func
 
 
+def make_trl_rate_profile_reward(backends, cal, monitor: Optional[OnlineMonitor] = None,
+                                 collect_subanswers: bool = True):
+    """Return an arc-level `reward_func(prompts, completions, **columns)` for the
+    RATE-PROFILE reward ([RATE §4]).
+
+    SUPERSEDES `make_trl_band_reward`, which is retained unwired. Each completion
+    is one ARC; requires the `cell`, `P` and `context` columns. C3 is asserted
+    once here rather than per call, so a grader swap cannot slip in mid-run.
+    """
+    from grpo.monitor.online_audit import ArcRecord
+    from grpo.reward.rate_profile_reward import (
+        assert_calibration_backends, rate_profile_reward_arc_readout,
+    )
+    from grpo.reward import turn_fidelity
+
+    # C3 — the graders scoring rollouts must BE the graders that measured the
+    # targets, or the bias-cancellation argument does not hold.
+    assert_calibration_backends(cal, backends)
+
+    def reward_func(prompts=None, completions=None, cell=None, P=None,
+                    context=None, **kwargs) -> List[float]:
+        completions = completions or []
+        n = len(completions)
+        cells = cell if isinstance(cell, list) else [cell] * n
+        Ps = P if isinstance(P, list) else [P] * n
+        contexts = context if isinstance(context, list) else [context] * n
+
+        rewards: List[float] = []
+        arcs = []
+
+        for i in range(n):
+            turns = split_arc(completions[i])
+            c, p, ctx = cells[i], Ps[i], contexts[i]
+            if not turns:
+                # A degenerate empty arc. Score 0 rather than raising: one bad
+                # generation must not kill the step, and the group still carries
+                # gradient away from whatever produced it. A SHORT arc is scored
+                # 0 for the same reason, inside the reward itself — see
+                # rate_profile_reward.MIN_ARC_TURNS.
+                rewards.append(0.0)
+                arcs.append(ArcRecord(reward=0.0, completion=""))
+                continue
+
+            out = rate_profile_reward_arc_readout(turns, ctx, p, c, cal, backends)
+            rewards.append(out.reward)
+
+            sub = _arc_subanswers(backends, turns, ctx, c) if collect_subanswers else {}
+            # Derived per-turn binaries, as ARC RATES — for the audit only. These
+            # are NOT the reward and must never be reported as it: the per-turn
+            # monotone binary is the shape [RATE §1] exists to replace.
+            eng_pass = mean_or_none([
+                turn_fidelity.engine_pass({"engine_direction": lab}, c)
+                for lab in out.engine_labels])
+            del_pass = mean_or_none([
+                int(lab == turn_fidelity.poles_for_cell(c)["delivery"])
+                for lab in out.delivery_labels])
+
+            arcs.append(ArcRecord(
+                reward=out.reward, engine=out.engine, delivery=out.delivery,
+                completion=ARC_TURN_SEP.join(turns), engine_pass=eng_pass,
+                delivery_pass=del_pass, sub=sub,
+            ))
+
+        if monitor is not None and n:
+            from grpo.monitor.online_audit import GroupRecord
+            monitor.record_group(GroupRecord(
+                step=int(getattr(monitor, "current_step", 0)),
+                cell=str(cells[0]), arcs=arcs,
+            ))
+        return rewards
+
+    return reward_func
+
+
+#: `reward.shape` values this adapter can build. `per_turn_binary` survives only
+#: inside the RFT warm-start filter and the audit; `arc_band` is the defective
+#: conditional-ratio shape and is refused outright rather than left selectable.
+REWARD_SHAPES = ("rate_profile", "per_turn_binary")
+
+
+def build_reward_func(cfg, backends, monitor: Optional[OnlineMonitor] = None):
+    """The reward `reward.shape` names, with its calibration loaded and checked.
+
+    One place decides what the gradient signal is. `arc_band` is REFUSED here
+    rather than silently honoured: `band_calibration.v1.yaml` is defective on
+    both engine directions and on delivery, and a config key that can select a
+    known-bad reward shape is exactly what the rest of this pipeline refuses to
+    allow.
+    """
+    from grpo.reward.rate_profile_reward import (
+        assert_arc_length, load_calibration,
+    )
+
+    r = cfg.get("reward", {})
+    shape = str(r.get("shape", "rate_profile"))
+
+    if shape == "arc_band":
+        raise ValueError(
+            "reward.shape = 'arc_band' is REFUSED. The conditional-ratio band is "
+            "superseded ([RATE §12]): its caricature scored 17x better than mild "
+            "under-expression, sparse expression scored 2.5x better than full, and "
+            "no band-level repair fixed either. Use 'rate_profile'."
+        )
+    if shape == "per_turn_binary":
+        # The pre-band shape. Kept buildable for the A8 baseline comparison and
+        # for nothing else — it is the monotone reward whose optimum IS the
+        # caricature, which is the whole reason [RATE] exists.
+        return make_trl_reward(backends, monitor)
+    if shape != "rate_profile":
+        raise ValueError(f"unknown reward.shape {shape!r} (expected one of {REWARD_SHAPES})")
+
+    cal_path = r.get("calibration_path")
+    if not cal_path:
+        raise ValueError(
+            "reward.shape = 'rate_profile' needs `reward.calibration_path` — the "
+            "artifact is frozen and hash-logged before step 1 (C6/C9)."
+        )
+    cal = load_calibration(cal_path)
+    # §11 — the bands were validated against the artifact's T, not the config's.
+    assert_arc_length(cal, cfg["grpo"]["arc_length_T"])
+    return make_trl_rate_profile_reward(backends, cal, monitor)
+
+
 def mean_or_none(xs):
     xs = [x for x in xs if x is not None]
     return (sum(xs) / len(xs)) if xs else None

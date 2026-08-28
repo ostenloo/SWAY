@@ -34,7 +34,7 @@ from client import frame_patient
 from grpo.data.rollout import build_states
 from grpo.data.curriculum import Stage, apply_stage, build_stages
 from grpo.monitor.online_audit import OnlineMonitor, make_monitor_callback
-from grpo.reward.trl_adapter import make_trl_reward
+from grpo.reward.trl_adapter import build_reward_func, make_trl_reward  # noqa: F401
 
 
 def build_state_dataset(
@@ -143,7 +143,10 @@ def run_grpo(
         log_path=cfg["monitoring"].get("log_path"),
         subanswer_rates_enabled=cfg["monitoring"].get("subanswer_rates", True),
     )
-    reward_func = make_trl_reward(backends, monitor)
+    # The gradient signal is whatever `reward.shape` names, built in ONE place
+    # (trl_adapter.build_reward_func) so the calibration load, the C3 grader
+    # check and the §11 arc-length check cannot be skipped by a caller.
+    reward_func = build_reward_func(cfg, backends, monitor)
 
     stages = build_stages(cfg)
     current_in = adapter_in
