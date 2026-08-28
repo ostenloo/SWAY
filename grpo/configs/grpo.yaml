@@ -23,8 +23,22 @@ grpo:
   # re-measured on the box before trusting either number. Left at 4 rather than
   # raised blind — raising it on an untested memory profile is how the last OOM
   # happened.
-  group_size_G: 4            # SPEC WANTS 8 (D2.1) — re-measure before raising
-  arc_length_T: 20           # D2.1 — patient turns per arc (v2; was 1 turn)
+  # [RATE §11] flags that the prior spec contradicts itself here (8 in one
+  # sentence, 6 in the next) and declines to resolve it. RESOLVED: stays at 4,
+  # and this comment is the record. 4 is the only value ever measured on this
+  # box, the reason it was lowered (an OOM with the two ollama graders resident)
+  # is unchanged, and the arc-level memory profile that would justify raising it
+  # has still not been measured. Raising G on an untested memory profile is how
+  # the last OOM happened.
+  group_size_G: 4            # RESOLVED at 4 — see above; re-measure before raising
+  # [RATE §11] — justified as a MEASUREMENT WINDOW, not as realism: the corpus
+  # median is 15 substantive turns and only 38% of conversations reach 20, so a
+  # 20-turn arc is already longer than most real sessions. Nothing requires the
+  # simulator to reproduce real session LENGTHS; the rates are what must be
+  # realistic. This value is also recorded in the calibration artifact and every
+  # band is validated against it (§5.2), so changing it here without re-deriving
+  # the artifact is a load-time error, not a silent rescale.
+  arc_length_T: 20           # patient turns per arc (v2; was 1 turn)
   # D2.5 — mean-centre advantages only; do NOT divide by the per-group std.
   # Std-division partially erases the band's geometry and amplifies quantisation
   # noise (at n_marked = 6 one flipped label moves q a full step). If the signal
@@ -85,11 +99,31 @@ reward:
   grader_temperature: 0.0                  # C4 — deterministic, frozen graders
   partial_credit: [0.0, 0.5, 1.0]          # per-turn binary — RFT filter only, NOT the reward
 
-  # ── grpo_spec_2 / [BAND]: the arc-level band reward ──────────────────────
-  shape: "arc_band"                        # supersedes the per-turn binary (C3)
-  calibration_path: "grpo/calibration/band_calibration.v1.yaml"   # C9, frozen pre-step-1
-  missing_key_halt_rate: 0.05              # §4.2 — halt above this
+  # ── [RATE]: the arc-level RATE-PROFILE reward ────────────────────────────
+  # Supersedes both the per-turn binary and the conditional-ratio band
+  # ("arc_band"). The band's SHAPE failed on six measured counts — the caricature
+  # scored 17x better than mild under-expression, expressing the trait on fewer
+  # turns scored 2.5x better, and at 5 marked turns the ratio's resolution (0.20)
+  # was coarser than the band being placed (0.057). All of it followed from
+  # conditioning on the marked turns, i.e. estimating from `m` observations
+  # instead of `T`. The rate profile scores the label rates over ALL T turns.
+  #
+  # `band_calibration.v1.yaml` is DEFECTIVE on both engine directions and on
+  # delivery and MUST NOT be used. It is not in the repo; if it reappears, it is
+  # a record of the measurements, never a target.
+  shape: "rate_profile"
+  calibration_path: "grpo/calibration/rate_calibration.v1.yaml"   # C6/C9, frozen pre-step-1
+  missing_key_halt_rate: 0.05              # halt above this
 
+  # Delivery targets in the artifact are DECLARED, not measured, and every
+  # delivery band is stamped `measured: false`. AnnoMI cannot supply them: 96.8%
+  # of its turns are flat and the MEDIAN conversation contains zero warm or hot
+  # turns, which is a property of counselling with an intact alliance rather than
+  # of the grader. Monitoring reports the two axes separately so a declared
+  # target is never read as a measured one. Reverting delivery to per-turn
+  # monotone scoring is REJECTED — it reinstates the failure this shape exists to
+  # remove, on the axis where the hot profiles were already hardest to produce.
+  #
   # Axis combination is NOT configurable. D-BAND.1 is RESOLVED to the geometric
   # mean with an eps = 0.02 floor, and the alternative it replaced (the average)
   # is defective — it is indifferent to allocation, so a one-axis-only arc

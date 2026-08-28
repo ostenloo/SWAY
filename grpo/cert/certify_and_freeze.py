@@ -612,21 +612,44 @@ def freeze_adapter(
             "sha256": hashlib.sha256(raw).hexdigest(),
         }
         try:
-            from grpo.reward.band_reward import load_calibration
-            cal = load_calibration(cal_path)
+            # Rate-profile artifact first ([RATE]); fall back to the superseded
+            # band loader so an older adapter's freeze record still resolves.
+            try:
+                from grpo.reward.rate_profile_reward import load_calibration
+                cal = load_calibration(cal_path)
+                cal_record["shape"] = "rate_profile"
+                cal_record["arc_length_T"] = cal.arc_length_T
+                # DISCLOSURE TRAVELS WITH THE FREEZE ([RATE §8]): a DECLARED
+                # target must not quietly become a measured one in the write-up
+                # six months from now. Delivery is declared on every cell.
+                declared = [
+                    f"{cell}.{axis}"
+                    for cell, axes in cal.cells.items()
+                    for axis, prof in axes.items()
+                    if not getattr(prof, "measured", True)
+                ]
+                cal_record["declared_not_measured"] = sorted(declared)
+                cal_record["declared_reason"] = (
+                    "Delivery targets are declared, not measured: AnnoMI is 96.8% flat "
+                    "and its median conversation contains zero warm or hot turns. See "
+                    "the artifact's provenance."
+                ) if declared else None
+            except Exception:
+                from grpo.reward.band_reward import load_calibration
+                cal = load_calibration(cal_path)
+                cal_record["shape"] = "arc_band (SUPERSEDED — see RATE §12)"
+                # An edge stamped `bracket_informative: false` (D2.4) must not
+                # silently become a data-derived number either.
+                uninformative = [
+                    f"{cell}.{axis}"
+                    for cell, axes in cal.cells.items()
+                    for axis, band in axes.items()
+                    if not getattr(band, "bracket_informative", True)
+                ]
+                cal_record["uninformative_brackets"] = sorted(uninformative)
             cal_record["grader_version"] = cal.grader_version
             cal_record["backend_identities"] = cal.backend_identities
             cal_record["cells"] = sorted(cal.cells)
-            # Disclosure travels with the freeze: an edge stamped
-            # `bracket_informative: false` (D2.4) must not silently become a
-            # data-derived number in the write-up six months from now.
-            uninformative = [
-                f"{cell}.{axis}"
-                for cell, axes in cal.cells.items()
-                for axis, band in axes.items()
-                if not getattr(band, "bracket_informative", True)
-            ]
-            cal_record["uninformative_brackets"] = sorted(uninformative)
         except Exception as e:                       # noqa: BLE001
             cal_record["load_error"] = f"{type(e).__name__}: {e}"
     else:

@@ -282,6 +282,20 @@ class OnlineMonitor:
                 out[f"on_plateau_{axis}"] = round(
                     sum(1 for r in reads if getattr(r, "on_plateau", False)) / len(reads), 4)
 
+            # [RATE §8] — engine and delivery band-fit are reported SEPARATELY,
+            # each carrying whether its targets were measured or declared, so a
+            # declared delivery target can never be read back as a measured one.
+            # Absent under the old band readouts; present under rate profiles.
+            on = [getattr(r, "p_on", None) for r in reads]
+            if any(v is not None for v in on):
+                out[f"p_on_{axis}"] = _rates(on)
+                out[f"p_off_{axis}"] = _rates([getattr(r, "p_off", None) for r in reads])
+            if reads and hasattr(reads[0], "measured"):
+                measured = bool(getattr(reads[0], "measured", True))
+                out[f"measured_{axis}"] = measured
+                if not measured:
+                    out.setdefault("declared_axes", []).append(axis)
+
             flags = self._band_position_flags(axis, reads, cell)
             if flags:
                 out.setdefault("flags", []).extend(flags)
@@ -296,6 +310,8 @@ class OnlineMonitor:
             p = self.cal[cell][axis]
         except (KeyError, TypeError):
             return []
+        if getattr(p, "components", None) is not None:
+            return self._rate_position_flags(axis, reads, p)
         if getattr(p, "mode", None) != "q_band":
             return []
         qs = [getattr(r, "q", None) for r in reads]
@@ -313,6 +329,37 @@ class OnlineMonitor:
             flags.append(
                 f"{axis}: {riding:.0%} of arcs ride U={p.U} — caricature pressure "
                 "through the ceiling")
+        return flags
+
+    def _rate_position_flags(self, axis: str, reads, p) -> List[str]:
+        """The rate-profile analogue: the on-direction rate parked below `L`
+        (the profile is not being expressed) or above `U` (caricature pressure
+        through the ceiling, which is the ONLY anti-caricature mechanism there
+        is — [RATE §5.3]).
+
+        A neutral profile has no on-direction component, so there is nothing to
+        flag: its two bands are both `[0, U]` and the failure mode there is going
+        inert, which the DELIVERY axis catches through the geometric mean.
+        """
+        on = next((c for c in p.components if c.role == "on_direction"), None)
+        if on is None:
+            return []
+        ps = [getattr(r, "p_on", None) for r in reads]
+        ps = [x for x in ps if x is not None]
+        if not ps:
+            return []
+        label = "" if getattr(p, "measured", True) else " [DECLARED target]"
+        below = sum(1 for x in ps if x < on.L) / len(ps)
+        above = sum(1 for x in ps if x > on.U) / len(ps)
+        flags = []
+        if below > 0.5:
+            flags.append(
+                f"{axis}: {below:.0%} of arcs have p_{on.label} BELOW L={on.L}{label} "
+                "— the profile is not being expressed")
+        if above > 0.5:
+            flags.append(
+                f"{axis}: {above:.0%} of arcs exceed U={on.U}{label} — caricature "
+                "pressure through the ceiling")
         return flags
 
     def band_edge_farming_rate(self, cell: Optional[str] = None,

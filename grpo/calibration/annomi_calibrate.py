@@ -1,19 +1,41 @@
 #!/usr/bin/env python3
-"""AnnoMI offline calibration — produces the frozen band artifact (grpo_spec_2 §6.5).
+"""AnnoMI offline calibration — produces the frozen reward artifact.
 
 This stage MUST run and be frozen before the first GRPO step (C9). It runs once
 per grader-backend version.
 
-Four stages, each a subcommand so the expensive one is resumable:
+**Two derivations live here, and only one of them is current.**
 
-  grade    label every substantive AnnoMI client turn with BOTH frozen champions,
-           appending to a resumable JSONL cache (~3.2k turns x 2 axes)
-  derive   read the cache -> per-session `q` -> EB shrinkage -> percentiles ->
-           emit `band_calibration.<grader_version>.yaml` + a disclosure report
-  kappa    ingest the hand-label sheets and report human-vs-grader agreement.
-           REPORT-ONLY: C6 removed the gate that would have thresholded it, and
-           the band edges come from the grader pass, not the human labels
-  all      grade -> derive -> kappa
+`rate-derive` implements SWAY_ENGINE_DELIVERY_RATE_PROFILE_SPEC: per-conversation
+RATES over all `T` turns, grouped by lean, edges at the 25th/75th percentiles.
+This is the shape the reward uses.
+
+`derive` implements the superseded conditional-ratio band (grpo_spec_2 §6.5):
+per-session `q` among MARKED turns, EB-shrunk, edges at the 72.5th/92.5th. It is
+retained ONLY so the measurements in [RATE §1] stay reproducible.
+`band_calibration.v1.yaml` is defective on both engine directions and on
+delivery, `trl_adapter.build_reward_func` refuses to build against it, and it
+must never be used as a target.
+
+Stages, each a subcommand so the expensive one is resumable:
+
+  grade           label every substantive AnnoMI client turn with BOTH frozen
+                  champions, appending to a resumable JSONL cache (~3.2k turns
+                  x 2 axes). Shared by both derivations.
+  rate-derive     cache -> per-conversation rates -> lean groups -> percentiles
+                  -> `rate_calibration.<grader_version>.yaml` + a disclosure
+                  report. THE CURRENT PATH.
+  rate-freeze-v1  the same artifact built from [RATE §7]'s already-measured
+                  percentiles, for a host without the label cache. Same shaping
+                  code; the artifact records which source it used.
+  derive          SUPERSEDED — the conditional-ratio band. See above.
+  kappa           ingest the hand-label sheets and report human-vs-grader
+                  agreement. REPORT-ONLY: C6 removed the gate that would have
+                  thresholded it, and the edges come from the grader pass, not
+                  the human labels.
+  all             grade -> derive -> kappa (the superseded chain; `all` is left
+                  pointing at it so an old command line does not silently emit a
+                  different artifact than it used to)
 
 **Why the two sample sizes differ.** Per [BAND CB1] the bounds come from GRADER
 labels, which decouples them: humans label ~500 turns (22 conversations) for the
@@ -31,9 +53,10 @@ therefore reuses the *label-task generator's* loader (no judge paths) and the
 rollout material — that is the calibration-circularity ratchet (R7).
 
 Usage:
-  python -m grpo.calibration.annomi_calibrate all --grader-version v1
-  python -m grpo.calibration.annomi_calibrate grade --workers 8      # resumable
-  python -m grpo.calibration.annomi_calibrate derive --p-lo 72.5 --p-hi 92.5
+  python -m grpo.calibration.annomi_calibrate grade --workers 8        # resumable
+  python -m grpo.calibration.annomi_calibrate rate-derive              # current
+  python -m grpo.calibration.annomi_calibrate rate-freeze-v1           # no cache
+  python -m grpo.calibration.annomi_calibrate kappa
 """
 
 from __future__ import annotations
@@ -48,6 +71,7 @@ from pathlib import Path
 
 import grpo._bootstrap  # noqa: F401
 from grpo.calibration import derive as D
+from grpo.calibration import rate_derive as RD
 from grpo.config import load_config
 from grpo.reward.band_reward import MARKED, calibration_from_dict, load_calibration
 from grpo.reward.turn_fidelity import poles_for_cell
@@ -462,6 +486,249 @@ def _report(doc: dict, brackets: dict, sha: str) -> str:
     return "\n".join(lines) + "\n"
 
 
+# ── stage 2b: the RATE-PROFILE derivation ([RATE §6]) ────────────────────────
+#
+# SUPERSEDES `derive_artifact` above, which builds the conditional-ratio band
+# artifact. That artifact (`band_calibration.v1.yaml`) is defective on both engine
+# directions and on delivery and MUST NOT be used; the `derive` stage is retained
+# only so the §1 measurements remain reproducible.
+#
+# Two entry points, one document shape:
+#
+#   rate-derive     percentiles read off the grader label cache — the real path
+#   rate-freeze-v1  percentiles transcribed from [RATE §7], for when the cache is
+#                   not on this host. Same shaping code, different source; the
+#                   artifact says which it was.
+
+def _rate_doc(cfg, args, cells_doc: dict, derivation: dict, backend_identities: dict) -> dict:
+    from grpo.reward.rate_profile_reward import calibration_from_dict as rate_from_dict
+
+    doc = {
+        "spec": "SWAY_ENGINE_DELIVERY_RATE_PROFILE_SPEC",
+        "grader_version": args.grader_version,
+        "generated_utc": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        # §11 — REQUIRED. The bands are validated against it (§5.2), so an
+        # artifact that does not record its T cannot be checked, only assumed.
+        "arc_length_T": int(args.arc_length_t),
+        "backend_identities": backend_identities,
+        "derivation": derivation,
+        "cells": cells_doc,
+    }
+    # Validate through the real loader before writing: an artifact that cannot be
+    # loaded is not a calibration, and finding that out at step 1 is too late.
+    rate_from_dict(doc)
+    return doc
+
+
+def _write_rate_artifact(doc: dict, out_path: Path, edges_by_cell: dict) -> dict:
+    from grpo.reward.rate_profile_reward import load_calibration as load_rate
+
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    import yaml
+    # allow_unicode: the artifact is a disclosure document a human reads, and
+    # every provenance string in it cites a spec section by its § sign.
+    out_path.write_text(yaml.safe_dump(doc, sort_keys=False, default_flow_style=False,
+                                       allow_unicode=True))
+
+    cal = load_rate(out_path)          # re-load to get the C6/C9 hash
+    report = _rate_report(doc, edges_by_cell, cal.sha256)
+    report_path = out_path.with_suffix(".report.md")
+    report_path.write_text(report)
+
+    print(report)
+    print(f"\nartifact -> {out_path}")
+    print(f"report   -> {report_path}")
+    print(f"C9 sha256: {cal.sha256}")
+    return doc
+
+
+def _common_derivation(args) -> dict:
+    return {
+        "spec": "RATE §6",
+        "unit": "per-conversation RATE of each marked label over ALL T turns",
+        "estimator": "raw counts / T on BOTH sides; no smoothing anywhere (C7)",
+        "eligibility": f"T >= {RD.ELIGIBILITY_MIN_TURNS} turns — a LENGTH rule, never a "
+                       "marked-count rule (§6 step 2, the §1.6 fix)",
+        "percentile_window": {
+            "P_lo": args.rate_p_lo, "P_hi": args.rate_p_hi,
+            "declared_choice": "25th-75th targets the middle half of conversations that "
+                               "lean the intended way. This is a DESIGN DECISION, not a "
+                               "measurement (§6.1); changing it needs its own "
+                               "justification, not a retune.",
+        },
+        "grouping": {
+            "low_rate_ceiling": RD.LOW_RATE_CEILING,
+            "precedence": "low-rate tested FIRST, then lean by p_a > p_b — §6 step 4's "
+                          "three predicates overlap as written; see "
+                          "rate_derive.group_conversations for the argument.",
+        },
+        "anti_caricature": "the on-direction band's UPPER EDGE, and nothing else (§5.3). "
+                           "Off-direction bands have no lower edge because the measured "
+                           "25th percentile of the off-direction rate is 0.000.",
+        "shoulders": f"symmetric, s = {RD.SHOULDER} (§5.1)",
+        "scenario_dependence": "EVERY component is scenario-dependent (§10). The "
+                               "conditional ratio's scenario-invariance is given up "
+                               "deliberately: it was an argument, never a measurement, "
+                               "and six measured failures sit against it. AnnoMI is MI "
+                               "counselling, not layoff support; the counselling-to-layoff "
+                               "gap is a standing limitation on BOTH axes.",
+        "precision": "at a true rate of 0.20 the 95% interval on a single 20-turn arc runs "
+                     "roughly 0.02-0.38. No individual arc's rate is a measurement (§10).",
+    }
+
+
+def rate_derive_artifact(args) -> dict:
+    """[RATE §6] steps 1-6, from the grader label cache."""
+    cfg = load_config(args.config)
+    turns = collect_turns(args.include_backchannels)
+    cache = load_cache(Path(args.cache))
+    if not cache:
+        raise SystemExit(
+            f"no grader labels at {args.cache} — run the `grade` stage first. The targets "
+            "come from grader space (C3), not from hand labels, and never from the "
+            "Simulator's own output (C5)."
+        )
+
+    lbs = labels_by_session(cache, turns, "engine")
+    rates = RD.conversation_rates("engine", lbs)
+    groups = RD.group_conversations(rates, "engine")
+
+    T = int(args.arc_length_t)
+    cells_doc, edges = RD.build_cells(
+        args.cells,
+        lambda tgt: RD.engine_profile_edges(tgt, rates, T=T,
+                                            p_lo=args.rate_p_lo, p_hi=args.rate_p_hi),
+        T=T,
+    )
+
+    derivation = _common_derivation(args)
+    derivation["source"] = "derived from the grader label cache"
+    derivation["corpus"] = corpus_stats(args.include_backchannels)
+    derivation["group_sizes"] = {k: len(v) for k, v in groups.items()}
+    derivation["n_eligible"] = sum(1 for c in rates if c.eligible)
+    derivation["n_conversations"] = len(rates)
+    derivation["n_dropped_ties"] = RD.dropped_ties(rates, "engine")
+
+    doc = _rate_doc(cfg, args, cells_doc, derivation,
+                    cache_identities(Path(args.cache)) or _cfg_identities(cfg))
+    out = Path(args.out or (DEFAULT_OUT / f"rate_calibration.{args.grader_version}.yaml"))
+    return _write_rate_artifact(doc, out, edges)
+
+
+def rate_freeze_v1(args) -> dict:
+    """Emit the frozen artifact from [RATE §7]'s already-measured percentiles.
+
+    For the case the label cache is not on this host. The band SHAPING is the
+    same code the live path runs (`rate_derive.edges_from_percentiles`); only the
+    source of the percentiles differs, and the artifact records which it was so a
+    reader can never mistake a transcription for a fresh derivation.
+    """
+    from grpo.calibration import rate_v1_measurements as V1
+
+    cfg = load_config(args.config)
+    T = int(args.arc_length_t)
+    cells_doc, edges = RD.build_cells(
+        args.cells, lambda tgt: V1.engine_edges_from_spec(tgt, T=T), T=T)
+
+    derivation = _common_derivation(args)
+    derivation["source"] = "TRANSCRIBED from RATE §7 (no label cache on this host)"
+    derivation["source_note"] = V1.SPEC_V1_NOTE
+    derivation["corpus"] = {
+        "n_conversations": V1.SPEC_V1_N_CONVERSATIONS,
+        "n_substantive_client_turns": V1.SPEC_V1_N_TURNS,
+        "n_eligible": V1.SPEC_V1_N_ELIGIBLE,
+    }
+    derivation["group_sizes"] = dict(V1.SPEC_V1_GROUP_N)
+
+    # C3 — the identities must be the ones that MEASURED the targets. §7 names
+    # the engine grader; delivery is declared, so its "measurement" is this
+    # config's champion by construction and the reward must still be scored with
+    # it (the min over the two axes reads both).
+    identities = _cfg_identities(cfg)
+    if identities.get("engine") != V1.SPEC_V1_GRADER:
+        raise SystemExit(
+            f"C3: RATE §7's engine targets were measured with {V1.SPEC_V1_GRADER!r} but "
+            f"this config's engine champion is {identities.get('engine')!r}. Bias "
+            "cancellation does not hold across a grader swap — restore the champion or "
+            "re-derive from a fresh grading pass."
+        )
+
+    doc = _rate_doc(cfg, args, cells_doc, derivation, identities)
+    out = Path(args.out or (DEFAULT_OUT / f"rate_calibration.{args.grader_version}.yaml"))
+    return _write_rate_artifact(doc, out, edges)
+
+
+def _rate_report(doc: dict, edges_by_cell: dict, sha: str) -> str:
+    T = doc["arc_length_T"]
+    lines = [
+        "# AnnoMI rate-profile calibration — disclosure report",
+        "",
+        f"spec: `{doc['spec']}`  ",
+        f"grader_version: `{doc['grader_version']}`  ",
+        f"generated: {doc['generated_utc']}  ",
+        f"arc_length_T: **{T}** (bands are validated against it, §5.2/§11)  ",
+        f"C9 sha256: `{sha}`  ",
+        f"backends: `{doc['backend_identities']}`",
+        "",
+        f"**Source: {doc['derivation']['source']}**",
+        "",
+        "## Bands",
+        "",
+        "| cell | axis | label | role | band | measured | widened |",
+        "|---|---|---|---|---|---|---|",
+    ]
+    for cell, axes in edges_by_cell.items():
+        for axis in ("engine", "delivery"):
+            for e in axes[axis]:
+                lines.append(
+                    f"| {cell} | {axis} | {e.label} | {e.role} | "
+                    f"[{e.L:.3f}, {e.U:.3f}] | {'yes' if e.measured else '**NO**'} | "
+                    f"{'yes' if e.widening else ''} |"
+                )
+
+    lines += [
+        "",
+        "## Delivery is DECLARED, not measured (§8)",
+        "",
+        RD.DECLARED_DELIVERY_REASON,
+        "",
+        "Monitoring reports engine and delivery band-fit **separately** so a declared "
+        "target is never reported as a measured one. Reverting delivery to per-turn "
+        "monotone scoring is rejected: it reinstates the failure this redesign exists "
+        "to remove, on the axis where the hot profiles were already hardest to produce.",
+        "",
+        "## §5.2 widenings",
+        "",
+    ]
+    widened = [(cell, axis, e) for cell, axes in edges_by_cell.items()
+               for axis in ("engine", "delivery") for e in axes[axis] if e.widening]
+    if not widened:
+        lines.append("None.")
+    seen = set()
+    for cell, axis, e in widened:
+        key = (axis, e.label, e.role, round(e.L, 4), round(e.U, 4))
+        if key in seen:
+            continue
+        seen.add(key)
+        lines.append(f"- **{axis}/{e.label}** ({e.role}): {e.widening}")
+
+    lines += [
+        "",
+        "## What this costs (§10)",
+        "",
+        doc["derivation"]["scenario_dependence"],
+        "",
+        doc["derivation"]["precision"],
+        "",
+        "## Percentile window",
+        "",
+        doc["derivation"]["percentile_window"]["declared_choice"],
+    ]
+    if doc["derivation"].get("source_note"):
+        lines += ["", "## Source disclosure", "", doc["derivation"]["source_note"]]
+    return "\n".join(lines) + "\n"
+
+
 # ── stage 3: kappa (REPORT-ONLY) ─────────────────────────────────────────────
 
 def kappa(args) -> dict:
@@ -547,7 +814,8 @@ def kappa(args) -> dict:
 def build_parser():
     p = argparse.ArgumentParser(description=__doc__,
                                 formatter_class=argparse.RawDescriptionHelpFormatter)
-    p.add_argument("stage", choices=["grade", "derive", "kappa", "all"])
+    p.add_argument("stage", choices=["grade", "derive", "rate-derive",
+                                     "rate-freeze-v1", "kappa", "all"])
     p.add_argument("--config", default=None)
     p.add_argument("--cache", default=str(DEFAULT_CACHE))
     p.add_argument("--out", default=None)
@@ -573,6 +841,13 @@ def build_parser():
                    help="D2.3 neutral-engine lower anchor; MUST be > 0")
     p.add_argument("--neutral-d-percentile", type=float, default=25.0)
     p.add_argument("--cells", nargs="+", default=["b1", "b2", "b3", "b4", "b5", "b6"])
+    # rate-derive / rate-freeze-v1 ([RATE §6])
+    p.add_argument("--arc-length-t", type=int, default=20,
+                   help="§11 T — recorded in the artifact and used to validate every "
+                        "band's span (§5.2)")
+    p.add_argument("--rate-p-lo", type=float, default=RD.P_LO,
+                   help="§6.1 percentile window, a DECLARED design choice")
+    p.add_argument("--rate-p-hi", type=float, default=RD.P_HI)
     # kappa
     p.add_argument("--sheets", default=None,
                    help="root holding batchNN/hand_labels_annomi_bNN.csv (default: the "
@@ -588,6 +863,10 @@ def main(argv=None):
         grade(args)
     if args.stage in ("derive", "all"):
         derive_artifact(args)
+    if args.stage == "rate-derive":
+        rate_derive_artifact(args)
+    if args.stage == "rate-freeze-v1":
+        rate_freeze_v1(args)
     if args.stage in ("kappa", "all"):
         kappa(args)
 
