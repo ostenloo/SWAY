@@ -579,12 +579,19 @@ def freeze_adapter(
     cert: CertResult,
     backend_identities: dict,
     merge_and_quantize: bool = False,
+    calibration_path: Optional[str] = None,
 ) -> str:
     """Freeze a certified adapter and write the reproducibility manifest (§10.5-6).
 
     Refuses to freeze a non-certified adapter (C7). The manifest records base
     checkpoint + quant + BOTH champion identities + training seed + this
-    iteration's certification kappa (A5).
+    iteration's certification kappa + **the band-calibration hash** (C9, A9).
+
+    The calibration hash is not optional bookkeeping. Under [BAND §7] the reward
+    only means anything relative to the bracket it was calibrated against, so an
+    adapter frozen without recording WHICH bracket shaped it cannot be reproduced
+    or compared against another iteration — and a mid-run band edit ([BAND CB7])
+    would be undetectable after the fact.
     """
     if not cert.passed:
         raise RuntimeError(
@@ -594,6 +601,41 @@ def freeze_adapter(
         )
     out = Path(out_dir)
     out.mkdir(parents=True, exist_ok=True)
+
+    # C9 / A9 — the band-calibration artifact this adapter was trained against.
+    cal_path = calibration_path or cfg.get("reward", {}).get("calibration_path")
+    cal_record: dict = {}
+    if cal_path and Path(cal_path).exists():
+        raw = Path(cal_path).read_bytes()
+        cal_record = {
+            "path": str(cal_path),
+            "sha256": hashlib.sha256(raw).hexdigest(),
+        }
+        try:
+            from grpo.reward.band_reward import load_calibration
+            cal = load_calibration(cal_path)
+            cal_record["grader_version"] = cal.grader_version
+            cal_record["backend_identities"] = cal.backend_identities
+            cal_record["cells"] = sorted(cal.cells)
+            # Disclosure travels with the freeze: an edge stamped
+            # `bracket_informative: false` (D2.4) must not silently become a
+            # data-derived number in the write-up six months from now.
+            uninformative = [
+                f"{cell}.{axis}"
+                for cell, axes in cal.cells.items()
+                for axis, band in axes.items()
+                if not getattr(band, "bracket_informative", True)
+            ]
+            cal_record["uninformative_brackets"] = sorted(uninformative)
+        except Exception as e:                       # noqa: BLE001
+            cal_record["load_error"] = f"{type(e).__name__}: {e}"
+    else:
+        cal_record = {
+            "path": str(cal_path) if cal_path else None,
+            "warning": "NO BAND CALIBRATION RECORDED — C9 requires the artifact to be "
+                       "frozen and hash-logged before step 1. An adapter frozen without "
+                       "it cannot be reproduced or compared across iterations.",
+        }
 
     manifest = {
         "frozen_at": datetime.now(timezone.utc).isoformat(),
@@ -605,6 +647,7 @@ def freeze_adapter(
         "training_seed": cfg["freeze"].get("seed"),
         "adapter_mode": cfg.get("adapter_mode"),
         "rubric_sha256": cert.rubric_sha256,
+        "band_calibration": cal_record,                 # C9 / A9
         "certification": cert.to_dict(),
         "certification_kappa": {
             "engine": cert.kappa_engine.get("kappa"),

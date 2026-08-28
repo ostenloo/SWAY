@@ -55,8 +55,22 @@ class _CoreBase:
     #: Recorded on the core so the freeze manifest can name every grader (A5).
     identity: str = "unknown"
 
+    #: The keys this core's decomposition needs. Used by the MISSING-KEY COUNTER
+    #: (grpo_spec_2 §4.2): decoding is constrained to valid JSON, so syntactic
+    #: parse failures are ~zero — but that does not guarantee the right KEYS.
+    #: `{"e1": true}` parses cleanly, `.get("e1_blames_self")` returns None,
+    #: `_as_bool` defaults it False, and the turn silently reads neutral/flat —
+    #: the UNMARKED class that sets the density denominator. Under the old binary
+    #: that was a safe default; under the band's density term it is a
+    #: downward-only bias on `d`, indistinguishable from the simulator choosing
+    #: not to express the axis. Given the observed Qwen guardrail break
+    #: (mid-arc refusal / language flip), it is not assumed away.
+    expected_keys: tuple = ()
+
     def __init__(self) -> None:
         self._cache: dict[tuple, dict] = {}
+        self.n_annotations = 0
+        self.n_missing_all_keys = 0
 
     def _annotate(self, patient_turn: str, context: str, cell: str) -> dict:
         raise NotImplementedError
@@ -64,8 +78,37 @@ class _CoreBase:
     def labels(self, patient_turn: str, context: str, cell: str) -> dict:
         key = (patient_turn, context, cell)
         if key not in self._cache:
-            self._cache[key] = self._annotate(patient_turn, context, cell) or {}
+            result = self._annotate(patient_turn, context, cell) or {}
+            # Counted on the MISS path only: a cache hit is not a fresh grader
+            # call, and counting it would dilute the rate the §9 halt reads.
+            self.n_annotations += 1
+            if self.expected_keys and not any(k in result for k in self.expected_keys):
+                self.n_missing_all_keys += 1
+            self._cache[key] = result
         return self._cache[key]
+
+    @property
+    def missing_key_rate(self) -> float:
+        """Fraction of grader calls that came back with NONE of the expected keys.
+
+        §9 halts above ~5% (`reward.missing_key_halt_rate`). If it is genuinely
+        zero the telemetry costs nothing.
+        """
+        return self.n_missing_all_keys / self.n_annotations if self.n_annotations else 0.0
+
+    def reset_counters(self) -> None:
+        """Zero the missing-key counter — called per step so the rate is per-step."""
+        self.n_annotations = 0
+        self.n_missing_all_keys = 0
+
+    def clear_cache(self) -> None:
+        """Drop the memo table.
+
+        §9 requires this before each high-advantage audit (the §0.2 data-hygiene
+        flag): auditing cached labels re-reads the same grader verdict rather
+        than re-grading, which is exactly what an audit is supposed to check.
+        """
+        self._cache.clear()
 
 
 class _LocalCore(_CoreBase):
@@ -109,6 +152,8 @@ class EngineChampionCore(_LocalCore):
     `engine_decompose`, never here — this core only observes.
     """
 
+    expected_keys = tuple(ed.DECOMP_SCHEMA)
+
     def _system(self) -> str:
         return ed.engine_decompose_system_prompt()
 
@@ -126,6 +171,8 @@ class DeliveryChampionCore(_LocalCore):
     party) separately and reports both. `hot = Q1` is applied downstream in
     `delivery_decompose`, never here — this core only observes.
     """
+
+    expected_keys = tuple(dd.DECOMP_SCHEMA)
 
     def _system(self) -> str:
         return dd.delivery_decompose_system_prompt()
@@ -149,10 +196,28 @@ class EngineAdapter:
     def __init__(self, core: _CoreBase) -> None:
         self.core = core
 
+    @property
+    def identity(self) -> str:
+        """Delegated so CB1 (`assert_calibration_backends`) can read it off the
+        object the reward actually holds."""
+        return getattr(self.core, "identity", "unknown")
+
     def decompose(self, patient_turn: str, context: str, cell: str) -> ed.EngineDecomposition:
         return ed.decomposition_from_labels(self.core.labels(patient_turn, context, cell))
 
+    def label(self, patient_turn: str, context: str, cell: str) -> str:
+        """The CATEGORICAL — `{internalizing, externalizing, neutral}` (§4.2).
+
+        This is what the band reward consumes. It is a thin adapter over the
+        existing decomposition, not a new grader: mixed turns (E1 and E2 both
+        fire) resolve via the champion's own `dominant`, exactly as before. They
+        are not split and not excluded.
+        """
+        return self.decompose(patient_turn, context, cell).engine_direction
+
     def score(self, patient_turn: str, context: str, cell: str) -> int:
+        """The per-turn binary. DERIVED, not the reward (§4.2) — it survives for
+        the RFT warm-start filter (§6) and the §9 audit only."""
         return turn_fidelity.engine_pass_decomposed(
             self.decompose(patient_turn, context, cell), cell)
 
@@ -167,10 +232,20 @@ class DeliveryAdapter:
     def __init__(self, core: _CoreBase) -> None:
         self.core = core
 
+    @property
+    def identity(self) -> str:
+        return getattr(self.core, "identity", "unknown")
+
     def decompose(self, patient_turn: str, context: str, cell: str) -> dd.DeliveryDecomposition:
         return dd.decomposition_from_labels(self.core.labels(patient_turn, context, cell))
 
+    def label(self, patient_turn: str, context: str, cell: str) -> str:
+        """The CATEGORICAL — `{hot, warm, flat}` (§4.2). `hot = Q1` regardless of
+        employer-directed grievance (§8.1); hostility dominates a mixed read."""
+        return self.decompose(patient_turn, context, cell).delivery
+
     def score(self, patient_turn: str, context: str, cell: str) -> int:
+        """The per-turn binary. DERIVED, not the reward (§4.2)."""
         return dd.delivery_pass_decomposed(self.decompose(patient_turn, context, cell), cell)
 
 
@@ -201,11 +276,51 @@ def build_champion_backends(
 
 
 def backend_identities(backends: RewardBackends) -> dict[str, str]:
-    """Both grader identities, for the freeze manifest (A5)."""
+    """Both grader identities, for the freeze manifest (A5) and the CB1 stamp on
+    the band-calibration artifact (grpo_spec_2 C4)."""
     return {
-        "engine": getattr(backends.engine.core, "identity", "unknown"),
-        "delivery": getattr(backends.delivery.core, "identity", "unknown"),
+        "engine": getattr(backends.engine, "identity", "unknown"),
+        "delivery": getattr(backends.delivery, "identity", "unknown"),
     }
+
+
+def _cores(backends: RewardBackends):
+    for adapter in (backends.engine, backends.delivery):
+        core = getattr(adapter, "core", None)
+        if core is not None:
+            yield core
+
+
+def missing_key_rates(backends: RewardBackends) -> dict:
+    """Per-axis missing-key telemetry (grpo_spec_2 §4.2, logged per step by §9).
+
+    `max_rate` is the number the halt compares against
+    `reward.missing_key_halt_rate` (~0.05): a bad axis must not be averaged away
+    by a healthy one.
+    """
+    rates = {}
+    for axis, adapter in (("engine", backends.engine), ("delivery", backends.delivery)):
+        core = getattr(adapter, "core", None)
+        rates[axis] = {
+            "n_annotations": getattr(core, "n_annotations", 0),
+            "n_missing_all_keys": getattr(core, "n_missing_all_keys", 0),
+            "rate": getattr(core, "missing_key_rate", 0.0),
+        }
+    rates["max_rate"] = max((rates[a]["rate"] for a in ("engine", "delivery")), default=0.0)
+    return rates
+
+
+def reset_missing_key_counters(backends: RewardBackends) -> None:
+    """Zero both counters so the next step's rate is that step's rate."""
+    for core in _cores(backends):
+        core.reset_counters()
+
+
+def clear_backend_caches(backends: RewardBackends) -> None:
+    """Drop both memo tables — §9 requires this before each high-advantage audit
+    (`monitoring.clear_backend_cache_before_audit`, the §0.2 hygiene flag)."""
+    for core in _cores(backends):
+        core.clear_cache()
 
 
 # ── test doubles for the §8 gates (acceptance A2) ────────────────────────────
