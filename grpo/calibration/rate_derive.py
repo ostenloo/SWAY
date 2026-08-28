@@ -451,11 +451,131 @@ def delivery_profile_edges(target: str, *, T: int) -> list:
     return out
 
 
+# ── delivery, MEASURED via a hurdle model ────────────────────────────────────
+#
+# The declared bands above exist because the unconditional delivery rate cannot
+# be read off AnnoMI. That verdict is correct but it is not the whole picture,
+# and the reason matters for what to do about it.
+#
+# MEASURED on the same cache that produced the engine targets, over the 100
+# conversations with `T >= 10`:
+#
+#     axis      conversations with ZERO marked turns
+#     engine     6%
+#     delivery  57%
+#
+# Delivery is ZERO-INFLATED and engine is not. That is why delivery's
+# unconditional percentiles come out degenerate (p25 = p50 = 0.000) while
+# engine's do not — the distribution is dominated by structural zeros, so the
+# percentiles are reading the hurdle rather than the rate.
+#
+# Conditioning fixes it, and the conditional distribution is well-behaved:
+#
+#     group                        n     p_on  (p25 / p50 / p75)
+#     conversations expressing warm 32    0.0216 / 0.0296 / 0.0510
+#     conversations expressing hot   23    0.0227 / 0.0476 / 0.1000
+#
+# **Note the irony against [RATE §1].** The conditional ratio was deleted
+# because on ENGINE it threw information away — conditioning on the marked turns
+# estimated from `m` instead of `T`, and every §1.2-§1.5 failure followed. But
+# engine has only 6% zeros: there, the zeros are sampling, and discarding them
+# discards signal. Delivery's zeros are STRUCTURAL — 57% of clients never direct
+# affect at the counsellor at all — so conditioning on the hurdle is the
+# correctly specified model, not a lost estimator. One parameterisation was
+# applied to two axes with different distributional shapes.
+#
+# **A profile sets the hurdle.** A hot-delivery cell (b2, b4, b6) asserts a
+# patient who directs heat at the listener; it is conditioning on part 1 by
+# construction. So the conditional distribution is exactly the right target for
+# it, and unlike the declared bands it is measured.
+#
+#     part 1, conversation level : P(expresses the pole at all) — SET by the profile
+#     part 2, rate given part 1  : the band, measured here
+#
+# WHAT THIS DOES NOT FIX, and it is the reason the declared bands are still the
+# default: see `delivery_profile_edges_hurdle`.
+
+DELIVERY_HURDLE_REASON = (
+    "Measured via a hurdle model on the AnnoMI grader cache. Delivery is zero-inflated "
+    "(57% of eligible conversations carry no marked delivery turn, against 6% on "
+    "engine), so its UNCONDITIONAL percentiles are degenerate (p25 = p50 = 0.000) and "
+    "read the hurdle rather than the rate. Conditioning on conversations that express "
+    "the pole at all gives a well-behaved distribution. A profile asserting a delivery "
+    "pole sets the hurdle by construction, so the conditional distribution is its "
+    "target. Conditioning is correct HERE and wrong on engine (RATE §1) because "
+    "delivery's zeros are structural and engine's are sampling."
+)
+
+
+def delivery_hurdle_group(direction: str, rates_by_session: dict) -> list:
+    """Conversations expressing `direction` at least once — the hurdle group.
+
+    `rates_by_session` maps session_id -> the conversation's delivery labels.
+    Eligibility is the same length rule as everywhere else (§6 step 2).
+    """
+    if direction not in MARKED["delivery"]:
+        raise ValueError(f"{direction!r} is not a delivery pole")
+    out = []
+    for c in conversation_rates("delivery", rates_by_session):
+        if c.eligible and c.rate(direction) > 0:
+            out.append(c)
+    return out
+
+
+def delivery_profile_edges_hurdle(
+    target: str,
+    rates_by_session: dict,
+    *,
+    T: int,
+    p_lo: float = P_LO,
+    p_hi: float = P_HI,
+) -> list:
+    """MEASURED delivery components for a cell targeting `warm` or `hot`.
+
+    Same shaping code as everywhere else, so the only difference from the
+    declared path is where the percentiles come from.
+
+    **This can fail, and the failure is informative rather than a bug.** AnnoMI's
+    conditional delivery rates are small — the warm group's p25/p75 are 0.0216 /
+    0.0510, i.e. 0.4 to 1.0 turns out of 20. §5.2 requires every band to span at
+    least `2/T`, and widening a band that narrow about its midpoint drives its
+    lower edge to or below zero. The loader then refuses it, because an
+    on-direction band with `L = 0` makes the profile unfalsifiable.
+
+    That refusal is the right outcome and it is the real finding: at `T = 20`
+    these targets sit BELOW THE ARC'S RESOLUTION. The corpus conversations they
+    were measured on run 40+ turns (median 40 for warm, 43 for hot), so the
+    quantity exists there and cannot be represented here. A better corpus helps
+    only if its rates are above roughly `1/T`; a longer arc helps regardless.
+    """
+    if target not in MARKED["delivery"]:
+        raise ValueError(f"{target!r} is not a delivery target (expected {MARKED['delivery']})")
+    other = next(lab for lab in MARKED["delivery"] if lab != target)
+
+    group = delivery_hurdle_group(target, rates_by_session)
+    if not group:
+        raise ValueError(
+            f"delivery/{target}: no eligible conversation expresses {target!r} — the "
+            "hurdle group is empty and there is nothing to measure."
+        )
+    all_rates = conversation_rates("delivery", rates_by_session)
+    group_name = f"expresses_{target}"
+
+    return [
+        derive_edges("delivery", target, ON_DIRECTION, group_name, group,
+                     all_rates=all_rates, T=T, p_lo=p_lo, p_hi=p_hi),
+        derive_edges("delivery", other, OFF_DIRECTION, group_name, group,
+                     all_rates=all_rates, T=T, p_lo=p_lo, p_hi=p_hi),
+    ]
+
+
 def axis_entry(edges: Sequence[RateEdges], *, measured: bool) -> dict:
     """One axis's artifact entry from its two derived components."""
     prov = {e.label: e.to_provenance() for e in edges}
     if not measured:
         prov["declared_reason"] = DECLARED_DELIVERY_REASON
+    elif edges and edges[0].axis == "delivery":
+        prov["hurdle_reason"] = DELIVERY_HURDLE_REASON
     return {
         "measured": bool(measured),
         # §5.1 — symmetric, and the loader rejects anything else.
@@ -468,7 +588,8 @@ def axis_entry(edges: Sequence[RateEdges], *, measured: bool) -> dict:
 
 # ── assembling the per-cell document ─────────────────────────────────────────
 
-def build_cells(cells: Sequence[str], engine_edges_fn, *, T: int) -> tuple:
+def build_cells(cells: Sequence[str], engine_edges_fn, *, T: int,
+                delivery_edges_fn=None, delivery_measured: bool = False) -> tuple:
     """`(cells_doc, edges_by_cell)` for the artifact.
 
     `engine_edges_fn(target_direction) -> [RateEdges, RateEdges]` is injected so
@@ -488,10 +609,11 @@ def build_cells(cells: Sequence[str], engine_edges_fn, *, T: int) -> tuple:
     for cell in cells:
         poles = poles_for_cell(cell)
         eng = engine_edges_fn(poles["engine_direction"])
-        dlv = delivery_profile_edges(poles["delivery"], T=T)
+        dlv = (delivery_edges_fn(poles["delivery"]) if delivery_edges_fn
+               else delivery_profile_edges(poles["delivery"], T=T))
         doc[cell] = {
             "engine": axis_entry(eng, measured=True),
-            "delivery": axis_entry(dlv, measured=False),
+            "delivery": axis_entry(dlv, measured=bool(delivery_measured)),
         }
         edges_by_cell[cell] = {"engine": eng, "delivery": dlv}
     return doc, edges_by_cell

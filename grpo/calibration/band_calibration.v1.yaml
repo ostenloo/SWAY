@@ -1,0 +1,322 @@
+grader_version: v1
+generated_utc: '2026-08-28T05:55:08+00:00'
+corpus:
+  n_sessions: 133
+  n_client_turns: 4817
+  n_substantive: 3221
+  n_dropped_backchannel: 1596
+  graded_set: substantive
+backend_identities:
+  engine: local:command-r7b:latest
+  delivery: local:glm4:9b
+derivation:
+  spec: "grpo_spec_2 \xA76.5 / BAND \xA76"
+  unit: per-session (per-patient) q, empirical-Bayes shrunk, percentiles
+  P_lo: 72.5
+  P_hi: 92.5
+  min_marked_per_session: 8
+  alpha: 0.5
+  d_floor_anchor:
+    engine: 0.15
+    delivery: 0.05
+  d_floor_rule: max(0.05, 0.6 x median per-session d)
+  claim: "NOT a bound \u2014 a chosen position inside a real distribution: the simulated\
+    \ patient should be at least as directional as the P_lo-th percentile real patient\
+    \ of that direction."
+  transfer_caveat: AnnoMI is MI counselling, not layoff support. The conditional q
+    is more transferable than the density d; d_floor is operational, not norm-referenced.
+cells:
+  b1:
+    engine:
+      mode: q_band
+      c_star: internalizing
+      L_design: 0.4991
+      U: 0.6942
+      s_lo: 0.06
+      s_hi: 0.12
+      alpha: 0.5
+      d_floor: 0.15
+      bracket_informative: true
+      provenance:
+        P_lo: 72.5
+        P_hi: 92.5
+        n_eligible_sessions: 38
+        n_sessions_total: 133
+        min_marked_per_session: 8
+        d_anno_pooled: 0.2651
+        d_anno_median_session: 0.25
+        eb_mu: 0.3864
+        eb_kappa: 4.699
+        eb_tau2: 0.0416
+        fully_shrunk: false
+        informative_reasons: []
+    delivery:
+      mode: q_band
+      c_star: warm
+      L_design: 0.2022
+      U: 0.2422
+      s_lo: 0.06
+      s_hi: 0.12
+      alpha: 0.5
+      d_floor: 0.05
+      bracket_informative: false
+      provenance:
+        P_lo: 72.5
+        P_hi: 92.5
+        n_eligible_sessions: 1
+        n_sessions_total: 133
+        min_marked_per_session: 8
+        d_anno_pooled: 0.0317
+        d_anno_median_session: 0.0
+        eb_mu: 0.2222
+        eb_kappa: null
+        eb_tau2: 0.0
+        fully_shrunk: true
+        informative_reasons:
+        - only 1 eligible sessions (< 25)
+        - no detectable between-session spread (tau2 <= 0); the percentiles collapse
+          to the pooled mean
+        clamps:
+        - degenerate bracket (L >= U) opened to [0.202, 0.242]
+  b2:
+    engine:
+      mode: q_band
+      c_star: internalizing
+      L_design: 0.4991
+      U: 0.6942
+      s_lo: 0.06
+      s_hi: 0.12
+      alpha: 0.5
+      d_floor: 0.15
+      bracket_informative: true
+      provenance:
+        P_lo: 72.5
+        P_hi: 92.5
+        n_eligible_sessions: 38
+        n_sessions_total: 133
+        min_marked_per_session: 8
+        d_anno_pooled: 0.2651
+        d_anno_median_session: 0.25
+        eb_mu: 0.3864
+        eb_kappa: 4.699
+        eb_tau2: 0.0416
+        fully_shrunk: false
+        informative_reasons: []
+    delivery:
+      mode: q_band
+      c_star: hot
+      L_design: 0.7578
+      U: 0.7978
+      s_lo: 0.06
+      s_hi: 0.12
+      alpha: 0.5
+      d_floor: 0.05
+      bracket_informative: false
+      provenance:
+        P_lo: 72.5
+        P_hi: 92.5
+        n_eligible_sessions: 1
+        n_sessions_total: 133
+        min_marked_per_session: 8
+        d_anno_pooled: 0.0317
+        d_anno_median_session: 0.0
+        eb_mu: 0.7778
+        eb_kappa: null
+        eb_tau2: 0.0
+        fully_shrunk: true
+        informative_reasons:
+        - only 1 eligible sessions (< 25)
+        - no detectable between-session spread (tau2 <= 0); the percentiles collapse
+          to the pooled mean
+        clamps:
+        - degenerate bracket (L >= U) opened to [0.758, 0.798]
+  b3:
+    engine:
+      mode: q_band
+      c_star: externalizing
+      L_design: 0.7387
+      U: 0.7954
+      s_lo: 0.06
+      s_hi: 0.12
+      alpha: 0.5
+      d_floor: 0.15
+      bracket_informative: true
+      provenance:
+        P_lo: 72.5
+        P_hi: 92.5
+        n_eligible_sessions: 38
+        n_sessions_total: 133
+        min_marked_per_session: 8
+        d_anno_pooled: 0.2651
+        d_anno_median_session: 0.25
+        eb_mu: 0.6136
+        eb_kappa: 4.699
+        eb_tau2: 0.0416
+        fully_shrunk: false
+        informative_reasons: []
+    delivery:
+      mode: q_band
+      c_star: warm
+      L_design: 0.2022
+      U: 0.2422
+      s_lo: 0.06
+      s_hi: 0.12
+      alpha: 0.5
+      d_floor: 0.05
+      bracket_informative: false
+      provenance:
+        P_lo: 72.5
+        P_hi: 92.5
+        n_eligible_sessions: 1
+        n_sessions_total: 133
+        min_marked_per_session: 8
+        d_anno_pooled: 0.0317
+        d_anno_median_session: 0.0
+        eb_mu: 0.2222
+        eb_kappa: null
+        eb_tau2: 0.0
+        fully_shrunk: true
+        informative_reasons:
+        - only 1 eligible sessions (< 25)
+        - no detectable between-session spread (tau2 <= 0); the percentiles collapse
+          to the pooled mean
+        clamps:
+        - degenerate bracket (L >= U) opened to [0.202, 0.242]
+  b4:
+    engine:
+      mode: q_band
+      c_star: externalizing
+      L_design: 0.7387
+      U: 0.7954
+      s_lo: 0.06
+      s_hi: 0.12
+      alpha: 0.5
+      d_floor: 0.15
+      bracket_informative: true
+      provenance:
+        P_lo: 72.5
+        P_hi: 92.5
+        n_eligible_sessions: 38
+        n_sessions_total: 133
+        min_marked_per_session: 8
+        d_anno_pooled: 0.2651
+        d_anno_median_session: 0.25
+        eb_mu: 0.6136
+        eb_kappa: 4.699
+        eb_tau2: 0.0416
+        fully_shrunk: false
+        informative_reasons: []
+    delivery:
+      mode: q_band
+      c_star: hot
+      L_design: 0.7578
+      U: 0.7978
+      s_lo: 0.06
+      s_hi: 0.12
+      alpha: 0.5
+      d_floor: 0.05
+      bracket_informative: false
+      provenance:
+        P_lo: 72.5
+        P_hi: 92.5
+        n_eligible_sessions: 1
+        n_sessions_total: 133
+        min_marked_per_session: 8
+        d_anno_pooled: 0.0317
+        d_anno_median_session: 0.0
+        eb_mu: 0.7778
+        eb_kappa: null
+        eb_tau2: 0.0
+        fully_shrunk: true
+        informative_reasons:
+        - only 1 eligible sessions (< 25)
+        - no detectable between-session spread (tau2 <= 0); the percentiles collapse
+          to the pooled mean
+        clamps:
+        - degenerate bracket (L >= U) opened to [0.758, 0.798]
+  b5:
+    engine:
+      mode: density_low
+      d_lo: 0.05
+      d_hi: 0.12
+      s_lo: 0.04
+      s_hi: 0.06
+      provenance:
+        derivation: D2.3 density_low (neutral engine = ABSENT engine)
+        annomi_d_eng_percentile: 25.0
+        annomi_d_eng_at_percentile: 0.1429
+        engine_d_floor_reference: 0.15
+        note: 'd_lo > 0 strictly: at d_lo = 0 an arc with no engine expression scores
+          1.0 (the inert-simulator exploit).'
+      bracket_informative: true
+    delivery:
+      mode: q_band
+      c_star: warm
+      L_design: 0.2022
+      U: 0.2422
+      s_lo: 0.06
+      s_hi: 0.12
+      alpha: 0.5
+      d_floor: 0.05
+      bracket_informative: false
+      provenance:
+        P_lo: 72.5
+        P_hi: 92.5
+        n_eligible_sessions: 1
+        n_sessions_total: 133
+        min_marked_per_session: 8
+        d_anno_pooled: 0.0317
+        d_anno_median_session: 0.0
+        eb_mu: 0.2222
+        eb_kappa: null
+        eb_tau2: 0.0
+        fully_shrunk: true
+        informative_reasons:
+        - only 1 eligible sessions (< 25)
+        - no detectable between-session spread (tau2 <= 0); the percentiles collapse
+          to the pooled mean
+        clamps:
+        - degenerate bracket (L >= U) opened to [0.202, 0.242]
+  b6:
+    engine:
+      mode: density_low
+      d_lo: 0.05
+      d_hi: 0.12
+      s_lo: 0.04
+      s_hi: 0.06
+      provenance:
+        derivation: D2.3 density_low (neutral engine = ABSENT engine)
+        annomi_d_eng_percentile: 25.0
+        annomi_d_eng_at_percentile: 0.1429
+        engine_d_floor_reference: 0.15
+        note: 'd_lo > 0 strictly: at d_lo = 0 an arc with no engine expression scores
+          1.0 (the inert-simulator exploit).'
+      bracket_informative: true
+    delivery:
+      mode: q_band
+      c_star: hot
+      L_design: 0.7578
+      U: 0.7978
+      s_lo: 0.06
+      s_hi: 0.12
+      alpha: 0.5
+      d_floor: 0.05
+      bracket_informative: false
+      provenance:
+        P_lo: 72.5
+        P_hi: 92.5
+        n_eligible_sessions: 1
+        n_sessions_total: 133
+        min_marked_per_session: 8
+        d_anno_pooled: 0.0317
+        d_anno_median_session: 0.0
+        eb_mu: 0.7778
+        eb_kappa: null
+        eb_tau2: 0.0
+        fully_shrunk: true
+        informative_reasons:
+        - only 1 eligible sessions (< 25)
+        - no detectable between-session spread (tau2 <= 0); the percentiles collapse
+          to the pooled mean
+        clamps:
+        - degenerate bracket (L >= U) opened to [0.758, 0.798]

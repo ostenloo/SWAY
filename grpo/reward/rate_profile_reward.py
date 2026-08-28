@@ -93,7 +93,23 @@ MIN_SPAN_TURNS = 2
 #: §5.3 — the off-direction band is `[0, U]` and zero scores 1.0, because among
 #: real leaning conversations the 25th percentile of the off-direction rate is
 #: exactly 0.000. A nonzero floor would be less realistic than the corpus.
+#:
+#: NOTE, measured after the fact: that 0.000 came from a run whose lean groups
+#: OVERLAPPED the low-rate group. Under the disjoint partition the off-direction
+#: p25 is 0.044 and 0.051, not zero. The rule is kept — it is the conservative
+#: choice and the low-rate group's p25 is still 0.000 — but its stated warrant in
+#: §5.3 does not hold as written.
 OFF_DIRECTION_L = 0.0
+
+#: The most an arc expressing NONE of its profile's asserted pole may score.
+#: Anything higher and the profile is unfalsifiable; see the check in
+#: `_component_from_dict`. 0.5 is a declared choice, not a measurement: it is the
+#: point at which going fully inert costs at least as much as it gains.
+ON_DIRECTION_MAX_AT_ZERO = 0.5
+
+#: The equivalent constraint expressed on the lower edge: `band(0) <= 0.5` means
+#: `exp(-(L/s)^2 / 2) <= 0.5`, i.e. `L >= sqrt(2 ln 2) * s`.
+ON_DIRECTION_MIN_L_IN_SIGMA = 1.1774
 
 #: Minimum arc length at scoring time. [RATE §12] leaves this open ("gated at
 #: rollout time, or short arcs simply score badly"); it is CLOSED HERE, and the
@@ -258,7 +274,8 @@ class RateCalibration:
 
 # ── load-time validation (A2) ────────────────────────────────────────────────
 
-def _component_from_dict(where: str, axis: str, raw: dict, T: int) -> RateComponent:
+def _component_from_dict(where: str, axis: str, raw: dict, T: int,
+                         s_shoulder: float = SHOULDER) -> RateComponent:
     if not isinstance(raw, dict):
         raise CalibrationError(f"{where}: expected a mapping, got {type(raw).__name__}")
 
@@ -299,6 +316,43 @@ def _component_from_dict(where: str, axis: str, raw: dict, T: int) -> RateCompon
             "(every turn marked on-direction) sits on the plateau, and the "
             "on-direction upper edge is the ONLY anti-caricature mechanism (§5.3)."
         )
+
+    # A2 — the mirror of §5.3, which the spec does not state but needs.
+    #
+    # §5.3 pins the OFF-direction lower edge AT zero. Nothing pins the
+    # ON-direction lower edge ABOVE zero, and at L = 0 the profile's central
+    # assertion becomes unfalsifiable: an arc expressing none of the pole it
+    # claims scores 1.0. That is the inert-simulator hole, and on a warm/hot
+    # cell it is the ONLY thing standing between an empty arc and full marks —
+    # the neutral-engine cells (b5, b6) have `[0, U]` on both engine components
+    # by construction, so delivery's lower edge is what catches them (see
+    # `rate_profile_reward_arc_readout`). It is reachable in practice: a
+    # measured band whose rates sit below `1/T` gets its lower edge swallowed by
+    # the §5.2 span floor and lands at exactly 0.
+    # `L > 0` alone is not enough, and testing it alone is a trap: a band at
+    # L = 0.0073 with s = 0.06 passes that check while scoring a completely
+    # inexpressive arc at 0.993. What has to be true is that ZERO EXPRESSION IS
+    # ACTUALLY PENALISED, which is a joint property of L and the shoulder, so
+    # that is what is checked.
+    if role == ON_DIRECTION:
+        at_zero = band(0.0, L, U, s_shoulder)
+        if at_zero > ON_DIRECTION_MAX_AT_ZERO:
+            raise CalibrationError(
+                f"{where}: an arc expressing NONE of the pole this profile asserts scores "
+                f"{at_zero:.3f} against band [{L}, {U}] with shoulder {s_shoulder} — above "
+                f"the {ON_DIRECTION_MAX_AT_ZERO} ceiling. The profile's central claim is "
+                "then unfalsifiable: going inert is nearly free, and on a neutral-engine "
+                "cell (b5, b6) this band is the ONLY thing in the reward standing between "
+                "an empty arc and full marks. Requires L >= "
+                f"{ON_DIRECTION_MIN_L_IN_SIGMA:.2f} * s = "
+                f"{ON_DIRECTION_MIN_L_IN_SIGMA * s_shoulder:.4f}.\n"
+                "If a MEASURED band lands here, the target rate is below the arc's "
+                "resolution and the finding is about the corpus or T, not the band: "
+                "AnnoMI's conditional hot rate is 2-9% of turns, i.e. 0.5-2 turns in 20, "
+                "which cannot express 'this patient is hostile' at T = 20. The fix is a "
+                "longer arc or a corpus with genuine listener-directed affect — never a "
+                "hand-lowered edge."
+            )
 
     # A2 — §5.3. Applies to off-direction bands on EVERY profile, including the
     # two components of a neutral profile, both of which are off-direction.
@@ -364,7 +418,7 @@ def _axis_from_dict(cell: str, axis: str, raw: dict, T: int) -> AxisRateProfile:
         )
 
     comps = tuple(
-        _component_from_dict(f"{where}[{i}]", axis, c, T)
+        _component_from_dict(f"{where}[{i}]", axis, c, T, s_lo)
         for i, c in enumerate(raw_components)
     )
     labels = {c.label for c in comps}

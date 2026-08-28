@@ -594,11 +594,22 @@ def rate_derive_artifact(args) -> dict:
     groups = RD.group_conversations(rates, "engine")
 
     T = int(args.arc_length_t)
+
+    # §8 — delivery is DECLARED by default. `--delivery measured` derives it from
+    # the zero-inflation hurdle instead; see rate_derive for why conditioning is
+    # correct on this axis and wrong on engine, and for why it can refuse to load.
+    dlv_labels = labels_by_session(cache, turns, "delivery")
+    measured_delivery = (args.delivery == "measured")
+    dlv_fn = None
+    if measured_delivery:
+        dlv_fn = lambda tgt: RD.delivery_profile_edges_hurdle(
+            tgt, dlv_labels, T=T, p_lo=args.rate_p_lo, p_hi=args.rate_p_hi)
+
     cells_doc, edges = RD.build_cells(
         args.cells,
         lambda tgt: RD.engine_profile_edges(tgt, rates, T=T,
                                             p_lo=args.rate_p_lo, p_hi=args.rate_p_hi),
-        T=T,
+        T=T, delivery_edges_fn=dlv_fn, delivery_measured=measured_delivery,
     )
 
     derivation = _common_derivation(args)
@@ -848,6 +859,9 @@ def build_parser():
     p.add_argument("--rate-p-lo", type=float, default=RD.P_LO,
                    help="§6.1 percentile window, a DECLARED design choice")
     p.add_argument("--rate-p-hi", type=float, default=RD.P_HI)
+    p.add_argument("--delivery", choices=["declared", "measured"], default="declared",
+                   help="§8 delivery targets: `declared` (the default, flagged "
+                        "measured: false) or `measured` via the zero-inflation hurdle")
     # kappa
     p.add_argument("--sheets", default=None,
                    help="root holding batchNN/hand_labels_annomi_bNN.csv (default: the "

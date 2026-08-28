@@ -640,3 +640,29 @@ def test_monitor_flags_caricature_pressure_on_the_rate_scale(cal):
     ]))
     flags = mon.rate_telemetry(cell="b1").get("flags", [])
     assert any("caricature pressure" in f for f in flags), flags
+
+
+# ── the unfalsifiable-profile check (found by deriving delivery from AnnoMI) ──
+
+def test_a2_rejects_an_on_direction_band_that_does_not_penalise_going_inert():
+    """`L > 0` is not the property that matters; `band(0)` is.
+
+    Found empirically: deriving delivery from AnnoMI's zero-inflation hurdle
+    yields a hot band of [0.0073, 0.1073], which has `L > 0` and still scores a
+    completely inexpressive arc at **0.993**. The profile asserts a hostile
+    patient and an arc with zero hot turns is worth 99% of full marks.
+    """
+    d = doc()
+    d["cells"]["b1"]["delivery"]["components"][0].update(L=0.0073, U=0.1073)
+    with pytest.raises(CalibrationError, match="expressing NONE of the pole"):
+        calibration_from_dict(d)
+
+
+def test_the_frozen_bands_do_penalise_going_inert(cal):
+    for cell in cal.cells:
+        for axis in ("engine", "delivery"):
+            on = cal[cell][axis].on_direction
+            if on is None:                      # neutral profiles assert no pole
+                continue
+            at_zero = rp.band(0.0, on.L, on.U, cal[cell][axis].s)
+            assert at_zero <= rp.ON_DIRECTION_MAX_AT_ZERO, f"{cell}.{axis} = {at_zero}"
