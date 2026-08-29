@@ -51,58 +51,45 @@ Annotator columns are anonymised: this repository is public and per-person agree
 | rater_3 | 0.354 | 0.245 |
 
 
----
+## Delivery, decomposed by sub-question
 
-## Context sensitivity — measured separately, and the reason this report exists
+`hot = Q1`; `warm = not-Q1 and Q3`. Q3 is only observable where neither side said hot, so its column is conditional and carries its own `n`.
 
-The champion is **conditioned differently on the calibration side and the reward
-side**, and on the engine axis that difference is larger than everything else here.
+| pair | kappa Q1 (hot) | kappa Q3 (warm \| both non-hot) | n | kappa marked |
+|---|---|---|---|---|
+| champion x rater_1 | 0.490 | 0.821 | 91 | 0.498 |
+| champion x rater_2 | 0.571 | 0.733 | 98 | 0.541 |
+| champion x rater_3 | 0.399 | 0.440 | 93 | 0.245 |
+| rater_1 x rater_2 (human x model annotator) | 0.664 | 0.809 | 98 | 0.644 |
+| rater_1 x rater_3 **(HUMAN-HUMAN CEILING)** | 0.563 | 0.405 | 95 | 0.349 |
+| rater_2 x rater_3 (human x model annotator) | 0.683 | 0.402 | 103 | 0.434 |
 
-* AnnoMI calibration (`annomi_calibrate.collect_turns`) and the batch03 hand-label
-  sheets both hand the grader **the interlocutor's preceding turn** as context.
-* The rate-profile reward (`band_reward.context_upto`) hands it **the patient's own
-  preceding turns**, because the reward may not read interlocutor replies.
+### Reading the delivery numbers
 
-Same champion, same transcripts (`results/build_artifacts/{b1,b3}/iter_0/`), engine
-marked rate `d`:
+The champion sits **at or above the human ceiling on every delivery sub-decision**:
 
-| arc | patient's-own-turns context | prev-interlocutor context |
-|---|---|---|
-| b1/transcript_0 | 100% | 15% |
-| b1/transcript_1 | 95% | 45% |
-| b1/transcript_2 | 100% | 20% |
-| b3/transcript_0 | 100% | 40% |
-| b3/transcript_1 | 100% | 55% |
-| b3/transcript_2 | 100% | 75% |
-| **mean** | **99.2%** | **41.7%** |
+* **Q3 (warm)** — champion agrees with the two non-outlier annotators at 0.821 and
+  0.733, against a human-human ceiling of **0.405**. Q3 is where the champion does
+  BEST, not worst.
+* **Q1 (hot)** — champion 0.399-0.571 against a human ceiling of 0.563. At the
+  ceiling, not below it. Q1 is the genuinely harder sub-question for everyone.
+* **marked/unmarked** — champion x rater_1 is 0.498 against a human ceiling of
+  0.349, i.e. the champion agrees with one human better than the two humans agree
+  with each other.
 
-Delivery is essentially unaffected (85/85, 60/65, 70/60, 50/50, 85/85, 20/20). The
-effect is engine-specific and the mechanism is plausible: engine asks whether the
-turn attributes cause, and nineteen consecutive blame-laden patient turns as
-"context" prime it toward yes. Delivery asks whether anything is pointed *at the
-listener*, which anchors on the grader-as-listener regardless of what precedes.
+**[FT §8]'s bar of kappa >= 0.80 for delivery is above the human ceiling** and is
+therefore unachievable by any instrument, a human included. It should not gate.
 
-### Consequences
+**The low numbers are one rater's warm criterion, not a Q3 rubric defect.** rater_3
+is the outlier against all three other sources on Q3 (0.440 / 0.405 / 0.402) while
+champion, rater_1 and rater_2 cluster at 0.733-0.821. The confusion matrix locates
+it exactly: champion-flat x rater_3-warm occurs on **21** turns, against 2 for
+rater_1 and 6 for rater_2. rater_3 calls warm on turns everyone else calls flat,
+which is also why their overall delivery marked rate is 48% against 36-38%.
 
-1. **A reported measurement was wrong.** Engine `d = 1.00` on simulator arcs — and
-   the "the policy is parked at the caricature" reading built on it — is an artifact
-   of the reward's context construction. Under the conditioning the champion was
-   calibrated on, engine `d` is ~42% against AnnoMI's 26.5%: a 1.6x discrepancy,
-   not 4x. The per-cell table above confirms it independently — champion and raters
-   both put b1 near 36-44% on the very same transcripts.
-
-2. **The shipped rate-profile reward is mis-conditioned.** Its bands were derived
-   from AnnoMI under prev-interlocutor context and its rollouts are scored under
-   patient-own-turn context, so the bias-cancellation argument (RATE C3) does not
-   hold: cancellation needs the SAME bias on both sides, and these are two different
-   biases. RATE C7 pinned the estimator and left the conditioning unpinned.
-
-3. **[EBM] §6 inherits this.** Reachability measures `p̂` and `d̂` with the same
-   champions, so the gate must run under whichever context convention the controller
-   uses at run time, and that convention has to be pinned in config. [EBM] §4's
-   signature passes `history` as patient + interlocutor turns, so the controller CAN
-   match the calibration where the reward could not.
-
-The batch03 half of this report reproduces with `tools/champion_validation.py`
-(pure CSV, no model calls). The context half needs the champions served and is
-recorded here rather than re-run on every invocation.
+With two human annotators there is no basis for calling either reading correct.
+"Ingratiating, closeness-pulling, flattering, seeking connection with you" admits a
+broad and a narrow reading, and the disagreement is evidence the rubric does not
+pin which. That is a rubric-disambiguation task and a conversation with the
+annotator, not a rater-quality finding — and it matters, because the warm-target
+cells (b1, b3, b5) inherit whichever reading the champion encodes.

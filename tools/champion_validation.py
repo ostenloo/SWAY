@@ -36,6 +36,12 @@ CELLS = ("b1", "b2", "b3", "b4", "b5", "b6")
 #: --show-annotators for the local, named version.
 SHEET_GLOB = "hand_labels_batch03_*.csv"
 
+#: Sheets produced by a MODEL annotator, not a person. Only pairs of two HUMAN
+#: sheets constitute a human-human ceiling; mislabelling a human-vs-model pair as
+#: the ceiling would overstate it (the model agrees with the humans better than
+#: they agree with each other).
+MODEL_ANNOTATORS = {"opus48"}
+
 #: axis -> (unmarked label, champion-key column, hand-sheet column)
 AXES = {
     "engine": ("neutral", "judge_engine_label", "engine_label"),
@@ -165,6 +171,57 @@ def report(batch: Path = BATCH, show_annotators: bool = False) -> str:
     return "\n".join(out) + "\n"
 
 
+def delivery_decomposition(batch: Path = BATCH, show_annotators: bool = False) -> str:
+    """Delivery kappa split by sub-question, against the HUMAN-HUMAN ceiling.
+
+    The fused label decomposes as `hot = Q1`, `warm = not-Q1 and Q3`,
+    `flat = neither` (`delivery_decompose.py`). So Q1 is exactly recoverable from a
+    fused label, and Q3 only on turns neither side called hot — hot masks Q3. The
+    Q3 column is therefore conditional on both sides saying non-hot, and its `n`
+    is reported alongside.
+
+    **The ceiling is the point.** A champion kappa means nothing against an
+    absolute bar; it means something against how well two humans agree on the same
+    turns with the same rubric. [FT §8] set a delivery bar of kappa >= 0.80, which
+    is ABOVE the human-human ceiling measured here — no instrument, human included,
+    can clear it.
+    """
+    import itertools
+    champ, meta, humans, ids = load(batch)
+    raters = list(humans)
+    shown = {w: (w if show_annotators else f"rater_{i+1}") for i, w in enumerate(raters)}
+    shown["champion"] = "champion"
+
+    def lab(src, t):
+        if src == "champion":
+            return _norm(champ[t]["judge_delivery_label"])
+        return _norm(humans[src][t]["delivery_label"])
+
+    out = ["## Delivery, decomposed by sub-question", "",
+           "`hot = Q1`; `warm = not-Q1 and Q3`. Q3 is only observable where neither side "
+           "said hot, so its column is conditional and carries its own `n`.", "",
+           "| pair | kappa Q1 (hot) | kappa Q3 (warm \| both non-hot) | n | kappa marked |",
+           "|---|---|---|---|---|"]
+    for a, b in itertools.combinations(["champion"] + raters, 2):
+        pairs = [(lab(a, t), lab(b, t)) for t in ids]
+        pairs = [(x, y) for x, y in pairs if x and y]
+        q1 = cohen_kappa([x == "hot" for x, _ in pairs], [y == "hot" for _, y in pairs])
+        sub = [(x, y) for x, y in pairs if x != "hot" and y != "hot"]
+        q3 = (cohen_kappa([x == "warm" for x, _ in sub], [y == "warm" for _, y in sub])
+              if sub else float("nan"))
+        mk = cohen_kappa([x != "flat" for x, _ in pairs], [y != "flat" for _, y in pairs])
+        human_pair = all(x != "champion" and x not in MODEL_ANNOTATORS for x in (a, b))
+        model_pair = any(x in MODEL_ANNOTATORS for x in (a, b))
+        tag = f"{shown[a]} x {shown[b]}"
+        if human_pair:
+            tag += " **(HUMAN-HUMAN CEILING)**"
+        elif model_pair and a != "champion":
+            tag += " (human x model annotator)"
+        out.append(f"| {tag} | {q1:.3f} | {q3:.3f} | {len(sub)} | {mk:.3f} |")
+    out.append("")
+    return "\n".join(out)
+
+
 if __name__ == "__main__":
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -175,6 +232,8 @@ if __name__ == "__main__":
                          "is public and the sheets are per-person work.")
     args = ap.parse_args()
     text = report(Path(args.batch), show_annotators=args.show_annotators)
+    text += "\n" + delivery_decomposition(Path(args.batch),
+                                          show_annotators=args.show_annotators)
     print(text)
     if args.out:
         Path(args.out).write_text(text)
